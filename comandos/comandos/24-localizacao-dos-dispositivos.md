@@ -8,7 +8,7 @@ Para visualizar e gerar o relatório das localizações, siga os passos descrito
 
 1. Clique no menu “**Localização**” e selecione o submenu “**Localização de dispositivos**”.
 
-![](<.gitbook/assets/0 (2).png>)
+![](<../../.gitbook/assets/0 (2).png>)
 
 1. Selecione as datas que deseja buscar para obter informações e clique no botão Buscar;
 2. Caso queira visualizar a localização de um dispositivo específico, digite o número do dispositivo no campo “Pesquisar”;
@@ -17,4 +17,4 @@ Para visualizar e gerar o relatório das localizações, siga os passos descrito
 5. Para exportar o relatório das localizações, clique no link “Excel”;
 6. Para copiar as informações do relatório das localizações, clique no link “Copiar”;
 
-![](<.gitbook/assets/1 (2).png>)
+![](<../../.gitbook/assets/1 (2).png>)

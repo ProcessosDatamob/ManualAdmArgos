@@ -8,7 +8,7 @@ Para visualizar e gerar o relatório, siga os passos descritos nesta seção.
 
 1. Clique no menu "**Localização**" e selecione o submenu “**Histórico de localização**”.
 
-![](<.gitbook/assets/0 (5).png>)
+![](<../../.gitbook/assets/0 (5).png>)
 
 1. Selecione as informações do relatório que deseja filtrar.
 2. Clique no botão “Buscar”.
@@ -22,4 +22,4 @@ Para visualizar e gerar o relatório, siga os passos descritos nesta seção.
 5. Para visualizar uma quantidade maior de localizações por página, selecione a quantidade no final da página, conforme a figura abaixo.
 6. Utilize o campo de navegação para visualizar as localizações das outras páginas do relatório.
 
-![](<.gitbook/assets/1 (5).png>)
+![](<../../.gitbook/assets/1 (5).png>)

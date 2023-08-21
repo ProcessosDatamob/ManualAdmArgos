@@ -15,9 +15,9 @@ Para saber como visualizar as localizações geográficas de um dispositivo, sig
 
 ![Interface gráfica do usuário, Texto, Aplicativo, Teams
 
-Descrição gerada automaticamente](.gitbook/assets/0.png)
+Descrição gerada automaticamente](../../.gitbook/assets/0.png)
 
-![](.gitbook/assets/1.png)
+![](../../.gitbook/assets/1.png)
 
 1. Selecione o usuário do dispositivo que deseja visualizar as localizações;
 2. Selecione a data em que as localizações foram registradas;

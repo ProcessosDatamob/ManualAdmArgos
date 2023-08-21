@@ -11,9 +11,9 @@ Para saber como compartilhar documentos com os dispositivos, siga os passos desc
 
 ![Interface gráfica do usuário, Aplicativo, Teams
 
-Descrição gerada automaticamente](<.gitbook/assets/0 (7).png>)
+Descrição gerada automaticamente](<../../.gitbook/assets/0 (7).png>)
 
-![](<.gitbook/assets/1 (7).png>)
+![](<../../.gitbook/assets/1 (7).png>)
 
 1. Preencha a URL onde o documento está hospedado no campo Documento.
 2. Para compartilhar o documento com todos os dispositivos da empresa, selecione a empresa.
@@ -28,7 +28,7 @@ Descrição gerada automaticamente](<.gitbook/assets/0 (7).png>)
 
 ![Interface gráfica do usuário, Texto, Aplicativo, Email
 
-Descrição gerada automaticamente](<.gitbook/assets/2 (4).png>)
+Descrição gerada automaticamente](<../../.gitbook/assets/2 (4).png>)
 
 1. Ao colocar o documento na fila de envio, o sistema exibirá a URL no relatório de envio.
 2. Caso queira visualizar uma URL específica, digite a URL no campo “Pesquisar”.
@@ -41,4 +41,4 @@ Descrição gerada automaticamente](<.gitbook/assets/2 (4).png>)
 
 ![Interface gráfica do usuário, Aplicativo, Teams
 
-Descrição gerada automaticamente](<.gitbook/assets/3 (3).png>)
+Descrição gerada automaticamente](<../../.gitbook/assets/3 (3).png>)

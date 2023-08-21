@@ -29,9 +29,12 @@
 * [18 DISPOSITIVOS ](18-dispositivos.md)
 * [19 ZERO TOUCH](19-zero-touch.md)
 * [20 SITES ](20-sites.md)
-* [COMANDOS](comandos.md)
-* [22 COMPARTILHAR DOCUMENTOS](22-compartilhar-documentos.md)
-* [23 GEOLOCALIZAÇÃO](23-geolocalizacao.md)
-* [24 LOCALIZAÇÃO DOS DISPOSITIVOS](24-localizacao-dos-dispositivos.md)
-* [25 HISTÓRICO DE LOCALIZAÇÃO](25-historico-de-localizacao.md)
-* [26 AJUDA](26-ajuda.md)
+
+## Comandos
+
+* [Comandos](comandos/comandos/README.md)
+  * [22 COMPARTILHAR DOCUMENTOS](comandos/comandos/22-compartilhar-documentos.md)
+  * [23 GEOLOCALIZAÇÃO](comandos/comandos/23-geolocalizacao.md)
+  * [24 LOCALIZAÇÃO DOS DISPOSITIVOS](comandos/comandos/24-localizacao-dos-dispositivos.md)
+  * [25 HISTÓRICO DE LOCALIZAÇÃO](comandos/comandos/25-historico-de-localizacao.md)
+  * [26 AJUDA](comandos/comandos/26-ajuda.md)
