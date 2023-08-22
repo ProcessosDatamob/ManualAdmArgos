@@ -1,6 +1,6 @@
 # ACESSO AO PORTAL
 
-**2 ACESSO AO PORTAL**
+**ACESSO AO PORTAL**
 
 Quando o produto <mark style="background-color:orange;">Datamob Enterprise</mark> é ativado para uma empresa, as seguintes tarefas são executadas pelo sistema, para possibilitar o acesso do usuário administrador da empresa ao Portal:
 
@@ -75,7 +75,7 @@ Descrição gerada automaticamente](<../.gitbook/assets/6 (1).png>)
 
 Clique em "Ok" e poderá iniciar as configurações necessárias para gerenciar os dispositivos da sua empresa.
 
-**2.1 Recuperar Senha**
+**Recuperar Senha**
 
 Caso não lembre a senha de acesso ao portal, realize os seguintes passos para recuperá-la.
 

@@ -1,8 +1,8 @@
 # INFORMAÇÕES GERAIS
 
-### 1 INFORMAÇÕES GERAIS <a href="#_2et92p0" id="_2et92p0"></a>
+### INFORMAÇÕES GERAIS <a href="#_2et92p0" id="_2et92p0"></a>
 
-**1.1 Visão Geral da Solução**
+**Visão Geral da Solução**
 
 O <mark style="background-color:orange;">Portal Datamob Enterprise</mark>  é uma solução de Gerenciamento de Mobilidade Corporativa composta por:
 
@@ -20,13 +20,13 @@ O <mark style="background-color:orange;">Portal Datamob Enterprise</mark>  é um
 
 A partir do <mark style="background-color:orange;">Portal Datamob Enterprise</mark> é possível acessar as informações sobre o consumo e o uso dos dispositivos alocados aos funcionários de uma empresa. Também é possível definir políticas de bloqueios para restringir o uso indevido dos dispositivos, possibilitando ao administrador avaliar e aumentar a produtividade dos funcionários, através da análise e da gestão dos recursos de telecomunicação da empresa.
 
-**1.2 Fluxo dos Dados**
+**Fluxo dos Dados**
 
 Todas as informações coletadas pelo aplicativo <mark style="background-color:orange;">Datamob Enterprise</mark> são enviadas periodicamente para os servidores do sistema. As informações são compiladas e consolidadas em 1 hora para serem visualizadas no portal de administração.&#x20;
 
 Os dados de consumo coletados pelo aplicativo são enviados de acordo com o tempo configurado no portal, na opção "Sincronizar cada", que varia de 30 minutos a 24 horas.
 
-**1.3 Armazenamento dos Dados**
+**Armazenamento dos Dados**
 
 Todos os dados do Portal permanecem armazenados durante 6 meses, após esse período as informações serão eliminadas dos servidores.
 
@@ -34,7 +34,7 @@ Caso ocorra alguma indisponibilidade nos servidores, o aplicativo manterá as in
 
 Todos os dados enviados pelo portal e recebidos pelo dispositivo permanecem armazenados, garantindo que as políticas permaneçam ativas, mesmo quando não possuir acesso à Internet e independente da disponibilidade dos servidores. A conexão será necessária apenas para receber novas políticas ou mensagens e para enviar os dados para o Portal.
 
-**1.4 Nível de Acesso ao Portal**
+**Nível de Acesso ao Portal**
 
 O Portal de Administração possui dois níveis de acesso:
 

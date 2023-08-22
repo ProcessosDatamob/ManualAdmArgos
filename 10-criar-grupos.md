@@ -1,6 +1,6 @@
 # CADASTRAR NOVO GRUPO
 
-**10 CRIAR GRUPOS**
+**CRIAR GRUPOS**
 
 Essa tela do sistema tem como objetivo possibilitar ao usuário criar um grupo de usuários de dispositivos.
 
@@ -10,9 +10,9 @@ Para criar um grupo, siga os passos descritos nesta seção.
 
 ![](<.gitbook/assets/0 (10).png>)
 
-1. Ao acessar a tela, o sistema não permitirá alterar a informação do campo “Empresa” pois é essencial para o funcionamento correto das regras do sistema.
-2. Preencha o nome do grupo.
-3. Clique em “Cadastrar” para concluir o cadastro do novo grupo.
+2. Ao acessar a tela, o sistema não permitirá alterar a informação do campo “Empresa” pois é essencial para o funcionamento correto das regras do sistema.
+3. Preencha o nome do grupo.
+4. Clique em “Cadastrar” para concluir o cadastro do novo grupo.
 
 ![](<.gitbook/assets/1 (9).png>)
 

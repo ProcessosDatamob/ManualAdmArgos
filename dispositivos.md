@@ -1,6 +1,6 @@
 # 📱 DISPOSITIVOS
 
-**18 DISPOSITIVOS**
+**DISPOSITIVOS**
 
 Esta tela do sistema tem como objetivo, possibilitar ao usuário gerenciar as informações e executar algumas ações nos dispositivos ativos da empresa.
 
@@ -22,7 +22,7 @@ Para saber como gerenciar os dispositivos ativos da empresa, siga os passos desc
 
 ![](<.gitbook/assets/1 (14).png>)
 
-**18.1.1 Informações do Dispositivo**
+**Informações do Dispositivo**
 
 As informações do dispositivo exibidas na lista são:
 
@@ -51,7 +51,7 @@ Clicando no sinal ">" ao lado do usuário o sistema exibe mais informações con
 | Deletado      | O dispositivo foi excluído. Esse estado é usado no relatório de status final quando o dispositivo confirma a exclusão.          |
 | Provisionando | O dispositivo está sendo provisionado. Os dispositivos recém-registrados ficam nesse estado até que uma política seja aplicada. |
 
-**18.1.2 Opções de gerenciamento de dispositivos**
+**Opções de gerenciamento de dispositivos**
 
 Na tela de "**Dispositivos**" é possível ter acesso a opções de consulta e configurações do dispositivo usando os três pontinhos "**...**" que aparecem à direita na listagem dos dispositivos. As opções disponíveis estão em destaque na imagem a seguir.
 
@@ -59,7 +59,7 @@ Na tela de "**Dispositivos**" é possível ter acesso a opções de consulta e c
 
 As opções que estão em destaque na figura são detalhadas nas próximas subseções.
 
-* **Histórico de Bateria**
+**Histórico de Bateria**
 
 Para visualizar o histórico da bateria do dispositivo, clique em “**Histórico de bateria**”.
 
@@ -70,7 +70,7 @@ O sistema exibirá a tela do histórico da bateria do dispositivo.
 
 ![](<.gitbook/assets/4 (5).png>)
 
-* **Histórico de Armazenamento**
+**Histórico de Armazenamento**
 
 Para visualizar o histórico de memória livre no armazenamento interno do dispositivo, clique em “**Histórico de armazenamento**”.
 
@@ -81,13 +81,13 @@ O sistema exibirá a tela do "**Histórico de Armazenamento**" com o histórico 
 1. Selecione uma data, para visualizar os dados do histórico.
 2. Passe o mouse sobre o gráfico para visualizar os valores em horário específico.
 
-* **Relatório de Não Conformidade**
+**Relatório de Não Conformidade**
 
 Para exibir as inconsistências em configurações atribuídas ao dispositivo utilize a opção "Relatório de Não conformidade".
 
 ![](<.gitbook/assets/6 (4).png>)
 
-* **Alterar Política**
+**Alterar Política**
 
 Ao escolher a opção Alterar Política, aparecerá no centro da tela uma caixa de diálogo para a escolha da política a ser atribuída ao dispositivo. Escolha a política entre as políticas listadas e clique em atualizar para mudar a política do dispositivo.
 
@@ -95,7 +95,7 @@ A política define configurações, incluindo critérios de hardware, software, 
 
 ![](<.gitbook/assets/7 (5).png>)
 
-* **Desativar Dispositivo**
+**Desativar Dispositivo**
 
 Ao enviar o comando Desativar Dispositivos, todos os aplicativos que não são Google serão desativados, serão permitidas chamadas telefônicas e o status do dispositivo muda para desativado. Para desativar um dispositivo utilize a opção **"Desativar Dispositivo"** no menu de opções do dispositivo. Esta opção aparece somente para dispositivos que estão no status "Ativo". Uma tela de confirmação será exibida conforme apresentado abaixo.
 
@@ -103,7 +103,7 @@ Ao enviar o comando Desativar Dispositivos, todos os aplicativos que não são G
 
 Clique no botão "**Desativar**" para confirmar a operação.
 
-* **Ativar Dispositivo**
+**Ativar Dispositivo**
 
 Esta opção aparece somente para dispositivos que estão no status "Desabilitado". Para ativar um dispositivo desabilitado clique em "**Ativar Dispositivo**" nas opções de gerenciamento do dispositivo.
 
@@ -117,11 +117,11 @@ Confirme a atualização clicando em "**Ativar**" na caixa de diálogo, conforme
 
 Descrição gerada automaticamente](<.gitbook/assets/10 (4).png>)
 
-* **Desligar Tela do dispositivo**
+**Desligar Tela do dispositivo**
 
 A opção "**Desligar Tela**" envia um comando para desligar a tela do dispositivo. Ao clicar na opção "**Desligar Tela**" o comando é executado diretamente e uma mensagem aparecerá na tela para informar que o comando foi enviado ao dispositivo.
 
-* **Reiniciar Dispositivo**
+**Reiniciar Dispositivo**
 
 Esta operação envia um comando para reiniciar o dispositivo. Escolha a opção **"Reiniciar Dispositivo"**. Uma mensagem é exibida na tela do portal para confirmar o envio do comando. A mensagem exibida é mostrada abaixo.
 
@@ -141,7 +141,7 @@ Esta opção só ficará disponível para dispositivos ativados com política em
 
 ![](<.gitbook/assets/13 (3).png>)
 
-* **Gerar nova senha do dispositivo**
+**Gerar nova senha do dispositivo**
 
 O sistema permite que seja gerada uma nova senha para o dispositivo. Para realizar esta operação, escolha a opção "**Gerar Nova Senha do Dispositivo**" conforme mostrado na imagem apresentada na sequência.
 
@@ -155,7 +155,7 @@ A tela para gerar nova senha do dispositivo é mostrada a seguir.
 
 ![](<.gitbook/assets/14 (3).png>)
 
-* **Remover Dispositivo (WIPE)**
+**Remover Dispositivo (WIPE)**
 
 Esta operação permite excluir um dispositivo. Ela limpa os dados e configurações do dispositivo. Os dispositivos excluídos não aparecem na lista de dispositivos da empresa. A opção "**Remover Dispositivo**" aparece na lista de opções do dispositivo na tela de listagem de dispositivos (menu "**Dispositivos**", opção "**Listar Dispositivos**").
 
@@ -163,7 +163,7 @@ Conforme pode ser visto na imagem apresentada a seguir, uma mensagem é exibida 
 
 ![](<.gitbook/assets/15 (2).png>)
 
-* **Gerenciar Informações**
+**Gerenciar Informações**
 
 Esta opção permite acessar a tela para editar dados do dispositivo, como: Usuário, identificação e Grupo.
 
@@ -192,7 +192,7 @@ Além de poder editar os dados, são exibidos mais abaixo duas listas com as inf
 * **Armazenamento Interno -** quanto de armazenamento interno possui;
 * **Bateria -** Quantos % de bateria está no momento;
 
-**18.2 Informações dos Aplicativos**
+**Informações dos Aplicativos**
 
 O submenu Informações dos aplicativos mostra as informações dos aplicativos do dispositivo.
 
@@ -210,10 +210,10 @@ O submenu Informações dos aplicativos mostra as informações dos aplicativos 
 
 ![](<.gitbook/assets/20 (2).png>)
 
-**18.2.1 Histórico de Consumo**
+**Histórico de Consumo**
 
 Para acessar esta tela, use os três pontos no final da linha do aplicativo. Nesta tela pode-se visualizar o gráfico de evolução do consumo de dados da aplicação dos dispositivos.
 
-**18.2.2 Usuários com Aplicativos**
+**Usuários com Aplicativos**
 
 Para acessar esta tela, use os três pontos no final da linha do aplicativo. Nesta tela, você pode ver todos os dispositivos que possuem o aplicativo instalado.

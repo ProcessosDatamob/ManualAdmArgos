@@ -1,6 +1,6 @@
 # Aplicativos
 
-**16.1.1.2 Aplicativos**
+**Aplicativos**
 
 A guia de configurações de aplicativos permite gerenciar configurações, permissões, definir o modo de instalação, bem como, incluir e excluir aplicativos.
 
@@ -29,10 +29,10 @@ Os aplicativos precisam ser primeiramente adicionados usando a **Google Play Ger
 
 Estando a janela "**Adicionar aplicativos**" aberta, conforme figura anterior, para adicionar aplicativos na política, siga os seguintes passos:
 
-1. Selecione um ou mais aplicativos clicando no checkbox;
-2. Clique no botão "**Adicionar selecionados**".
+7. Selecione um ou mais aplicativos clicando no checkbox;
+8. Clique no botão "**Adicionar selecionados**".
 
-* **Configurações Gerenciadas**
+**Configurações Gerenciadas**
 
 Para acessar as configurações gerenciadas de um aplicativo é necessário estar na tela "**Editar Política**" com a guia "**Aplicativos**" selecionada. Siga os seguintes passos:
 
@@ -51,13 +51,13 @@ O aplicativo **Security Browser** é o navegador web padrão do sistema **Datamo
 
 Após o passo 2 a tela a seguir será exibida. Nesta tela temos os seguintes itens:
 
-1. Identificação do aplicativo selecionado e a tela de configuração que foi escolhida ("Configurações Gerenciadas");
-2. Lista de configurações gerenciadas disponíveis para o aplicativo selecionado. Clicando sobre cada linha as configurações são exibidas;
-3. Link para voltar para a lista de aplicativos.
+3. Identificação do aplicativo selecionado e a tela de configuração que foi escolhida ("Configurações Gerenciadas");
+4. Lista de configurações gerenciadas disponíveis para o aplicativo selecionado. Clicando sobre cada linha as configurações são exibidas;
+5. Link para voltar para a lista de aplicativos.
 
 ![](<../../.gitbook/assets/9 (2).png>)
 
-* **Permissões**
+**Permissões**
 
 Para acessar as configurações de permissões de um aplicativo é necessário estar na tela "**Editar Política**" com a guia "**Aplicativos**" selecionada. Siga os seguintes passos:
 
@@ -72,7 +72,7 @@ Após o passo 2 a tela a seguir será exibida. A lista de permissões, que podem
 
 As permissões podem ser configuradas como: Solicitar ao usuário, Ativada ou Negada.
 
-* **Configurações Avançadas**
+**Configurações Avançadas**
 
 Para acessar as configurações avançadas de um aplicativo é necessário estar na tela "**Editar Política**" com a guia "**Aplicativos**" selecionada. Siga os seguintes passos:
 
@@ -83,12 +83,12 @@ Para acessar as configurações avançadas de um aplicativo é necessário estar
 
 Após o passo 2 a tela a seguir será exibida. Nesta tela temos os seguintes itens:
 
-1. **Prioridade de Atualização** - Defina a prioridade de atualização do aplicativo como pré-definida, postergada ou prioritária.
-2. **Versão mínima -** permite definir uma versão mínima do aplicativo.
+3. **Prioridade de Atualização** - Defina a prioridade de atualização do aplicativo como pré-definida, postergada ou prioritária.
+4. **Versão mínima -** permite definir uma versão mínima do aplicativo.
 
 ![](<../../.gitbook/assets/13 (1).png>)
 
-* **Remover Aplicativo**
+**Remover Aplicativo**
 
 Para excluir um aplicativo da política é necessário estar na tela "**Editar Política**" com a guia "**Aplicativos**" selecionada. Siga os seguintes passos:
 

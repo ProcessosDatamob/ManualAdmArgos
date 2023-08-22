@@ -1,6 +1,6 @@
 # Gerenciar Políticas
 
-**16.1 Gerenciar Políticas**
+**Gerenciar Políticas**
 
 Ao acessar a opção "**Gerenciar Políticas**" abrirá a tela apresentada na sequência.
 
@@ -18,17 +18,16 @@ A tela apresenta os elementos que são padrão em todas as telas de listagens do
 
 Descrição gerada automaticamente](<../../.gitbook/assets/2 (6).png>)
 
+* **Editar Política -** abre a tela para gerenciar as configurações da política;
+* **Remover Política -** abre uma caixa de mensagem para confirmação da exclusão da política. Clicando no botão "Remover" a política será removida do sistema;
+* **Token de Registro -** abre o Token de Registro e mais informações desta tela estão na seção <mark style="background-color:purple;">16.1.2</mark>
+* **Copiar Política -** abre uma caixa de mensagem para nomear a cópia criada da política selecionada.
 
+4. Para exportar as informações dos usuários, clique no botão “Excel”.
+5. Para copiar as informações dos usuários, clique no botão “Copiar”.
+6. Clicar no botão Nova Política, para cadastrar uma nova política.
 
-1. **Editar Política -** abre a tela para gerenciar as configurações da política.
-2. **Remover Política -** abre uma caixa de mensagem para confirmação da exclusão da política. Clicando no botão "Remover" a política será removida do sistema.
-3. **Token de Registro -** abre o Token de Registro e mais informações desta tela estão na seção 16.1.2
-4. **Copiar Política -** abre uma caixa de mensagem para nomear a cópia criada da política selecionada.
-5. Para exportar as informações dos usuários, clique no botão “Excel”.
-6. Para copiar as informações dos usuários, clique no botão “Copiar”.
-7. Clicar no botão Nova Política, para cadastrar uma nova política.
-
-**16.1.1 Editar Política**
+**Editar Política**
 
 Esta tela do sistema tem como objetivo permitir a configuração de todos os detalhes de uma política.
 

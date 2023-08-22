@@ -1,6 +1,6 @@
 # 🤳 ZERO TOUCH
 
-**19 ZERO TOUCH**
+<mark style="color:green;background-color:green;">**ZERO TOUCH**</mark>
 
 O registro Zero Touch é um processo simplificado para dispositivos Android a serem provisionados para gerenciamento empresarial. O dispositivo inicia o método de provisionamento de dispositivo totalmente gerenciado e baixa o aplicativo <mark style="background-color:orange;">Datamob Enterprise</mark> associado, que conclui a configuração do dispositivo.
 

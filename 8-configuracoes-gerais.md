@@ -1,6 +1,6 @@
 # CONFIGURAÇÕES GERAIS
 
-**8 CONFIGURAÇÕES GERAIS**
+**CONFIGURAÇÕES GERAIS**
 
 Esta tela do sistema tem como objetivo possibilitar ao usuário configurar informações importantes da empresa.
 

@@ -1,6 +1,6 @@
 # CONSUMO DA EMPRESA
 
-**6 CONSUMO DA EMPRESA**
+**CONSUMO DA EMPRESA**
 
 Essa tela do sistema tem como objetivo possibilitar ao usuário visualizar os consumos de dados móveis e SMS de todos os dispositivos da empresa em um intervalo de datas. Para ter acesso a essa tela o usuário precisa ser Administrador do Portal.
 

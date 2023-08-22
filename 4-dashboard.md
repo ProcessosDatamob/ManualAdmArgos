@@ -1,6 +1,6 @@
 # 📊 DASHBOARD
 
-**4 DASHBOARD**
+**DASHBOARD**
 
 Esta tela do sistema tem como objetivo possibilitar ao usuário a visualização e análise dos diversos dados de consumos e usos coletados dos dispositivos. Todos esses dados serão detalhados nesta seção.
 
@@ -34,13 +34,13 @@ Os filtros “Empresa”, “Grupo” e “Usuário” permitem realizar uma an�
 
 ![](<.gitbook/assets/7 (1).png>)
 
-**4.1 Barra de Status**
+**Barra de Status**
 
 A barra de status do Dashboard mostra a situação atual de todos os usuários e licenças da empresa.
 
 ![](<.gitbook/assets/8 (1).png>)
 
-**4.1.1 Total de Usuários**
+**Total de Usuários**
 
 Este indicador exibe o número total de usuários de dispositivos que utilizam o aplicativo <mark style="background-color:orange;">Datamob Enterprise.</mark>
 
@@ -48,13 +48,13 @@ Este indicador exibe o número total de usuários de dispositivos que utilizam o
 
 Descrição gerada automaticamente](<.gitbook/assets/9 (1).png>)
 
-**4.1.2 Total de Licenças**
+**Total de Licenças**
 
 Este indicador exibe o número total de licenças disponíveis no <mark style="background-color:orange;">portal Datamob Enterprise</mark>.
 
 ![](.gitbook/assets/10.png)
 
-**4.1.3 Licenças não instaladas no portal**
+**Licenças não instaladas no portal**
 
 Este indicador exibe o número total de licenças que não possuem dispositivo registrado no portal. Ou seja, são as licenças disponíveis.
 
@@ -62,7 +62,7 @@ Ao clicar nesse indicador, o sistema exibirá a tela de "**Licenças Contratadas
 
 ![](.gitbook/assets/11.png)
 
-**4.2 Dispositivos**
+**Dispositivos**
 
 Este indicador exibe o número total de dispositivos que estão ativos no sistema e os dispositivos sem comunicação. Além disso, possibilita ao administrador ter a visibilidade dos dispositivos que estão em Modo Quiosque.
 
@@ -93,7 +93,7 @@ Caso passe mais de 10 minutos e o Portal não receba uma destas informações, o
 
 Ao clicar nesse indicador o sistema exibirá uma tela contendo o relatório com as informações dos dispositivos que estão sem comunicação.
 
-**4.3 Consumo de Dados no Ciclo**
+**Consumo de Dados no Ciclo**
 
 Este indicador exibe o percentual de consumo de dados móveis dos dispositivos durante o ciclo em relação ao limite total configurado no Perfil de Consumo. Caso não seja configurado um limite no Perfil de Consumo, o gráfico não exibirá o percentual, e o sistema exibirá apenas o valor total de dados em MB utilizados.
 
@@ -101,7 +101,7 @@ Este indicador exibe o percentual de consumo de dados móveis dos dispositivos d
 
 Descrição gerada automaticamente](.gitbook/assets/14.png)
 
-**4.4 Consumo de SMS no Ciclo**
+**Consumo de SMS no Ciclo**
 
 Este indicador exibe o percentual de consumo de SMS enviados pelos dispositivos durante o ciclo em relação ao limite total configurado no Perfil de Consumo. Caso não seja configurado um limite no Perfil de Consumo, o gráfico não exibirá o percentual, e exibirá apenas o valor total de SMS utilizados.
 
@@ -109,7 +109,7 @@ Este indicador exibe o percentual de consumo de SMS enviados pelos dispositivos 
 
 Descrição gerada automaticamente](.gitbook/assets/15.png)
 
-**4.5 Consumo de Dados por Aplicativo**
+**Consumo de Dados por Aplicativo**
 
 Este gráfico exibe os 5 aplicativos que mais consumiram dados móveis durante o ciclo. Os dados exibidos, são ordenados em percentual.
 
@@ -119,7 +119,7 @@ Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as in
 
 ![](.gitbook/assets/16.png)
 
-**4.6 Consumo de Dados por Usuário**
+**Consumo de Dados por Usuário**
 
 Este gráfico exibe os 5 usuários que mais consumiram dados móveis durante o ciclo. Os dados exibidos são ordenados em percentual.
 
@@ -131,7 +131,7 @@ Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as in
 
 Descrição gerada automaticamente](.gitbook/assets/17.png)
 
-**4.7 Tempo de Uso por Aplicativo**
+**Tempo de Uso por Aplicativo**
 
 Este gráfico exibe os 5 aplicativos que mais foram utilizados durante o ciclo. Este tempo é contabilizado apenas quando o aplicativo está em uso, e não precisa estar consumindo dados. Os aplicativos em segundo plano não são contabilizados nesta análise.
 
@@ -141,7 +141,7 @@ Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as in
 
 ![](.gitbook/assets/18.png)
 
-**4.8 Inventário de Dispositivos**
+**Inventário de Dispositivos**
 
 Este indicador exibe o percentual dos 5 fabricantes dos dispositivos ativos. O valor percentual de cada um dos 5 fabricantes é calculado em relação à soma total de todos os dispositivos ativos.
 
@@ -149,17 +149,21 @@ Este indicador exibe o percentual dos 5 fabricantes dos dispositivos ativos. O v
 
 Descrição gerada automaticamente](.gitbook/assets/19.png)
 
-**4.9 Sites mais visitados**
+**Sites mais visitados**
 
 Este indicador exibe o percentual dos 5 sites mais acessados nos dispositivos durante o ciclo. O valor percentual de cada um dos 5 sites é calculado em relação à soma total de todos os acessos aos sites durante o ciclo.
 
-**IMPORTANTE**: Os sites visitados são obtidos pelo navegador web padrão do sistema Datamob Enterprise. Este navegador se chama **Security Browser** e precisa estar instalado e configurado nos dispositivos. Para obter detalhes sobre o gerenciamento e a configuração do navegador, acesse o capítulo **16 Security Browser**.
+{% hint style="warning" %}
+**IMPORTANTE**
+
+Os sites visitados são obtidos pelo navegador web padrão do sistema Datamob Enterprise. Este navegador se chama **Security Browser** e precisa estar instalado e configurado nos dispositivos. Para obter detalhes sobre o gerenciamento e a configuração do navegador, acesse o capítulo **16 Security Browser**.
+{% endhint %}
 
 ![Gráfico, Gráfico de barras
 
 Descrição gerada automaticamente](.gitbook/assets/20.png)
 
-**4.10 Indicador de Consumo e Histórico**
+**Indicador de Consumo e Histórico**
 
 Este indicador exibe em percentuais os dados móveis e SMS consumidos nos últimos 6 ciclos.
 
@@ -169,7 +173,7 @@ Para realizar a análise individual dos consumos de dados móveis ou SMS, acesse
 
 Descrição gerada automaticamente](.gitbook/assets/21.png)
 
-**4.11 Indicador de Novos Usuários de Dispositivos e Histórico**
+**Indicador de Novos Usuários de Dispositivos e Histórico**
 
 Este indicador exibe a quantidade de usuários de dispositivos ativados nos últimos 6 ciclos e a evolução dos novos usuários do ciclo atual em relação aos do trimestre e do semestre.
 
@@ -179,7 +183,7 @@ Para realizar a análise individual dos usuários de dispositivos, clique em "Li
 
 Descrição gerada automaticamente](.gitbook/assets/22.png)
 
-**4.12 Localização dos Dispositivos**
+**Localização dos Dispositivos**
 
 O mapa exibe a última localização dos dispositivos. Para que a localização seja exibida e atualizada, o dispositivo deve estar conectado à internet, deve haver sinal de GPS e a configuração de "Modo de Localização" deve estar "Ativa" em Localização na política aplicada ao dispositivo.
 
@@ -189,11 +193,11 @@ A localização dos dispositivos é exibida com um marcador no mapa, que pode es
 
 Utilize os recursos do mapa para otimizar a visualização das localizações.
 
-**4.13 Manuais para Download**
+**Manuais para Download**
 
 Nesta tela teremos acesso aos manuais para download. Ao clicar no Saiba mais, será exibida a tela com Documentos e Materiais de Apoio.
 
-**4.14 Alguma Dúvida**
+**Alguma Dúvida**
 
 Através da sessão “Alguma Dúvida?”, teremos acesso a tela onde é possível visualizar as perguntas frequentes realizadas pelos usuários:
 

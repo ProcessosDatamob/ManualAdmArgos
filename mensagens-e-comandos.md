@@ -1,6 +1,6 @@
 # 💬 MENSAGENS E COMANDOS
 
-**21 MENSAGENS E COMANDOS**
+**MENSAGENS E COMANDOS**
 
 Esta tela do sistema tem como objetivo, possibilitar ao usuário enviar mensagens e comandos para todos os dispositivos da empresa, de um ou mais grupos ou para um ou mais usuários de dispositivos específicos. As mensagens e comandos são enviados via PUSH e não geram consumo de SMS.
 

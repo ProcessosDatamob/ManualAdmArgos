@@ -1,10 +1,10 @@
 # CONFIGURAÇÕES INICIAIS E NÍVEIS
 
-**3 CONFIGURAÇÕES INICIAIS E NÍVEIS**
+**CONFIGURAÇÕES INICIAIS E NÍVEIS**
 
 Ao acessar o <mark style="background-color:orange;">Portal Datamob Enterprise</mark>, o usuário terá acesso às configurações e funcionalidades.
 
-**3.1 Configurações Iniciais**
+**Configurações Iniciais**
 
 As primeiras configurações, recomendável a serem realizadas no Portal são:
 
@@ -12,7 +12,7 @@ As primeiras configurações, recomendável a serem realizadas no Portal são:
 
 **Dia de início do ciclo** - para definir a data de início da contabilização dos dados que serão analisados (detalhado na seção “**Configurações Gerais**” deste manual).
 
-**3.2 Níveis de Configurações**
+**Níveis de Configurações**
 
 As configurações podem ser realizadas em três níveis (Empresa / Grupo / Usuário) e essas configurações são aplicadas aos dispositivos da seguinte forma:
 

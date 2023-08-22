@@ -1,6 +1,6 @@
 # PERGUNTAS FREQUENTES
 
-**Perguntas Frequentes**
+**PERGUNTAS FREQUENTES**
 
 Esta tela do sistema tem como objetivo possibilitar ao usuário visualizar respostas para as perguntas mais frequentes sobre as funcionalidades da solução Datamob Gestão Dispositivo.
 

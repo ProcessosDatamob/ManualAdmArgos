@@ -1,6 +1,6 @@
 # Configurações Gerais
 
-**16.1.1.1Configurações Gerais**
+**Configurações Gerais**
 
 As configurações gerais são agrupadas nos tipos:
 
@@ -23,13 +23,13 @@ Use os botões seletores para ativar ou desativar as configurações de bloqueio
 
 ![](<../../.gitbook/assets/5 (2).png>)
 
-* **Configuração Wi-fi**
+**Configuração Wi-fi**
 
 Acesse a guia de "**Configurações**" da tela de "**Edição de Políticas**" e clique sobre "**Configurações de Wi-fi**" para visualizar as opções de configuração de Wi-fi. Selecione a rede Wi-Fi na lista de seleção e clique em **Adicionar**.
 
 Para cadastrar uma rede Wi-Fi acessar o Menu “**Configurações”** submenu **Gerenciar Redes Wi-fi ,** mais detalhes na seção **16.1 Configurações de Rede Wi-fi.**
 
-* **Configuração de VPN**
+**Configuração de VPN**
 
 Ao estar na aba **"Configurações"** da tela **"Edição de Políticas"**, clique em **"Configurações de VPN"** para ver as opções de configuração de VPN. Na tabela abaixo, as configurações de VPN são descritas.
 
@@ -39,7 +39,7 @@ Ao estar na aba **"Configurações"** da tela **"Edição de Políticas"**, cliq
 | Aplicativos de VPN                                 | Se estiver ativa, permite a configuração de uma conexão VPN sempre ativa. Adicione a aplicação VPN ao perfil para vê- la na lista. |
 | Bloquear a rede quando a VPN não estiver conectada | Se ativa, bloqueia o tráfego de rede quando a VPN não está conectada;                                                              |
 
-* **Configurações de Hardware**
+**Configurações de Hardware**
 
 Acesse a guia de "**Configurações**" da tela de "**Edição de Políticas**" e clique sobre "**Hardware**" para visualizar as opções de configuração de hardware. Use os botões seletores para ativar ou desativar uma configuração. Na tabela a seguir as configurações de hardware são descritas.
 
@@ -55,7 +55,7 @@ Acesse a guia de "**Configurações**" da tela de "**Edição de Políticas**" e
 | Acesso ao microfone                 | Esta opção configura os ajustes do microfone, podendo ser: definido pelo usuário, desativado (o microfone mudo e o ajuste do volume do microfone desabilitado) ou ativado. |
 | Desabilitar realização de chamadas  | Estando habilitada, todas as chamadas telefônicas de saída estão desativadas.                                                                                              |
 
-* **Localização**
+**Localização**
 
 Estando na guia de "**Configurações**" da tela de "**Edição de Políticas**", clique sobre "**Localização**" para visualizar as opções de configuração de Localização do dispositivo. Clique nos botões seletores para ativar ou desativar uma configuração. Na tabela a seguir, as configurações de localização são descritas.
 
@@ -66,7 +66,7 @@ Estando na guia de "**Configurações**" da tela de "**Edição de Políticas**"
 | Horário de Monitoramento                                         | Nesta configuração pode ser definido o período em que a detecção da localização estará ativada. Clique em "Hora início" e "Hora fim" para definir o período.                                                                               |
 | Localizar a cada                                                 | Use esta configuração para definir a frequência de captura da localização. As opções desta configuração são: 3 minutos, 10 minutos, 30 minutos, 1 hora, 6 horas, 12 horas e 24 horas.                                                      |
 
-* **Configurações de Rede**
+**Configurações de Rede**
 
 Use os botões seletores para ativar ou desativar a configuração de bloqueio. Na figura a seguir em destaque, com número 1, a configuração ativada e, com número 2, a configuração desativada.
 
@@ -82,7 +82,7 @@ A tabela a seguir contém a descrição das configurações de rede.
 | Desabilitar envio e recebimento de SMS             | Estando habilitada, o envio e o recebimento de mensagens SMS está desativado.                                                                                     |
 | Proxy global recomendado                           | Permite configurar um proxy HTTP. Para um "Proxy Manual", defina os campos Host, Porta e Hosts ignorados. Para um proxy automático - PAC, defina o campo PAC URL. |
 
-* **Restrições de Senha**
+**Restrições de Senha**
 
 Estando na guia de "**Configurações**" da tela de "**Edição de Políticas**", clique sobre "**Restrições de Senha**" para visualizar as opções de configuração de senha. Na tabela a seguir, as configurações de senha são descritas.
 
@@ -94,7 +94,7 @@ Estando na guia de "**Configurações**" da tela de "**Edição de Políticas**"
 | Tempo limite de expiração da senha (dias)          | Use esta configuração se quiser definir uma quantidade de dias para expiração da senha. Depois deste período(dias) a senha precisará ser redefinida pelo usuário.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Exigir desbloqueio de senha                        | Esta configuração é usada para definir a exigência de desbloqueio de senha, podendo ser a padrão do dispositivo ou diária (todo dia).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
-* **Segurança**
+**Segurança**
 
 Estando na guia de "**Configurações**" da tela de "**Edição de Políticas**", clique sobre "**Segurança**" para visualizar as opções de configuração de segurança do dispositivo. Clique nos botões seletores para ativar ou desativar uma configuração. Na tabela a seguir, as configurações de segurança são descritas.
 
@@ -112,7 +112,7 @@ Estando na guia de "**Configurações**" da tela de "**Edição de Políticas**"
 | Habilitar seleção de chave privada            | Permite mostrar a interface no dispositivo para que o usuário escolha um alias de chave privada se não houver regras de chaves privadas definidas. Em dispositivos abaixo do Android 9, a configuração pode deixar as chaves empresariais vulneráveis.                                                                                                                                                                                                                                              |
 | Regras de escolha de chave privada            | Identifique a regra que permite a leitura da chave privada. Para definir as regras da palavra-chave privada, clique em adicionar e complete os campos Nome, URL e aplicativo. Em seguida, clique em Salvar.                                                                                                                                                                                                                                                                                         |
 
-* **Sistema Operacional**
+**Sistema Operacional**
 
 Estando na guia de "**Configurações**" da tela de "**Edição de Políticas**", clique sobre "**Sistema Operacional**" para visualizar as opções de configuração do sistema operacional do dispositivo. Na tabela a seguir, as configurações do sistema operacional são descritas.
 
@@ -124,7 +124,7 @@ Estando na guia de "**Configurações**" da tela de "**Edição de Políticas**"
 | Horário da janela de atualização    | Ao definir a política “Automático dentro de uma janela “, as atualizações do sistema serão executadas dentro do horário da janela especificado. Defina "Horário do início" e "Horário do fim" clicando nos respectivos calendários e nos horários desejados.                                                                                                                                                                                                                                                                                                                                           |
 | Períodos de Freeze das atualizações | <p>Todas as atualizações de sistema recebidas (incluindo patches de segurança) são bloqueadas e não serão instaladas. Quando um dispositivo está fora do período de congelamento, aplica-se o comportamento normal de atualização.</p><p>Para configurar um período de congelamento, defina "Mês e dia de início" e "Mês e dia de fim", clicando sobre os respectivos calendários.</p><p>Clique em "<strong>+Adicionar período de freeze</strong>" para configurar outros períodos de congelamento.</p><p>Clique no ícone de lixeira localizado ao lado do período de congelamento para excluí-lo.</p> |
 
-* **Tela de Bloqueio**
+**Tela de Bloqueio**
 
 Estando na aba "**Configurações**" da tela "**Edição de Políticas**", clique em "**Tela de Bloqueio**" para ver as opções de configuração da tela de bloqueio. As configurações da tela de bloqueio são descritas na tabela abaixo.
 
@@ -143,7 +143,7 @@ Estando na aba "**Configurações**" da tela "**Edição de Políticas**", cliqu
 | Desativar autenticação da íris               | Estando ativada, a autenticação da íris em telas de proteção de teclado seguras é desativada.                                                                                                                                                                                                                                                                                                    |
 | Desativar autenticação biométrica            | Estando ativada, a autenticação biométrica nas telas de proteção de teclado seguras é desativada.                                                                                                                                                                                                                                                                                                |
 
-* **Usuário**
+**Usuário**
 
 Estando na aba "**Configurações**" da tela "**Edição de Políticas**", clique em "**Usuário**" para ver as opções de configuração de Usuário do dispositivo. Clique nos botões de seleção para ativar ou desativar uma configuração. As configurações de usuário são descritas na tabela abaixo.
 

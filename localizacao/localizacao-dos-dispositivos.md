@@ -1,6 +1,6 @@
 # LOCALIZAÇÃO DOS DISPOSITIVOS
 
-**24 LOCALIZAÇÃO DOS DISPOSITIVOS**
+**LOCALIZAÇÃO DOS DISPOSITIVOS**
 
 Essa tela do sistema tem como objetivo visualizar e gerar um relatório com a última localização enviada pelos dispositivos.
 

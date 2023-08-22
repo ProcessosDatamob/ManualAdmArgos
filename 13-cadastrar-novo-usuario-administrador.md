@@ -1,6 +1,6 @@
 # CADASTRAR NOVO USUÁRIO ADMINISTRADOR
 
-**13 CADASTRAR NOVO USUÁRIO ADMINISTRADOR**
+**CADASTRAR NOVO USUÁRIO ADMINISTRADOR**
 
 Essa tela do sistema tem como objetivo possibilitar a criação de um usuário do tipo Administrador de Empresa ou Administrador de Grupo.
 
