@@ -1,4 +1,4 @@
-# 💬 21 MENSAGENS E COMANDOS
+# 💬 MENSAGENS E COMANDOS
 
 **21 MENSAGENS E COMANDOS**
 
@@ -31,7 +31,11 @@ Descrição gerada automaticamente](.gitbook/assets/0.png)
 3. Para enviar mensagens e comandos para um ou mais usuários de dispositivos específicos, selecione os usuários de dispositivos.
 4. Também é possível enviar a mesma mensagem ou comando, para empresa, grupos e usuários de dispositivos, simultaneamente. Para isso, basta preencher os campos e fazer a combinação que desejar.
 
-**Observação**: caso um dispositivo seja informado em dois campos (ex.: grupo e usuário), ele receberá duas mensagens ou comandos.
+{% hint style="info" %}
+**OBSERVAÇÃO**
+
+Caso um dispositivo seja informado em dois campos (ex.: grupo e usuário), ele receberá duas mensagens ou comandos.
+{% endhint %}
 
 1. Caso queira excluir da seleção a empresa, o grupo ou o usuário de dispositivo, clique no “x” ao lado do item selecionado.
 2. Digite a mensagem ou comando.

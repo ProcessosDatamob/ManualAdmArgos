@@ -6,7 +6,7 @@ Este manual tem como objetivo, auxiliar o usuário administrador na utilização
 
 **1.1 Visão Geral da Solução**
 
-O <mark style="background-color:orange;">Datamob Enterprise</mark>  é uma solução de Gerenciamento de Mobilidade Corporativa composta por:
+O <mark style="background-color:orange;">Portal Datamob Enterprise</mark>  é uma solução de Gerenciamento de Mobilidade Corporativa composta por:
 
 1. **Portal de Administração **<mark style="background-color:orange;">**Datamob Enterprise**</mark> - sistema web que realiza toda a gestão dos dispositivos móveis da empresa.
 2. **Aplicativo **<mark style="background-color:orange;">**Datamob Enterprise**</mark> - aplicativo Android que coleta todas as informações de uso e consumos do dispositivo móvel. Este aplicativo é instalado por padrão estando presente em todos os dispositivos que registrados no sistema.

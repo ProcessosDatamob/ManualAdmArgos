@@ -5,12 +5,12 @@
 Quando o produto <mark style="background-color:orange;">Datamob Enterprise</mark> é ativado para uma empresa, as seguintes tarefas são executadas pelo sistema, para possibilitar o acesso do usuário administrador da empresa ao Portal:
 
 1. Criação das credenciais do Portal de Administração;
-2. Envio de um e-mail de boas-vindas, contendo as credenciais e um link para acessar o Portal de Administração.
+2. Envio de um E-mail de boas-vindas, contendo as credenciais e um link para acessar o Portal de Administração.
 
-Para acessar o Portal de Administração, siga os passos descritos nesta seção.
+Para acessar o Portal de Administração, siga os passos descritos nesta seção:
 
 1. Acesse o endereço [https://dev.portalenterprise.datamobpro.com/login](https://dev.portalenterprise.datamobpro.com/login) para visualizar a tela de acesso do Portal. De preferência, utilize um navegador Google Chrome, com a versão mais atualizada.
-2. Preencha os campos de “E-mail” e “Senha” com as credenciais de acesso, recebidas no e-mail de boas-vindas.
+2. Preencha os campos de “E-mail” e “Senha” com as credenciais de acesso, recebidas no E-mail de boas-vindas.
 3. Clique em “Iniciar Seção” para confirmar as informações e acessar o Portal.
 
 ![Interface gráfica do usuário, Texto, Aplicativo, chat ou mensagem de texto
@@ -34,7 +34,7 @@ Após o passo 5, uma nova tela de confirmação de E-mail irá aparecer. Uma men
 {% hint style="info" %}
 **OBSERVAÇÃO**
 
-O E-mail de confirmação é uma mensagem automática e pode ser identificada em seu provedor de e-mail como spam. Por isso, caso não tenha recebido, verifique também na caixa de spam.
+O E-mail de confirmação é uma mensagem automática e pode ser identificada em seu provedor de E-mail como spam. Por isso, caso não tenha recebido, verifique também na caixa de spam.
 {% endhint %}
 
 O token de confirmação deve ser inserido na tela para confirmar o cadastro da empresa.  A tela de confirmação é mostrada a seguir.

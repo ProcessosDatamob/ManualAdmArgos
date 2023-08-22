@@ -1,4 +1,4 @@
-# 🔁 22 COMPARTILHAR DOCUMENTOS
+# 🔁 COMPARTILHAR DOCUMENTOS
 
 **22 COMPARTILHAR DOCUMENTOS**
 
@@ -21,7 +21,11 @@ Descrição gerada automaticamente](<.gitbook/assets/0 (7).png>)
 4. Para compartilhar o documento com um ou mais usuários de dispositivos específicos, selecione os usuários de dispositivos.
 5. Também é possível compartilhar o documento com a empresa, grupos e usuários de dispositivos simultaneamente. Para isso basta preencher os campos e fazer a combinação que desejar.
 
-**Importante:** caso um dispositivo seja informado em dois campos (ex.: grupo e usuário), este receberá duas vezes a URL de download do documento.
+{% hint style="warning" %}
+**IMPORTANTE**
+
+Caso um dispositivo seja informado em dois campos (ex.: grupo e usuário), este receberá duas vezes a URL de download do documento.
+{% endhint %}
 
 1. Caso queira excluir da seleção a empresa, o grupo ou o usuário de dispositivo, clique no “x” ao lado do item selecionado.
 2. Clique no botão “Enviar”, para colocar o documento na fila de envio.

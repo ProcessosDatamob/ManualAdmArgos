@@ -1,4 +1,4 @@
-# 📱 18 DISPOSITIVOS&#x20;
+# 📱 DISPOSITIVOS
 
 **18 DISPOSITIVOS**
 
@@ -133,7 +133,11 @@ Esta operação envia um comando para reiniciar o dispositivo. Escolha a opção
 
 Esta operação envia um comando para remover o bloqueio de tela do dispositivo. Escolha a opção "**Remover Bloqueio de Tela**". Uma mensagem é exibida na tela do portal para confirmar o envio do comando. A mensagem exibida é mostrada abaixo.
 
-**Observação:** Esta opção só ficará disponível para dispositivos ativados com política em modo de gerenciamento Android Block SIM.
+{% hint style="info" %}
+**OBSERVAÇÃO**
+
+Esta opção só ficará disponível para dispositivos ativados com política em modo de gerenciamento Android Block SIM.
+{% endhint %}
 
 ![](<.gitbook/assets/13 (3).png>)
 

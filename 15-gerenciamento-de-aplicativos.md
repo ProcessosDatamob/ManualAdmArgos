@@ -136,4 +136,8 @@ Clicando sobre o aplicativo a tela para editar o aplicativo web aparece, como po
 
 ![](<.gitbook/assets/14 (2).png>)
 
-**Importante**: Excluir um aplicativo da Google Play Gerenciada e não excluir da lista de Aplicativos Gerenciados pode causar inconsistência caso o aplicativo seja, ou já esteja, vinculado a alguma política. Por este motivo, sempre que excluir um aplicativo da Google Play Gerenciada, realize também a exclusão na lista de Aplicativos Gerenciados da empresa e em todas as políticas que usem este aplicativo.
+{% hint style="warning" %}
+**IMPORTANTE**
+
+Excluir um aplicativo da Google Play Gerenciada e não excluir da lista de Aplicativos Gerenciados pode causar inconsistência caso o aplicativo seja, ou já esteja, vinculado a alguma política. Por este motivo, sempre que excluir um aplicativo da Google Play Gerenciada, realize também a exclusão na lista de Aplicativos Gerenciados da empresa e em todas as políticas que usem este aplicativo.
+{% endhint %}
