@@ -10,13 +10,13 @@ Para saber como visualizar as licenças, siga os passos descritos nesta seção:
 
 ![](<.gitbook/assets/0 (13).png>)
 
-1. Caso queira visualizar os dados de uma licença específica, digite o número da licença no campo “Telefone”.
-2. Para ordenar as informações exibidas, clique no título da informação que desejar.
-3. Para exportar as informações das licenças, clique no botão “Excel”.
-4. Para copiar as informações das licenças, clique no botão “Copiar”.
-5. Utilize o filtro "Dispositivos registrados" para mostrar somente as informações de todos os dispositivos, apenas registrados ou os não registrados;
-6. Para filtrar por status da licença utilize o filtro "Status".
-7. Para filtrar pelo tipo de plano na licença utilize o filtro "Plano".
+2. Caso queira visualizar os dados de uma licença específica, digite o número da licença no campo “Telefone”.
+3. Para ordenar as informações exibidas, clique no título da informação que desejar.
+4. Para exportar as informações das licenças, clique no botão “Excel”.
+5. Para copiar as informações das licenças, clique no botão “Copiar”.
+6. Utilize o filtro "Dispositivos registrados" para mostrar somente as informações de todos os dispositivos, apenas registrados ou os não registrados;
+7. Para filtrar por status da licença utilize o filtro "Status".
+8. Para filtrar pelo tipo de plano na licença utilize o filtro "Plano".
 
 ![Interface gráfica do usuário, Aplicativo
 
