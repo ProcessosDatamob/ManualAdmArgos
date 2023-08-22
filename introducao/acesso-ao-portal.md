@@ -4,8 +4,8 @@
 
 Quando o produto <mark style="background-color:orange;">Datamob Enterprise</mark> é ativado para uma empresa, as seguintes tarefas são executadas pelo sistema, para possibilitar o acesso do usuário administrador da empresa ao Portal:
 
-1. Criação das credenciais do Portal de Administração;
-2. Envio de um E-mail de boas-vindas, contendo as credenciais e um link para acessar o Portal de Administração.
+* Criação das credenciais do Portal de Administração;
+* Envio de um E-mail de boas-vindas, contendo as credenciais e um link para acessar o Portal de Administração.
 
 Para acessar o Portal de Administração, siga os passos descritos nesta seção:
 
@@ -67,7 +67,7 @@ A tela de "Detalhes do Contato" é apresentada na sequência.&#x20;
 
 Descrição gerada automaticamente](<../.gitbook/assets/5 (1).png>)
 
-Após confirmar os dados, será exibida a tela do P<mark style="background-color:orange;">ortal de Administração Datamob Enterprise</mark> com a mensagem "Parabéns! Sua empresa foi registrada no Android Enterprise com sucesso."&#x20;
+Após confirmar os dados, será exibida a tela do <mark style="background-color:orange;">Portal de Administração Datamob Enterprise</mark> com a mensagem "Parabéns! Sua empresa foi registrada no Android Enterprise com sucesso."&#x20;
 
 ![Interface gráfica do usuário, Texto, Aplicativo
 

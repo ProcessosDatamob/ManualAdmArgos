@@ -1,4 +1,4 @@
-# 17 BLOQUEIO DE SITES SECURITY BROWSER&#x20;
+# 🔐 17 BLOQUEIO DE SITES SECURITY BROWSER&#x20;
 
 **17 BLOQUEIO DE SITES - SECURITY BROWSER**
 
@@ -19,33 +19,33 @@ Para realizar a instalação do aplicativo, acesse o menu "Gerenciamento de Apli
 
 ![](<.gitbook/assets/0 (6) (1).png>)
 
-1. Abrirá a tela com mais informações do aplicativo. Clique no botão "**Selecionar**", conforme em destaque na próxima imagem.
+3. Abrirá a tela com mais informações do aplicativo. Clique no botão "**Selecionar**", conforme em destaque na próxima imagem.
 
 ![](<.gitbook/assets/1 (5) (1).png>)
 
-1. Clique no botão confirmar para efetivar a inclusão.
+4. Clique no botão confirmar para efetivar a inclusão.
 
 ![](<.gitbook/assets/2 (4) (1).png>)
 
-1. O aplicativo Security Browser aparecerá na lista de "**Aplicativos Gerenciados**", conforme pode ser visualizado na tela a seguir.
+5. O aplicativo Security Browser aparecerá na lista de "**Aplicativos Gerenciados**", conforme pode ser visualizado na tela a seguir.
 
 ![](<.gitbook/assets/3 (2) (1).png>)
 
-1. Acesse a tela "**Gerenciar Políticas**" no menu "**Configurações**".
-2. Clique no botão "**Nova Política**", para criar uma política para incluir o Security Browser.
-3. Ou edite uma política existente caso já tenha uma política criada. Para isso acesse os "..." no final da linha da política e escolha "**Editar Política**".
+6. Acesse a tela "**Gerenciar Políticas**" no menu "**Configurações**".
+7. Clique no botão "**Nova Política**", para criar uma política para incluir o Security Browser.
+8. Ou edite uma política existente caso já tenha uma política criada. Para isso acesse os "..." no final da linha da política e escolha "**Editar Política**".
 
 ![](<.gitbook/assets/4 (2) (1).png>)
 
-1. Na tela "**Editar Política**" selecione a guia "**Aplicativos**".
-2. Clique no botão "**Adicionar Aplicativos**''.
+9. Na tela "**Editar Política**" selecione a guia "**Aplicativos**".
+10. Clique no botão "**Adicionar Aplicativos**''.
 
 ![Interface gráfica do usuário, Aplicativo, Teams
 
 Descrição gerada automaticamente](<.gitbook/assets/5 (1) (1).png>)
 
-1. Marque o checkbox ao final da linha onde está o aplicativo Security Browser
-2. Clique no botão "**Adicionar selecionados**".
+11. Marque o checkbox ao final da linha onde está o aplicativo Security Browser
+12. Clique no botão "**Adicionar selecionados**".
 
 ![](<.gitbook/assets/6 (1) (1).png>)
 
@@ -61,16 +61,16 @@ O bloqueio de sites possibilita que o dispositivo seja utilizado para navegaçã
 
 ![](<.gitbook/assets/7 (2).png>)
 
-1. Se desejar bloquear a navegação em todos os sites ative o seletor destacado na figura.
+4. Se desejar bloquear a navegação em todos os sites ative o seletor destacado na figura.
 
 ![](<.gitbook/assets/8 (2).png>)
 
-1. Digite o site ou palavra-chave que deseja bloquear e clique no botão "**Adicionar**". As palavras ou sites adicionados vão sendo mostrados logo abaixo na tela.
-2. Use o seletor para bloquear ou desbloquear.
-3. Use a lixeira para excluir o site ou palavra-chave.
+5. Digite o site ou palavra-chave que deseja bloquear e clique no botão "**Adicionar**". As palavras ou sites adicionados vão sendo mostrados logo abaixo na tela.
+6. Use o seletor para bloquear ou desbloquear.
+7. Use a lixeira para excluir o site ou palavra-chave.
 
 ![](<.gitbook/assets/9 (1) (1).png>)
 
-1. Para realizar o bloqueio por categoria, clique sobre os seletores para ativar ou desativar o bloqueio da categoria desejada. Na tela abaixo estão bloqueadas as categorias: conteúdo adulto, conteúdo alcoólico, tabaco e compras.
+8. Para realizar o bloqueio por categoria, clique sobre os seletores para ativar ou desativar o bloqueio da categoria desejada. Na tela abaixo estão bloqueadas as categorias: conteúdo adulto, conteúdo alcoólico, tabaco e compras.
 
 ![](<.gitbook/assets/10 (1).png>)

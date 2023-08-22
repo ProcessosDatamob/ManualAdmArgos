@@ -10,15 +10,15 @@ Para saber como gerenciar os dispositivos ativos da empresa, siga os passos desc
 
 ![](<.gitbook/assets/0 (15).png>)
 
-1. Na parte superior da tela o sistema exibe a distribuição dos dispositivos, separados por fabricantes.
-2. A lista de dispositivos é mostrada na parte inferior da tela.
-3. Para localizar um dispositivo específico, digite o nome do usuário, IMEI ou ICCID do dispositivo no campo “Pesquisar”.
-4. Para exportar o relatório dos dispositivos, clique no botão “Excel”.
-5. Para copiar as informações dos dispositivos, clique no botão “Copiar”.
-6. Use os filtros fabricante, modelo, telefone, grupo e sistema operacional para encontrar os dispositivos de deseja listar.
-7. Ordene a listagem de dispositivos pelas colunas nas setas "↑↓".
-8. Clique no ">" para visualizar todas as informações do dispositivo.
-9. Use os três pontinhos "..." para exibir o menu de ações e aplicar a ação desejada ao dispositivo.
+2. Na parte superior da tela o sistema exibe a distribuição dos dispositivos, separados por fabricantes.
+3. A lista de dispositivos é mostrada na parte inferior da tela.
+4. Para localizar um dispositivo específico, digite o nome do usuário, IMEI ou ICCID do dispositivo no campo “Pesquisar”.
+5. Para exportar o relatório dos dispositivos, clique no botão “Excel”.
+6. Para copiar as informações dos dispositivos, clique no botão “Copiar”.
+7. Use os filtros fabricante, modelo, telefone, grupo e sistema operacional para encontrar os dispositivos de deseja listar.
+8. Ordene a listagem de dispositivos pelas colunas nas setas "↑↓".
+9. Clique no ">" para visualizar todas as informações do dispositivo.
+10. Use os três pontinhos "..." para exibir o menu de ações e aplicar a ação desejada ao dispositivo.
 
 ![](<.gitbook/assets/1 (14).png>)
 
@@ -200,13 +200,13 @@ O submenu Informações dos aplicativos mostra as informações dos aplicativos 
 
 ![](<.gitbook/assets/18 (2).png>)
 
-1. Na parte superior, pode ser filtrado por Grupo ou Usuários, de modo que a lista de aplicações é mostrada abaixo de acordo com o filtro selecionado;
-2. A lista de dispositivos é exibida na parte inferior da tela;
-3. Para buscar um aplicativo específico, escreva o nome do aplicativo no campo de Busca;
-4. Para exportar o relatório dos dispositivos, clique no botão "Excel";
-5. Para copiar as informações dos dispositivos, clique no botão "Copiar";
-6. Ordene a lista de aplicativos nas colunas clicando nas flechas “ ![](<.gitbook/assets/19 (2).png>)”
-7. Utilize os três pontos "..." para mostrar o menu de ações e ver os detalhes dos aplicativos;
+2. Na parte superior, pode ser filtrado por Grupo ou Usuários, de modo que a lista de aplicações é mostrada abaixo de acordo com o filtro selecionado;
+3. A lista de dispositivos é exibida na parte inferior da tela;
+4. Para buscar um aplicativo específico, escreva o nome do aplicativo no campo de Busca;
+5. Para exportar o relatório dos dispositivos, clique no botão "Excel";
+6. Para copiar as informações dos dispositivos, clique no botão "Copiar";
+7. Ordene a lista de aplicativos nas colunas clicando nas flechas “ ![](<.gitbook/assets/19 (2).png>)”
+8. Utilize os três pontos "..." para mostrar o menu de ações e ver os detalhes dos aplicativos;
 
 ![](<.gitbook/assets/20 (2).png>)
 

@@ -1,4 +1,4 @@
-# 🤳 19 ZERO TOUCH
+# 🤳 ZERO TOUCH
 
 **19 ZERO TOUCH**
 
@@ -34,42 +34,43 @@ Para configurar siga os seguintes passos:
 
 \[ [https://partner.android.com/zerotouch](https://partner.android.com/zerotouch) ]
 
-1. Selecione o ícone “+” à direita da tela para criação de uma nova configuração
+2. Selecione o ícone “+” à direita da tela para criação de uma nova configuração
 
 ![](<.gitbook/assets/1 (3).png>)
 
 É necessário preencher os seguintes campos que serão de identificação para o usuário do dispositivo.
 
-1. “Nome da Configuração”: Identifique a configuração desejada;
-2. “DPC do EMM”: Android Device Police;
-3. “Extras do DPC”: Seguir os passos do item 2.3;
-4. “Nome da Empresa”: Nome da Empresa;
-5. “Endereço de e-mail do suporte”: Informe o e-mail de suporte da sua empresa;
-6. “Número de telefone do suporte”: Informe o telefone de suporte da sua empresa.
+3. “Nome da Configuração”: Identifique a configuração desejada;
+4. “DPC do EMM”: Android Device Police;
+5. “Extras do DPC”: Seguir os passos do item 2.3;
+6. “Nome da Empresa”: Nome da Empresa;
+7. “Endereço de e-mail do suporte”: Informe o e-mail de suporte da sua empresa;
+8. “Número de telefone do suporte”: Informe o telefone de suporte da sua empresa.
 
 ![](<.gitbook/assets/2 (1) (1).png>)
 
-1. No Portal Datamob Enterprise, defina qual a política será aplicada ao Zero-Touch, podendo ser uma nova política ou já existente para configurar manualmente a política na configuração Zero-Touch seguindo os passos abaixo:
-   1. Acesse o menu “Configurações” do Datamob Enterprise;
-   2. Selecione a opção “Gerenciar Políticas”;
-   3. Selecione a política desejada;
-   4. No menu agrupado selecione “Token de Registro”;
-   5. Copie “Configuração Zero-Touch”.
+9. No Portal Datamob Enterprise, defina qual a política será aplicada ao Zero-Touch, podendo ser uma nova política ou já existente para configurar manualmente a política na configuração Zero-Touch seguindo os passos abaixo:
+10. Acesse o menu “Configurações” do Datamob Enterprise;
+11. Selecione a opção “Gerenciar Políticas”;
+12. Selecione a política desejada;
+13. No menu agrupado selecione “Token de Registro”;
+14. Copie “Configuração Zero-Touch”.
 
 ![Código QR
 
 Descrição gerada automaticamente](.gitbook/assets/3.png)
 
-1. No portal Zero-Touch, adicione esta informação no campo “Extras DPC” da Configuração Zero-Touch desejada
+15. No portal Zero-Touch, adicione esta informação no campo “Extras DPC” da Configuração Zero-Touch desejada
 
 ![](.gitbook/assets/4.png)
 
-1. Identifique o IMEI correspondente ao dispositivo que deseja registrar na configuração criada
-   1. Acesse o Portal Datamob Enterprise;
-   2. Selecione o menu “Dispositivos”
-   3. Selecione o submenu “Lista de Dispositivos”
-   4. Localize o dispositivo e copie a informação do IMEI
-2. Com a informação da IMEI do dispositivo, siga os passos abaixo:
+Identifique o IMEI correspondente ao dispositivo que deseja registrar na configuração criada
+
+1. Acesse o Portal Datamob Enterprise;
+2. Selecione o menu “Dispositivos”
+3. Selecione o submenu “Lista de Dispositivos”
+4. Localize o dispositivo e copie a informação do IMEI
+5. Com a informação da IMEI do dispositivo, siga os passos abaixo:
    1. Acesse o Portal Zero Touch e selecione o menu “Dispositivos”
 
 \[ [https://partner.android.com/zerotouch](https://partner.android.com/zerotouch) ]
