@@ -16,7 +16,3 @@ As opções do menu de configurações são:
 4. **Gerenciar Redes Wi-fi -** permite cadastrar redes de Wi-fi que posteriormente serão utilizadas nas Configurações de Políticas.
 
 As quatro opções do menu de "**Configurações**" são detalhadas nas próximas subseções.
-
-
-
-### &#x20;<a href="#_nx90bqcat6h" id="_nx90bqcat6h"></a>
