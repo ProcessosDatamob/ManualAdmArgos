@@ -30,13 +30,11 @@
 * [17 BLOQUEIO DE SITES SECURITY BROWSER ](17-bloqueio-de-sites-security-browser.md)
 * [📱 18 DISPOSITIVOS ](18-dispositivos.md)
 * [🤳 19 ZERO TOUCH](19-zero-touch.md)
-* [20 SITES ](20-sites.md)
-
-## Comandos
-
-* [Comandos](comandos/comandos/README.md)
-  * [22 COMPARTILHAR DOCUMENTOS](comandos/comandos/22-compartilhar-documentos.md)
-  * [23 GEOLOCALIZAÇÃO](comandos/comandos/23-geolocalizacao.md)
-  * [24 LOCALIZAÇÃO DOS DISPOSITIVOS](comandos/comandos/24-localizacao-dos-dispositivos.md)
-  * [25 HISTÓRICO DE LOCALIZAÇÃO](comandos/comandos/25-historico-de-localizacao.md)
-  * [26 AJUDA](comandos/comandos/26-ajuda.md)
+* [💻 20 SITES ](20-sites.md)
+* [💬 21 MENSAGENS E COMANDOS](21-mensagens-e-comandos.md)
+* [🔁 22 COMPARTILHAR DOCUMENTOS](22-compartilhar-documentos.md)
+* [🌎 LOCALIZAÇÃO](localizacao/README.md)
+  * [23 GEOLOCALIZAÇÃO](localizacao/23-geolocalizacao.md)
+  * [24 LOCALIZAÇÃO DOS DISPOSITIVOS](localizacao/24-localizacao-dos-dispositivos.md)
+  * [25 HISTÓRICO DE LOCALIZAÇÃO](localizacao/25-historico-de-localizacao.md)
+* [❓ 26 AJUDA](26-ajuda.md)

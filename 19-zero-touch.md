@@ -47,7 +47,7 @@ Para configurar siga os seguintes passos:
 5. “Endereço de e-mail do suporte”: Informe o e-mail de suporte da sua empresa;
 6. “Número de telefone do suporte”: Informe o telefone de suporte da sua empresa.
 
-![](<.gitbook/assets/2 (1).png>)
+![](<.gitbook/assets/2 (1) (1).png>)
 
 1. No Portal Datamob Enterprise, defina qual a política será aplicada ao Zero-Touch, podendo ser uma nova política ou já existente para configurar manualmente a política na configuração Zero-Touch seguindo os passos abaixo:
    1. Acesse o menu “Configurações” do Datamob Enterprise;

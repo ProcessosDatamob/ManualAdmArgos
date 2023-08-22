@@ -8,7 +8,7 @@ Para visualizar os consumos, siga os passos descritos abaixo.
 
 1. Clique no menu “**Empresa**” e selecione o submenu “**Consumos**”.
 
-![](<.gitbook/assets/0 (1) (1).png>)
+![](<.gitbook/assets/0 (1) (1) (1).png>)
 
 ![Interface gráfica do usuário, Texto, Aplicativo, Email
 

@@ -14,13 +14,13 @@ Ao acessar a tela, todas as informações serão exibidas separadas por seções
 
 2. Ao habilitar a opção do filtro “Roaming internacional”, no canto superior direito da tela, o sistema exibirá somente as informações coletadas quando os dispositivos estiverem utilizando uma conexão em Roaming.
 
-![](<.gitbook/assets/1 (1) (1).png>)
+![](<.gitbook/assets/1 (1) (1) (1).png>)
 
 Os filtros “Empresa”, “Grupo” e “Usuário” permitem realizar uma análise dos dados dos dispositivos de um nível determinado.
 
 3. Clique no filtro “**Empresa**”, digite e selecione o nome da empresa para exibir as informações coletadas de todos os dispositivos.
 
-![](<.gitbook/assets/2 (1) (1).png>)
+![](<.gitbook/assets/2 (1) (1) (1).png>)
 
 4. Clique no filtro “**Grupo**”, digite e selecione o nome do grupo, para exibir as informações coletadas de todos os dispositivos que fazem parte de um Grupo.
 
