@@ -1,4 +1,4 @@
-# 16.1 Gerenciar Políticas
+# Gerenciar Políticas
 
 **16.1 Gerenciar Políticas**
 
