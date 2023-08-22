@@ -19,7 +19,7 @@
   * [GERENCIAR USUÁRIOS ADMINISTRADORES](14-gerenciar-usuarios-administradores.md)
 * [📲 GERENCIAMENTO DE APLICATIVOS](gerenciamento-de-aplicativos/README.md)
   * [APLICATIVOS GERENCIADOS](gerenciamento-de-aplicativos/aplicativos-gerenciados.md)
-  * [GOOGE PLAY GERENCIADA](gerenciamento-de-aplicativos/googe-play-gerenciada.md)
+  * [GOOGLE PLAY GERENCIADA](gerenciamento-de-aplicativos/google-play-gerenciada.md)
 * [⚙ CONFIGURAÇÕES](configuracoes/README.md)
   * [Gerenciar Políticas](configuracoes/16.1-gerenciar-politicas/README.md)
     * [Configurações Gerais](configuracoes/16.1-gerenciar-politicas/configuracoes-gerais.md)

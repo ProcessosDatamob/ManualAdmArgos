@@ -1,6 +1,4 @@
-# GOOGE PLAY GERENCIADA
-
-**GOOGLE PLAY GERENCIADA**
+# GOOGLE PLAY GERENCIADA
 
 A Google Play Gerenciada permite que sejam selecionados os aplicativos que estarão disponíveis para download nos dispositivos da empresa.
 
@@ -54,7 +52,7 @@ Para fazer upload de aplicativos próprios da empresa, siga os seguintes passos:
 
 ![](<../.gitbook/assets/10 (3).png>)
 
-{% hint style="warning" %}
+{% hint style="danger" %}
 **IMPORTANTE**
 
 Os aplicativos privados devem ter um nome de pacote exclusivo que não tenha sido usado antes quando carregado em sua loja Google Play gerenciada.
