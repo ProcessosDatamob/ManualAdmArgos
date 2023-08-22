@@ -21,12 +21,12 @@ Descrição gerada automaticamente](<../.gitbook/assets/0 (1).png>)
 
 ![](<../.gitbook/assets/1 (1).png>)
 
-1. Selecione o usuário do dispositivo que deseja visualizar as localizações;
-2. Selecione a data em que as localizações foram registradas;
-3. Especifique o fuso horário em que deseja visualizar as localizações;
-4. Selecione o limite de precisão das localizações;
-5. Clique no botão “Buscar” para exibir as localizações no mapa, de acordo com filtro especificado;
-6. O sistema exibirá as localizações com marcadores formando o percurso realizado pelo usuário do dispositivo. Os marcadores possuem cores diferentes, que indicam o tipo da localização. Utilize a legenda para identificar o tipo:
+3. Selecione o usuário do dispositivo que deseja visualizar as localizações;
+4. Selecione a data em que as localizações foram registradas;
+5. Especifique o fuso horário em que deseja visualizar as localizações;
+6. Selecione o limite de precisão das localizações;
+7. Clique no botão “Buscar” para exibir as localizações no mapa, de acordo com filtro especificado;
+8. O sistema exibirá as localizações com marcadores formando o percurso realizado pelo usuário do dispositivo. Os marcadores possuem cores diferentes, que indicam o tipo da localização. Utilize a legenda para identificar o tipo:
 
 **Posição inicial da leitura do GPS** – primeira localização do dispositivo registrada no dia;
 

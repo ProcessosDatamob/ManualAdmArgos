@@ -26,10 +26,10 @@ Para saber como enviar mensagens e comandos, siga os passos descritos nesta seç
 
 Descrição gerada automaticamente](.gitbook/assets/0.png)
 
-1. Para enviar mensagens e comandos para todos os dispositivos da empresa, selecione a empresa.
-2. Para enviar mensagens e comandos para os dispositivos de um ou mais grupos, selecione os grupos.
-3. Para enviar mensagens e comandos para um ou mais usuários de dispositivos específicos, selecione os usuários de dispositivos.
-4. Também é possível enviar a mesma mensagem ou comando, para empresa, grupos e usuários de dispositivos, simultaneamente. Para isso, basta preencher os campos e fazer a combinação que desejar.
+3. Para enviar mensagens e comandos para todos os dispositivos da empresa, selecione a empresa.
+4. Para enviar mensagens e comandos para os dispositivos de um ou mais grupos, selecione os grupos.
+5. Para enviar mensagens e comandos para um ou mais usuários de dispositivos específicos, selecione os usuários de dispositivos.
+6. Também é possível enviar a mesma mensagem ou comando, para empresa, grupos e usuários de dispositivos, simultaneamente. Para isso, basta preencher os campos e fazer a combinação que desejar.
 
 {% hint style="info" %}
 **OBSERVAÇÃO**
@@ -37,20 +37,20 @@ Descrição gerada automaticamente](.gitbook/assets/0.png)
 Caso um dispositivo seja informado em dois campos (ex.: grupo e usuário), ele receberá duas mensagens ou comandos.
 {% endhint %}
 
-1. Caso queira excluir da seleção a empresa, o grupo ou o usuário de dispositivo, clique no “x” ao lado do item selecionado.
-2. Digite a mensagem ou comando.
-3. Clique no botão “Enviar”, para colocar a mensagem ou comando na fila de envio.
-4. Ao colocar a mensagem ou comando na fila de envio, o sistema exibirá o comando ou a mensagem no relatório de envio.
+7. Caso queira excluir da seleção a empresa, o grupo ou o usuário de dispositivo, clique no “x” ao lado do item selecionado.
+8. Digite a mensagem ou comando.
+9. Clique no botão “Enviar”, para colocar a mensagem ou comando na fila de envio.
+10. Ao colocar a mensagem ou comando na fila de envio, o sistema exibirá o comando ou a mensagem no relatório de envio.
 
 ![Interface gráfica do usuário, Texto, Aplicativo, Email
 
 Descrição gerada automaticamente](.gitbook/assets/1.png)
 
-1. Caso queira visualizar uma mensagem ou comando específico, digite o texto no campo “Pesquisar”;
-2. Para ordenar as informações exibidas, clique no título da coluna “data”;
-3. Para saber mais informações clique nos "..." e escolha "Visualizar Mensagem";
-4. Para exportar o relatório dos aplicativos, clique em “Excel”;
-5. Para copiar as informações do relatório dos aplicativos, clique em “Copiar”;
+11. Caso queira visualizar uma mensagem ou comando específico, digite o texto no campo “Pesquisar”;
+12. Para ordenar as informações exibidas, clique no título da coluna “data”;
+13. Para saber mais informações clique nos "..." e escolha "Visualizar Mensagem";
+14. Para exportar o relatório dos aplicativos, clique em “Excel”;
+15. Para copiar as informações do relatório dos aplicativos, clique em “Copiar”;
 
 ![Interface gráfica do usuário, Aplicativo, Teams
 
