@@ -11,9 +11,9 @@ Para visualizar ou alterar os dados da empresa, siga os passos descritos abaixo:
 3. As informações de todos os outros campos podem ser alteradas.
 4. Após finalizar, clique em “Atualizar” para salvar as alterações.
 
-![](<../.gitbook/assets/0 (8) (1).png>)
+![](<.gitbook/assets/0 (8) (1).png>)
 
-![](<../.gitbook/assets/1 (7) (1).png>)
+![](<.gitbook/assets/1 (7) (1).png>)
 
 **5.1 Excluir Empresa**
 
@@ -28,4 +28,4 @@ Esta é uma ação irreversível. Para cancelar efetivamente o serviço, a empre
 
 A tela abaixo é exibida ao clicar sobre **"Excluir Empresa".**
 
-![](<../.gitbook/assets/2 (5) (1).png>)
+![](<.gitbook/assets/2 (5) (1).png>)

@@ -1,4 +1,4 @@
-# DASHBOARD
+# 📊 DASHBOARD
 
 **4 DASHBOARD**
 

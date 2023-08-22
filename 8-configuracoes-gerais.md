@@ -8,11 +8,11 @@ Para saber como configurar a empresa siga os passos descritos nesta sessão:
 
 1. Clique no menu “**Empresa**” e selecione o submenu “**Configurações Gerais**”.
 
-![](<../.gitbook/assets/0 (9).png>)
+![](<.gitbook/assets/0 (9).png>)
 
 1. **Início do ciclo -** Utilizamos este campo para definir a data de início da contabilização dos dados que serão analisados;
 2. **Sincronizar a cada -** Este campo define o tempo de sincronização do portal, ou seja, o tempo para sincronizar com os dados recebidos dos dispositivos.
 3. **Configurações de Trabalho (Dias da Semana) -** Este campo possibilita ao administrador definir os dias de trabalho da empresa. O sistema considera a segunda como o primeiro dia da semana.
 4. **Configurações Diversas - E-mail de Aviso -** Esta configuração ativa o envio de notificação via e-mail ao administrador, quando o dispositivo atinge 80%, 90% e 100% do perfil de consumo configurado.
 
-![](<../.gitbook/assets/1 (8) (1).png>)
+![](<.gitbook/assets/1 (8) (1).png>)

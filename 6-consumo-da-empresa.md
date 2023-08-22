@@ -8,11 +8,11 @@ Para visualizar os consumos, siga os passos descritos abaixo.
 
 1. Clique no menu “**Empresa**” e selecione o submenu “**Consumos**”.
 
-![](<../.gitbook/assets/0 (1) (1).png>)
+![](<.gitbook/assets/0 (1) (1).png>)
 
 ![Interface gráfica do usuário, Texto, Aplicativo, Email
 
-Descrição gerada automaticamente](<../.gitbook/assets/1 (8).png>)
+Descrição gerada automaticamente](<.gitbook/assets/1 (8).png>)
 
 1. Clique na aba “Dados” ou “SMS” para escolher o tipo de consumo que deseja visualizar.
 2. Preencha as datas do intervalo em que os Dados ou SMS que deseja visualizar foram consumidos. Ao clicar em "Buscar" serão exibidos os históricos de consumo, por usuário, no período especificado.
@@ -23,4 +23,4 @@ Descrição gerada automaticamente](<../.gitbook/assets/1 (8).png>)
 
 ![Interface gráfica do usuário, Aplicativo, Teams
 
-Descrição gerada automaticamente](<../.gitbook/assets/2 (5).png>)
+Descrição gerada automaticamente](<.gitbook/assets/2 (5).png>)

@@ -1,4 +1,4 @@
-# 16 CONFIGURAÇÕES&#x20;
+# ⚙ 16 CONFIGURAÇÕES&#x20;
 
 **16 CONFIGURAÇÕES**
 
