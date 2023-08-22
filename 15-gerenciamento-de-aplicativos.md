@@ -30,7 +30,11 @@ A tela possui elementos padrão que são semelhantes a outras telas do sistema. 
 
 Descrição gerada automaticamente](<.gitbook/assets/2 (7).png>)
 
-**Importante!** Se o aplicativo for removido da “Google Play Gerenciada” é recomendado que o aplicativo seja removido da “Lista de Aplicativos”.
+{% hint style="warning" %}
+**IMPORTANTE**
+
+Se o aplicativo for removido da “Google Play Gerenciada” é recomendado que o aplicativo seja removido da “Lista de Aplicativos”.
+{% endhint %}
 
 1. Para gerar o relatório dos aplicativos, clique na opção “Excel”. O sistema pode gerar um relatório somente com as informações que estão na primeira página ou um relatório completo. Clique na opção desejada para que o sistema comece o processamento.
 

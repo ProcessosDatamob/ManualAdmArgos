@@ -6,7 +6,7 @@ Essa tela do sistema tem como objetivo possibilitar a criação de um usuário d
 
 Para criar um usuário administrador, clique no menu “**Usuários**” e selecione o submenu “**Cadastrar novo usuário administrador**”.
 
-![](<.gitbook/assets/0 (3) (1).png>)
+![](<../.gitbook/assets/0 (3) (1).png>)
 
 Ao acessar a tela, o sistema não permitirá alterar as informações do campo “Empresa” pois é essencial para o funcionamento correto das regras do sistema. Proceda com os seguintes passos:
 
@@ -17,7 +17,7 @@ Ao acessar a tela, o sistema não permitirá alterar as informações do campo �
 
 ![Interface gráfica do usuário, Aplicativo
 
-Descrição gerada automaticamente](<.gitbook/assets/1 (2) (1).png>)
+Descrição gerada automaticamente](<../.gitbook/assets/1 (2) (1).png>)
 
 1. Selecione qual será o tipo do usuário:
 
@@ -31,6 +31,6 @@ Se for um responsável de grupo, mais opções serão exibidas:
 
 ![Interface gráfica do usuário, Texto, Aplicativo, Email
 
-Descrição gerada automaticamente](<.gitbook/assets/2 (2) (1).png>)
+Descrição gerada automaticamente](<../.gitbook/assets/2 (2) (1).png>)
 
 1. Clique no botão “Cadastrar” para concluir o cadastro do usuário.

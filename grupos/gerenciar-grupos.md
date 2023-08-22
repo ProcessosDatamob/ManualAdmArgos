@@ -8,7 +8,7 @@ Para administrar um grupo, siga os passos descritos abaixo.
 
 1. A tela de administração de grupos pode ser acessada clicando no menu “**Grupos**” e selecionando o submenu “**Gerenciar Grupos**”. Esta tela também é exibida ao concluir o cadastro de um novo grupo. Esta tela é apresentada na sequência do texto.
 
-![](<.gitbook/assets/0 (4) (1).png>)
+![](<../.gitbook/assets/0 (4) (1).png>)
 
 1. Ao entrar na tela, a lista de grupos cadastrados é exibida.
 2. É possível utilizar o filtro de telefone para encontrar o grupo de um usuário.
@@ -16,7 +16,7 @@ Para administrar um grupo, siga os passos descritos abaixo.
 
 ![Interface gráfica do usuário, Texto, Aplicativo, Email
 
-Descrição gerada automaticamente](<.gitbook/assets/1 (3) (1).png>)
+Descrição gerada automaticamente](<../.gitbook/assets/1 (3) (1).png>)
 
 1. Para editar um grupo clique nos três pontinhos que aparecem à direita na linha do grupo. Escolha a opção "Editar Grupo". Na edição é possível incluir ou excluir usuários do grupo.
 2. Para excluir um grupo clique nos três pontinhos que aparecem à direita na linha do grupo. Escolha a opção "Remover Grupo".

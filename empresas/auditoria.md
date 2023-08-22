@@ -8,7 +8,7 @@ Para saber como utilizar esta tela siga os passos descritos nesta sessão:
 
 1. Clique no menu “**Empresa**” e selecione o submenu “**Auditoria**”.
 
-![](<.gitbook/assets/0 (14).png>)
+![](<../.gitbook/assets/0 (14).png>)
 
 1. Selecione o intervalo de datas que deseja consultar as informações;
 2. Utilizar o campo “Usuários” caso queira consultar informações de um usuário específico;
@@ -16,4 +16,4 @@ Para saber como utilizar esta tela siga os passos descritos nesta sessão:
 4. Pode ser selecionado também o tipo de categoria, sendo elas: Empresa, dispositivo ou Política;
 5. Para copiar as informações, basta clicar no botão “Copiar”
 
-![](<.gitbook/assets/1 (13).png>)
+![](<../.gitbook/assets/1 (13).png>)
