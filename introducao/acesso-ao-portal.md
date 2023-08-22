@@ -15,13 +15,13 @@ Para acessar o Portal de Administração, siga os passos descritos nesta seção
 
 ![Interface gráfica do usuário, Texto, Aplicativo, chat ou mensagem de texto
 
-Descrição gerada automaticamente](<.gitbook/assets/0 (5) (1).png>)
+Descrição gerada automaticamente](<../.gitbook/assets/0 (5) (1).png>)
 
 Em seu primeiro acesso, após clicar em "Iniciar Sessão”, o usuário deverá confirmar os dados da empresa. A tela de confirmação dos dados da empresa aparecerá somente no primeiro acesso e é mostrada na figura a seguir.
 
 ![Interface gráfica do usuário, Aplicativo
 
-Descrição gerada automaticamente](<.gitbook/assets/1 (4) (1).png>)
+Descrição gerada automaticamente](<../.gitbook/assets/1 (4) (1).png>)
 
 1. Confirmar o Nome da Empresa e E-mail;&#x20;
 2. Criar uma senha;
@@ -41,13 +41,13 @@ O token de confirmação deve ser inserido na tela para confirmar o cadastro da 
 
 ![Interface gráfica do usuário, Aplicativo
 
-Descrição gerada automaticamente](<.gitbook/assets/2 (3) (1).png>)
+Descrição gerada automaticamente](<../.gitbook/assets/2 (3) (1).png>)
 
 Caso não tenha recebido o Token por e-mail, o usuário pode solicitar que seja enviado novamente clicando na opção **“Reenviar código"** que fica disponível logo acima do botão "Confirmar".
 
 ![Interface gráfica do usuário, Aplicativo, Teams
 
-Descrição gerada automaticamente](<.gitbook/assets/3 (1) (1).png>)
+Descrição gerada automaticamente](<../.gitbook/assets/3 (1) (1).png>)
 
 Após esta confirmação, o sistema abrirá a tela da Google Play. Este é o passo final do primeiro acesso ao Portal. Nesta tela será realizada a configuração de uma conta Google Play para a empresa. Esta etapa é importante para que a empresa gerencie os aplicativos que estarão disponíveis em seus dispositivos. A tela é mostrada a seguir.
 
@@ -55,7 +55,7 @@ Na tela Google Play use o botão “Fazer Login" para escolher uma conta ou cada
 
 ![Interface gráfica do usuário
 
-Descrição gerada automaticamente](<.gitbook/assets/4 (1) (1).png>)
+Descrição gerada automaticamente](<../.gitbook/assets/4 (1) (1).png>)
 
 Durante a criação desta conta Google serão solicitadas mais informações na tela "Detalhes do Contato". &#x20;
 
@@ -65,13 +65,13 @@ A tela de "Detalhes do Contato" é apresentada na sequência.&#x20;
 
 ![Interface gráfica do usuário, Texto, Aplicativo, Site
 
-Descrição gerada automaticamente](<.gitbook/assets/5 (1).png>)
+Descrição gerada automaticamente](<../.gitbook/assets/5 (1).png>)
 
 Após confirmar os dados, será exibida a tela do P<mark style="background-color:orange;">ortal de Administração Datamob Enterprise</mark> com a mensagem "Parabéns! Sua empresa foi registrada no Android Enterprise com sucesso."&#x20;
 
 ![Interface gráfica do usuário, Texto, Aplicativo
 
-Descrição gerada automaticamente](<.gitbook/assets/6 (1).png>)
+Descrição gerada automaticamente](<../.gitbook/assets/6 (1).png>)
 
 Clique em "Ok" e poderá iniciar as configurações necessárias para gerenciar os dispositivos da sua empresa.
 
@@ -83,12 +83,12 @@ Caso não lembre a senha de acesso ao portal, realize os seguintes passos para r
 
 ![Interface gráfica do usuário, Texto, Aplicativo, chat ou mensagem de texto
 
-Descrição gerada automaticamente](<.gitbook/assets/7 (1) (1).png>)
+Descrição gerada automaticamente](<../.gitbook/assets/7 (1) (1).png>)
 
 2. Preencha o seu E-mail de usuário e confirme.
 
 ![Interface gráfica do usuário, Texto, Aplicativo, chat ou mensagem de texto
 
-Descrição gerada automaticamente](<.gitbook/assets/8 (1) (1).png>)
+Descrição gerada automaticamente](<../.gitbook/assets/8 (1) (1).png>)
 
 Ao clicar em “**Confirmar**” o sistema enviará uma mensagem ao seu endereço de E-mail com instruções para troca de senha.&#x20;

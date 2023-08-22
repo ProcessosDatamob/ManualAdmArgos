@@ -1,9 +1,9 @@
 # Table of contents
 
-* [Page](README.md)
-* [INFORMAÇÕES GERAIS](1-informacoes-gerais.md)
-* [ACESSO AO PORTAL](2-acesso-ao-portal.md)
-* [CONFIGURAÇÕES INICIAIS E NÍVEIS](niveis.md)
+* [INTRODUÇÃO](README.md)
+  * [INFORMAÇÕES GERAIS](introducao/informacoes-gerais.md)
+  * [ACESSO AO PORTAL](introducao/acesso-ao-portal.md)
+  * [CONFIGURAÇÕES INICIAIS E NÍVEIS](introducao/configuracoes-iniciais-e-niveis.md)
 * [DASHBOARD](4-dashboard.md)
 * [INFORMAÇÕES DA EMPRESA](5-informacoes-da-empresa.md)
 * [CONSUMO DA EMPRESA](6-consumo-da-empresa.md)
