@@ -2,8 +2,6 @@
 
 ### 1 INFORMAÇÕES GERAIS <a href="#_2et92p0" id="_2et92p0"></a>
 
-Este manual tem como objetivo, auxiliar o usuário administrador na utilização e configuração do <mark style="background-color:orange;">Portal Datamob Enterprise.</mark>
-
 **1.1 Visão Geral da Solução**
 
 O <mark style="background-color:orange;">Portal Datamob Enterprise</mark>  é uma solução de Gerenciamento de Mobilidade Corporativa composta por:

@@ -23,11 +23,11 @@ Em seu primeiro acesso, após clicar em "Iniciar Sessão”, o usuário deverá 
 
 Descrição gerada automaticamente](<../.gitbook/assets/1 (4) (1).png>)
 
-1. Confirmar o Nome da Empresa e E-mail;&#x20;
-2. Criar uma senha;
-3. Repetir a digitação da senha para confirmá-la;
-4. Marcar que concorda com a Política de Privacidade e com o Termos de uso;
-5. Clicar no botão "Próximo''.
+4. Confirmar o Nome da Empresa e E-mail;&#x20;
+5. Criar uma senha;
+6. Repetir a digitação da senha para confirmá-la;
+7. Marcar que concorda com a Política de Privacidade e com o Termos de uso;
+8. Clicar no botão "Próximo''.
 
 Após o passo 5, uma nova tela de confirmação de E-mail irá aparecer. Uma mensagem com um token de confirmação é enviada para o Email da empresa.&#x20;
 
