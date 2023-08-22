@@ -8,7 +8,7 @@ A tela "**Editar política**" posicionada na guia "**Aplicativos**" é apresenta
 
 ![Interface gráfica do usuário, Aplicativo, Teams
 
-Descrição gerada automaticamente](<../../.gitbook/assets/6 (2).png>)
+Descrição gerada automaticamente](<../.gitbook/assets/6 (2).png>)
 
 As telas apresentam as seguintes partes, conforme numeração na figura:
 
@@ -19,9 +19,13 @@ As telas apresentam as seguintes partes, conforme numeração na figura:
 5. Mais ações ("...") que podem ser realizadas com o aplicativo: Configurações Gerenciadas, Permissões, Configurações Avançadas e Remover Aplicativo.
 6. Adicionar Aplicativos - permite adicionar aplicativos para gerenciamento.
 
-**Importante:** Os aplicativos precisam ser primeiramente adicionados usando a **Google Play Gerenciada (ver seção 15.2)**. Clique no botão "Adicionar Aplicativos" e a tela a seguir será exibida.
+{% hint style="warning" %}
+**IMPORTANTE**
 
-![](<../../.gitbook/assets/7 (3).png>)
+Os aplicativos precisam ser primeiramente adicionados usando a **Google Play Gerenciada (ver seção 15.2)**. Clique no botão "Adicionar Aplicativos" e a tela a seguir será exibida.
+{% endhint %}
+
+![](<../.gitbook/assets/7 (3).png>)
 
 Estando a janela "**Adicionar aplicativos**" aberta, conforme figura anterior, para adicionar aplicativos na política, siga os seguintes passos:
 
@@ -37,9 +41,13 @@ Para acessar as configurações gerenciadas de um aplicativo é necessário esta
 
 ![Interface gráfica do usuário, Texto, Aplicativo, Teams
 
-Descrição gerada automaticamente](<../../.gitbook/assets/8 (3).png>)
+Descrição gerada automaticamente](<../.gitbook/assets/8 (3).png>)
 
-**IMPORTANTE**: O aplicativo **Security Browser** é o navegador web padrão do sistema **Datamob Enterprise** e com ele é possível gerenciar bloqueios de sites por URL e categoria, bem como monitorar a navegação do usuário. Consulte a seção 16, para informações detalhadas sobre a instalação e configuração do aplicativo **Security** **Browser**.
+{% hint style="warning" %}
+**IMPORTANTE**
+
+O aplicativo **Security Browser** é o navegador web padrão do sistema **Datamob Enterprise** e com ele é possível gerenciar bloqueios de sites por URL e categoria, bem como monitorar a navegação do usuário. Consulte a seção 16, para informações detalhadas sobre a instalação e configuração do aplicativo **Security** **Browser**.
+{% endhint %}
 
 Após o passo 2 a tela a seguir será exibida. Nesta tela temos os seguintes itens:
 
@@ -47,7 +55,7 @@ Após o passo 2 a tela a seguir será exibida. Nesta tela temos os seguintes ite
 2. Lista de configurações gerenciadas disponíveis para o aplicativo selecionado. Clicando sobre cada linha as configurações são exibidas;
 3. Link para voltar para a lista de aplicativos.
 
-![](<../../.gitbook/assets/9 (2).png>)
+![](<../.gitbook/assets/9 (2).png>)
 
 * **Permissões**
 
@@ -56,11 +64,11 @@ Para acessar as configurações de permissões de um aplicativo é necessário e
 1. Localize o aplicativo desejado e clique nos três pontinhos, localizados no final da linha, para exibir o menu com mais opções;
 2. Clique sobre "**Permissões**".
 
-![](<../../.gitbook/assets/10 (2).png>)
+![](<../.gitbook/assets/10 (2).png>)
 
 Após o passo 2 a tela a seguir será exibida. A lista de permissões, que podem ser configuradas no aplicativo selecionado, é exibida nesta tela.
 
-![](<../../.gitbook/assets/11 (1).png>)
+![](<../.gitbook/assets/11 (1).png>)
 
 As permissões podem ser configuradas como: Solicitar ao usuário, Ativada ou Negada.
 
@@ -71,14 +79,14 @@ Para acessar as configurações avançadas de um aplicativo é necessário estar
 1. Localize o aplicativo desejado e clique nos três pontinhos, localizados no final da linha, para exibir o menu com mais opções;
 2. Clique sobre "**Configurações Avançadas**".
 
-![](<../../.gitbook/assets/12 (1).png>)
+![](<../.gitbook/assets/12 (1).png>)
 
 Após o passo 2 a tela a seguir será exibida. Nesta tela temos os seguintes itens:
 
 1. **Prioridade de Atualização** - Defina a prioridade de atualização do aplicativo como pré-definida, postergada ou prioritária.
 2. **Versão mínima -** permite definir uma versão mínima do aplicativo.
 
-![](<../../.gitbook/assets/13 (1).png>)
+![](<../.gitbook/assets/13 (1).png>)
 
 * **Remover Aplicativo**
 
@@ -87,10 +95,14 @@ Para excluir um aplicativo da política é necessário estar na tela "**Editar P
 1. Localize o aplicativo desejado e clique nos três pontinhos, localizados no final da linha, para exibir o menu com mais opções;
 2. Clique sobre "**Remover Aplicativo**".
 
-![](<../../.gitbook/assets/14 (1).png>)
+![](<../.gitbook/assets/14 (1).png>)
 
 Após o passo 2 a tela a seguir será exibida para confirmação da exclusão. Clique no botão "Remover" para remover o aplicativo da lista.
 
-![](<../../.gitbook/assets/15 (1).png>)
+![](<../.gitbook/assets/15 (1).png>)
 
-**Observação:** o aplicativo será removido da listagem de aplicativos da política que está sendo editada, porém ele permanecerá nos Aplicativos Gerenciados, pode ser incluído novamente na política e pode fazer parte das configurações de outras políticas.
+{% hint style="info" %}
+**OBSERVAÇÃO**
+
+O aplicativo será removido da listagem de aplicativos da política que está sendo editada, porém ele permanecerá nos Aplicativos Gerenciados, pode ser incluído novamente na política e pode fazer parte das configurações de outras políticas.
+{% endhint %}

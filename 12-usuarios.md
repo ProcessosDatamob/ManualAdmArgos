@@ -1,4 +1,4 @@
-# 12 USUÁRIOS
+# USUÁRIOS
 
 **12 USUÁRIOS**
 

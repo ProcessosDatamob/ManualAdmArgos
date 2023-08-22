@@ -32,7 +32,7 @@ Descrição gerada automaticamente](<.gitbook/assets/1 (4) (1).png>)
 Após o passo 5, uma nova tela de confirmação de E-mail irá aparecer. Uma mensagem com um token de confirmação é enviada para o Email da empresa.&#x20;
 
 {% hint style="info" %}
-OBSERVAÇÃO:
+**OBSERVAÇÃO**
 
 O E-mail de confirmação é uma mensagem automática e pode ser identificada em seu provedor de e-mail como spam. Por isso, caso não tenha recebido, verifique também na caixa de spam.
 {% endhint %}

@@ -8,9 +8,9 @@ Este método de implantação é perfeito para dispositivos Android corporativos
 
 Para usar o registro Zero Touch, você precisará de dispositivos compatíveis com Android 8.0 ou superior. Além disso, todos os dispositivos com Android 9 e superior são compatíveis com toque zero.
 
-Veja a lista de dispositivos compatíveis com Zero Touch:
-
-[https://androidenterprisepartners.withgoogle.com/devices/#!?device\_features=zero\_touch](https://androidenterprisepartners.withgoogle.com/devices/#!?device\_features=zero\_touch)
+> Veja a lista de dispositivos compatíveis com Zero Touch:
+>
+> [https://androidenterprisepartners.withgoogle.com/devices/#!?device\_features=zero\_touch](https://androidenterprisepartners.withgoogle.com/devices/#!?device\_features=zero\_touch)
 
 **19.1 Vinculação da Conta Zero Touch**
 
@@ -40,13 +40,12 @@ Para configurar siga os seguintes passos:
 
 É necessário preencher os seguintes campos que serão de identificação para o usuário do dispositivo.
 
-*
-  1. “Nome da Configuração”: Identifique a configuração desejada;
-  2. “DPC do EMM”: Android Device Police;
-  3. “Extras do DPC”: Seguir os passos do item 2.3;
-  4. “Nome da Empresa”: Nome da Empresa;
-  5. “Endereço de e-mail do suporte”: Informe o e-mail de suporte da sua empresa;
-  6. “Número de telefone do suporte”: Informe o telefone de suporte da sua empresa.
+1. “Nome da Configuração”: Identifique a configuração desejada;
+2. “DPC do EMM”: Android Device Police;
+3. “Extras do DPC”: Seguir os passos do item 2.3;
+4. “Nome da Empresa”: Nome da Empresa;
+5. “Endereço de e-mail do suporte”: Informe o e-mail de suporte da sua empresa;
+6. “Número de telefone do suporte”: Informe o telefone de suporte da sua empresa.
 
 ![](<.gitbook/assets/2 (1).png>)
 
@@ -61,8 +60,7 @@ Para configurar siga os seguintes passos:
 
 Descrição gerada automaticamente](.gitbook/assets/3.png)
 
-*
-  1. No portal Zero-Touch, adicione esta informação no campo “Extras DPC” da Configuração Zero-Touch desejada
+1. No portal Zero-Touch, adicione esta informação no campo “Extras DPC” da Configuração Zero-Touch desejada
 
 ![](.gitbook/assets/4.png)
 
@@ -76,10 +74,9 @@ Descrição gerada automaticamente](.gitbook/assets/3.png)
 
 \[ [https://partner.android.com/zerotouch](https://partner.android.com/zerotouch) ]
 
-*
-  1. No campo “Escolher um identificador” selecione a opção “IMEI”;
-  2. Insira o IMEI no campo “Insira o IMEI, MEID ou número de série”
-  3. Selecione o botão “pesquisar”
+1. No campo “Escolher um identificador” selecione a opção “IMEI”;
+2. Insira o IMEI no campo “Insira o IMEI, MEID ou número de série”
+3. Selecione o botão “pesquisar”
 
 ![](.gitbook/assets/5.png)
 

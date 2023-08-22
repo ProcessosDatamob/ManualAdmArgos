@@ -15,13 +15,13 @@ As configurações gerais são agrupadas nos tipos:
 9. Tela de Bloqueio;
 10. Usuário;
 
-![](<../../.gitbook/assets/4 (3).png>)
+![](<../.gitbook/assets/4 (3).png>)
 
 Os grupos de configurações são apresentados nas próximas subseções.
 
 Use os botões seletores para ativar ou desativar as configurações de bloqueio. Na próxima imagem destacada, com o número 1, a configuração ativada e, com o número 2, a configuração desabilitada.
 
-![](<../../.gitbook/assets/5 (2).png>)
+![](<../.gitbook/assets/5 (2).png>)
 
 * **Configuração Wi-fi**
 

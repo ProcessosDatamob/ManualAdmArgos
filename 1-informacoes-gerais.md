@@ -14,7 +14,7 @@ O <mark style="background-color:orange;">Datamob Enterprise</mark>  é uma solu�
 4. **Aplicação Block SIM -** é responsável pelo bloqueio do chip SIM, impedindo a sua utilização noutro dispositivo.
 
 {% hint style="warning" %}
-**IMPORTANTE:**
+**IMPORTANTE**
 
 * O aplicativo Security Browser está disponível na Play Store e deve ser incluído na política de registro dos dispositivos. O Capítulo 17 apresenta o passo a passo para inclusão e configuração do aplicativo Security Browser.
 * Para utilizar o bloqueio do chip, ao criar uma nova política deverá ser selecionado o modo de gerenciamento"**Android - Block SIM"**, deste modo o sistema adiciona automaticamente a aplicação **Block SIM**, restringindo as alterações da senha do dispositivo e garantindo a ligação do chip ao dispositivo. No momento do registro do dispositivo, o usuário deverá seguir as etapas da instalação e conceder as licenças solicitadas. Para mais detalhes sobre o processo de bloqueio do chip use o **"Manual de Instalação - Block sim".**

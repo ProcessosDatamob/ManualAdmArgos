@@ -4,7 +4,7 @@
 
 Esta configuração tem como objetivo possibilitar a criação de um ambiente em que o usuário do dispositivo possa acessar somente os aplicativos previamente liberados pelo administrador, ou seja, apenas os ícones dos aplicativos selecionados serão exibidos na tela do dispositivo.
 
-![](<../../.gitbook/assets/16 (1).png>)
+![](<../.gitbook/assets/16 (1).png>)
 
 Para acessar as configurações de "**Modo Quiosque**" siga os seguintes passos:\
 
@@ -13,7 +13,7 @@ Para acessar as configurações de "**Modo Quiosque**" siga os seguintes passos:
 2. Ative o modo quiosque clicando sobre o botão de ativação.
 3. Será exibida na tela uma mensagem para confirmação. Confirme clicando no botão "**Ativar**".
 
-<figure><img src="../../.gitbook/assets/Imagem3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Imagem3.png" alt=""><figcaption></figcaption></figure>
 
 1. Defina se o botão "Power" estará disponível ou bloqueado para o usuário.
 2. Defina se a exibição de mensagens de erro estará ativa ou silenciada.
@@ -23,4 +23,4 @@ Para acessar as configurações de "**Modo Quiosque**" siga os seguintes passos:
 
 ![Interface gráfica do usuário, Aplicativo
 
-Descrição gerada automaticamente](<../../.gitbook/assets/18 (1).png>)
+Descrição gerada automaticamente](<../.gitbook/assets/18 (1).png>)
