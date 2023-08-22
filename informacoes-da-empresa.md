@@ -1,4 +1,4 @@
-# 5 INFORMAÇÕES DA EMPRESA
+# INFORMAÇÕES DA EMPRESA
 
 **5 INFORMAÇÕES DA EMPRESA**
 
@@ -20,7 +20,11 @@ Para visualizar ou alterar os dados da empresa, siga os passos descritos abaixo:
 Na tela de Informações da Empresa é possível excluir a empresa utilizando o botão "Excluir Empresa", localizado ao lado do botão "Atualizar".\
 Esta ação leva a exclusão da conta da empresa na Google Play Gerenciada, a exclusão de todos os dispositivos registrados e todas as políticas e informações.
 
-**Atenção:** Esta é uma ação irreversível. Para cancelar efetivamente o serviço, a empresa deve entrar em contato via canal de atendimento ao Cliente e solicitar o cancelamento do serviço.
+{% hint style="danger" %}
+ATENÇÃO
+
+Esta é uma ação irreversível. Para cancelar efetivamente o serviço, a empresa deve entrar em contato via canal de atendimento ao Cliente e solicitar o cancelamento do serviço.
+{% endhint %}
 
 A tela abaixo é exibida ao clicar sobre **"Excluir Empresa".**
 

@@ -1,8 +1,8 @@
-# 2 ACESSO AO PORTAL
+# ACESSO AO PORTAL
 
 **2 ACESSO AO PORTAL**
 
-Quando o produto Datamob Enterprise é ativado para uma empresa, as seguintes tarefas são executadas pelo sistema, para possibilitar o acesso do usuário administrador da empresa ao Portal:
+Quando o produto <mark style="background-color:orange;">Datamob Enterprise</mark> é ativado para uma empresa, as seguintes tarefas são executadas pelo sistema, para possibilitar o acesso do usuário administrador da empresa ao Portal:
 
 1. Criação das credenciais do Portal de Administração;
 2. Envio de um e-mail de boas-vindas, contendo as credenciais e um link para acessar o Portal de Administração.
@@ -29,9 +29,13 @@ Descrição gerada automaticamente](<.gitbook/assets/1 (4) (1).png>)
 4. Marcar que concorda com a Política de Privacidade e com o Termos de uso;
 5. Clicar no botão "Próximo''.
 
-Após o passo 5, uma nova tela de confirmação de Email irá aparecer. Uma mensagem com um token de confirmação é enviada para o Email da empresa.&#x20;
+Após o passo 5, uma nova tela de confirmação de E-mail irá aparecer. Uma mensagem com um token de confirmação é enviada para o Email da empresa.&#x20;
 
-**OBS:** o e-mail de confirmação é uma mensagem automática e pode ser identificada em seu provedor de e-mail como spam. Por isso, caso não tenha recebido, verifique também na caixa de spam.
+{% hint style="info" %}
+OBSERVAÇÃO:
+
+O E-mail de confirmação é uma mensagem automática e pode ser identificada em seu provedor de e-mail como spam. Por isso, caso não tenha recebido, verifique também na caixa de spam.
+{% endhint %}
 
 O token de confirmação deve ser inserido na tela para confirmar o cadastro da empresa.  A tela de confirmação é mostrada a seguir.
 
@@ -55,7 +59,7 @@ Descrição gerada automaticamente](<.gitbook/assets/4 (1) (1).png>)
 
 Durante a criação desta conta Google serão solicitadas mais informações na tela "Detalhes do Contato". &#x20;
 
-Leia as informações de orientação do Google Play Gerenciado e preencha os dados da pessoa da empresa que será o contato oficial de proteção de dados e da pessoa que será o representante da União Europeia.  Os dois campos podem ser preenchidos com o mesmo contato da empresa. Estas informações podem ser gerenciadas posteriormente no Portal do Administrador do Datamob Enterprise no menu "Empresas", submenu "Informações da Empresa".
+Leia as informações de orientação do Google Play Gerenciado e preencha os dados da pessoa da empresa que será o contato oficial de proteção de dados e da pessoa que será o representante da União Europeia.  Os dois campos podem ser preenchidos com o mesmo contato da empresa. Estas informações podem ser gerenciadas posteriormente no <mark style="background-color:orange;">Portal do Administrador do Datamob Enterprise</mark> no menu "Empresas", submenu "Informações da Empresa".
 
 A tela de "Detalhes do Contato" é apresentada na sequência.&#x20;
 
@@ -63,7 +67,7 @@ A tela de "Detalhes do Contato" é apresentada na sequência.&#x20;
 
 Descrição gerada automaticamente](<.gitbook/assets/5 (1).png>)
 
-Após confirmar os dados, será exibida a tela do Portal de Administração Datamob Enterprise com a mensagem "Parabéns! Sua empresa foi registrada no Android Enterprise com sucesso."&#x20;
+Após confirmar os dados, será exibida a tela do P<mark style="background-color:orange;">ortal de Administração Datamob Enterprise</mark> com a mensagem "Parabéns! Sua empresa foi registrada no Android Enterprise com sucesso."&#x20;
 
 ![Interface gráfica do usuário, Texto, Aplicativo
 
@@ -81,10 +85,10 @@ Caso não lembre a senha de acesso ao portal, realize os seguintes passos para r
 
 Descrição gerada automaticamente](<.gitbook/assets/7 (1) (1).png>)
 
-1. Preencha o seu e-mail de usuário e confirme.
+2. Preencha o seu E-mail de usuário e confirme.
 
 ![Interface gráfica do usuário, Texto, Aplicativo, chat ou mensagem de texto
 
 Descrição gerada automaticamente](<.gitbook/assets/8 (1) (1).png>)
 
-Ao clicar em “**Confirmar**” o sistema enviará uma mensagem ao seu endereço de email com instruções para troca de senha.&#x20;
+Ao clicar em “**Confirmar**” o sistema enviará uma mensagem ao seu endereço de E-mail com instruções para troca de senha.&#x20;

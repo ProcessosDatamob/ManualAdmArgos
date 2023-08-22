@@ -1,8 +1,8 @@
-# 3 CONFIGURAÇÕES INICIAIS E NÍVEIS
+# CONFIGURAÇÕES INICIAIS E NÍVEIS
 
 **3 CONFIGURAÇÕES INICIAIS E NÍVEIS**
 
-Ao acessar o Portal Datamob Enterprise, o usuário terá acesso às configurações e funcionalidades.
+Ao acessar o <mark style="background-color:orange;">Portal Datamob Enterprise</mark>, o usuário terá acesso às configurações e funcionalidades.
 
 **3.1 Configurações Iniciais**
 

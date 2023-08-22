@@ -1,4 +1,4 @@
-# 4 DASHBOARD
+# DASHBOARD
 
 **4 DASHBOARD**
 
@@ -12,25 +12,25 @@ Para saber como acessar e analisar os dados exibidos no Dashboard, siga os passo
 
 Ao acessar a tela, todas as informações serão exibidas separadas por seções. Cada seção corresponde a um dado diferente, coletado do dispositivo e todas as informações são exibidas de acordo com as opções selecionadas no filtro (Empresa, Grupo ou Usuário).
 
-1. Ao habilitar a opção do filtro “Roaming internacional”, no canto superior direito da tela, o sistema exibirá somente as informações coletadas quando os dispositivos estiverem utilizando uma conexão em Roaming.
+2. Ao habilitar a opção do filtro “Roaming internacional”, no canto superior direito da tela, o sistema exibirá somente as informações coletadas quando os dispositivos estiverem utilizando uma conexão em Roaming.
 
 ![](<.gitbook/assets/1 (1) (1).png>)
 
 Os filtros “Empresa”, “Grupo” e “Usuário” permitem realizar uma análise dos dados dos dispositivos de um nível determinado.
 
-1. Clique no filtro “**Empresa**”, digite e selecione o nome da empresa para exibir as informações coletadas de todos os dispositivos.
+3. Clique no filtro “**Empresa**”, digite e selecione o nome da empresa para exibir as informações coletadas de todos os dispositivos.
 
 ![](<.gitbook/assets/2 (1) (1).png>)
 
-1. Clique no filtro “**Grupo**”, digite e selecione o nome do grupo, para exibir as informações coletadas de todos os dispositivos que fazem parte de um Grupo.
+4. Clique no filtro “**Grupo**”, digite e selecione o nome do grupo, para exibir as informações coletadas de todos os dispositivos que fazem parte de um Grupo.
 
 ![](<.gitbook/assets/3 (4).png>)
 
-1. Clique no filtro “**Usuário**” digite e selecione o usuário, para exibir as informações coletadas do dispositivo do usuário.
+5. Clique no filtro “**Usuário**” digite e selecione o usuário, para exibir as informações coletadas do dispositivo do usuário.
 
 ![](<.gitbook/assets/4 (2).png>)
 
-1. No canto superior direito da tela, temos alguns ícones que tem as seguintes funcionalidades:
+6. No canto superior direito da tela, temos alguns ícones que tem as seguintes funcionalidades:
 
 ![](<.gitbook/assets/7 (1).png>)
 
@@ -42,7 +42,7 @@ A barra de status do Dashboard mostra a situação atual de todos os usuários e
 
 **4.1.1 Total de Usuários**
 
-Este indicador exibe o número total de usuários de dispositivos que utilizam o aplicativo Datamob Enterprise.
+Este indicador exibe o número total de usuários de dispositivos que utilizam o aplicativo <mark style="background-color:orange;">Datamob Enterprise.</mark>
 
 ![Uma imagem contendo Interface gráfica do usuário
 
@@ -50,7 +50,7 @@ Descrição gerada automaticamente](<.gitbook/assets/9 (1).png>)
 
 **4.1.2 Total de Licenças**
 
-Este indicador exibe o número total de licenças disponíveis no portal Datamob Enterprise.
+Este indicador exibe o número total de licenças disponíveis no <mark style="background-color:orange;">portal Datamob Enterprise</mark>.
 
 ![](.gitbook/assets/10.png)
 
@@ -68,7 +68,7 @@ Este indicador exibe o número total de dispositivos que estão ativos no sistem
 
 ![](.gitbook/assets/12.png)
 
-* **TOTAL -** Esses dispositivos são considerados “Ativos” ao instalar e ativar o aplicativo Datamob Enterprise.
+* **TOTAL -** Esses dispositivos são considerados “Ativos” ao instalar e ativar o aplicativo <mark style="background-color:orange;">Datamob Enterprise.</mark>
 
 Ao clicar em "Total” o indicador exibirá a tela “Lista de Dispositivos” contendo o relatório com as principais informações dos dispositivos ativos.
 
