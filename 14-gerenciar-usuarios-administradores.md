@@ -14,9 +14,9 @@ Ao acessar a tela, o sistema não permitirá alterar as informações do campo �
 
 ![](<.gitbook/assets/1 (6) (1).png>)
 
-1. Para localizar um usuário, digite o nome do usuário no campo” Pesquisar”.
-2. Para ordenar as informações exibidas, clique no título da informação que desejar.
-3. Para exportar as informações dos usuários, clique no botão “Excel”.
-4. Para copiar as informações dos usuários, clique no botão “Copiar”.
-5. Clique em “Editar Administrador” nos três pontinhos à direita na linha do usuário, para acessar a tela de alteração dos dados do usuário.
-6. Para criar um usuário administrador, clique em Cadastrar Novo.
+2. Para localizar um usuário, digite o nome do usuário no campo” Pesquisar”.
+3. Para ordenar as informações exibidas, clique no título da informação que desejar.
+4. Para exportar as informações dos usuários, clique no botão “Excel”.
+5. Para copiar as informações dos usuários, clique no botão “Copiar”.
+6. Clique em “Editar Administrador” nos três pontinhos à direita na linha do usuário, para acessar a tela de alteração dos dados do usuário.
+7. Para criar um usuário administrador, clique em Cadastrar Novo.

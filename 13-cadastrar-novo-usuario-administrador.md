@@ -19,7 +19,7 @@ Ao acessar a tela, o sistema não permitirá alterar as informações do campo �
 
 Descrição gerada automaticamente](<.gitbook/assets/1 (2) (1).png>)
 
-1. Selecione qual será o tipo do usuário:
+5. Selecione qual será o tipo do usuário:
 
 **Responsável de Grupo** – Usuário administrador de grupo;
 
@@ -27,10 +27,10 @@ Descrição gerada automaticamente](<.gitbook/assets/1 (2) (1).png>)
 
 Se for um responsável de grupo, mais opções serão exibidas:
 
-1. Selecione o(s) grupo(s) que o usuário irá administrar.
+6. Selecione o(s) grupo(s) que o usuário irá administrar.
 
 ![Interface gráfica do usuário, Texto, Aplicativo, Email
 
 Descrição gerada automaticamente](<.gitbook/assets/2 (2) (1).png>)
 
-1. Clique no botão “Cadastrar” para concluir o cadastro do usuário.
+7. Clique no botão “Cadastrar” para concluir o cadastro do usuário.
