@@ -29,7 +29,7 @@
   * [Cadastrar Nova Política](configuracoes/16.2-cadastrar-nova-politica.md)
   * [Perfil de Consumo](configuracoes/16.3-perfil-de-consumo.md)
   * [Gerenciar Redes Wi-Fi](configuracoes/16.4-gerenciar-redes-wi-fi.md)
-* [🔐 17 BLOQUEIO DE SITES SECURITY BROWSER ](17-bloqueio-de-sites-security-browser.md)
+* [🔐 BLOQUEIO DE SITES SECURITY BROWSER](bloqueio-de-sites-security-browser.md)
 * [📱 DISPOSITIVOS](dispositivos.md)
 * [🤳 ZERO TOUCH](zero-touch.md)
 * [💻 SITES](sites.md)

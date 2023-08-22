@@ -1,6 +1,6 @@
-# 🔐 17 BLOQUEIO DE SITES SECURITY BROWSER&#x20;
+# 🔐 BLOQUEIO DE SITES SECURITY BROWSER
 
-**17 BLOQUEIO DE SITES - SECURITY BROWSER**
+**BLOQUEIO DE SITES - SECURITY BROWSER**
 
 O Security Browser é um navegador seguro e fácil de usar. Projetado para o Android, o Security Browser permite que os administradores dos dispositivos realizem o controle e monitoramento dos sites acessados pelos usuários, para garantir uma utilização mais segura e o consumo de dados controlado.
 
