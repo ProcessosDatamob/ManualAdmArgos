@@ -25,7 +25,7 @@ Ao abrir o Block SIM, a primeira tela que se apresentará será a tela abaixo co
 
 **Acessibilidade**
 
-1. Clique no botão **ABRIR CONFIGURAÇÕES** (Imagem1), logo após será exibida a mensagem da Imagem 2 onde deve selecionar a opção **ACEITAR** para seguir para a próxima permissão:
+1. Clique no botão **ABRIR CONFIGURAÇÕES** , logo após será exibida a mensagem da onde deve selecionar a opção **ACEITAR** para seguir para a próxima permissão:
 
 ![](<../../.gitbook/assets/7 (6).png>)
 
