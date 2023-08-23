@@ -156,7 +156,7 @@ Este indicador exibe o percentual dos 5 sites mais acessados nos dispositivos du
 {% hint style="warning" %}
 **IMPORTANTE**
 
-Os sites visitados são obtidos pelo navegador web padrão do sistema Datamob Enterprise. Este navegador se chama **Security Browser** e precisa estar instalado e configurado nos dispositivos. Para obter detalhes sobre o gerenciamento e a configuração do navegador, acesse o capítulo **16 Security Browser**.
+Os sites visitados são obtidos pelo navegador web padrão do sistema <mark style="background-color:orange;">Datamob Enterprise</mark>. Este navegador se chama **Security Browser** e precisa estar instalado e configurado nos dispositivos. Para obter detalhes sobre o gerenciamento e a configuração do navegador, acesse o capítulo **16 Security Browser**.
 {% endhint %}
 
 ![Gráfico, Gráfico de barras

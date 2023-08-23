@@ -9,7 +9,7 @@ Quando o produto <mark style="background-color:orange;">Datamob Enterprise</mark
 
 Para acessar o Portal de Administração, siga os passos descritos nesta seção:
 
-1. Acesse o endereço [https://dev.portalenterprise.datamobpro.com/login](https://dev.portalenterprise.datamobpro.com/login) para visualizar a tela de acesso do Portal. De preferência, utilize um navegador Google Chrome, com a versão mais atualizada.
+1. Acesse o endereço [https://dev.portalenterprise.datamobpro.com/login](https://dev.portalenterprise.datamobpro.com/login) para visualizar a tela de acesso do Portal. De preferência utilize um navegador Google Chrome, com a versão mais atualizada.
 2. Preencha os campos de “E-mail” e “Senha” com as credenciais de acesso, recebidas no E-mail de boas-vindas.
 3. Clique em “Iniciar Seção” para confirmar as informações e acessar o Portal.
 
@@ -17,7 +17,7 @@ Para acessar o Portal de Administração, siga os passos descritos nesta seção
 
 Descrição gerada automaticamente](<../.gitbook/assets/0 (5) (1).png>)
 
-Em seu primeiro acesso, após clicar em "Iniciar Sessão”, o usuário deverá confirmar os dados da empresa. A tela de confirmação dos dados da empresa aparecerá somente no primeiro acesso e é mostrada na figura a seguir.
+> Em seu primeiro acesso, após clicar em "Iniciar Sessão”, o usuário deverá confirmar os dados da empresa. A tela de confirmação dos dados da empresa aparecerá somente no primeiro acesso e é mostrada na figura a seguir.
 
 ![Interface gráfica do usuário, Aplicativo
 
@@ -29,7 +29,7 @@ Descrição gerada automaticamente](<../.gitbook/assets/1 (4) (1).png>)
 7. Marcar que concorda com a Política de Privacidade e com o Termos de uso;
 8. Clicar no botão "Próximo''.
 
-Após o passo 5, uma nova tela de confirmação de E-mail irá aparecer. Uma mensagem com um token de confirmação é enviada para o Email da empresa.&#x20;
+Após o passo 8, uma nova tela de confirmação de E-mail irá aparecer. Uma mensagem com um token de confirmação é enviada para o Email da empresa.&#x20;
 
 {% hint style="info" %}
 **OBSERVAÇÃO**
@@ -37,7 +37,7 @@ Após o passo 5, uma nova tela de confirmação de E-mail irá aparecer. Uma men
 O E-mail de confirmação é uma mensagem automática e pode ser identificada em seu provedor de E-mail como spam. Por isso, caso não tenha recebido, verifique também na caixa de spam.
 {% endhint %}
 
-O token de confirmação deve ser inserido na tela para confirmar o cadastro da empresa.  A tela de confirmação é mostrada a seguir.
+9. O token de confirmação deve ser inserido na tela para confirmar o cadastro da empresa.  A tela de confirmação é mostrada a seguir.
 
 ![Interface gráfica do usuário, Aplicativo
 

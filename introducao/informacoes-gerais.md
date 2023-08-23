@@ -6,8 +6,6 @@
 
 O <mark style="background-color:orange;">Portal Datamob Enterprise</mark>  é uma solução de Gerenciamento de Mobilidade Corporativa composta por:
 
-
-
 * **Portal de Administração **<mark style="background-color:orange;">**Datamob Enterprise**</mark> - sistema web que realiza toda a gestão dos dispositivos móveis da empresa.
 * **Aplicativo **<mark style="background-color:orange;">**Datamob Enterprise**</mark> - aplicativo Android que coleta todas as informações de uso e consumos do dispositivo móvel. Este aplicativo é instalado por padrão estando presente em todos os dispositivos que registrados no sistema.
 * **Aplicativo Security Browser** - Aplicativo Android de navegação web responsável por realizar os bloqueios de sites, bem como monitorar a navegação do usuário do dispositivo.
@@ -40,7 +38,7 @@ Todos os dados enviados pelo portal e recebidos pelo dispositivo permanecem arma
 
 O Portal de Administração possui dois níveis de acesso:
 
-1. **Administrador do portal**: esse nível dá acesso total às informações e permite definir políticas de bloqueio para os dispositivos;
-2. **Administrador de grupo**: este nível dá acesso aos dados do seu grupo e permite enviar mensagens ao grupo;
+* **Administrador do portal**: esse nível dá acesso total às informações e permite definir políticas de bloqueio para os dispositivos;
+* **Administrador de grupo**: este nível dá acesso aos dados do seu grupo e permite enviar mensagens ao grupo;
 
 Para saber como criar um administrador de portal ou grupo, leia a seção “**Configurações Iniciais e Níveis'**'.

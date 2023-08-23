@@ -14,12 +14,12 @@ Para visualizar os consumos, siga os passos descritos abaixo.
 
 Descrição gerada automaticamente](<.gitbook/assets/1 (8).png>)
 
-1. Clique na aba “Dados” ou “SMS” para escolher o tipo de consumo que deseja visualizar.
-2. Preencha as datas do intervalo em que os Dados ou SMS que deseja visualizar foram consumidos. Ao clicar em "Buscar" serão exibidos os históricos de consumo, por usuário, no período especificado.
-3. Caso queira visualizar os consumos de um dispositivo específico, digite o número do dispositivo no campo “Pesquisar”.
-4. Para ordenar as informações exibidas, clique no título da informação que desejar. (Data, Usuário, Telefone, Empresa...)
-5. Para exportar as informações dos consumos, clique no botão “Excel”.
-6. Para copiar as informações dos consumos, clique no botão “Copiar”.
+2. Clique na aba “Dados” ou “SMS” para escolher o tipo de consumo que deseja visualizar.
+3. Preencha as datas do intervalo em que os Dados ou SMS que deseja visualizar foram consumidos. Ao clicar em "Buscar" serão exibidos os históricos de consumo, por usuário, no período especificado.
+4. Caso queira visualizar os consumos de um dispositivo específico, digite o número do dispositivo no campo “Pesquisar”.
+5. Para ordenar as informações exibidas, clique no título da informação que desejar. (Data, Usuário, Telefone, Empresa...)
+6. Para exportar as informações dos consumos, clique no botão “Excel”.
+7. Para copiar as informações dos consumos, clique no botão “Copiar”.
 
 ![Interface gráfica do usuário, Aplicativo, Teams
 
