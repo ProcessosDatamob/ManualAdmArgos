@@ -46,3 +46,11 @@
 * [❓ AJUDA](ajuda.md)
   * [Perguntas Frequentes](ajuda/perguntas-frequentes.md)
   * [Documentos e Materiais de Apoio](ajuda/documentos-e-materiais-de-apoio.md)
+
+## MANUAL DO USUÁRIO
+
+* [Page 1](manual-do-usuario/page-1.md)
+
+## MANUAL BLOCK SIM
+
+* [Page 2](manual-block-sim/page-2.md)
