@@ -2,13 +2,7 @@
 
 **Manual Bloqueio de Chip**
 
-| VERSÃO | DATA DE CRIAÇÃO/EDIÇÃO/REVISÃO | RESPONSÁVEL                                               | AÇÃO             | OBSERVAÇÃO                                                                                                                                                        |
-| ------ | ------------------------------ | --------------------------------------------------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1.0    | 01/02/2023                     | Audrey Brito                                              | Criação          |                                                                                                                                                                   |
-| 1.0    | 03/02/2023                     | <p>Anderson Hora</p><p>Adriana Bueno</p><p>Martha Luz</p> | Edição e Revisão |                                                                                                                                                                   |
-| 2..0   | 23/06/2023                     | Audrey Brito                                              | Edição           | Alterado manual devido a criação do Modo de Gerenciamento Block SIM, que foi adicionado ao portal, mudando toda a forma de liberar o app block SIM no dispositivo |
-| 2..0   | 14/07/2023                     | Adriana Bueno                                             | Revisão          |                                                                                                                                                                   |
-|        |                                |                                                           |                  |                                                                                                                                                                   |
+<table data-header-hidden><thead><tr><th width="113"></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>VERSÃO</td><td>DATA DE CRIAÇÃO/EDIÇÃO/REVISÃO</td><td>RESPONSÁVEL</td><td>AÇÃO</td><td>OBSERVAÇÃO</td></tr><tr><td>1.0</td><td>01/02/2023</td><td>Audrey Brito</td><td>Criação</td><td></td></tr><tr><td>1.0</td><td>03/02/2023</td><td><p>Anderson Hora</p><p>Adriana Bueno</p><p>Martha Luz</p></td><td>Edição e Revisão</td><td></td></tr><tr><td>2..0</td><td>23/06/2023</td><td>Audrey Brito</td><td>Edição</td><td>Alterado manual devido a criação do Modo de Gerenciamento Block SIM, que foi adicionado ao portal, mudando toda a forma de liberar o app block SIM no dispositivo</td></tr><tr><td>2..0</td><td>14/07/2023</td><td>Adriana Bueno</td><td>Revisão</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 **CONTEÚDO**
 
