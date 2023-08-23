@@ -60,5 +60,5 @@
 
 ## MANUAL DO USUÁRIO
 
-* [MANUAL DO USUÁRIO](manual-do-usuario/manual-do-usuario/README.md)
+* [📖 MANUAL DO USUÁRIO](manual-do-usuario/manual-do-usuario/README.md)
   * [Visão geral](manual-do-usuario/manual-do-usuario/visao-geral.md)
