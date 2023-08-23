@@ -55,4 +55,5 @@
 
 ## MANUAL BLOCK SIM
 
-* [Page 2](manual-block-sim/page-2.md)
+* [MANUAL DE BLOQUEIO DE CHIP BLOCK SIM](manual-block-sim/manual-de-bloqueio-de-chip-block-sim/README.md)
+  * [Manual\_Bloqueio\_de\_Chip](manual-block-sim/manual-de-bloqueio-de-chip-block-sim/manual\_bloqueio\_de\_chip.md)
