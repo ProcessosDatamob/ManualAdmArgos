@@ -60,4 +60,5 @@
 
 ## MANUAL DO USUÁRIO
 
-* [Page 1](manual-do-usuario/page-1.md)
+* [MANUAL DO USUÁRIO](manual-do-usuario/manual-do-usuario/README.md)
+  * [Visão geral](manual-do-usuario/manual-do-usuario/visao-geral.md)
