@@ -1,6 +1,6 @@
-# RELATÓRIO DE SITES POR URL OU PALAVRA-CHAVE
+# Relatório de Sites por URL ou Palavra-chave
 
-**Relatório de Sites por URL ou Palavra-chave**
+**RELATÓRIO DE SITES POR URL OU PALAVRA-CHAVE**
 
 Essa tela do sistema tem como objetivo possibilitar ao usuário gerar um relatório dos sites acessados nos dispositivos, por URL ou palavra-chave.
 

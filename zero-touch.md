@@ -1,6 +1,6 @@
 # 🤳 ZERO TOUCH
 
-<mark style="color:green;background-color:green;">**ZERO TOUCH**</mark>
+**ZERO TOUCH**
 
 O registro Zero Touch é um processo simplificado para dispositivos Android a serem provisionados para gerenciamento empresarial. O dispositivo inicia o método de provisionamento de dispositivo totalmente gerenciado e baixa o aplicativo <mark style="background-color:orange;">Datamob Enterprise</mark> associado, que conclui a configuração do dispositivo.
 
@@ -12,7 +12,7 @@ Para usar o registro Zero Touch, você precisará de dispositivos compatíveis c
 >
 > [https://androidenterprisepartners.withgoogle.com/devices/#!?device\_features=zero\_touch](https://androidenterprisepartners.withgoogle.com/devices/#!?device\_features=zero\_touch)
 
-**19.1 Vinculação da Conta Zero Touch**
+**Vinculação da Conta Zero Touch**
 
 Para iniciar a utilização do Zero Touch siga os seguintes passos:
 
@@ -22,9 +22,9 @@ Para iniciar a utilização do Zero Touch siga os seguintes passos:
 
 ![](<.gitbook/assets/0 (3).png>)
 
-**Inserir usuário e senha e confirmar**
+4. Inserir usuário e senha e confirmar
 
-**19.2 Configurando os dispositivos para Zero-Touch**
+**Configurando os dispositivos para Zero-Touch**
 
 Nesta etapa serão definidas as configurações e bloqueios que serão aplicadas aos dispositivos.
 
@@ -71,17 +71,14 @@ Identifique o IMEI correspondente ao dispositivo que deseja registrar na configu
 3. Selecione o submenu “Lista de Dispositivos”
 4. Localize o dispositivo e copie a informação do IMEI
 5. Com a informação da IMEI do dispositivo, siga os passos abaixo:
-   1. Acesse o Portal Zero Touch e selecione o menu “Dispositivos”
-
-\[ [https://partner.android.com/zerotouch](https://partner.android.com/zerotouch) ]
-
-1. No campo “Escolher um identificador” selecione a opção “IMEI”;
-2. Insira o IMEI no campo “Insira o IMEI, MEID ou número de série”
-3. Selecione o botão “pesquisar”
+   1. Acesse o Portal Zero Touch e selecione o menu “Dispositivos” \[[https://partner.android.com/zerotouch](https://partner.android.com/zerotouch) ]
+   2. No campo “Escolher um identificador” selecione a opção “IMEI”;
+   3. Insira o IMEI no campo “Insira o IMEI, MEID ou número de série”
+   4. Selecione o botão “pesquisar”
 
 ![](.gitbook/assets/5.png)
 
-1. Será apresentado o dispositivo com a configuração atual. Para alterar siga os seguintes passos:
+5. Será apresentado o dispositivo com a configuração atual. Para alterar siga os seguintes passos:
 
 ![](.gitbook/assets/6.png)
 
