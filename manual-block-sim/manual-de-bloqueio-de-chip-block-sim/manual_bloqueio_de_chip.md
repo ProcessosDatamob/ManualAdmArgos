@@ -1,8 +1,6 @@
 # Manual\_Bloqueio\_de\_Chip
 
-**Manual Bloqueio de Chip**
 
-<table data-header-hidden><thead><tr><th width="113"></th><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>VERSÃO</td><td>DATA DE CRIAÇÃO/EDIÇÃO/REVISÃO</td><td>RESPONSÁVEL</td><td>AÇÃO</td><td>OBSERVAÇÃO</td></tr><tr><td>1.0</td><td>01/02/2023</td><td>Audrey Brito</td><td>Criação</td><td></td></tr><tr><td>1.0</td><td>03/02/2023</td><td><p>Anderson Hora</p><p>Adriana Bueno</p><p>Martha Luz</p></td><td>Edição e Revisão</td><td></td></tr><tr><td>2..0</td><td>23/06/2023</td><td>Audrey Brito</td><td>Edição</td><td>Alterado manual devido a criação do Modo de Gerenciamento Block SIM, que foi adicionado ao portal, mudando toda a forma de liberar o app block SIM no dispositivo</td></tr><tr><td>2..0</td><td>14/07/2023</td><td>Adriana Bueno</td><td>Revisão</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 **CONTEÚDO**
 
@@ -20,51 +18,11 @@
 
 4 Ativando o Block SIM 6
 
-### 1 INFORMAÇÕES GERAIS <a href="#_heading-h.3znysh7" id="_heading-h.3znysh7"></a>
-
-Este manual tem como objetivo, auxiliar o usuário a realizar a instalação e ativação da funcionalidade de Bloqueio de Chip.
-
-### 1.1 Visão Geral da Solução <a href="#_heading-h.2et92p0" id="_heading-h.2et92p0"></a>
-
-O bloqueio de chip é uma funcionalidade que possibilita o bloqueio e desbloqueio automático do CHIP. Garantindo que ele seja utilizado somente no dispositivo em que o aplicativo está instalado.
-
-Para que o bloqueio de chip funcione no Vivo Gestão Dispositivo, foi desenvolvido um aplicativo chamado **Block Sim,** nos próximos tópicos, veremos como o administrador deve realizar a sua configuração.
-
-### 2 Aplicativo Block SIM <a href="#_heading-h.tyjcwt" id="_heading-h.tyjcwt"></a>
-
-O **Block SIM** é um app de controle do uso seguro dos dados móveis do CHIP, pelo administrador dos dispositivos, cujas suas principais funcionalidades são Bloquear e Desbloquear CHIP SIM.
-
-O **Block SIM** é utilizado para realizar o bloqueio do CHIP e para desbloquear o CHIP permitindo que o usuário utilize os dados móveis de acordo com a configuração realizada pelo administrador dos dispositivos.
-
-![](<../../.gitbook/assets/1 (15).png>)
-
-### 3 Configurações Portal Administrador <a href="#_heading-h.3dy6vkm" id="_heading-h.3dy6vkm"></a>
-
-Os primeiros passos para a utilização da funcionalidade de bloqueio de chip é realizar algumas configurações a nível de portal, conforme segue.
+### &#x20;<a href="#_heading-h.tyjcwt" id="_heading-h.tyjcwt"></a>
 
 ### &#x20;<a href="#_heading-h.i67jp36vtah4" id="_heading-h.i67jp36vtah4"></a>
 
-### 3.2 Cadastrar Nova Política <a href="#_heading-h.4d34og8" id="_heading-h.4d34og8"></a>
-
-Para realizar o bloqueio do CHIP utilizando o aplicativo **Block SIM**, basta que o administrador do portal acesse a tela de **Configurações -> Cadastrar Nova Política.** Nesta tela o administrador poderá cadastrar uma nova política. Esta política deverá ser criada selecionando o modo de gerenciamento **Android - Block SIM.**
-
-![](<../../.gitbook/assets/2 (9).png>)
-
-A seção [**16.2 Cadastrar Nova Política**](https://docs.google.com/document/d/1G9RYy3so6saMetpK05H\_FQPuxgLglKBy/edit#heading=h.gjdgxs) do Manual do Administrador Vivo Gestão Dispositivo mostra os detalhes do Cadastro de Políticas.
-
-### 3.2.1 Android - Block SIM <a href="#_heading-h.cdgsk02n5ih4" id="_heading-h.cdgsk02n5ih4"></a>
-
-O modo de gerenciamento **Android - Block SIM**, permite o gerenciamento de configurações dos dispositivos Android e controles de política. Adiciona automaticamente o aplicativo **Block SIM** com tipo de instalação forçada, ou seja, ao realizar o registro o aplicativo já será instalado sem necessidade de ação do usuário.
-
-![](<../../.gitbook/assets/3 (6).png>)
-
-**Importante:** O aplicativo Block SIM restringe as alterações de senha do dispositivo e garante o vínculo do chip ao dispositivo.
-
-Abaixo, podemos ver que a aba onde consta a opção "**Restrições de Senha**" fica desabilitada para configurações devido a inclusão do app de Bloqueio de chip na política.
-
-![](<../../.gitbook/assets/4 (6).png>)
-
-### 4 Ativando o Block SIM <a href="#_heading-h.2s8eyo1" id="_heading-h.2s8eyo1"></a>
+### 3.2 Ativando o Block SIM <a href="#_heading-h.4d34og8" id="_heading-h.4d34og8"></a>
 
 Para garantir o correto funcionamento do aplicativo Block SIM é preciso realizar sua ativação,
 
