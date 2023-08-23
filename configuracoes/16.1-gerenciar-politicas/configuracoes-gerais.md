@@ -1,19 +1,19 @@
 # Configurações Gerais
 
-**Configurações Gerais**
+**CONFIGURAÇÕES GERAIS**
 
 As configurações gerais são agrupadas nos tipos:
 
-1. Configuração de VPN;
-2. Configurações Wi-fi;
-3. Hardware;
-4. Localização;
-5. Rede;
-6. Restrições de Senha;
-7. Segurança;
-8. Sistema Operacional;
-9. Tela de Bloqueio;
-10. Usuário;
+* Configuração de VPN;
+* Configurações Wi-fi;
+* Hardware;
+* Localização;
+* Rede;
+* Restrições de Senha;
+* Segurança;
+* Sistema Operacional;
+* Tela de Bloqueio;
+* Usuário;
 
 ![](<../../.gitbook/assets/4 (3).png>)
 

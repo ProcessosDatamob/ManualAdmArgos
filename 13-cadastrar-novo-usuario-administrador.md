@@ -21,9 +21,8 @@ Descrição gerada automaticamente](<.gitbook/assets/1 (2) (1).png>)
 
 5. Selecione qual será o tipo do usuário:
 
-**Responsável de Grupo** – Usuário administrador de grupo;
-
-**Responsável de Empresa** – Usuário administrador da empresa.
+* **Responsável de Grupo** – Usuário administrador de grupo;
+* **Responsável de Empresa** – Usuário administrador da empresa.
 
 Se for um responsável de grupo, mais opções serão exibidas:
 

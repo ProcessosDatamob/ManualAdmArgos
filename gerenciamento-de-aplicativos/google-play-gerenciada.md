@@ -37,7 +37,7 @@ Ao selecionar um aplicativo, o sistema solicitará a confirmação antes da incl
 
 ![](<../.gitbook/assets/8 (4).png>)
 
-Para ver a lista dos aplicativos incluídos, volte na tela de "**Aplicativos Gerenciados**", ver seção 15.1. Para mais configurações sobre políticas de aplicativos, consulte a seção **16.1 Gerenciar Políticas.**
+Para ver a lista dos aplicativos incluídos, volte na tela de "**Aplicativos Gerenciados**", ver seção 15.1. Para mais configurações sobre políticas de aplicativos, consulte a seção <mark style="background-color:purple;">**Gerenciar Políticas.**</mark>
 
 **Aplicativos Particulares**
 

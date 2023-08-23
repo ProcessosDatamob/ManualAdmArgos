@@ -1,6 +1,6 @@
 # Gerenciar Políticas
 
-**Gerenciar Políticas**
+**GERENCIAR POLÍTICAS**
 
 Ao acessar a opção "**Gerenciar Políticas**" abrirá a tela apresentada na sequência.
 
@@ -20,7 +20,7 @@ Descrição gerada automaticamente](<../../.gitbook/assets/2 (6).png>)
 
 * **Editar Política -** abre a tela para gerenciar as configurações da política;
 * **Remover Política -** abre uma caixa de mensagem para confirmação da exclusão da política. Clicando no botão "Remover" a política será removida do sistema;
-* **Token de Registro -** abre o Token de Registro e mais informações desta tela estão na seção <mark style="background-color:purple;">16.1.2</mark>
+* **Token de Registro -** abre o Token de Registro e mais informações desta tela estão na seção <mark style="background-color:purple;">**Token de Registro**</mark>
 * **Copiar Política -** abre uma caixa de mensagem para nomear a cópia criada da política selecionada.
 
 4. Para exportar as informações dos usuários, clique no botão “Excel”.

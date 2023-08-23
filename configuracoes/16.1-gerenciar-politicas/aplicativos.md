@@ -1,6 +1,6 @@
 # Aplicativos
 
-**Aplicativos**
+**APLICATIVOS**
 
 A guia de configurações de aplicativos permite gerenciar configurações, permissões, definir o modo de instalação, bem como, incluir e excluir aplicativos.
 
@@ -46,7 +46,7 @@ Descrição gerada automaticamente](<../../.gitbook/assets/8 (3).png>)
 {% hint style="warning" %}
 **IMPORTANTE**
 
-O aplicativo **Security Browser** é o navegador web padrão do sistema **Datamob Enterprise** e com ele é possível gerenciar bloqueios de sites por URL e categoria, bem como monitorar a navegação do usuário. Consulte a seção 16, para informações detalhadas sobre a instalação e configuração do aplicativo **Security** **Browser**.
+O aplicativo **Security Browser** é o navegador web padrão do sistema <mark style="background-color:orange;">**Datamob Enterprise**</mark> e com ele é possível gerenciar bloqueios de sites por URL e categoria, bem como monitorar a navegação do usuário. Consulte a seção 16, para informações detalhadas sobre a instalação e configuração do aplicativo **Security** **Browser**.
 {% endhint %}
 
 Após o passo 2 a tela a seguir será exibida. Nesta tela temos os seguintes itens:
