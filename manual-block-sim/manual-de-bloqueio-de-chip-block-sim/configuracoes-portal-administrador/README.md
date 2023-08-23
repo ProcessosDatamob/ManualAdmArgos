@@ -2,4 +2,4 @@
 
 ### Configurações Portal Administrador <a href="#_heading-h.3dy6vkm" id="_heading-h.3dy6vkm"></a>
 
-Os primeiros passos para a utilização da funcionalidade de bloqueio de chip é realizar algumas configurações a nível de portal, conforme segue.
+O primeiro passo para a utilização da funcionalidade de bloqueio de chip é realizar algumas configurações a nível de portal, conforme segue.
