@@ -1,6 +1,6 @@
 # Ativando o Block SIM
 
-### Ativando o Block SIM <a href="#_heading-h.4d34og8" id="_heading-h.4d34og8"></a>
+### ATIVANDO O BLOCK SIM <a href="#_heading-h.4d34og8" id="_heading-h.4d34og8"></a>
 
 Para garantir o correto funcionamento do aplicativo Block SIM é preciso realizar sua ativação, seguindo os passos descritos neste documento:
 

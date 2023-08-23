@@ -1,6 +1,6 @@
 # Visão Geral da Solução
 
-**Visão Geral da Solução**
+**VISÃO GERAL DA SOLUÇÃO**
 
 O bloqueio de chip é uma funcionalidade que possibilita o bloqueio e desbloqueio automático do CHIP. Garantindo que ele seja utilizado somente no dispositivo em que o aplicativo está instalado.
 

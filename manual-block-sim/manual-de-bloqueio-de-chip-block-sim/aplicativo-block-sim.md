@@ -1,6 +1,6 @@
 # Aplicativo Block SIM
 
-### Aplicativo Block SIM <a href="#_heading-h.tyjcwt" id="_heading-h.tyjcwt"></a>
+### APLICATIVO BLOCK SIM <a href="#_heading-h.tyjcwt" id="_heading-h.tyjcwt"></a>
 
 O **Block SIM** é um aplicativo de controle do uso seguro dos dados móveis do CHIP, pelo administrador dos dispositivos, cujas suas principais funcionalidades são Bloquear e Desbloquear CHIP SIM.
 
