@@ -49,15 +49,15 @@
   * [Perguntas Frequentes](manual-do-administrador/ajuda/perguntas-frequentes.md)
   * [Documentos e Materiais de Apoio](manual-do-administrador/ajuda/documentos-e-materiais-de-apoio.md)
 
+## MANUAL BLOCK SIM
+
+* [🚫 MANUAL DE BLOQUEIO DE CHIP BLOCK SIM](manual-block-sim/manual-de-bloqueio-de-chip-block-sim/README.md)
+  * [Visão Geral da Solução](manual-block-sim/manual-de-bloqueio-de-chip-block-sim/visao-geral-da-solucao.md)
+  * [Aplicativo Block SIM](manual-block-sim/manual-de-bloqueio-de-chip-block-sim/aplicativo-block-sim.md)
+  * [Configurações Portal Administrador](manual-block-sim/manual-de-bloqueio-de-chip-block-sim/configuracoes-portal-administrador/README.md)
+    * [Cadastrar Nova Política](manual-block-sim/manual-de-bloqueio-de-chip-block-sim/configuracoes-portal-administrador/cadastrar-nova-politica.md)
+  * [Ativando o Block SIM](manual-block-sim/manual-de-bloqueio-de-chip-block-sim/ativando-o-block-sim.md)
+
 ## MANUAL DO USUÁRIO
 
 * [Page 1](manual-do-usuario/page-1.md)
-
-## MANUAL BLOCK SIM
-
-* [MANUAL DE BLOQUEIO DE CHIP BLOCK SIM](manual-block-sim/manual-de-bloqueio-de-chip-block-sim/README.md)
-  * [Manual\_Bloqueio\_de\_Chip](manual-block-sim/manual-de-bloqueio-de-chip-block-sim/manual\_bloqueio\_de\_chip.md)
-  * [Visão Geral da Solução](manual-block-sim/manual-de-bloqueio-de-chip-block-sim/visao-geral-da-solucao.md)
-  * [Aplicativo Block SIM](manual-block-sim/manual-de-bloqueio-de-chip-block-sim/aplicativo-block-sim.md)
-  * [Configurações Portal Administrador](manual-block-sim/manual-de-bloqueio-de-chip-block-sim/configuracoes-portal-administrador.md)
-  * [Cadastrar Nova Política](manual-block-sim/manual-de-bloqueio-de-chip-block-sim/cadastrar-nova-politica.md)

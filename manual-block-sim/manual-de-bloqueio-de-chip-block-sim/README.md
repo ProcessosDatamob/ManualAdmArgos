@@ -4,5 +4,5 @@ description: >-
   ativação da funcionalidade de Bloqueio de Chip.
 ---
 
-# MANUAL DE BLOQUEIO DE CHIP BLOCK SIM
+# 🚫 MANUAL DE BLOQUEIO DE CHIP BLOCK SIM
 
