@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/Log_o (1).png
-coverY: -307.57142857142856
+cover: .gitbook/assets/datamob 1.jpg
+coverY: 0
 layout:
   cover:
     visible: true

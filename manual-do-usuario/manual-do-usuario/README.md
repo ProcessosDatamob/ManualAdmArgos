@@ -6,5 +6,5 @@ cover: ../../.gitbook/assets/datamob 1.jpg
 coverY: 0
 ---
 
-# MANUAL DO USUÁRIO
+# 📖 MANUAL DO USUÁRIO
 
