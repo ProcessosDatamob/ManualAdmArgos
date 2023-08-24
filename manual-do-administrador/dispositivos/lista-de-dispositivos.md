@@ -42,12 +42,7 @@ Clicando no sinal ">" ao lado do usuário o sistema exibe mais informações con
 * **Grupo** - grupo ao qual o dispositivo está associado;
 * **Status** - informa status do dispositivo. Os status que um dispositivo pode ter estão na tabela a seguir.
 
-| **Status**    | **Descrição**                                                                                                                   |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Ativo         | O dispositivo está ativo.                                                                                                       |
-| Desabilitado  | O dispositivo está desativado.                                                                                                  |
-| Deletado      | O dispositivo foi excluído. Esse estado é usado no relatório de status final quando o dispositivo confirma a exclusão.          |
-| Provisionando | O dispositivo está sendo provisionado. Os dispositivos recém-registrados ficam nesse estado até que uma política seja aplicada. |
+<table data-header-hidden><thead><tr><th width="158"></th><th></th></tr></thead><tbody><tr><td><strong>Status</strong></td><td><strong>Descrição</strong></td></tr><tr><td>Ativo</td><td>O dispositivo está ativo.</td></tr><tr><td>Desabilitado</td><td>O dispositivo está desativado.</td></tr><tr><td>Deletado</td><td>O dispositivo foi excluído. Esse estado é usado no relatório de status final quando o dispositivo confirma a exclusão.</td></tr><tr><td>Provisionando</td><td>O dispositivo está sendo provisionado. Os dispositivos recém-registrados ficam nesse estado até que uma política seja aplicada.</td></tr></tbody></table>
 
 **Opções de gerenciamento de dispositivos**
 

@@ -4,7 +4,7 @@
 
 Para realizar o bloqueio do CHIP utilizando o aplicativo **Block SIM**, basta que o administrador do portal acesse a tela de **Configurações -> Cadastrar Nova Política.** Nesta tela o administrador poderá cadastrar uma nova política. Esta política deverá ser criada selecionando o modo de gerenciamento **Android - Block SIM.**
 
-![](<../../../.gitbook/assets/2 (9).png>)
+<figure><img src="../../../.gitbook/assets/2 (9).png" alt=""><figcaption></figcaption></figure>
 
 A seção Cadastrar nova política do <mark style="background-color:orange;">Manual do Administrador Vivo</mark> Gestão Dispositivo mostra os detalhes do Cadastro de Políticas.
 
