@@ -74,9 +74,7 @@ Ao clicar em "Total” o indicador exibirá a tela “Lista de Dispositivos” c
 
 * **SEM COMUNICAÇÃO -** Este indicador exibe o número total de dispositivos que não estão enviando dados aos servidores a um período prolongado. Ao clicar em "Sem Comunicação” o sistema exibe a tela de dispositivos sem comunicação.
 
-![Interface gráfica do usuário, Texto, Aplicativo
-
-Descrição gerada automaticamente](../.gitbook/assets/13.png)
+<figure><img src="../.gitbook/assets/13.png" alt=""><figcaption></figcaption></figure>
 
 Esta falta de comunicação pode ocorrer quando o dispositivo se encontrar nas seguintes situações:
 
