@@ -29,6 +29,7 @@
     * [Modo Quiosque](manual-do-administrador/configuracoes/gerenciar-politicas/modo-quiosque.md)
     * [Token de Registro](manual-do-administrador/configuracoes/gerenciar-politicas/token-de-registro.md)
   * [Cadastrar Nova Política](manual-do-administrador/configuracoes/cadastrar-nova-politica.md)
+  * [Editar política](manual-do-administrador/configuracoes/editar-politica.md)
   * [Perfil de Consumo](manual-do-administrador/configuracoes/perfil-de-consumo.md)
   * [Gerenciar Redes Wi-Fi](manual-do-administrador/configuracoes/gerenciar-redes-wi-fi.md)
 * [🔐 BLOQUEIO DE SITES SECURITY BROWSER](manual-do-administrador/bloqueio-de-sites-security-browser.md)
