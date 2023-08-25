@@ -2,14 +2,13 @@
 
 Depois de efetuar o registro através de uma das 3 opções citadas nas seções anteriores, será exibida a tela "[Lista de Verificação de Trabalho](configuracao.md)", nesta tela realizaremos as configurações necessárias para avançar no processo de ativação da <mark style="background-color:orange;">{NOME DO MDM}</mark>.
 
-1. Aceitar e realizar  todos os ajustes nas telas do dispositivo  até chegar à seguinte tela:\
+1. Aceitar e realizar  todos os ajustes nas telas do dispositivo  até chegar à seguinte tela:
 
-
-![](https://lh5.googleusercontent.com/gFirkC9TrrzQPTGiCN5noLpevQRlGLeb2BRcxds\_xzJocIM3QPkHRHSY28W8lbrK2zmmiPJkjfmFPB4SbiDpUN4dsiHGuqqqtUc6O3qMnF66d9Xf3eEMYz8EA8b6PnpSrOwNBT-LKcHJ)
+<figure><img src="../../.gitbook/assets/Screenshot_20230824-113928.png" alt="" width="360"><figcaption></figcaption></figure>
 
 2. Defina um bloqueio de tela para o dispositivo:
 
-![](https://lh3.googleusercontent.com/zPCsfIrYCVEDFGG\_JQoyDl0vmWHFpC3Vvf\_iyaaSmtdQ6P2mBXva6K9ZGTNMNOXATjeNzzi0I3hoQvBYnMIslQk3jUgxplPsFbdZLP\_w\_lHndrkzTwLl9w1kDu1AzM4pay4SgaprnYem)
+<figure><img src="../../.gitbook/assets/Screenshot_20230824-113947.png" alt="" width="360"><figcaption></figcaption></figure>
 
 3. Na lista de verificação de trabalho, o próximo passo é instalar aplicativos de trabalho. Pressione "Instalar".  Na próxima tela serão exibidos os aplicativos de trabalho disponíveis para instalação. Isto depende das configurações de trabalho da empresa. Pressione o botão "Pronto" para continuar.&#x20;
 
