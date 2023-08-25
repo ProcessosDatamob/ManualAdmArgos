@@ -73,3 +73,7 @@
 
 * [📖 MANUAL DO USUÁRIO](manual-do-usuario/manual-do-usuario/README.md)
   * [Visão geral](manual-do-usuario/manual-do-usuario/visao-geral.md)
+  * [Tipos de Registro](manual-do-usuario/manual-do-usuario/tipos-de-registro.md)
+  * [Leitura de QR Code](manual-do-usuario/manual-do-usuario/leitura-de-qr-code.md)
+  * [Token de Registro](manual-do-usuario/manual-do-usuario/token-de-registro.md)
+  * [Token de Registro](manual-do-usuario/manual-do-usuario/token-de-registro-1.md)
