@@ -42,7 +42,7 @@ A barra de status do Dashboard mostra a situação atual de todos os usuários e
 
 **Total de Usuários**
 
-Este indicador exibe o número total de usuários de dispositivos que utilizam o aplicativo <mark style="background-color:orange;">Datamob Enterprise.</mark>
+Este indicador exibe o número total de usuários de dispositivos que utilizam o aplicativo <mark style="background-color:orange;">\<Nome\_Produto>.</mark>
 
 ![Uma imagem contendo Interface gráfica do usuário
 
@@ -50,7 +50,7 @@ Descrição gerada automaticamente](<../.gitbook/assets/9 (1).png>)
 
 **Total de Licenças**
 
-Este indicador exibe o número total de licenças disponíveis no <mark style="background-color:orange;">portal Datamob Enterprise</mark>.
+Este indicador exibe o número total de licenças disponíveis no <mark style="background-color:orange;">\<Nome\_Produto></mark>.
 
 ![](../.gitbook/assets/10.png)
 
@@ -68,7 +68,7 @@ Este indicador exibe o número total de dispositivos que estão ativos no sistem
 
 ![](../.gitbook/assets/12.png)
 
-* **TOTAL -** Esses dispositivos são considerados “Ativos” ao instalar e ativar o aplicativo <mark style="background-color:orange;">Datamob Enterprise.</mark>
+* **TOTAL -** Esses dispositivos são considerados “Ativos” ao instalar e ativar o aplicativo <mark style="background-color:orange;">\<Nome\_Produto>.</mark>
 
 Ao clicar em "Total” o indicador exibirá a tela “Lista de Dispositivos” contendo o relatório com as principais informações dos dispositivos ativos.
 
@@ -154,7 +154,7 @@ Este indicador exibe o percentual dos 5 sites mais acessados nos dispositivos du
 {% hint style="warning" %}
 **IMPORTANTE**
 
-Os sites visitados são obtidos pelo navegador web padrão do sistema <mark style="background-color:orange;">Datamob Enterprise</mark>. Este navegador se chama **Security Browser** e precisa estar instalado e configurado nos dispositivos. Para obter detalhes sobre o gerenciamento e a configuração do navegador, acesse o capítulo **16 Security Browser**.
+Os sites visitados são obtidos pelo navegador web padrão do sistema <mark style="background-color:orange;">\<Nome\_Produto></mark>. Este navegador se chama **Security Browser** e precisa estar instalado e configurado nos dispositivos. Para obter detalhes sobre o gerenciamento e a configuração do navegador, acesse o capítulo **16 Security Browser**.
 {% endhint %}
 
 ![Gráfico, Gráfico de barras

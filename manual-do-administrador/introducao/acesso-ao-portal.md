@@ -2,7 +2,7 @@
 
 **ACESSO AO PORTAL**
 
-Quando o produto <mark style="background-color:orange;">Datamob Enterprise</mark> é ativado para uma empresa, as seguintes tarefas são executadas pelo sistema, para possibilitar o acesso do usuário administrador da empresa ao Portal:
+Quando o <mark style="background-color:orange;">\<Nome\_Produto></mark> é ativado para uma empresa, as seguintes tarefas são executadas pelo sistema, para possibilitar o acesso do usuário administrador da empresa ao Portal:
 
 * Criação das credenciais do Portal de Administração;
 * Envio de um E-mail de boas-vindas, contendo as credenciais e um link para acessar o Portal de Administração.
@@ -59,7 +59,7 @@ Descrição gerada automaticamente](<../../.gitbook/assets/4 (1) (1).png>)
 
 Durante a criação desta conta Google serão solicitadas mais informações na tela "Detalhes do Contato". &#x20;
 
-Leia as informações de orientação do Google Play Gerenciado e preencha os dados da pessoa da empresa que será o contato oficial de proteção de dados e da pessoa que será o representante da União Europeia.  Os dois campos podem ser preenchidos com o mesmo contato da empresa. Estas informações podem ser gerenciadas posteriormente no <mark style="background-color:orange;">Portal do Administrador do Datamob Enterprise</mark> no menu "Empresas", submenu "Informações da Empresa".
+Leia as informações de orientação do Google Play Gerenciado e preencha os dados da pessoa da empresa que será o contato oficial de proteção de dados e da pessoa que será o representante da União Europeia.  Os dois campos podem ser preenchidos com o mesmo contato da empresa. Estas informações podem ser gerenciadas posteriormente no <mark style="background-color:orange;">\<Nome\_Produto></mark> no menu "Empresas", submenu "Informações da Empresa".
 
 A tela de "Detalhes do Contato" é apresentada na sequência.&#x20;
 
@@ -67,7 +67,7 @@ A tela de "Detalhes do Contato" é apresentada na sequência.&#x20;
 
 Descrição gerada automaticamente](<../../.gitbook/assets/5 (1).png>)
 
-Após confirmar os dados, será exibida a tela do <mark style="background-color:orange;">Portal de Administração Datamob Enterprise</mark> com a mensagem "Parabéns! Sua empresa foi registrada no Android Enterprise com sucesso."&#x20;
+Após confirmar os dados, será exibida a tela do <mark style="background-color:orange;">\<Nome\_Produto></mark> com a mensagem "Parabéns! Sua empresa foi registrada no Android Enterprise com sucesso."&#x20;
 
 ![Interface gráfica do usuário, Texto, Aplicativo
 

@@ -26,6 +26,6 @@ Esta ação leva a exclusão da conta da empresa na Google Play Gerenciada, a ex
 Esta é uma ação irreversível. Para cancelar efetivamente o serviço, a empresa deve entrar em contato via canal de atendimento ao Cliente e solicitar o cancelamento do serviço.
 {% endhint %}
 
-A tela abaixo é exibida ao clicar sobre **"Excluir Empresa".**
+A tela abaixo é exibida ao clicar sobre **"Excluir Empresa"**.
 
 ![](<../../.gitbook/assets/2 (5) (1).png>)
