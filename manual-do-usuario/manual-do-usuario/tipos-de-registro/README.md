@@ -1,6 +1,10 @@
 # Tipos de Registro
 
-Existem três formas possíveis de registo na {Nome do MDM} , são elas: leitura de QR Code, Token de registo e registo Zero Touch.
+Existem três formas possíveis de registo na {Nome do MDM} , são elas:&#x20;
+
+* Leitura de QR Code;
+* Token de registo;
+* Registo Zero Touch.
 
 Explicaremos cada uma delas em detalhe nas seções seguintes deste manual.
 

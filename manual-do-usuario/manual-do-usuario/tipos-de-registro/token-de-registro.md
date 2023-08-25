@@ -6,4 +6,4 @@ Neste caso o usuário deve clicar na opção destacada na primeira tela e realiz
 
 <figure><img src="https://lh6.googleusercontent.com/20cPAfR-w-mOYh0GCkHE2P3OUPbBlkafRWCkauFG5xToIKsB7TiTRI8YT0MErtbkordhB3tX1m5gH2XfYGL9CWwp1jiHA1-DUdJuLtowjsh80U2x0spszrEgy-OmjX3DtOc5Ls182rNr" alt="" width="375"><figcaption></figcaption></figure>
 
-Depois de digitar o Código Token, você deve ativar as Configurações do Google ou o Sistema Operacional, até que ele chegue à tela "Lista de Verificação de Trabalho", que será detalhado na Seção 3 deste manual.
+Depois de digitar o Código Token, você deve ativar as Configurações do Google ou o Sistema Operacional, até que ele chegue à tela "[Lista de Verificação de Trabalho](../configuracao.md)".
