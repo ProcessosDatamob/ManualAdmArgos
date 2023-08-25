@@ -63,7 +63,7 @@
 ## MANUAL BLOCK SIM
 
 * [🚫 MANUAL DE BLOQUEIO DE CHIP BLOCK SIM](manual-block-sim/manual-de-bloqueio-de-chip-block-sim/README.md)
-  * [Visão Geral da Solução](manual-block-sim/manual-de-bloqueio-de-chip-block-sim/visao-geral-da-solucao.md)
+  * [Visão Geral da solução](manual-block-sim/manual-de-bloqueio-de-chip-block-sim/visao-geral-da-solucao.md)
   * [Aplicativo Block SIM](manual-block-sim/manual-de-bloqueio-de-chip-block-sim/aplicativo-block-sim.md)
   * [Configurações Portal Administrador](manual-block-sim/manual-de-bloqueio-de-chip-block-sim/configuracoes-portal-administrador/README.md)
     * [Cadastrar Nova Política](manual-block-sim/manual-de-bloqueio-de-chip-block-sim/configuracoes-portal-administrador/cadastrar-nova-politica.md)
@@ -72,7 +72,7 @@
 ## MANUAL DO USUÁRIO
 
 * [📖 MANUAL DO USUÁRIO](manual-do-usuario/manual-do-usuario/README.md)
-  * [Visão geral](manual-do-usuario/manual-do-usuario/visao-geral.md)
+  * [Visão geral da solução](manual-do-usuario/manual-do-usuario/visao-geral-da-solucao.md)
   * [Tipos de Registro](manual-do-usuario/manual-do-usuario/tipos-de-registro/README.md)
     * [Leitura de QR Code](manual-do-usuario/manual-do-usuario/tipos-de-registro/leitura-de-qr-code.md)
     * [Token de Registro](manual-do-usuario/manual-do-usuario/tipos-de-registro/token-de-registro.md)

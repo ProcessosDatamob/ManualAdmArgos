@@ -1,5 +1,7 @@
 # Tipos de Registro
 
+**TIPOS DE REGISTRO**
+
 Existem três formas possíveis de registo na <mark style="background-color:orange;">{Nome do MDM}</mark>, são elas:&#x20;
 
 * Leitura de QR Code;

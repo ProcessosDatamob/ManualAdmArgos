@@ -1,5 +1,7 @@
 # Configuração
 
+**CONFIGURAÇÕES**
+
 Depois de efetuar o registro através de uma das três opções citadas nas seções anteriores, será exibida a tela "[Lista de Verificação de Trabalho](configuracao.md)", nesta tela deve-se realizar as configurações necessárias para avançar no processo de ativação da <mark style="background-color:orange;">{NOME DO MDM}</mark>.
 
 1. Aceitar e realizar todos os ajustes nas telas do dispositivo até chegar à seguinte tela:
