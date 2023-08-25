@@ -2,7 +2,7 @@
 
 **ZERO TOUCH**
 
-O registro Zero Touch é um processo simplificado para dispositivos Android a serem provisionados para gerenciamento empresarial. O dispositivo inicia o método de provisionamento de dispositivo totalmente gerenciado e baixa o aplicativo <mark style="background-color:orange;">Datamob Enterprise</mark> associado, que conclui a configuração do dispositivo.
+O registro Zero Touch é um processo simplificado para dispositivos Android a serem provisionados para gerenciamento empresarial. O dispositivo inicia o método de provisionamento de dispositivo totalmente gerenciado e baixa o aplicativo <mark style="background-color:orange;">\<Nome\_Produto></mark> associado, que conclui a configuração do dispositivo.
 
 Este método de implantação é perfeito para dispositivos Android corporativos, tornando as implementações em grande escala rápidas, fáceis e seguras. O Zero Touch simplifica a configuração de dispositivos on-line e o envio com gerenciamento reforçado para que os funcionários possam abrir a caixa e começar.
 
@@ -16,9 +16,9 @@ Para usar o registro Zero Touch, você precisará de dispositivos compatíveis c
 
 Para iniciar a utilização do Zero Touch siga os seguintes passos:
 
-1. Entrar em contato com a Datamob para adquirir os aparelhos (se necessário) e solicitar a criação da conta de cliente Zero Touch.
+1. Entrar em contato com a <mark style="background-color:orange;">\<Nome\_Produto></mark> para adquirir os aparelhos (se necessário) e solicitar a criação da conta de cliente Zero Touch.
 2. Aguardar pela criação da sua conta Zero-Touch pela Datamob
-3. Uma vez criada a conta Zero-Touch, acesse o Portal Datamob Enterprise, menu “Zero Touch” e faça a vinculação da conta com o Portal Datamob Enterprise seguindo o processo após selecionar o botão “Próxima” \[veja abaixo]
+3. Uma vez criada a conta Zero-Touch, acesse o <mark style="background-color:orange;">\<Nome\_Produto></mark>, menu “Zero Touch” e faça a vinculação da conta com o P<mark style="background-color:orange;">\<Nome\_Produto></mark> seguindo o processo após selecionar o botão “Próxima” \[veja abaixo]
 
 ![](<../.gitbook/assets/0 (3).png>)
 
@@ -49,8 +49,8 @@ Para configurar siga os seguintes passos:
 
 ![](<../.gitbook/assets/2 (1) (1).png>)
 
-9. No Portal Datamob Enterprise, defina qual a política será aplicada ao Zero-Touch, podendo ser uma nova política ou já existente para configurar manualmente a política na configuração Zero-Touch seguindo os passos abaixo:
-10. Acesse o menu “Configurações” do Datamob Enterprise;
+9. No <mark style="background-color:orange;">\<Nome\_Produto></mark>, defina qual a política será aplicada ao Zero-Touch, podendo ser uma nova política ou já existente para configurar manualmente a política na configuração Zero-Touch seguindo os passos abaixo:
+10. Acesse o menu “Configurações” do <mark style="background-color:orange;">\<Nome\_Produto></mark>;
 11. Selecione a opção “Gerenciar Políticas”;
 12. Selecione a política desejada;
 13. No menu agrupado selecione “Token de Registro”;
@@ -66,7 +66,7 @@ Descrição gerada automaticamente](../.gitbook/assets/3.png)
 
 Identifique o IMEI correspondente ao dispositivo que deseja registrar na configuração criada
 
-1. Acesse o Portal Datamob Enterprise;
+1. Acesse o <mark style="background-color:orange;">\<Nome\_Produto></mark>;
 2. Selecione o menu “Dispositivos”
 3. Selecione o submenu “Lista de Dispositivos”
 4. Localize o dispositivo e copie a informação do IMEI

@@ -2,7 +2,7 @@
 
 **COMPARTILHAR DOCUMENTOS**
 
-Esta tela do sistema tem como objetivo possibilitar ao usuário compartilhar documentos com todos os dispositivos da empresa, de um ou mais grupos ou de um ou mais usuários de dispositivos específicos. Para que isso seja possível, o arquivo deve estar em um servidor com acesso público a uma URL e em um ambiente HTTPS. Se o arquivo não estiver nessas condições, o download não será realizado pelo aplicativo Datamob Enterprise. O aplicativo receberá a URL do documento em forma de notificação.
+Esta tela do sistema tem como objetivo possibilitar ao usuário compartilhar documentos com todos os dispositivos da empresa, de um ou mais grupos ou de um ou mais usuários de dispositivos específicos. Para que isso seja possível, o arquivo deve estar em um servidor com acesso público a uma URL e em um ambiente HTTPS. Se o arquivo não estiver nessas condições, o download não será realizado pelo aplicativo <mark style="background-color:orange;">\<Nome\_Produto></mark>. O aplicativo receberá a URL do documento em forma de notificação.
 
 Para saber como compartilhar documentos com os dispositivos, siga os passos descritos nesta seção.
 

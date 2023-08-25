@@ -13,11 +13,11 @@ Para garantir o correto funcionamento do aplicativo Block SIM é preciso realiza
 &#x20;Garanta que somente o chip fornecido foi inserido no compartimento correto. Caso não seja feito dessa forma, o seu chip particular poderá ser bloqueado, inviabilizando o seu uso.
 {% endhint %}
 
-Ao realizar o registro do dispositivo, através de uma das formas de registros detalhadas no Manual do usuário, no caso de ativação com o bloqueio do chip, aparecerá disponível o aplicativo **Block SIM** na lista dos aplicativos de trabalho, conforme imagem abaixo e posteriormente a ativação do <mark style="background-color:orange;">Vivo Gestão Dispositivo</mark>, o aplicativo Block SIM será instalado automaticamente e ficará disponível no dispositivo:
+Ao realizar o registro do dispositivo, através de uma das formas de registros detalhadas no Manual do usuário, no caso de ativação com o bloqueio do chip, aparecerá disponível o aplicativo **Block SIM** na lista dos aplicativos de trabalho, conforme imagem abaixo e posteriormente a ativação do <mark style="background-color:orange;">\<Nome\_Produto></mark>, o aplicativo Block SIM será instalado automaticamente e ficará disponível no dispositivo:
 
 ![](<../../.gitbook/assets/5 (5).png>)
 
-Ao abrir o Block SIM, a primeira tela que se apresentará será a tela abaixo com status de Concluído, pois o aplicativo <mark style="background-color:orange;">Vivo Gestão Dispositivo</mark> já estará instalado para realizar a comunicação com o Block SIM.
+Ao abrir o Block SIM, a primeira tela que se apresentará será a tela abaixo com status de Concluído, pois o aplicativo<mark style="background-color:orange;">\<Nome\_Produto></mark> já estará instalado para realizar a comunicação com o Block SIM.
 
 ![](<../../.gitbook/assets/6 (5).png>)
 

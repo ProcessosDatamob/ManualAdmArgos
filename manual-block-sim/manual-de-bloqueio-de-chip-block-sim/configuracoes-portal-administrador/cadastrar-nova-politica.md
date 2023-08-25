@@ -6,7 +6,7 @@ Para realizar o bloqueio do CHIP utilizando o aplicativo **Block SIM**, basta qu
 
 <figure><img src="../../../.gitbook/assets/2 (9).png" alt=""><figcaption></figcaption></figure>
 
-A seção Cadastrar nova política do <mark style="background-color:orange;">Manual do Administrador Vivo</mark> Gestão Dispositivo mostra os detalhes do Cadastro de Políticas.
+A seção Cadastrar nova política do <mark style="background-color:orange;">\<Nome\_Produto></mark> Gestão Dispositivo mostra os detalhes do Cadastro de Políticas.
 
 ### Android - Block SIM <a href="#_heading-h.cdgsk02n5ih4" id="_heading-h.cdgsk02n5ih4"></a>
 

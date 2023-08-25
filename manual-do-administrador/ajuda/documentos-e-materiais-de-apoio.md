@@ -2,7 +2,7 @@
 
 **DOCUMENTOS E MATERIAIS DE APOIO**
 
-Nesta tela é possível realizar o download dos documentos e materiais de apoio para utilizar a solução Datamob Enterprise.
+Nesta tela é possível realizar o download dos documentos e materiais de apoio para utilizar o <mark style="background-color:orange;">\<Nome\_Produto></mark>.
 
 Para acessar os materiais, basta selecionar o menu **Ajuda** e o submenu **Documentos e Materiais de Apoio.**
 
