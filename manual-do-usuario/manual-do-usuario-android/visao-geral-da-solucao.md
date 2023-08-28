@@ -1,6 +1,6 @@
 # Visão geral da solução
 
-**VISÃO GERAL SA SOLUÇÃO**
+**VISÃO GERAL DA SOLUÇÃO**
 
 Este manual aplica-se à instalação e ativação do <mark style="background-color:orange;">{Nome do MDM}</mark>.&#x20;
 
