@@ -71,12 +71,12 @@
 
 ## MANUAL DO USUÁRIO
 
-* [📖 MANUAL DO USUÁRIO](manual-do-usuario/manual-do-usuario/README.md)
-  * [Visão geral da solução](manual-do-usuario/manual-do-usuario/visao-geral-da-solucao.md)
-  * [Tipos de Registro](manual-do-usuario/manual-do-usuario/tipos-de-registro/README.md)
-    * [Leitura de QR Code](manual-do-usuario/manual-do-usuario/tipos-de-registro/leitura-de-qr-code.md)
-    * [Token de Registro](manual-do-usuario/manual-do-usuario/tipos-de-registro/token-de-registro.md)
-    * [Zero Touch](manual-do-usuario/manual-do-usuario/tipos-de-registro/zero-touch.md)
-  * [Configuração](manual-do-usuario/manual-do-usuario/configuracao.md)
-  * [Ativação](manual-do-usuario/manual-do-usuario/ativacao.md)
-  * [Utilização](manual-do-usuario/manual-do-usuario/utilizacao.md)
+* [📖 MANUAL DO USUÁRIO ANDROID](manual-do-usuario/manual-do-usuario-android/README.md)
+  * [Visão geral da solução](manual-do-usuario/manual-do-usuario-android/visao-geral-da-solucao.md)
+  * [Tipos de Registro](manual-do-usuario/manual-do-usuario-android/tipos-de-registro/README.md)
+    * [Leitura de QR Code](manual-do-usuario/manual-do-usuario-android/tipos-de-registro/leitura-de-qr-code.md)
+    * [Token de Registro](manual-do-usuario/manual-do-usuario-android/tipos-de-registro/token-de-registro.md)
+    * [Zero Touch](manual-do-usuario/manual-do-usuario-android/tipos-de-registro/zero-touch.md)
+  * [Configuração](manual-do-usuario/manual-do-usuario-android/configuracao.md)
+  * [Ativação](manual-do-usuario/manual-do-usuario-android/ativacao.md)
+  * [Utilização](manual-do-usuario/manual-do-usuario-android/utilizacao.md)
