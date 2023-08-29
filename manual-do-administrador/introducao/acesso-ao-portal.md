@@ -81,9 +81,7 @@ Caso não lembre a senha de acesso ao portal, realize os seguintes passos para r
 
 1. Clique em “Esqueceu a senha?” logo abaixo do campo Senha. O sistema exibirá a tela de recuperação de senha.
 
-<img src="../../.gitbook/assets/7 (1) (1).png" alt="Interface gráfica do usuário, Texto, Aplicativo, chat ou mensagem de texto
-
-Descrição gerada automaticamente" data-size="original">
+<figure><img src="../../.gitbook/assets/7 (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 2. Preencha o seu E-mail de usuário e confirme.
 

@@ -1,5 +1,7 @@
 # Google Play Gerenciada
 
+**GOOGLE PLAY GERENCIADA**
+
 A Google Play Gerenciada permite que sejam selecionados os aplicativos que estarão disponíveis para download nos dispositivos da empresa.
 
 Depois de entrar no Portal de Administração, uma das primeiras etapas é definir quais aplicativos você deseja gerenciar para sua organização. No menu "Gerenciamento de Aplicativos", você pode gerenciar todos os aplicativos autorizados para instalação em seus dispositivos Android. Você pode gerenciar três tipos diferentes de aplicativos:

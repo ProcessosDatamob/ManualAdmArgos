@@ -37,6 +37,6 @@ Na imagem a seguir é apresentada a tela "**Editar Política**" e em destaque os
 2. Grupos de configurações da guia "Configurações" - clique sobre cada grupo para ver todas as configurações.&#x20;
 3. Para salvar todas as configurações (gerais, aplicativos e modo quiosque) clique no botão "Salvar".&#x20;
 
-<figure><img src="../../../.gitbook/assets/Imagem2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Imagem2.png" alt="" width="563"><figcaption></figcaption></figure>
 
 Cada uma das guias de configuração (marcação 1 da figura anterior) são descritas nas próximas subseções.
