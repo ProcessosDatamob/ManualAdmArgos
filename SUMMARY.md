@@ -59,24 +59,3 @@
 * [❓ AJUDA](manual-do-administrador/ajuda/README.md)
   * [Perguntas Frequentes](manual-do-administrador/ajuda/perguntas-frequentes.md)
   * [Documentos e Materiais de Apoio](manual-do-administrador/ajuda/documentos-e-materiais-de-apoio.md)
-
-## MANUAL BLOCK SIM
-
-* [🚫 MANUAL DE BLOQUEIO DE CHIP BLOCK SIM](manual-block-sim/manual-de-bloqueio-de-chip-block-sim/README.md)
-  * [Visão Geral da solução](manual-block-sim/manual-de-bloqueio-de-chip-block-sim/visao-geral-da-solucao.md)
-  * [Aplicativo Block SIM](manual-block-sim/manual-de-bloqueio-de-chip-block-sim/aplicativo-block-sim.md)
-  * [Configurações Portal Administrador](manual-block-sim/manual-de-bloqueio-de-chip-block-sim/configuracoes-portal-administrador/README.md)
-    * [Cadastrar Nova Política](manual-block-sim/manual-de-bloqueio-de-chip-block-sim/configuracoes-portal-administrador/cadastrar-nova-politica.md)
-  * [Ativando o Block SIM](manual-block-sim/manual-de-bloqueio-de-chip-block-sim/ativando-o-block-sim.md)
-
-## MANUAL DO USUÁRIO
-
-* [📖 MANUAL DO USUÁRIO ANDROID](manual-do-usuario/manual-do-usuario-android/README.md)
-  * [Visão geral da solução](manual-do-usuario/manual-do-usuario-android/visao-geral-da-solucao.md)
-  * [Tipos de Registro](manual-do-usuario/manual-do-usuario-android/tipos-de-registro/README.md)
-    * [Leitura de QR Code](manual-do-usuario/manual-do-usuario-android/tipos-de-registro/leitura-de-qr-code.md)
-    * [Token de Registro](manual-do-usuario/manual-do-usuario-android/tipos-de-registro/token-de-registro.md)
-    * [Zero Touch](manual-do-usuario/manual-do-usuario-android/tipos-de-registro/zero-touch.md)
-  * [Configuração](manual-do-usuario/manual-do-usuario-android/configuracao.md)
-  * [Ativação](manual-do-usuario/manual-do-usuario-android/ativacao.md)
-  * [Utilização](manual-do-usuario/manual-do-usuario-android/utilizacao.md)
