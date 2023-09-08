@@ -67,9 +67,9 @@ Um "aplicativo da web" transforma uma página da web em um aplicativo Android, t
 Para criar um aplicativo da web, siga os seguintes passos (numerados na figura a seguir):
 
 1. Acesse o menu "Apps da Web";
-2. Clique no botão de adição no canto inferior direito da tela;
+2. Clique no botão de adição no canto inferior direito da tela;&#x20;
 
-![](<../../.gitbook/assets/11 (2).png>)
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 3. Especifique um título que será exibido no dispositivo, na Play Store gerenciada e na lista e aplicativos da empresa
 4. Especifique a URL onde os aplicativos da web são abertos
@@ -79,9 +79,7 @@ Para criar um aplicativo da web, siga os seguintes passos (numerados na figura a
 
 ![](<../../.gitbook/assets/12 (2).png>)
 
-Após o cadastro de um aplicativo ele aparecerá na tela, como pode ser visto na figura abaixo. Podem ser incluídos quantos aplicativos forem necessários.
-
-![](<../../.gitbook/assets/13 (2).png>)
+Após o cadastro de um aplicativo ele aparecerá na tela, podem ser incluídos quantos aplicativos forem necessários.
 
 Clicando sobre o aplicativo a tela para editar o aplicativo web aparece, como pode ser visto na imagem seguinte. Os botões posicionados abaixo na tela permitem:
 
@@ -89,7 +87,7 @@ Clicando sobre o aplicativo a tela para editar o aplicativo web aparece, como po
 9. Editar as definições e ícone do aplicativo.
 10. Excluir o aplicativo da Google Play Gerenciada.
 
-![](<../../.gitbook/assets/14 (2).png>)
+<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **IMPORTANTE**
