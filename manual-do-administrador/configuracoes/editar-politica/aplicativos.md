@@ -6,9 +6,7 @@ A guia de configurações de aplicativos permite gerenciar configurações, perm
 
 A tela "**Editar política**" posicionada na guia "**Aplicativos**" é apresentada na sequência.
 
-![Interface gráfica do usuário, Aplicativo, Teams
-
-Descrição gerada automaticamente](<../../../.gitbook/assets/6 (2).png>)
+<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 As telas apresentam as seguintes partes, conforme numeração na figura:
 

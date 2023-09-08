@@ -21,4 +21,4 @@ Descrição gerada automaticamente](<../../.gitbook/assets/1 (8).png>)
 6. Para exportar as informações dos consumos, clique no botão “Excel”.
 7. Para copiar as informações dos consumos, clique no botão “Copiar”.
 
-<figure><img src="../../.gitbook/assets/image (9) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>

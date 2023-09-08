@@ -16,4 +16,4 @@ Para saber como utilizar esta tela siga os passos descritos nesta sessão:
 5. Pode ser selecionado também o tipo de categoria, sendo elas: Empresa, dispositivo ou Política;
 6. Para copiar as informações, basta clicar no botão “Copiar”
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12) (1).png" alt="" width="563"><figcaption></figcaption></figure>

@@ -20,6 +20,4 @@ Para acessar as configurações de "**Modo Quiosque**" siga os seguintes passos:
 7. Defina o acesso a configurações como liberado ou bloqueado.
 8. Clique no botão "Salvar" para salvar as configurações definidas.
 
-![Interface gráfica do usuário, Aplicativo
-
-Descrição gerada automaticamente](<../../../.gitbook/assets/18 (1).png>)
+<figure><img src="../../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>

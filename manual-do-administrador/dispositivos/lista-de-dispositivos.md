@@ -18,7 +18,7 @@ Para saber como gerenciar os dispositivos ativos da empresa, siga os passos desc
 9. Clique no ">" para visualizar todas as informações do dispositivo.
 10. Use os três pontinhos "..." para exibir o menu de ações e aplicar a ação desejada ao dispositivo.
 
-![](<../../.gitbook/assets/1 (14).png>)
+<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Informações do Dispositivo**
 
@@ -33,7 +33,7 @@ As informações do dispositivo exibidas na lista são:
 
 Clicando no sinal ">" ao lado do usuário o sistema exibe mais informações conforme pode ser visto na imagem abaixo.
 
-![](<../../.gitbook/assets/2 (8).png>)
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 * **Política** - nome da política atribuída ao dispositivo;
 * **Fabricante -** nome do fabricante do dispositivo;
@@ -100,15 +100,11 @@ Clique no botão "**Desativar**" para confirmar a operação.
 
 Esta opção aparece somente para dispositivos que estão no status "Desabilitado". Para ativar um dispositivo desabilitado clique em "**Ativar Dispositivo**" nas opções de gerenciamento do dispositivo.
 
-![Interface gráfica do usuário, Aplicativo, Teams
-
-Descrição gerada automaticamente](<../../.gitbook/assets/9 (4).png>)
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Confirme a atualização clicando em "**Ativar**" na caixa de diálogo, conforme apresentado na sequência.
 
-![Interface gráfica do usuário, Aplicativo, Site, Teams
-
-Descrição gerada automaticamente](<../../.gitbook/assets/10 (4).png>)
+<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 **Desligar Tela do dispositivo**
 
@@ -132,7 +128,7 @@ Esta operação envia um comando para remover o bloqueio de tela do dispositivo.
 Esta opção só ficará disponível para dispositivos ativados com política em modo de gerenciamento Android Block SIM.
 {% endhint %}
 
-![](<../../.gitbook/assets/13 (3).png>)
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 **Gerar nova senha do dispositivo**
 
@@ -160,11 +156,11 @@ Conforme pode ser visto na imagem apresentada a seguir, uma mensagem é exibida 
 
 Esta opção permite acessar a tela para editar dados do dispositivo, como: Usuário, identificação e Grupo.
 
-![](<../../.gitbook/assets/16 (2).png>)
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 Além de poder editar os dados, são exibidos mais abaixo duas listas com as informações de Software e Hardware relacionados ao dispositivo gerenciado:
 
-![](<../../.gitbook/assets/17 (2).png>)
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 **Informações de Software**
 

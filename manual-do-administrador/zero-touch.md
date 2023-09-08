@@ -18,7 +18,7 @@ Para iniciar a utilização do Zero Touch siga os seguintes passos:
 
 1. Entrar em contato com a <mark style="background-color:orange;">\<Nome\_Produto></mark> para adquirir os aparelhos (se necessário) e solicitar a criação da conta de cliente Zero Touch.
 2. Aguardar pela criação da sua conta Zero-Touch pela Datamob
-3. Uma vez criada a conta Zero-Touch, acesse o <mark style="background-color:orange;">\<Nome\_Produto></mark>, menu “Zero Touch” e faça a vinculação da conta com o P<mark style="background-color:orange;">\<Nome\_Produto></mark> seguindo o processo após selecionar o botão “Próxima” \[veja abaixo]
+3. Uma vez criada a conta Zero-Touch, acesse o <mark style="background-color:orange;">\<Nome\_Produto></mark>, menu “Zero Touch” e faça a vinculação da conta com o P<mark style="background-color:orange;">\<Nome\_Produto></mark> seguindo o processo após selecionar o botão “Próxima”.
 
 ![](<../.gitbook/assets/0 (3).png>)
 
@@ -82,20 +82,14 @@ Identifique o IMEI correspondente ao dispositivo que deseja registrar na configu
 
 ![](../.gitbook/assets/6.png)
 
-1. Selecione a seta na coluna “Configuração” \[figura 1]
-2. Selecione a configuração desejada \[figura 2]
-3. E pressione o botão “Atualizar” \[figura 3]
+1. Selecione a seta na coluna “Configuração”&#x20;
+2. Selecione a configuração desejada
+3. E pressione o botão “Atualizar”
 
 Importante ressaltar que se este dispositivo está em uso, após selecionar o botão “Atualizar” será enviada uma mensagem ao usuário solicitando reiniciar o dispositivo. Ao reiniciar as configurações serão alteradas.
 
-\[figura 1]
-
 ![](../.gitbook/assets/7.png)
 
-\[figura 2]
-
 ![](../.gitbook/assets/8.png)
-
-\[figura 3]
 
 ![](../.gitbook/assets/9.png)

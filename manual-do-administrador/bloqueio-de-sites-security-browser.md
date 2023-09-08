@@ -21,7 +21,7 @@ Para realizar a instalação do aplicativo, acesse o menu "Gerenciamento de Apli
 
 3. Abrirá a tela com mais informações do aplicativo. Clique no botão "**Selecionar**", conforme em destaque na próxima imagem.
 
-![](<../.gitbook/assets/1 (5) (1).png>)
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="449"><figcaption></figcaption></figure>
 
 4. Clique no botão confirmar para efetivar a inclusão.
 
@@ -40,9 +40,7 @@ Para realizar a instalação do aplicativo, acesse o menu "Gerenciamento de Apli
 9. Na tela "**Editar Política**" selecione a guia "**Aplicativos**".
 10. Clique no botão "**Adicionar Aplicativos**''.
 
-![Interface gráfica do usuário, Aplicativo, Teams
-
-Descrição gerada automaticamente](<../.gitbook/assets/5 (1) (1).png>)
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
 11. Marque o checkbox ao final da linha onde está o aplicativo Security Browser
 12. Clique no botão "**Adicionar selecionados**".

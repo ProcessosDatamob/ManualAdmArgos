@@ -5,12 +5,9 @@
 Para gerar um relatório por data escolha a opção "**Relatório por Data**" no menu "**Sites**".
 
 ![Interface gráfica do usuário, Aplicativo, Teams
+](<../../.gitbook/assets/0 (4).png>)
 
-Descrição gerada automaticamente](<../../.gitbook/assets/0 (4).png>)
-
-![Interface gráfica do usuário, Aplicativo, Teams
-
-Descrição gerada automaticamente](<../../.gitbook/assets/1 (4).png>)
+<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 1. Selecione o usuário do dispositivo onde os sites foram acessados.
 2. Selecione a data em que os sites foram acessados ou deixe o campo em branco para visualizar os sites acessados de todas as datas.

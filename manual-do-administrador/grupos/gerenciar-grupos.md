@@ -14,7 +14,7 @@ Para administrar um grupo, siga os passos descritos abaixo.
 3. É possível utilizar o filtro de telefone para encontrar o grupo de um usuário.
 4. No campo de pesquisa você pode buscar por um grupo específico.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (15) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 2. Para editar um grupo clique nos três pontinhos que aparecem à direita na linha do grupo. Escolha a opção "Editar Grupo". Na edição é possível incluir ou excluir usuários do grupo.
 3. Para excluir um grupo clique nos três pontinhos que aparecem à direita na linha do grupo. Escolha a opção "Remover Grupo".

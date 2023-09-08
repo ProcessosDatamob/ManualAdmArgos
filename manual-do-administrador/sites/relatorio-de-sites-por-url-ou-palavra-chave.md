@@ -12,9 +12,7 @@ Para visualizar este relatório, siga os passos descritos nesta seção.
 
 Descrição gerada automaticamente](<../../.gitbook/assets/2 (2).png>)
 
-![Interface gráfica do usuário, Aplicativo, Teams
-
-Descrição gerada automaticamente](<../../.gitbook/assets/3 (1).png>)
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 2. Digite uma URL ou Palavra-chave para gerar o relatório de sites específicos. Caso queira gerar o relatório de todos os sites, deixe o campo em branco;
 3. Clique no botão “Buscar” para gerar o relatório dos sites acessados;
