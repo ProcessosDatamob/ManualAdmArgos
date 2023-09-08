@@ -13,11 +13,11 @@ Para acessar o Portal de Administração, siga os passos descritos nesta seção
 2. Preencha os campos de “E-mail” e “Senha” com as credenciais de acesso, recebidas no E-mail de boas-vindas.
 3. Clique em “Iniciar Seção” para confirmar as informações e acessar o Portal.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="229"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="229"><figcaption></figcaption></figure>
 
 > Em seu primeiro acesso, após clicar em "Iniciar Sessão”, o usuário deverá confirmar os dados da empresa. A tela de confirmação dos dados da empresa aparecerá somente no primeiro acesso e é mostrada na figura a seguir.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="266"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="266"><figcaption></figcaption></figure>
 
 4. Confirmar o Nome da Empresa e E-mail;&#x20;
 5. Criar uma senha;

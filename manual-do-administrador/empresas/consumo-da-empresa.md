@@ -21,6 +21,4 @@ Descrição gerada automaticamente](<../../.gitbook/assets/1 (8).png>)
 6. Para exportar as informações dos consumos, clique no botão “Excel”.
 7. Para copiar as informações dos consumos, clique no botão “Copiar”.
 
-![Interface gráfica do usuário, Aplicativo, Teams
-
-Descrição gerada automaticamente](<../../.gitbook/assets/2 (5).png>)
+<figure><img src="../../.gitbook/assets/image (9).png" alt="" width="563"><figcaption></figcaption></figure>
