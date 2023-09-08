@@ -6,8 +6,8 @@ Esta tela do sistema tem como objetivo possibilitar ao usuário compartilhar doc
 
 Para saber como compartilhar documentos com os dispositivos, siga os passos descritos nesta seção.
 
-1. Clique no menu “**Compartilhar Documentos**”, para acessar a tela.
-2. Clique no botão "**Compartilhar novo**" para compartilhar um documento. A tela compartilhar documentos é exibida a seguir:
+1. Clique no menu “Compartilhar Documentos”, para acessar a tela.
+2. Clique no botão "Compartilhar novo" para compartilhar um documento. A tela compartilhar documentos é exibida a seguir:
 
 <figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
 

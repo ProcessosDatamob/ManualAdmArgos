@@ -4,9 +4,9 @@
 
 A guia de configurações de aplicativos permite gerenciar configurações, permissões, definir o modo de instalação, bem como, incluir e excluir aplicativos.
 
-A tela "**Editar política**" posicionada na guia "**Aplicativos**" é apresentada na sequência.
+A tela "Editar política" posicionada na guia "Aplicativos" é apresentada na sequência.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 As telas apresentam as seguintes partes, conforme numeração na figura:
 
@@ -20,22 +20,22 @@ As telas apresentam as seguintes partes, conforme numeração na figura:
 {% hint style="warning" %}
 **IMPORTANTE**
 
-Os aplicativos precisam ser primeiramente adicionados usando a **Google Play Gerenciada (ver seção 15.2)**. Clique no botão "Adicionar Aplicativos" e a tela a seguir será exibida.
+Os aplicativos precisam ser primeiramente adicionados usando a Google Play Gerenciada (ver seção 15.2). Clique no botão "Adicionar Aplicativos" e a tela a seguir será exibida.
 {% endhint %}
 
 ![](<../../../.gitbook/assets/7 (3).png>)
 
-Estando a janela "**Adicionar aplicativos**" aberta, conforme figura anterior, para adicionar aplicativos na política, siga os seguintes passos:
+Estando a janela "Adicionar aplicativos" aberta, conforme figura anterior, para adicionar aplicativos na política, siga os seguintes passos:
 
 7. Selecione um ou mais aplicativos clicando no checkbox;
-8. Clique no botão "**Adicionar selecionados**".
+8. Clique no botão "Adicionar selecionados".
 
 **Configurações Gerenciadas**
 
-Para acessar as configurações gerenciadas de um aplicativo é necessário estar na tela "**Editar Política**" com a guia "**Aplicativos**" selecionada. Siga os seguintes passos:
+Para acessar as configurações gerenciadas de um aplicativo é necessário estar na tela "Editar Política" com a guia "Aplicativos" selecionada. Siga os seguintes passos:
 
 1. Localize o aplicativo desejado e clique nos três pontinhos, localizados no final da linha, para exibir o menu com mais opções;
-2. Clique sobre "**Configurações Gerenciadas**".
+2. Clique sobre "Configurações Gerenciadas".
 
 ![Interface gráfica do usuário, Texto, Aplicativo, Teams
 
@@ -44,7 +44,7 @@ Descrição gerada automaticamente](<../../../.gitbook/assets/8 (3).png>)
 {% hint style="warning" %}
 **IMPORTANTE**
 
-O aplicativo **Security Browser** é o navegador web padrão do sistema <mark style="background-color:orange;">\<Nome\_Produto></mark> e com ele é possível gerenciar bloqueios de sites por URL e categoria, bem como monitorar a navegação do usuário. Consulte a seção 16, para informações detalhadas sobre a instalação e configuração do aplicativo **Security** **Browser**.
+O aplicativo Security Browser é o navegador web padrão do sistema <mark style="background-color:orange;">\<Nome\_Produto></mark> e com ele é possível gerenciar bloqueios de sites por URL e categoria, bem como monitorar a navegação do usuário. Consulte a seção 16, para informações detalhadas sobre a instalação e configuração do aplicativo Security Browser.
 {% endhint %}
 
 Após o passo 2 a tela a seguir será exibida. Nesta tela temos os seguintes itens:
@@ -57,10 +57,10 @@ Após o passo 2 a tela a seguir será exibida. Nesta tela temos os seguintes ite
 
 **Permissões**
 
-Para acessar as configurações de permissões de um aplicativo é necessário estar na tela "**Editar Política**" com a guia "**Aplicativos**" selecionada. Siga os seguintes passos:
+Para acessar as configurações de permissões de um aplicativo é necessário estar na tela "Editar Política" com a guia "Aplicativos" selecionada. Siga os seguintes passos:
 
 1. Localize o aplicativo desejado e clique nos três pontinhos, localizados no final da linha, para exibir o menu com mais opções;
-2. Clique sobre "**Permissões**".
+2. Clique sobre "Permissões".
 
 ![](<../../../.gitbook/assets/10 (2).png>)
 
@@ -72,26 +72,27 @@ As permissões podem ser configuradas como: Solicitar ao usuário, Ativada ou Ne
 
 **Configurações Avançadas**
 
-Para acessar as configurações avançadas de um aplicativo é necessário estar na tela "**Editar Política**" com a guia "**Aplicativos**" selecionada. Siga os seguintes passos:
+Para acessar as configurações avançadas de um aplicativo é necessário estar na tela "Editar Política" com a guia "Aplicativos" selecionada. Siga os seguintes passos:
 
 1. Localize o aplicativo desejado e clique nos três pontinhos, localizados no final da linha, para exibir o menu com mais opções;
-2. Clique sobre "**Configurações Avançadas**".
+2. Clique sobre "Configurações Avançadas".
 
 ![](<../../../.gitbook/assets/12 (1).png>)
 
 Após o passo 2 a tela a seguir será exibida. Nesta tela temos os seguintes itens:
 
-3. **Prioridade de Atualização** - Defina a prioridade de atualização do aplicativo como pré-definida, postergada ou prioritária.
-4. **Versão mínima -** permite definir uma versão mínima do aplicativo.
+**Prioridade de Atualização** - Defina a prioridade de atualização do aplicativo como pré-definida, postergada ou prioritária.
+
+**Versão mínima -** permite definir uma versão mínima do aplicativo.
 
 ![](<../../../.gitbook/assets/13 (1).png>)
 
 **Remover Aplicativo**
 
-Para excluir um aplicativo da política é necessário estar na tela "**Editar Política**" com a guia "**Aplicativos**" selecionada. Siga os seguintes passos:
+Para excluir um aplicativo da política é necessário estar na tela "Editar Política" com a guia "Aplicativos" selecionada. Siga os seguintes passos:
 
 1. Localize o aplicativo desejado e clique nos três pontinhos, localizados no final da linha, para exibir o menu com mais opções;
-2. Clique sobre "**Remover Aplicativo**".
+2. Clique sobre "Remover Aplicativo".
 
 ![](<../../../.gitbook/assets/14 (1).png>)
 

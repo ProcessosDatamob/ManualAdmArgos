@@ -6,7 +6,7 @@ Essa tela do sistema tem como objetivo possibilitar ao usuário gerar um relató
 
 Para visualizar este relatório, siga os passos descritos nesta seção.
 
-1. Clique no menu “**Sites**” e selecione o submenu “**Relatório por URL / Palavra-Chave**”.
+1. Clique no menu “Sites” e selecione o submenu “Relatório por URL / Palavra-Chave”.
 
 ![Interface gráfica do usuário, Aplicativo
 

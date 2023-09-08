@@ -4,13 +4,13 @@
 
 Esta tela do sistema tem como objetivo, possibilitar ao usuário visualizar e gerar um relatório de todos os aplicativos incluídos para gerenciamento.
 
-Para visualizar e gerar esse relatório, clique no menu “**Gerenciamento de Aplicativos**” e na opção "**Aplicativos Gerenciados"**.
+Para visualizar e gerar esse relatório, clique no menu “Gerenciamento de Aplicativos” e na opção "Aplicativos Gerenciados".
 
 ![](<../../.gitbook/assets/0 (12).png>)
 
 O sistema exibirá uma lista com todos os aplicativos instalados nos dispositivos da empresa. A tela de exibição dos aplicativos gerenciados é apresentada a seguir.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 A tela possui elementos padrão que são semelhantes a outras telas do sistema. Os itens seguintes apresentam as opções de gerenciamento desta tela e estão enumerados na figura anterior:
 
@@ -38,6 +38,6 @@ Descrição gerada automaticamente](<../../.gitbook/assets/3 (4) (1).png>)
 
 Caso seja o relatório de uma página, ele é gerado e baixado automaticamente. Caso seja o completo, pode demorar alguns minutos para ser gerado é disponibilizado para download nas notificações do sistema, conforme pode ser visualizado a seguir.
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 7. Para copiar as informações da lista de aplicativos para a área de transferência, clique no botão “Copiar”.

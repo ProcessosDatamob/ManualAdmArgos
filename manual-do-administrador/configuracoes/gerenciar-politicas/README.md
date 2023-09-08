@@ -2,7 +2,7 @@
 
 **GERENCIAR POLÍTICAS**
 
-Ao acessar a opção "**Gerenciar Políticas**" abrirá a tela apresentada na sequência.
+Ao acessar a opção "Gerenciar Políticas" abrirá a tela apresentada na sequência.
 
 ![](<../../../.gitbook/assets/0 (11).png>)
 
@@ -31,7 +31,7 @@ Descrição gerada automaticamente](<../../../.gitbook/assets/2 (6).png>)
 
 Esta tela do sistema tem como objetivo permitir a configuração de todos os detalhes de uma política.
 
-Na imagem a seguir é apresentada a tela "**Editar Política**" e em destaque os itens:
+Na imagem a seguir é apresentada a tela "Editar Política" e em destaque os itens:
 
 1. Guias de configurações - Alterne entre as guias para ver as "Configurações" gerais, as configurações de “Aplicativos" e do "Modo Quiosque".&#x20;
 2. Grupos de configurações da guia "Configurações" - clique sobre cada grupo para ver todas as configurações.&#x20;

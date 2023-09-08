@@ -10,11 +10,9 @@ Uma política pode ser aplicada a um dispositivo durante o registro ou posterior
 
 As opções do menu de configurações são:
 
-
-
 * **Gerenciar Políticas -** lista todas as políticas já cadastradas e permite pesquisar, editar, copiar, gerar relatório, remover e gerar token para ativação de dispositivos;
 * **Cadastrar nova política -** permite criar uma política e todas as suas configurações;
 * **Perfil de Consumo -** permite cadastrar o perfil de consumo para empresa, grupo e usuário;
 * **Gerenciar Redes Wi-fi -** permite cadastrar redes de Wi-fi que posteriormente serão utilizadas nas Configurações de Políticas;
 
-As quatro opções do menu de "**Configurações**" são detalhadas nas próximas subseções.
+As quatro opções do menu de "Configurações" são detalhadas nas próximas subseções.

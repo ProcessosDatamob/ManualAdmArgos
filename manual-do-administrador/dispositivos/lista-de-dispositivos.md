@@ -4,7 +4,7 @@
 
 Para saber como gerenciar os dispositivos ativos da empresa, siga os passos descritos abaixo.
 
-1. Clique no menu “**Dispositivos**” opção "**Lista de Dispositivos**" para acessar a tela.
+1. Clique no menu “Dispositivos” opção "Lista de Dispositivos" para acessar a tela.
 
 ![](<../../.gitbook/assets/0 (15).png>)
 
@@ -18,7 +18,7 @@ Para saber como gerenciar os dispositivos ativos da empresa, siga os passos desc
 9. Clique no ">" para visualizar todas as informações do dispositivo.
 10. Use os três pontinhos "..." para exibir o menu de ações e aplicar a ação desejada ao dispositivo.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Informações do Dispositivo**
 
@@ -33,7 +33,7 @@ As informações do dispositivo exibidas na lista são:
 
 Clicando no sinal ">" ao lado do usuário o sistema exibe mais informações conforme pode ser visto na imagem abaixo.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Política** - nome da política atribuída ao dispositivo;
 * **Fabricante -** nome do fabricante do dispositivo;
@@ -46,7 +46,7 @@ Clicando no sinal ">" ao lado do usuário o sistema exibe mais informações con
 
 **Opções de gerenciamento de dispositivos**
 
-Na tela de "**Dispositivos**" é possível ter acesso a opções de consulta e configurações do dispositivo usando os três pontinhos "**...**" que aparecem à direita na listagem dos dispositivos. As opções disponíveis estão em destaque na imagem a seguir.
+Na tela de "Dispositivos" é possível ter acesso a opções de consulta e configurações do dispositivo usando os três pontinhos "**...**" que aparecem à direita na listagem dos dispositivos. As opções disponíveis estão em destaque na imagem a seguir.
 
 ![](<../../.gitbook/assets/3 (5).png>)
 
@@ -54,7 +54,7 @@ As opções que estão em destaque na figura são detalhadas nas próximas subse
 
 **Histórico de Bateria**
 
-Para visualizar o histórico da bateria do dispositivo, clique em “**Histórico de bateria**”.
+Para visualizar o histórico da bateria do dispositivo, clique em “Histórico de bateria”.
 
 O sistema exibirá a tela do histórico da bateria do dispositivo.
 
@@ -65,7 +65,7 @@ O sistema exibirá a tela do histórico da bateria do dispositivo.
 
 **Histórico de Armazenamento**
 
-Para visualizar o histórico de memória livre no armazenamento interno do dispositivo, clique em “**Histórico de armazenamento**”.
+Para visualizar o histórico de memória livre no armazenamento interno do dispositivo, clique em “Histórico de armazenamento”.
 
 ![](<../../.gitbook/assets/5 (4).png>)
 
@@ -90,29 +90,29 @@ A política define configurações, incluindo critérios de hardware, software, 
 
 **Desativar Dispositivo**
 
-Ao enviar o comando Desativar Dispositivos, todos os aplicativos que não são Google serão desativados, serão permitidas chamadas telefônicas e o status do dispositivo muda para desativado. Para desativar um dispositivo utilize a opção **"Desativar Dispositivo"** no menu de opções do dispositivo. Esta opção aparece somente para dispositivos que estão no status "Ativo". Uma tela de confirmação será exibida conforme apresentado abaixo.
+Ao enviar o comando Desativar Dispositivos, todos os aplicativos que não são Google serão desativados, serão permitidas chamadas telefônicas e o status do dispositivo muda para desativado. Para desativar um dispositivo utilize a opção "Desativar Dispositivo" no menu de opções do dispositivo. Esta opção aparece somente para dispositivos que estão no status "Ativo". Uma tela de confirmação será exibida conforme apresentado abaixo.
 
 ![](<../../.gitbook/assets/8 (5).png>)
 
-Clique no botão "**Desativar**" para confirmar a operação.
+Clique no botão "Desativar" para confirmar a operação.
 
 **Ativar Dispositivo**
 
-Esta opção aparece somente para dispositivos que estão no status "Desabilitado". Para ativar um dispositivo desabilitado clique em "**Ativar Dispositivo**" nas opções de gerenciamento do dispositivo.
+Esta opção aparece somente para dispositivos que estão no status "Desabilitado". Para ativar um dispositivo desabilitado clique em "Ativar Dispositivo" nas opções de gerenciamento do dispositivo.
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-Confirme a atualização clicando em "**Ativar**" na caixa de diálogo, conforme apresentado na sequência.
+Confirme a atualização clicando em "Ativar" na caixa de diálogo, conforme apresentado na sequência.
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 **Desligar Tela do dispositivo**
 
-A opção "**Desligar Tela**" envia um comando para desligar a tela do dispositivo. Ao clicar na opção "**Desligar Tela**" o comando é executado diretamente e uma mensagem aparecerá na tela para informar que o comando foi enviado ao dispositivo.
+A opção "Desligar Tela" envia um comando para desligar a tela do dispositivo. Ao clicar na opção "Desligar Tela" o comando é executado diretamente e uma mensagem aparecerá na tela para informar que o comando foi enviado ao dispositivo.
 
 **Reiniciar Dispositivo**
 
-Esta operação envia um comando para reiniciar o dispositivo. Escolha a opção **"Reiniciar Dispositivo"**. Uma mensagem é exibida na tela do portal para confirmar o envio do comando. A mensagem exibida é mostrada abaixo.
+Esta operação envia um comando para reiniciar o dispositivo. Escolha a opção "Reiniciar Dispositivo". Uma mensagem é exibida na tela do portal para confirmar o envio do comando. A mensagem exibida é mostrada abaixo.
 
 ![](<../../.gitbook/assets/11 (3).png>)
 
@@ -120,7 +120,7 @@ Esta operação envia um comando para reiniciar o dispositivo. Escolha a opção
 
 ### Remover Bloqueio de Tela <a href="#_m1k0bxtzeff5" id="_m1k0bxtzeff5"></a>
 
-Esta operação envia um comando para remover o bloqueio de tela do dispositivo. Escolha a opção "**Remover Bloqueio de Tela**". Uma mensagem é exibida na tela do portal para confirmar o envio do comando. A mensagem exibida é mostrada abaixo.
+Esta operação envia um comando para remover o bloqueio de tela do dispositivo. Escolha a opção "Remover Bloqueio de Tela". Uma mensagem é exibida na tela do portal para confirmar o envio do comando. A mensagem exibida é mostrada abaixo.
 
 {% hint style="info" %}
 **OBSERVAÇÃO**
@@ -132,9 +132,9 @@ Esta opção só ficará disponível para dispositivos ativados com política em
 
 **Gerar nova senha do dispositivo**
 
-O sistema permite que seja gerada uma nova senha para o dispositivo. Para realizar esta operação, escolha a opção "**Gerar Nova Senha do Dispositivo**" conforme mostrado na imagem apresentada na sequência.
+O sistema permite que seja gerada uma nova senha para o dispositivo. Para realizar esta operação, escolha a opção "Gerar Nova Senha do Dispositivo" conforme mostrado na imagem apresentada na sequência.
 
-Preencha os campos "**Nova Senha**" e "**Confirmar nova senha**" com valores iguais para que o botão "**Confirmar**" esteja habilitado. Opcionalmente, e conforme a necessidade, poderão ser marcadas as opções:
+Preencha os campos "Nova Senha" e "Confirmar nova senha" com valores iguais para que o botão "Confirmar" esteja habilitado. Opcionalmente, e conforme a necessidade, poderão ser marcadas as opções:
 
 * Não permitir que outros administradores alterem a senha novamente até que o usuário a insira no dispositivo;
 * Não pedir credenciais de usuário na inicialização do dispositivo;
@@ -146,7 +146,7 @@ A tela para gerar nova senha do dispositivo é mostrada a seguir.
 
 **Remover Dispositivo (WIPE)**
 
-Esta operação permite excluir um dispositivo. Ela limpa os dados e configurações do dispositivo. Os dispositivos excluídos não aparecem na lista de dispositivos da empresa. A opção "**Remover Dispositivo**" aparece na lista de opções do dispositivo na tela de listagem de dispositivos (menu "**Dispositivos**", opção "**Listar Dispositivos**").
+Esta operação permite excluir um dispositivo. Ela limpa os dados e configurações do dispositivo. Os dispositivos excluídos não aparecem na lista de dispositivos da empresa. A opção "Remover Dispositivo" aparece na lista de opções do dispositivo na tela de listagem de dispositivos (menu "Dispositivos", opção "Listar Dispositivos").
 
 Conforme pode ser visto na imagem apresentada a seguir, uma mensagem é exibida na tela para informação e advertência. A operação não pode ser desfeita, portanto, confirme somente quando tiver certeza de que deseja eliminar o dispositivo.
 

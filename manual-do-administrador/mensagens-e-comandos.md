@@ -19,8 +19,8 @@ Ao receber um comando, o aplicativo não exibirá o texto do comando enviado.
 
 Para saber como enviar mensagens e comandos, siga os passos descritos nesta seção.
 
-1. Clique no menu “**Mensagens**” para acessar a tela.
-2. Para enviar mensagens e comandos, clique no botão "**Nova Mensagem**".
+1. Clique no menu “Mensagens” para acessar a tela.
+2. Para enviar mensagens e comandos, clique no botão "Nova Mensagem".
 
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 

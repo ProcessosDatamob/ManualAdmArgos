@@ -6,11 +6,11 @@ Esta configuração tem como objetivo possibilitar a criação de um ambiente em
 
 ![](<../../../.gitbook/assets/16 (1).png>)
 
-Para acessar as configurações de "**Modo Quiosque**" siga os seguintes passos:
+Para acessar as configurações de "Modo Quiosque" siga os seguintes passos:
 
-1. Na tela "**Editar política**", selecione a guia "**Modo Quiosque**".
+1. Na tela "Editar política", selecione a guia "Modo Quiosque".
 2. Ative o modo quiosque clicando sobre o botão de ativação.
-3. Será exibida na tela uma mensagem para confirmação. Confirme clicando no botão "**Ativar**".
+3. Será exibida na tela uma mensagem para confirmação. Confirme clicando no botão "Ativar".
 
 <figure><img src="../../../.gitbook/assets/Imagem3.png" alt=""><figcaption></figcaption></figure>
 
@@ -20,4 +20,4 @@ Para acessar as configurações de "**Modo Quiosque**" siga os seguintes passos:
 7. Defina o acesso a configurações como liberado ou bloqueado.
 8. Clique no botão "Salvar" para salvar as configurações definidas.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>

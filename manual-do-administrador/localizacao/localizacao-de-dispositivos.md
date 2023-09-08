@@ -17,4 +17,4 @@ Para visualizar e gerar o relatório das localizações, siga os passos descrito
 6. Para exportar o relatório das localizações, clique no link “Excel”;
 7. Para copiar as informações do relatório das localizações, clique no link “Copiar”;
 
-![](<../../.gitbook/assets/1 (2).png>)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>

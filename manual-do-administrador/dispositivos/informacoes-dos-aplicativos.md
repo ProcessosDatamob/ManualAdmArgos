@@ -4,7 +4,7 @@
 
 O submenu Informações dos aplicativos mostra as informações dos aplicativos do dispositivo.
 
-1. Clique no menu "**Dispositivos**" opção "**Informações dos aplicativos**" para acessar a tela.
+1. Clique no menu "Dispositivos" opção "Informações dos aplicativos" para acessar a tela.
 
 ![](<../../.gitbook/assets/18 (2).png>)
 

@@ -9,15 +9,15 @@ Quando o <mark style="background-color:orange;">\<Nome\_Produto></mark> é ativa
 
 Para acessar o Portal de Administração, siga os passos descritos nesta seção:
 
-1. Acesse o endereço [https://dev.portalenterprise.datamobpro.com/login](https://dev.portalenterprise.datamobpro.com/login) para visualizar a tela de acesso do Portal. De preferência utilize um navegador Google Chrome, com a versão mais atualizada.
+1. Acesse o endereço [<mark style="background-color:green;">https://dev.portalenterprise.datamobpro.com/login</mark>](https://dev.portalenterprise.datamobpro.com/login) para visualizar a tela de acesso do Portal. De preferência utilize um navegador Google Chrome, com a versão mais atualizada.
 2. Preencha os campos de “E-mail” e “Senha” com as credenciais de acesso, recebidas no E-mail de boas-vindas.
 3. Clique em “Iniciar Seção” para confirmar as informações e acessar o Portal.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="229"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="229"><figcaption></figcaption></figure>
 
 > Em seu primeiro acesso, após clicar em "Iniciar Sessão”, o usuário deverá confirmar os dados da empresa. A tela de confirmação dos dados da empresa aparecerá somente no primeiro acesso e é mostrada na figura a seguir.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="266"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="266"><figcaption></figcaption></figure>
 
 4. Confirmar o Nome da Empresa e E-mail;&#x20;
 5. Criar uma senha;
@@ -35,11 +35,11 @@ O E-mail de confirmação é uma mensagem automática e pode ser identificada em
 
 9. O token de confirmação deve ser inserido na tela para confirmar o cadastro da empresa.  A tela de confirmação é mostrada a seguir.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="343"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="343"><figcaption></figcaption></figure>
 
 Caso não tenha recebido o Token por e-mail, o usuário pode solicitar que seja enviado novamente clicando na opção **“Reenviar código"** que fica disponível logo acima do botão "Confirmar".
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" width="542"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="542"><figcaption></figcaption></figure>
 
 Após esta confirmação, o sistema abrirá a tela da Google Play. Este é o passo final do primeiro acesso ao Portal. Nesta tela será realizada a configuração de uma conta Google Play para a empresa. Esta etapa é importante para que a empresa gerencie os aplicativos que estarão disponíveis em seus dispositivos. A tela é mostrada a seguir.
 

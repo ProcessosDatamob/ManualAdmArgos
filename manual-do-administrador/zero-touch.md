@@ -10,7 +10,7 @@ Para usar o registro Zero Touch, você precisará de dispositivos compatíveis c
 
 > Veja a lista de dispositivos compatíveis com Zero Touch:
 >
-> [https://androidenterprisepartners.withgoogle.com/devices/#!?device\_features=zero\_touch](https://androidenterprisepartners.withgoogle.com/devices/#!?device\_features=zero\_touch)
+> [<mark style="background-color:green;">https://androidenterprisepartners.withgoogle.com/devices/#!?device\_features=zero\_touch</mark>](https://androidenterprisepartners.withgoogle.com/devices/#!?device\_features=zero\_touch)
 
 **Vinculação da Conta Zero Touch**
 
@@ -32,7 +32,7 @@ Para configurar siga os seguintes passos:
 
 1. Acesse o Painel Zero-Touch e selecione a opção “Configurações”
 
-\[ [https://partner.android.com/zerotouch](https://partner.android.com/zerotouch) ]
+<mark style="background-color:green;">\[</mark> [<mark style="background-color:green;">https://partner.android.com/zerotouch</mark>](https://partner.android.com/zerotouch) <mark style="background-color:green;">]</mark>
 
 2. Selecione o ícone “+” à direita da tela para criação de uma nova configuração
 
@@ -71,7 +71,7 @@ Identifique o IMEI correspondente ao dispositivo que deseja registrar na configu
 3. Selecione o submenu “Lista de Dispositivos”
 4. Localize o dispositivo e copie a informação do IMEI
 5. Com a informação da IMEI do dispositivo, siga os passos abaixo:
-   1. Acesse o Portal Zero Touch e selecione o menu “Dispositivos” \[[https://partner.android.com/zerotouch](https://partner.android.com/zerotouch) ]
+   1. Acesse o Portal Zero Touch e selecione o menu “Dispositivos” <mark style="background-color:green;">\[</mark>[<mark style="background-color:green;">https://partner.android.com/zerotouch</mark>](https://partner.android.com/zerotouch) <mark style="background-color:green;">]</mark>
    2. No campo “Escolher um identificador” selecione a opção “IMEI”;
    3. Insira o IMEI no campo “Insira o IMEI, MEID ou número de série”
    4. Selecione o botão “pesquisar”

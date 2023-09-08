@@ -10,7 +10,7 @@ Depois de entrar no Portal de Administração, uma das primeiras etapas é defin
 * **Aplicativos privados -** seus próprios aplicativos Android para sua empresa;
 * **Web Apps -** transformar uma página da web em um aplicativo Android.
 
-Para acessar a Google Play Gerenciada, acesse o menu de "**Gerenciamento de Aplicativos**" e a opção "**Google Play Gerenciada**".
+Para acessar a Google Play Gerenciada, acesse o menu de "Gerenciamento de Aplicativos" e a opção "Google Play Gerenciada".
 
 ![](<../../.gitbook/assets/5 (3).png>)
 
@@ -28,7 +28,7 @@ A imagem a seguir mostra a tela da Google Play Gerenciada. Observe a tela e os d
 
 **Aplicativos Públicos**
 
-Para escolher um aplicativo público, acesse o menu da "**Google Play Gerenciada**". A tela inicial já vem com a opção "Pesquisar na Play Store" aberta. Clique sobre o aplicativo e abrirá a tela de informações do aplicativo. Para selecioná-lo clique no botão “Selecionar". Observe os itens numerados na tela a seguir:
+Para escolher um aplicativo público, acesse o menu da "Google Play Gerenciada". A tela inicial já vem com a opção "Pesquisar na Play Store" aberta. Clique sobre o aplicativo e abrirá a tela de informações do aplicativo. Para selecioná-lo clique no botão “Selecionar". Observe os itens numerados na tela a seguir:
 
 1. Botão "Selecionar" para selecionar um aplicativo.
 2. Seta para voltar a tela de aplicativos da Google Play.
@@ -39,7 +39,7 @@ Ao selecionar um aplicativo, o sistema solicitará a confirmação antes da incl
 
 ![](<../../.gitbook/assets/8 (4).png>)
 
-Para ver a lista dos aplicativos incluídos, volte na tela de "**Aplicativos Gerenciados**", ver seção 15.1. Para mais configurações sobre políticas de aplicativos, consulte a seção [<mark style="background-color:purple;">**Gerenciar Políticas**</mark>](../configuracoes/gerenciar-politicas/)**.**
+Para ver a lista dos aplicativos incluídos, volte na tela de "Aplicativos Gerenciados", ver seção 15.1. Para mais configurações sobre políticas de aplicativos, consulte a seção [<mark style="background-color:purple;">**Gerenciar Políticas**</mark>](../configuracoes/gerenciar-politicas/)**.**
 
 **Aplicativos Particulares**
 
