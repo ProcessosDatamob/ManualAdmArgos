@@ -6,7 +6,7 @@ Essa tela do sistema tem como objetivo possibilitar ao usuário visualizar os co
 
 Para visualizar os consumos, siga os passos descritos abaixo.
 
-1. Clique no menu “**Empresa**” e selecione o submenu “**Consumos**”.
+1. Clique no menu “Empresa” e selecione o submenu “Consumos”.
 
 ![](<../../.gitbook/assets/0 (1) (1) (1).png>)
 

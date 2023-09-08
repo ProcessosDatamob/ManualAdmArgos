@@ -6,7 +6,7 @@ Esta tela do sistema tem como objetivo possibilitar ao usuário visualizar e ger
 
 Para visualizar e gerar o relatório, siga os passos descritos nesta seção.
 
-1. Clique no menu "**Localização**" e selecione o submenu “**Histórico de localização**”.
+1. Clique no menu "Localização" e selecione o submenu “Histórico de localização”.
 
 ![](<../../.gitbook/assets/0 (5).png>)
 

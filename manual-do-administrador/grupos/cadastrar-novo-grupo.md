@@ -6,7 +6,7 @@ Essa tela do sistema tem como objetivo possibilitar ao usuário criar um grupo d
 
 Para criar um grupo, siga os passos descritos nesta seção.
 
-1. Clique no menu “**Grupos**” e selecione o submenu “**Cadastrar novo grupo**”.
+1. Clique no menu “Grupos” e selecione o submenu “Cadastrar novo grupo”.
 
 ![](<../../.gitbook/assets/0 (10).png>)
 

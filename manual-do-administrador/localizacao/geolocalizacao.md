@@ -12,8 +12,8 @@ A precisão da informação da localização é diretamente influenciada pela qu
 
 Para saber como visualizar as localizações geográficas de um dispositivo, siga os passos descritos nesta seção.
 
-1. Clique no menu “**Localização**” para acessar as opções de localização.
-2. Clique em "**Geolocalização**" para abrir a tela.
+1. Clique no menu “Localização” para acessar as opções de localização.
+2. Clique em "Geolocalização" para abrir a tela.
 
 ![Interface gráfica do usuário, Texto, Aplicativo, Teams
 

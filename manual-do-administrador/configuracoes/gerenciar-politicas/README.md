@@ -39,4 +39,4 @@ Na imagem a seguir é apresentada a tela "Editar Política" e em destaque os ite
 
 <figure><img src="../../../.gitbook/assets/Imagem2.png" alt="" width="563"><figcaption></figcaption></figure>
 
-Cada uma das guias de configuração (marcação 1 da figura anterior) são descritas nas próximas subseções.
+Cada uma das guias de configuração são descritas nas próximas subseções.

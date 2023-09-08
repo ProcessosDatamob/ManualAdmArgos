@@ -6,7 +6,7 @@ Esta tela do sistema tem como objetivo possibilitar a visualização e gerar rel
 
 Para saber como utilizar esta tela siga os passos descritos nesta sessão:
 
-1. Clique no menu “**Empresa**” e selecione o submenu “**Auditoria**”.
+1. Clique no menu “Empresa” e selecione o submenu “Auditoria”.
 
 ![](<../../.gitbook/assets/0 (14).png>)
 

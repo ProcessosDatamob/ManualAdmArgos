@@ -6,7 +6,7 @@ Essa tela do sistema tem como objetivo, possibilitar ao usuário visualizar toda
 
 Para saber como visualizar as licenças, siga os passos descritos nesta seção:
 
-1. Clique no menu “**Empresa**” e selecione o submenu “**Licenças Contratadas**”. Ao acessar a tela, o sistema exibirá os dados de todas as licenças contratadas pela empresa.
+1. Clique no menu “Empresa” e selecione o submenu “Licenças Contratadas”. Ao acessar a tela, o sistema exibirá os dados de todas as licenças contratadas pela empresa.
 
 ![](<../../.gitbook/assets/0 (13).png>)
 

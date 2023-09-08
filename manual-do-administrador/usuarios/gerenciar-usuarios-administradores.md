@@ -4,7 +4,7 @@
 
 Essa tela do sistema tem como objetivo possibilitar alterar os dados de um usuário do tipo Administrador de Empresa ou Administrador de Grupo.
 
-Para alterar um usuário administrador, clique no menu “**Usuários**” e selecione o submenu “**Gerenciar Usuários Administradores**”.
+Para alterar um usuário administrador, clique no menu “Usuários” e selecione o submenu “Gerenciar Usuários Administradores”.
 
 ![](<../../.gitbook/assets/0 (7) (1).png>)
 

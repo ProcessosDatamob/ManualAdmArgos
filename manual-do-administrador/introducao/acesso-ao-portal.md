@@ -37,7 +37,7 @@ O E-mail de confirmação é uma mensagem automática e pode ser identificada em
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="343"><figcaption></figcaption></figure>
 
-Caso não tenha recebido o Token por e-mail, o usuário pode solicitar que seja enviado novamente clicando na opção **“Reenviar código"** que fica disponível logo acima do botão "Confirmar".
+Caso não tenha recebido o Token por e-mail, o usuário pode solicitar que seja enviado novamente clicando na opção “Reenviar código" que fica disponível logo acima do botão "Confirmar".
 
 <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="542"><figcaption></figcaption></figure>
 
@@ -75,8 +75,8 @@ Caso não lembre a senha de acesso ao portal, realize os seguintes passos para r
 
 <figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt="" width="230"><figcaption></figcaption></figure>
 
-1. Preencha o seu E-mail de usuário e confirme.
+2. Preencha o seu E-mail de usuário e confirme.
 
 <figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt="" width="230"><figcaption></figcaption></figure>
 
-Ao clicar em “**Confirmar**” o sistema enviará uma mensagem ao seu endereço de E-mail com instruções para troca de senha.&#x20;
+Ao clicar em “Confirmar” o sistema enviará uma mensagem ao seu endereço de E-mail com instruções para troca de senha.&#x20;

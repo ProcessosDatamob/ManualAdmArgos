@@ -6,7 +6,7 @@ Essa tela do sistema tem como objetivo visualizar e gerar um relatório com a ú
 
 Para visualizar e gerar o relatório das localizações, siga os passos descritos nesta seção.
 
-1. Clique no menu “**Localização**” e selecione o submenu “**Localização de dispositivos**”.
+1. Clique no menu “Localização” e selecione o submenu “Localização de dispositivos”.
 
 ![](<../../.gitbook/assets/0 (2).png>)
 

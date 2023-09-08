@@ -8,8 +8,8 @@ Ao acessar o  <mark style="background-color:orange;">\<Nome\_Produto></mark>, o 
 
 As primeiras configurações, recomendável a serem realizadas no Portal são:
 
-* **Perfil de Consumo** - para que todos os dados capturados possam ser analisados corretamente (detalhado na seção “**Perfil de Consumo**” deste manual).
-* **Dia de início do ciclo** - para definir a data de início da contabilização dos dados que serão analisados (detalhado na seção “**Configurações Gerais**” deste manual).
+* **Perfil de Consumo** - para que todos os dados capturados possam ser analisados corretamente (detalhado na seção “Perfil de Consumo” deste manual).
+* **Dia de início do ciclo** - para definir a data de início da contabilização dos dados que serão analisados (detalhado na seção “Configurações Gerais” deste manual).
 
 **Níveis de Configurações**
 
@@ -19,6 +19,6 @@ As configurações podem ser realizadas em três níveis (Empresa / Grupo / Usu�
 * **Grupo** – Ao criar uma configuração nesse nível, o sistema verificará se existe uma configuração no nível de Usuário, caso não exista, o sistema aplicará nos dispositivos do grupo a regra configurada no nível do Grupo;
 * **Usuário** – Ao criar uma configuração nesse nível, o sistema aplicará no dispositivo do usuário a regra configurada.
 
-A figura a seguir mostra a tela de configuração de perfil de consumo que é acessada no menu "**Configurações**". Um retângulo destaca o acesso às guias “Geral", "Grupos" e "Usuários".
+A figura a seguir mostra a tela de configuração de perfil de consumo que é acessada no menu "Configurações". Um retângulo destaca o acesso às guias “Geral", "Grupos" e "Usuários".
 
 <figure><img src="../../.gitbook/assets/image (9) (1).png" alt="" width="563"><figcaption></figcaption></figure>

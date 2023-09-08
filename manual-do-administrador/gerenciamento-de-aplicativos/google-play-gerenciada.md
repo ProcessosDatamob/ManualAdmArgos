@@ -24,7 +24,7 @@ A imagem a seguir mostra a tela da Google Play Gerenciada. Observe a tela e os d
 * **Apps da Web -** permite criar aplicativos da web.
 
 1. Clique sobre a categoria desejada para mostrar mais aplicativos da categoria.
-2. O botão "**Veja mais**" mostra mais aplicativos na mesma categoria.
+2. O botão "Veja mais" mostra mais aplicativos na mesma categoria.
 
 **Aplicativos Públicos**
 

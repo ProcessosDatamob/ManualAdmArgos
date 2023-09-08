@@ -6,7 +6,7 @@ Esta tela do sistema tem como objetivo possibilitar ao usuário a visualização
 
 Para saber como acessar e analisar os dados exibidos no Dashboard, siga os passos descritos nesta seção.
 
-1. A tela de Dashboard pode ser considerada a “Tela Inicial” do sistema, pois é exibida assim que acessa o Portal, mas também pode ser acessada clicando no menu “**Dashboard**”. Em um primeiro acesso, os indicadores de usuários, dispositivos e consumos não terão ainda informações, por isso estarão zerados.
+1. A tela de Dashboard pode ser considerada a “Tela Inicial” do sistema, pois é exibida assim que acessa o Portal, mas também pode ser acessada clicando no menu “Dashboard”. Em um primeiro acesso, os indicadores de usuários, dispositivos e consumos não terão ainda informações, por isso estarão zerados.
 
 ![](<../.gitbook/assets/0 (2) (1).png>)
 
@@ -18,15 +18,15 @@ Ao acessar a tela, todas as informações serão exibidas separadas por seções
 
 Os filtros “Empresa”, “Grupo” e “Usuário” permitem realizar uma análise dos dados dos dispositivos de um nível determinado.
 
-3. Clique no filtro “**Empresa**”, digite e selecione o nome da empresa para exibir as informações coletadas de todos os dispositivos.
+3. Clique no filtro “Empresa”, digite e selecione o nome da empresa para exibir as informações coletadas de todos os dispositivos.
 
 ![](<../.gitbook/assets/2 (1) (1) (1).png>)
 
-4. Clique no filtro “**Grupo**”, digite e selecione o nome do grupo, para exibir as informações coletadas de todos os dispositivos que fazem parte de um Grupo.
+4. Clique no filtro “Grupo”, digite e selecione o nome do grupo, para exibir as informações coletadas de todos os dispositivos que fazem parte de um Grupo.
 
 ![](<../.gitbook/assets/3 (4).png>)
 
-5. Clique no filtro “**Usuário**” digite e selecione o usuário, para exibir as informações coletadas do dispositivo do usuário.
+5. Clique no filtro “Usuário” digite e selecione o usuário, para exibir as informações coletadas do dispositivo do usuário.
 
 ![](<../.gitbook/assets/4 (2).png>)
 
@@ -58,7 +58,7 @@ Este indicador exibe o número total de licenças disponíveis no <mark style="b
 
 Este indicador exibe o número total de licenças que não possuem dispositivo registrado no portal. Ou seja, são as licenças disponíveis.
 
-Ao clicar nesse indicador, o sistema exibirá a tela de "**Licenças Contratadas"**. Para saber como utilizar essa tela, leia a seção “**Licenças Contratadas**”.
+Ao clicar nesse indicador, o sistema exibirá a tela de "Licenças Contratadas". Para saber como utilizar essa tela, leia a seção “Licenças Contratadas”.
 
 ![](../.gitbook/assets/11.png)
 
@@ -113,7 +113,7 @@ Este gráfico exibe os 5 aplicativos que mais consumiram dados móveis durante o
 
 O valor percentual de cada um dos 5 aplicativos é calculado em relação à soma total de consumo de todos os aplicativos durante o ciclo.
 
-Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as informações de todos os aplicativos. Para saber como utilizar essa tela, leia a seção “**APLICATIVOS**” deste manual.
+Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as informações de todos os aplicativos. Para saber como utilizar essa tela, leia a seção “Aplicativos” deste manual.
 
 ![](../.gitbook/assets/16.png)
 
@@ -123,7 +123,7 @@ Este gráfico exibe os 5 usuários que mais consumiram dados móveis durante o c
 
 O valor percentual de cada um dos 5 usuários é calculado em relação à soma total de consumo de todos os usuários durante o ciclo.
 
-Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as informações de consumos da empresa. Para saber como utilizar essa tela, leia a seção “**CONSUMO DA EMPRESA**” deste manual.
+Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as informações de consumos da empresa. Para saber como utilizar essa tela, leia a seção “[Consumo da Empresa](empresas/consumo-da-empresa.md)” deste manual.
 
 ![Gráfico, Linha do tempo
 
@@ -154,7 +154,7 @@ Este indicador exibe o percentual dos 5 sites mais acessados nos dispositivos du
 {% hint style="warning" %}
 **IMPORTANTE**
 
-Os sites visitados são obtidos pelo navegador web padrão do sistema <mark style="background-color:orange;">\<Nome\_Produto></mark>. Este navegador se chama **Security Browser** e precisa estar instalado e configurado nos dispositivos. Para obter detalhes sobre o gerenciamento e a configuração do navegador, acesse o capítulo **16 Security Browser**.
+Os sites visitados são obtidos pelo navegador web padrão do sistema <mark style="background-color:orange;">\<Nome\_Produto></mark>. Este navegador se chama Security Browser e precisa estar instalado e configurado nos dispositivos. Para obter detalhes sobre o gerenciamento e a configuração do navegador, acesse o capítulo [Security Browse](bloqueio-de-sites-security-browser.md)r.
 {% endhint %}
 
 ![Gráfico, Gráfico de barras

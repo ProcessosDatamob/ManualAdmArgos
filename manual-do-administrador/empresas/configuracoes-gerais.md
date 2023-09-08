@@ -6,7 +6,7 @@ Esta tela do sistema tem como objetivo possibilitar ao usuário configurar infor
 
 Para saber como configurar a empresa siga os passos descritos nesta sessão:
 
-1. Clique no menu “**Empresa**” e selecione o submenu “**Configurações Gerais**”.
+1. Clique no menu “Empresa” e selecione o submenu “Configurações Gerais”.
 
 ![](<../../.gitbook/assets/0 (9).png>)
 
