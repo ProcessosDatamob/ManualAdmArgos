@@ -1,7 +1,5 @@
 # 💬 MENSAGENS E COMANDOS
 
-**MENSAGENS E COMANDOS**
-
 Esta tela do sistema tem como objetivo, possibilitar ao usuário enviar mensagens e comandos para todos os dispositivos da empresa, de um ou mais grupos ou para um ou mais usuários de dispositivos específicos. As mensagens e comandos são enviados via PUSH e não geram consumo de SMS.
 
 Para enviar uma ou mais mensagens, estas serão colocadas em uma fila onde serão agrupadas e enviadas para o dispositivo a cada minuto. Dependendo do volume de mensagens a serem enviadas, o envio para o dispositivo pode demorar um pouco, no entanto, não mais do que 2 minutos para que as mensagens saiam da fila e sejam enviadas.

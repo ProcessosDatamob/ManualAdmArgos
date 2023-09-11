@@ -1,7 +1,5 @@
 # Geolocalização
 
-**GEOLOCALIZAÇÃO**
-
 Esta tela do sistema tem como objetivo possibilitar ao usuário visualizar as localizações geográficas de um dispositivo ativo em uma data específica.
 
 {% hint style="warning" %}

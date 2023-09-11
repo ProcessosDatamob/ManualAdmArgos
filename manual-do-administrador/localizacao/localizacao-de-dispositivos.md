@@ -1,7 +1,5 @@
 # Localização de dispositivos
 
-**LOCALIZAÇÃO DOS DISPOSITIVOS**
-
 Essa tela do sistema tem como objetivo visualizar e gerar um relatório com a última localização enviada pelos dispositivos.
 
 Para visualizar e gerar o relatório das localizações, siga os passos descritos nesta seção.

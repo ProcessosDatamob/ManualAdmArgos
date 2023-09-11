@@ -1,7 +1,5 @@
 # Histórico de localização
 
-**HISTÓRICO DE LOCALIZAÇÃO**
-
 Esta tela do sistema tem como objetivo possibilitar ao usuário visualizar e gerar um relatório com o histórico de localizações dos dispositivos da empresa.
 
 Para visualizar e gerar o relatório, siga os passos descritos nesta seção.
