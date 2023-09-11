@@ -1,7 +1,5 @@
 # Cadastrar novo usuário administrador
 
-**CADASTRAR NOVO USUÁRIO ADMINISTRADOR**
-
 Essa tela do sistema tem como objetivo possibilitar a criação de um usuário do tipo Administrador de Empresa ou Administrador de Grupo.
 
 Para criar um usuário administrador, clique no menu “Usuários” e selecione o submenu “Cadastrar novo usuário administrador”.

@@ -1,7 +1,5 @@
 # Informações gerais
 
-### VISÃO GERAL DA SOLUÇÃO <a href="#_2et92p0" id="_2et92p0"></a>
-
 O <mark style="background-color:orange;">\<Nome\_Produto></mark>  é uma solução de Gerenciamento de Mobilidade Corporativa composta por:
 
 * **Portal de Administração** <mark style="background-color:orange;">\<Nome\_Produto></mark> - sistema web que realiza toda a gestão dos dispositivos móveis da empresa.

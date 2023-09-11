@@ -1,7 +1,5 @@
 # Auditoria
 
-**AUDITORIA**
-
 Esta tela do sistema tem como objetivo possibilitar a visualização e gerar relatórios das alterações realizadas no portal e no dispositivo.
 
 Para saber como utilizar esta tela siga os passos descritos nesta sessão:

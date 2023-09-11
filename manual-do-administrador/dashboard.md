@@ -1,7 +1,5 @@
 # 📊 DASHBOARD
 
-**DASHBOARD**
-
 Esta tela do sistema tem como objetivo possibilitar ao usuário a visualização e análise dos diversos dados de consumos e usos coletados dos dispositivos. Todos esses dados serão detalhados nesta seção.
 
 Para saber como acessar e analisar os dados exibidos no Dashboard, siga os passos descritos nesta seção.

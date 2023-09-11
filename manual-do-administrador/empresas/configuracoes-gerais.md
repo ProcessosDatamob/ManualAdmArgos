@@ -1,7 +1,5 @@
 # Configurações Gerais
 
-**CONFIGURAÇÕES GERAIS**
-
 Esta tela do sistema tem como objetivo possibilitar ao usuário configurar informações importantes da empresa.
 
 Para saber como configurar a empresa siga os passos descritos nesta sessão:

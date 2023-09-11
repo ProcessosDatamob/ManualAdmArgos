@@ -1,7 +1,5 @@
 # Configurações iniciais e níveis
 
-**CONFIGURAÇÕES INICIAIS E NÍVEIS**
-
 Ao acessar o  <mark style="background-color:orange;">\<Nome\_Produto></mark>, o usuário terá acesso às configurações e funcionalidades.
 
 **Configurações Iniciais**

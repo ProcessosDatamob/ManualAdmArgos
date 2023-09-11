@@ -1,7 +1,5 @@
 # Gerenciar Grupos
 
-**GERENCIAR GRUPOS**
-
 Essa tela do sistema tem como objetivo possibilitar ao usuário administrar os grupos de usuários de dispositivos.
 
 Para administrar um grupo, siga os passos descritos abaixo.

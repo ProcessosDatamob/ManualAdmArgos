@@ -1,7 +1,5 @@
 # Acesso ao portal
 
-**ACESSO AO PORTAL**
-
 Quando o <mark style="background-color:orange;">\<Nome\_Produto></mark> é ativado para uma empresa, as seguintes tarefas são executadas pelo sistema, para possibilitar o acesso do usuário administrador da empresa ao Portal:
 
 * Criação das credenciais do Portal de Administração;
