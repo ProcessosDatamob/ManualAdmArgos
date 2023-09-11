@@ -1,7 +1,5 @@
 # Aplicativos Gerenciados
 
-**APLICATIVOS GERENCIADOS**
-
 Esta tela do sistema tem como objetivo, possibilitar ao usuário visualizar e gerar um relatório de todos os aplicativos incluídos para gerenciamento.
 
 Para visualizar e gerar esse relatório, clique no menu “Gerenciamento de Aplicativos” e na opção "Aplicativos Gerenciados".

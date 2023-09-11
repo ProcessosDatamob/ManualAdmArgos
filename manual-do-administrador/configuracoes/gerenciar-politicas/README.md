@@ -1,7 +1,5 @@
 # Gerenciar Políticas
 
-**GERENCIAR POLÍTICAS**
-
 Ao acessar a opção "Gerenciar Políticas" abrirá a tela apresentada na sequência.
 
 ![](<../../../.gitbook/assets/0 (11).png>)

@@ -1,7 +1,5 @@
 # Perfil de Consumo
 
-**PERFIL DE CONSUMO**
-
 Para acessar a tela Perfil de Consumo, devemos acessar o menu “Configurações” e o Submenu “Perfil de Consumo” conforme segue:
 
 <figure><img src="../../.gitbook/assets/Imagem5.png" alt=""><figcaption></figcaption></figure>

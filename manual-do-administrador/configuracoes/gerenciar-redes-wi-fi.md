@@ -1,7 +1,5 @@
 # Gerenciar Redes Wi-Fi
 
-### GERENCIAR REDES WI-FI <a href="#_nx90bqcat6h" id="_nx90bqcat6h"></a>
-
 Para acessar a tela Gerenciar Redes Wi-fi, devemos acessar o menu “Configurações” e o Submenu “Gerenciar Redes Wi-fi” conforme segue:
 
 <figure><img src="../../.gitbook/assets/Imagem11.png" alt=""><figcaption></figcaption></figure>

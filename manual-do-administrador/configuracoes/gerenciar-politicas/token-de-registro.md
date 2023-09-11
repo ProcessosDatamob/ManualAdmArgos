@@ -1,7 +1,5 @@
 # Token de Registro
 
-**TOKEN DE REGISTRO**
-
 Conforme visto na seção anterior é possível acessar o token de registro de dispositivos no menu "Configurações" na opção "Gerenciar Políticas". A tela do token de registro é mostrada a seguir.
 
 <figure><img src="../../../.gitbook/assets/image (8) (1).png" alt="" width="524"><figcaption></figcaption></figure>

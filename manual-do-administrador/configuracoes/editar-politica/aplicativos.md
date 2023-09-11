@@ -1,7 +1,5 @@
 # Aplicativos
 
-**APLICATIVOS**
-
 A guia de configurações de aplicativos permite gerenciar configurações, permissões, definir o modo de instalação, bem como, incluir e excluir aplicativos.
 
 A tela "Editar política" posicionada na guia "Aplicativos" é apresentada na sequência.

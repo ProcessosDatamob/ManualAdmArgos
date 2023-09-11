@@ -1,7 +1,5 @@
 # Relatório por Data
 
-**RELATÓRIO POR DATA**
-
 Para gerar um relatório por data escolha a opção "Relatório por Data" no menu "Sites".
 
 ![Interface gráfica do usuário, Aplicativo, Teams

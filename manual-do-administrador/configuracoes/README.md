@@ -1,7 +1,5 @@
 # ⚙ CONFIGURAÇÕES
 
-**CONFIGURAÇÕES**
-
 O menu de configurações permite o acesso às configurações de perfis de consumo e de políticas de gestão de dispositivos.
 
 Uma política define um conjunto de configurações que podem ser aplicadas a um dispositivo ou a um conjunto de dispositivos. As alterações nas configurações de uma política atualizarão automaticamente todos os dispositivos vinculados a essa política.

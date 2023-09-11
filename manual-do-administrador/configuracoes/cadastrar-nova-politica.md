@@ -1,7 +1,5 @@
 # Cadastrar Nova Política
 
-**CADASTRAR NOVA POLÍTICA**
-
 Esta tela do sistema tem o objetivo de realizar o cadastro de novas políticas. Para iniciar o cadastro de uma nova política escolha a opção "Cadastrar Nova Política" no menu "Configurações".
 
 ![](<../../.gitbook/assets/20 (1).png>)

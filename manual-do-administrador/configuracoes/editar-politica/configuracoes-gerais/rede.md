@@ -1,7 +1,5 @@
 # Rede
 
-**Configurações de Rede**
-
 Use os botões seletores para ativar ou desativar a configuração de bloqueio. Na figura a seguir em destaque, com número 1, a configuração ativada e, com número 2, a configuração desativada.
 
 A tabela a seguir contém a descrição das configurações de rede.

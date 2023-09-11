@@ -1,7 +1,5 @@
 # Modo Quiosque
 
-**MODO QUIOSQUE**
-
 Esta configuração tem como objetivo possibilitar a criação de um ambiente em que o usuário do dispositivo possa acessar somente os aplicativos previamente liberados pelo administrador, ou seja, apenas os ícones dos aplicativos selecionados serão exibidos na tela do dispositivo.
 
 ![](<../../../.gitbook/assets/16 (1).png>)

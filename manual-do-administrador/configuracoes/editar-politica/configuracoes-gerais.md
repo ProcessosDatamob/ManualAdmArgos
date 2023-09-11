@@ -1,7 +1,5 @@
 # Configurações Gerais
 
-**CONFIGURAÇÕES GERAIS**
-
 As configurações gerais são agrupadas nos tipos:
 
 * Configuração de VPN;
