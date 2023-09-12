@@ -14,9 +14,9 @@ Para usar o registro Zero Touch, você precisará de dispositivos compatíveis c
 
 Para iniciar a utilização do Zero Touch siga os seguintes passos:
 
-1. Entrar em contato com a <mark style="background-color:orange;">\<Nome\_Produto></mark> para adquirir os aparelhos (se necessário) e solicitar a criação da conta de cliente Zero Touch.
-2. Aguardar pela criação da sua conta Zero-Touch pela Datamob
-3. Uma vez criada a conta Zero-Touch, acesse o <mark style="background-color:orange;">\<Nome\_Produto></mark>, menu “Zero Touch” e faça a vinculação da conta com o P<mark style="background-color:orange;">\<Nome\_Produto></mark> seguindo o processo após selecionar o botão “Próxima”.
+1. Entrar em contato com a Operadora para adquirir os aparelhos (se necessário) e solicitar a criação da conta de cliente Zero Touch.
+2. Aguardar pela criação da sua conta Zero-Touch pela Operadora
+3. Uma vez criada a conta Zero-Touch, acesse o <mark style="background-color:orange;">\<Nome\_Produto></mark>, menu “Zero Touch” e faça a vinculação da conta com o <mark style="background-color:orange;">\<Nome\_Produto></mark> seguindo o processo após selecionar o botão “Próxima”.
 
 ![](<../.gitbook/assets/0 (3).png>)
 
@@ -40,7 +40,7 @@ Para configurar siga os seguintes passos:
 
 3. “Nome da Configuração”: Identifique a configuração desejada;
 4. “DPC do EMM”: Android Device Police;
-5. “Extras do DPC”: Seguir os passos do item 2.3;
+5. “Extras do DPC”: <mark style="background-color:blue;">Seguir os passos do item 2.3;</mark>
 6. “Nome da Empresa”: Nome da Empresa;
 7. “Endereço de e-mail do suporte”: Informe o e-mail de suporte da sua empresa;
 8. “Número de telefone do suporte”: Informe o telefone de suporte da sua empresa.
