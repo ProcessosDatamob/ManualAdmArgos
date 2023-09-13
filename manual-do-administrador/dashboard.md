@@ -133,7 +133,7 @@ Este gráfico exibe os 5 aplicativos que mais foram utilizados durante o ciclo. 
 
 O valor percentual de cada um dos 5 aplicativos é calculado em relação à soma total do tempo de uso de todos os aplicativos durante o ciclo.
 
-Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as informações de todos os aplicativos. Para saber como utilizar essa tela, leia a seção “ ” deste manual.
+Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as informações de todos os aplicativos.
 
 ![](../.gitbook/assets/18.png)
 
