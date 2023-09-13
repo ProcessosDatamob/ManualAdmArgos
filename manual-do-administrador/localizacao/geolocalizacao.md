@@ -32,5 +32,5 @@ Descrição gerada automaticamente](<../../.gitbook/assets/0 (1).png>)
 
 **Local onde o usuário passou** – localizações registradas no dia, entre a primeira e a última.
 
-1. Clique no marcador para visualizar as informações da localização.
-2. Utilize os recursos do mapa para otimizar a visualização.
+9. Clique no marcador para visualizar as informações da localização.
+10. Utilize os recursos do mapa para otimizar a visualização.
