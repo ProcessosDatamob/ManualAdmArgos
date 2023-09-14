@@ -4,7 +4,7 @@ Ao acessar o  <mark style="background-color:orange;">\<Nome\_Produto></mark>, o 
 
 **Configurações Iniciais**
 
-As primeiras configurações, recomendável a serem realizadas no Portal são:
+As primeiras configurações, recomendável a serem realizadas no portal são:
 
 * **Perfil de Consumo** - para que todos os dados capturados possam ser analisados corretamente (detalhado na seção “Perfil de Consumo” deste manual).
 * **Dia de início do ciclo** - para definir a data de início da contabilização dos dados que serão analisados (detalhado na seção “Configurações Gerais” deste manual).

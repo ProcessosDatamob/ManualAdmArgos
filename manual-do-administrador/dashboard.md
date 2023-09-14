@@ -28,9 +28,9 @@ Os filtros “Empresa”, “Grupo” e “Usuário” permitem realizar uma an�
 
 ![](<../.gitbook/assets/4 (2).png>)
 
-6.  No canto superior direito da tela, temos alguns ícones que tem as seguintes funcionalidades:
+6. No canto superior direito da tela, temos alguns ícones que tem as seguintes funcionalidades:
 
-    <figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Barra de Status**
 
