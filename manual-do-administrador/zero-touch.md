@@ -38,51 +38,54 @@ Para configurar siga os seguintes passos:
 
 É necessário preencher os seguintes campos que serão de identificação para o usuário do dispositivo.
 
-3. “Nome da Configuração”: Identifique a configuração desejada;
-4. “DPC do EMM”: Android Device Police;
-5. “Extras do DPC”: <mark style="background-color:blue;">Seguir os passos do item 2.3;</mark>
-6. “Nome da Empresa”: Nome da Empresa;
-7. “Endereço de e-mail do suporte”: Informe o e-mail de suporte da sua empresa;
-8. “Número de telefone do suporte”: Informe o telefone de suporte da sua empresa.
+* “Nome da Configuração”: Identifique a configuração desejada;
+* “DPC do EMM”: Android Device Police;
+* “Extras do DPC”;
+* “Nome da Empresa”: Nome da Empresa;
+* “Endereço de e-mail do suporte”: Informe o e-mail de suporte da sua empresa;
+* “Número de telefone do suporte”: Informe o telefone de suporte da sua empresa.
 
 ![](<../.gitbook/assets/2 (1) (1).png>)
 
-9. No <mark style="background-color:orange;">\<Nome\_Produto></mark>, defina qual a política será aplicada ao Zero-Touch, podendo ser uma nova política ou já existente para configurar manualmente a política na configuração Zero-Touch seguindo os passos abaixo:
-10. Acesse o menu “Configurações” do <mark style="background-color:orange;">\<Nome\_Produto></mark>;
-11. Selecione a opção “Gerenciar Políticas”;
-12. Selecione a política desejada;
-13. No menu agrupado selecione “Token de Registro”;
-14. Copie “Configuração Zero-Touch”.
+3. No <mark style="background-color:orange;">\<Nome\_Produto></mark>, defina qual a política será aplicada ao Zero-Touch, podendo ser uma nova política ou já existente para configurar manualmente a política na configuração Zero-Touch seguindo os passos abaixo:
+
+* Acesse o menu “Configurações” do <mark style="background-color:orange;">\<Nome\_Produto></mark>;
+* Selecione a opção “Gerenciar Políticas”;
+* Selecione a política desejada;
+* No menu agrupado selecione “Token de Registro”;
+* Copie “Configuração Zero-Touch”.
 
 ![Código QR
 
 Descrição gerada automaticamente](../.gitbook/assets/3.png)
 
-15. No portal Zero-Touch, adicione esta informação no campo “Extras DPC” da Configuração Zero-Touch desejada
+* No portal Zero-Touch, adicione esta informação no campo “Extras DPC” da Configuração Zero-Touch desejada
 
 ![](../.gitbook/assets/4.png)
 
-Identifique o IMEI correspondente ao dispositivo que deseja registrar na configuração criada
+4. Identifique o IMEI correspondente ao dispositivo que deseja registrar na configuração criada
 
-1. Acesse o <mark style="background-color:orange;">\<Nome\_Produto></mark>;
-2. Selecione o menu “Dispositivos”
-3. Selecione o submenu “Lista de Dispositivos”
-4. Localize o dispositivo e copie a informação do IMEI
+* Acesse o <mark style="background-color:orange;">\<Nome\_Produto></mark>;
+* Selecione o menu “Dispositivos”
+* Selecione o submenu “Lista de Dispositivos”
+* Localize o dispositivo e copie a informação do IMEI
+
 5. Com a informação da IMEI do dispositivo, siga os passos abaixo:
-   1. Acesse o Portal Zero Touch e selecione o menu “Dispositivos” <mark style="background-color:green;">\[</mark>[<mark style="background-color:green;">https://partner.android.com/zerotouch</mark>](https://partner.android.com/zerotouch) <mark style="background-color:green;">]</mark>
-   2. No campo “Escolher um identificador” selecione a opção “IMEI”;
-   3. Insira o IMEI no campo “Insira o IMEI, MEID ou número de série”
-   4. Selecione o botão “pesquisar”
+
+* Acesse o Portal Zero Touch e selecione o menu “Dispositivos” <mark style="background-color:green;">\[</mark>[<mark style="background-color:green;">https://partner.android.com/zerotouch</mark>](https://partner.android.com/zerotouch) <mark style="background-color:green;">]</mark>
+* No campo “Escolher um identificador” selecione a opção “IMEI”;
+* Insira o IMEI no campo “Insira o IMEI, MEID ou número de série”
+* Selecione o botão “pesquisar”
 
 ![](../.gitbook/assets/5.png)
 
-5. Será apresentado o dispositivo com a configuração atual. Para alterar siga os seguintes passos:
+6. Será apresentado o dispositivo com a configuração atual. Para alterar siga os seguintes passos:
 
 ![](../.gitbook/assets/6.png)
 
-1. Selecione a seta na coluna “Configuração”&#x20;
-2. Selecione a configuração desejada
-3. E pressione o botão “Atualizar”
+* Selecione a seta na coluna “Configuração”&#x20;
+* Selecione a configuração desejada
+* E pressione o botão “Atualizar”
 
 Importante ressaltar que se este dispositivo está em uso, após selecionar o botão “Atualizar” será enviada uma mensagem ao usuário solicitando reiniciar o dispositivo. Ao reiniciar as configurações serão alteradas.
 
