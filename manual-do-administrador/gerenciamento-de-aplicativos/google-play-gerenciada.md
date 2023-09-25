@@ -37,7 +37,7 @@ Ao selecionar um aplicativo, o sistema solicitará a confirmação antes da incl
 
 ![](<../../.gitbook/assets/8 (4).png>)
 
-Para ver a lista dos aplicativos incluídos, volte na tela de "Aplicativos Gerenciados", ver seção 15.1. Para mais configurações sobre políticas de aplicativos, consulte a seção [<mark style="background-color:purple;">**Gerenciar Políticas**</mark>](../configuracoes/gerenciar-politicas/)**.**
+Para ver a lista dos aplicativos incluídos, volte na tela de "Aplicativos Gerenciados". Para mais configurações sobre políticas de aplicativos, consulte a seção [<mark style="background-color:purple;">**Gerenciar Políticas**</mark>](../configuracoes/gerenciar-politicas/)**.**
 
 **Aplicativos Particulares**
 
@@ -65,7 +65,7 @@ Um "aplicativo da web" transforma uma página da web em um aplicativo Android, t
 Para criar um aplicativo da web, siga os seguintes passos (numerados na figura a seguir):
 
 1. Acesse o menu "Apps da Web";
-2. Clique no botão de adição no canto inferior direito da tela;&#x20;
+2. Clique no botão de adição no canto inferior direito da tela;
 
 <figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -86,6 +86,8 @@ Clicando sobre o aplicativo a tela para editar o aplicativo web aparece, como po
 10. Excluir o aplicativo da Google Play Gerenciada.
 
 <figure><img src="../../.gitbook/assets/image (7) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+
+v
 
 {% hint style="warning" %}
 **IMPORTANTE**

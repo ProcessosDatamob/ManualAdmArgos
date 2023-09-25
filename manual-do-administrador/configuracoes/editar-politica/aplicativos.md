@@ -18,7 +18,7 @@ As telas apresentam as seguintes partes, conforme numeração na figura:
 {% hint style="warning" %}
 **IMPORTANTE**
 
-Os aplicativos precisam ser primeiramente adicionados usando a Google Play Gerenciada (ver seção 15.2). Clique no botão "Adicionar Aplicativos" e a tela a seguir será exibida.
+Os aplicativos precisam ser primeiramente adicionados usando a Google Play Gerenciada. Clique no botão "Adicionar Aplicativos" e a tela a seguir será exibida.
 {% endhint %}
 
 ![](<../../../.gitbook/assets/7 (3).png>)
@@ -34,10 +34,6 @@ Para acessar as configurações gerenciadas de um aplicativo é necessário esta
 
 1. Localize o aplicativo desejado e clique nos três pontinhos, localizados no final da linha, para exibir o menu com mais opções;
 2. Clique sobre "Configurações Gerenciadas".
-
-![Interface gráfica do usuário, Texto, Aplicativo, Teams
-
-Descrição gerada automaticamente](<../../../.gitbook/assets/8 (3).png>)
 
 {% hint style="warning" %}
 **IMPORTANTE**
