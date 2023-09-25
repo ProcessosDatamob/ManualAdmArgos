@@ -55,35 +55,31 @@ Para configurar siga os seguintes passos:
 * No menu agrupado selecione “Token de Registro”;
 * Copie “Configuração Zero-Touch”.
 
-![Código QR
-
-Descrição gerada automaticamente](../.gitbook/assets/3.png)
-
-* No portal Zero-Touch, adicione esta informação no campo “Extras DPC” da Configuração Zero-Touch desejada
+4. No portal Zero-Touch, adicione esta informação no campo “Extras DPC” da Configuração Zero-Touch desejada
 
 ![](../.gitbook/assets/4.png)
 
-4. Identifique o IMEI correspondente ao dispositivo que deseja registrar na configuração criada
+5. Identifique o IMEI correspondente ao dispositivo que deseja registrar na configuração criada
 
 * Acesse o <mark style="background-color:orange;">\<Nome\_Produto></mark>;
 * Selecione o menu “Dispositivos”
 * Selecione o submenu “Lista de Dispositivos”
 * Localize o dispositivo e copie a informação do IMEI
 
-5. Com a informação da IMEI do dispositivo, siga os passos abaixo:
+6. Com a informação da IMEI do dispositivo, siga os passos abaixo:
 
 * Acesse o Portal Zero Touch e selecione o menu “Dispositivos” <mark style="background-color:green;">\[</mark>[<mark style="background-color:green;">https://partner.android.com/zerotouch</mark>](https://partner.android.com/zerotouch) <mark style="background-color:green;">]</mark>
 * No campo “Escolher um identificador” selecione a opção “IMEI”;
-* Insira o IMEI no campo “Insira o IMEI, MEID ou número de série”
-* Selecione o botão “pesquisar”
+* Insira o IMEI no campo “Insira o IMEI, MEID ou número de série”;
+* Selecione o botão “pesquisar”;
 
 ![](../.gitbook/assets/5.png)
 
-6. Será apresentado o dispositivo com a configuração atual. Para alterar siga os seguintes passos:
+7. Será apresentado o dispositivo com a configuração atual. Para alterar siga os seguintes passos:
 
 ![](../.gitbook/assets/6.png)
 
-* Selecione a seta na coluna “Configuração”&#x20;
+* Selecione a seta na coluna “Configuração”
 * Selecione a configuração desejada
 * E pressione o botão “Atualizar”
 

@@ -17,7 +17,7 @@ Para realizar a instalação do aplicativo, acesse o menu "Gerenciamento de Apli
 
 ![](<../.gitbook/assets/0 (6) (1).png>)
 
-3. Abrirá a tela com mais informações do aplicativo. Clique no botão "**Selecionar**", conforme em destaque na próxima imagem.
+3. Abrirá a tela com mais informações do aplicativo. Clique no botão "Selecionar", conforme em destaque na próxima imagem.
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="449"><figcaption></figcaption></figure>
 
@@ -25,7 +25,7 @@ Para realizar a instalação do aplicativo, acesse o menu "Gerenciamento de Apli
 
 ![](<../.gitbook/assets/2 (4) (1).png>)
 
-5. O aplicativo Security Browser aparecerá na lista de "**Aplicativos Gerenciados**", conforme pode ser visualizado na tela a seguir.
+5. O aplicativo Security Browser aparecerá na lista de "Aplicativos Gerenciados", conforme pode ser visualizado na tela a seguir.
 
 ![](<../.gitbook/assets/3 (2) (1).png>)
 
