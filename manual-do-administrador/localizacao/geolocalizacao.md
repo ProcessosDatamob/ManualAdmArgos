@@ -13,10 +13,6 @@ Para saber como visualizar as localizações geográficas de um dispositivo, sig
 1. Clique no menu “Localização” para acessar as opções de localização.
 2. Clique em "Geolocalização" para abrir a tela.
 
-![Interface gráfica do usuário, Texto, Aplicativo, Teams
-
-Descrição gerada automaticamente](<../../.gitbook/assets/0 (1).png>)
-
 ![](<../../.gitbook/assets/1 (1).png>)
 
 3. Selecione o usuário do dispositivo que deseja visualizar as localizações;

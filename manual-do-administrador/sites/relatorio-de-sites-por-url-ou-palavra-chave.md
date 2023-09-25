@@ -6,10 +6,6 @@ Para visualizar este relatório, siga os passos descritos nesta seção.
 
 1. Clique no menu “Sites” e selecione o submenu “Relatório por URL / Palavra-Chave”.
 
-![Interface gráfica do usuário, Aplicativo
-
-Descrição gerada automaticamente](<../../.gitbook/assets/2 (2).png>)
-
 <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 2. Digite uma URL ou Palavra-chave para gerar o relatório de sites específicos. Caso queira gerar o relatório de todos os sites, deixe o campo em branco;
