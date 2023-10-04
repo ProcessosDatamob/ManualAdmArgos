@@ -14,7 +14,7 @@ A tela apresenta os elementos que são padrão em todas as telas de listagens do
 
 * **Editar Política -** abre a tela para gerenciar as configurações da política;
 * **Remover Política -** abre uma caixa de mensagem para confirmação da exclusão da política. Clicando no botão "Remover" a política será removida do sistema;
-* **Token de Registro -** abre o Token de Registro e mais informações desta tela estão na seção [**Token de Registro**](token-de-registro.md).
+* Token de Registro - abre o Token de Registro e mais informações desta tela estão na seção [Token de Registro](token-de-registro.md).
 * **Copiar Política -** abre uma caixa de mensagem para nomear a cópia criada da política selecionada.
 
 4. Para exportar as informações dos usuários, clique no botão “Excel”.

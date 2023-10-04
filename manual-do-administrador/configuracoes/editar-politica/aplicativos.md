@@ -38,7 +38,7 @@ Para acessar as configurações gerenciadas de um aplicativo é necessário esta
 {% hint style="warning" %}
 **IMPORTANTE**
 
-O aplicativo Security Browser é o navegador web padrão do sistema <mark style="background-color:orange;">\<Nome\_Produto></mark> e com ele é possível gerenciar bloqueios de sites por URL e categoria, bem como monitorar a navegação do usuário. Consulte a seção 16, para informações detalhadas sobre a instalação e configuração do aplicativo Security Browser.
+O aplicativo Security Browser é o navegador web padrão do sistema <mark style="background-color:orange;">\<NomeProduto></mark> e com ele é possível gerenciar bloqueios de sites por URL e categoria, bem como monitorar a navegação do usuário. Consulte a seção 16, para informações detalhadas sobre a instalação e configuração do aplicativo Security Browser.
 {% endhint %}
 
 Após o passo 2 a tela a seguir será exibida. Nesta tela temos os seguintes itens:
@@ -75,9 +75,8 @@ Para acessar as configurações avançadas de um aplicativo é necessário estar
 
 Após o passo 2 a tela a seguir será exibida. Nesta tela temos os seguintes itens:
 
-**Prioridade de Atualização** - Defina a prioridade de atualização do aplicativo como pré-definida, postergada ou prioritária.
-
-**Versão mínima -** permite definir uma versão mínima do aplicativo.
+* **Prioridade de Atualização** - Defina a prioridade de atualização do aplicativo como pré-definida, postergada ou prioritária.
+* **Versão mínima -** permite definir uma versão mínima do aplicativo.
 
 ![](<../../../.gitbook/assets/13 (1).png>)
 

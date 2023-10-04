@@ -37,7 +37,7 @@ Ao selecionar um aplicativo, o sistema solicitará a confirmação antes da incl
 
 ![](<../../.gitbook/assets/8 (4).png>)
 
-Para ver a lista dos aplicativos incluídos, volte na tela de "Aplicativos Gerenciados". Para mais configurações sobre políticas de aplicativos, consulte a seção [<mark style="background-color:purple;">**Gerenciar Políticas**</mark>](../configuracoes/gerenciar-politicas/)**.**
+Para ver a lista dos aplicativos incluídos, volte na tela de "Aplicativos Gerenciados". Para mais configurações sobre políticas de aplicativos, consulte a seção [<mark style="background-color:purple;">Gerenciar Políticas</mark>](../configuracoes/gerenciar-politicas/).
 
 **Aplicativos Particulares**
 
@@ -86,8 +86,6 @@ Clicando sobre o aplicativo a tela para editar o aplicativo web aparece, como po
 10. Excluir o aplicativo da Google Play Gerenciada.
 
 <figure><img src="../../.gitbook/assets/image (7) (1).png" alt="" width="563"><figcaption></figcaption></figure>
-
-v
 
 {% hint style="warning" %}
 **IMPORTANTE**

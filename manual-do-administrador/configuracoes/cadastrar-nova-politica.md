@@ -18,4 +18,4 @@ Para cadastrar uma nova política siga os seguintes passos:
 
 3. Clique em "Cadastrar".
 
-Após o cadastro da política será aberta a tela "Editar Política" para que os detalhes da política sejam configurados. A seção [Editar Polític](editar-politica/)a mostra os detalhes da configuração de políticas.
+Após o cadastro da política será aberta a tela "Editar Política" para que os detalhes da política sejam configurados. A seção [Editar Política](editar-politica/) mostra os detalhes da configuração de políticas.

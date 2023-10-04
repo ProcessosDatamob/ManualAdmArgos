@@ -2,7 +2,7 @@
 
 O Security Browser é um navegador seguro e fácil de usar. Projetado para o Android, o Security Browser permite que os administradores dos dispositivos realizem o controle e monitoramento dos sites acessados pelos usuários, para garantir uma utilização mais segura e o consumo de dados controlado.
 
-Os bloqueios de sites são realizados pelo aplicativo Security Browser. Ele faz parte do sistema <mark style="background-color:orange;">\<Nome\_Produto></mark> e tem o objetivo de realizar as configurações de bloqueio de sites por URL, palavra-chave e categoria. Também é responsável por registrar e transmitir ao portal de administração o histórico de navegação do usuário permitindo a elaboração de relatórios e rankings de sites visitados.
+Os bloqueios de sites são realizados pelo aplicativo Security Browser. Ele faz parte do sistema <mark style="background-color:orange;">\<NomeProduto></mark> e tem o objetivo de realizar as configurações de bloqueio de sites por URL, palavra-chave e categoria. Também é responsável por registrar e transmitir ao portal de administração o histórico de navegação do usuário permitindo a elaboração de relatórios e rankings de sites visitados.
 
 Assim, é importante destacar que a instalação e configuração do aplicativo Security Browser são fundamentais para o desempenho correto das funcionalidades relacionadas ao bloqueio e monitoramento de sites visitados.
 
@@ -12,8 +12,8 @@ O processo de instalação do browser é simples e transparente para o usuário 
 
 Para realizar a instalação do aplicativo, acesse o menu "Gerenciamento de Aplicativos" e a opção "Google Play Gerenciada". Na tela da Google Play Gerenciada realize os seguintes passos:
 
-1. Utilize o campo de pesquisa para buscar "Security Browser <mark style="background-color:orange;">\<Nome\_Produto></mark>".
-2. Selecione o aplicativo "Security Browser <mark style="background-color:orange;">\<Nome\_Produto></mark>".
+1. Utilize o campo de pesquisa para buscar "Security Browser <mark style="background-color:orange;">\<NomeProduto></mark>".
+2. Selecione o aplicativo "Security Browser <mark style="background-color:orange;">\<NomeProduto></mark>".
 
 ![](<../.gitbook/assets/0 (6) (1).png>)
 

@@ -40,7 +40,7 @@ Clicando no sinal ">" ao lado do usuário o sistema exibe mais informações con
 * **Grupo** - grupo ao qual o dispositivo está associado;
 * **Status** - informa status do dispositivo. Os status que um dispositivo pode ter estão na tabela a seguir.
 
-<table data-header-hidden><thead><tr><th width="158"></th><th></th></tr></thead><tbody><tr><td><strong>Status</strong></td><td><strong>Descrição</strong></td></tr><tr><td>Ativo</td><td>O dispositivo está ativo.</td></tr><tr><td>Desabilitado</td><td>O dispositivo está desativado.</td></tr><tr><td>Deletado</td><td>O dispositivo foi excluído. Esse estado é usado no relatório de status final quando o dispositivo confirma a exclusão.</td></tr><tr><td>Provisionando</td><td>O dispositivo está sendo provisionado. Os dispositivos recém-registrados ficam nesse estado até que uma política seja aplicada.</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="164.98324022346367"></th><th></th></tr></thead><tbody><tr><td><strong>Status</strong></td><td><strong>Descrição</strong></td></tr><tr><td>Ativo</td><td>O dispositivo está ativo.</td></tr><tr><td>Desabilitado</td><td>O dispositivo está desativado.</td></tr><tr><td>Deletado</td><td>O dispositivo foi excluído. Esse estado é usado no relatório de status final quando o dispositivo confirma a exclusão.</td></tr><tr><td>Provisionando</td><td>O dispositivo está sendo provisionado. Os dispositivos recém-registrados ficam nesse estado até que uma política seja aplicada.</td></tr></tbody></table>
 
 **Opções de gerenciamento de dispositivos**
 
@@ -166,7 +166,7 @@ Além de poder editar os dados, são exibidos mais abaixo duas listas com as inf
 * **Número** **de** **Série** - número de série do dispositivo;
 * **Em conformidade** - é a aderência do dispositivo a todas as configurações de políticas atribuídas a ele. Se alguma configuração não foi aplicada, o valor desta opção será "Não". É possível acessar o "Relatório de Não Conformidade" nos três pontinhos no final da linha do dispositivo;
 * **Status Aplicado -** status atribuído ao dispositivo;
-* **Data da última atualização -** data e hora em que as informações do dispositivo foram sincronizadas com o portal;
+* **Data da última atualização -** data e hora em que as informações do dispositivo foram sincronizadas com o portal. Esta data vem da AMAPI (API da Google), ou seja, são as informações coletadas pela API da Google no dispositivo;
 * **Data da sincronização da política -** data e hora da última sincronização de Política;
 * Armazenamento interno - espaço de armazenamento do dispositivo;
 * **Versão do Android -** Versão do Android;

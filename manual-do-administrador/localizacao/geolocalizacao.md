@@ -22,11 +22,9 @@ Para saber como visualizar as localizações geográficas de um dispositivo, sig
 7. Clique no botão “Buscar” para exibir as localizações no mapa, de acordo com filtro especificado;
 8. O sistema exibirá as localizações com marcadores formando o percurso realizado pelo usuário do dispositivo. Os marcadores possuem cores diferentes, que indicam o tipo da localização. Utilize a legenda para identificar o tipo:
 
-**Posição inicial da leitura do GPS** – primeira localização do dispositivo registrada no dia;
-
-**Posição atual ou última posição coletada no dia** – última localização do dispositivo registrada no dia;
-
-**Local onde o usuário passou** – localizações registradas no dia, entre a primeira e a última.
+* **Posição inicial da leitura do GPS** – primeira localização do dispositivo registrada no dia;
+* **Posição atual ou última posição coletada no dia** – última localização do dispositivo registrada no dia;
+* **Local onde o usuário passou** – localizações registradas no dia, entre a primeira e a última.
 
 9. Clique no marcador para visualizar as informações da localização.
 10. Utilize os recursos do mapa para otimizar a visualização.

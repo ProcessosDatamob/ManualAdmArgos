@@ -14,4 +14,4 @@ Este tipo de usuário poderá visualizar e alterar os membros e as informações
 
 **Usuários de Dispositivos**
 
-Estes usuários serão criados durante o processo de ativação do aplicativo <mark style="background-color:orange;">\<Nome\_Produto></mark> no dispositivo. Ao concluir a ativação do aplicativo, já é possível visualizar as informações deste usuário no Portal.
+Estes usuários serão criados durante o processo de ativação do aplicativo <mark style="background-color:orange;">\<NomeProduto></mark> no dispositivo. Ao concluir a ativação do aplicativo, já é possível visualizar as informações deste usuário no Portal.
