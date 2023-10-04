@@ -40,15 +40,11 @@ A barra de status do Dashboard mostra a situação atual de todos os usuários e
 
 **Total de Usuários**
 
-Este indicador exibe o número total de usuários de dispositivos que utilizam o aplicativo <mark style="background-color:orange;">\<Nome\_Produto>.</mark>
-
-![Uma imagem contendo Interface gráfica do usuário
-
-Descrição gerada automaticamente](<../.gitbook/assets/9 (1).png>)
+Este indicador exibe o número total de usuários de dispositivos que utilizam o aplicativo <mark style="background-color:orange;">\<NomeProduto>.</mark>
 
 **Total de Licenças**
 
-Este indicador exibe o número total de licenças disponíveis no <mark style="background-color:orange;">\<Nome\_Produto></mark>.
+Este indicador exibe o número total de licenças disponíveis no <mark style="background-color:orange;">\<NomeProduto></mark>.
 
 ![](../.gitbook/assets/10.png)
 
@@ -66,7 +62,7 @@ Este indicador exibe o número total de dispositivos que estão ativos no sistem
 
 ![](../.gitbook/assets/12.png)
 
-* **TOTAL -** Esses dispositivos são considerados “Ativos” ao instalar e ativar o aplicativo <mark style="background-color:orange;">\<Nome\_Produto>.</mark>
+* **TOTAL -** Esses dispositivos são considerados “Ativos” ao instalar e ativar o aplicativo <mark style="background-color:orange;">\<NomeProduto>.</mark>
 
 Ao clicar em "Total” o indicador exibirá a tela “Lista de Dispositivos” contendo o relatório com as principais informações dos dispositivos ativos.
 
@@ -93,17 +89,9 @@ Ao clicar nesse indicador o sistema exibirá uma tela contendo o relatório com 
 
 Este indicador exibe o percentual de consumo de dados móveis dos dispositivos durante o ciclo em relação ao limite total configurado no Perfil de Consumo. Caso não seja configurado um limite no Perfil de Consumo, o gráfico não exibirá o percentual, e o sistema exibirá apenas o valor total de dados em MB utilizados.
 
-![Diagrama
-
-Descrição gerada automaticamente](../.gitbook/assets/14.png)
-
 **Consumo de SMS no Ciclo**
 
 Este indicador exibe o percentual de consumo de SMS enviados pelos dispositivos durante o ciclo em relação ao limite total configurado no Perfil de Consumo. Caso não seja configurado um limite no Perfil de Consumo, o gráfico não exibirá o percentual, e exibirá apenas o valor total de SMS utilizados.
-
-![Uma imagem contendo Diagrama
-
-Descrição gerada automaticamente](../.gitbook/assets/15.png)
 
 **Consumo de Dados por Aplicativo**
 
@@ -123,10 +111,6 @@ O valor percentual de cada um dos 5 usuários é calculado em relação à soma 
 
 Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as informações de consumos da empresa. Para saber como utilizar essa tela, leia a seção “[Consumo da Empresa](empresas/consumo-da-empresa.md)” deste manual.
 
-![Gráfico, Linha do tempo
-
-Descrição gerada automaticamente](../.gitbook/assets/17.png)
-
 **Tempo de Uso por Aplicativo**
 
 Este gráfico exibe os 5 aplicativos que mais foram utilizados durante o ciclo. Este tempo é contabilizado apenas quando o aplicativo está em uso, e não precisa estar consumindo dados. Os aplicativos em segundo plano não são contabilizados nesta análise.
@@ -141,10 +125,6 @@ Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as in
 
 Este indicador exibe o percentual dos 5 fabricantes dos dispositivos ativos. O valor percentual de cada um dos 5 fabricantes é calculado em relação à soma total de todos os dispositivos ativos.
 
-![Gráfico, Gráfico de explosão solar
-
-Descrição gerada automaticamente](../.gitbook/assets/19.png)
-
 **Sites mais visitados**
 
 Este indicador exibe o percentual dos 5 sites mais acessados nos dispositivos durante o ciclo. O valor percentual de cada um dos 5 sites é calculado em relação à soma total de todos os acessos aos sites durante o ciclo.
@@ -152,12 +132,8 @@ Este indicador exibe o percentual dos 5 sites mais acessados nos dispositivos du
 {% hint style="warning" %}
 **IMPORTANTE**
 
-Os sites visitados são obtidos pelo navegador web padrão do sistema <mark style="background-color:orange;">\<Nome\_Produto></mark>. Este navegador se chama Security Browser e precisa estar instalado e configurado nos dispositivos. Para obter detalhes sobre o gerenciamento e a configuração do navegador, acesse o capítulo [Security Browse](bloqueio-de-sites-security-browser.md)r.
+Os sites visitados são obtidos pelo navegador web padrão do sistema <mark style="background-color:orange;">\<NomeProduto></mark>. Este navegador se chama Security Browser e precisa estar instalado e configurado nos dispositivos. Para obter detalhes sobre o gerenciamento e a configuração do navegador, acesse o capítulo [Security Browse](bloqueio-de-sites-security-browser.md)r.
 {% endhint %}
-
-![Gráfico, Gráfico de barras
-
-Descrição gerada automaticamente](../.gitbook/assets/20.png)
 
 **Indicador de Consumo e Histórico**
 
@@ -165,19 +141,11 @@ Este indicador exibe em percentuais os dados móveis e SMS consumidos nos últim
 
 Para realizar a análise individual dos consumos de dados móveis ou SMS, acesse o item "Consumos" no menu "Empresa".
 
-![Gráfico, Gráfico de barras, Histograma
-
-Descrição gerada automaticamente](../.gitbook/assets/21.png)
-
 **Indicador de Novos Usuários de Dispositivos e Histórico**
 
 Este indicador exibe a quantidade de usuários de dispositivos ativados nos últimos 6 ciclos e a evolução dos novos usuários do ciclo atual em relação aos do trimestre e do semestre.
 
 Para realizar a análise individual dos usuários de dispositivos, clique em "Lista de Dispositivos" no menu "Dispositivos".
-
-![Gráfico, Gráfico de barras
-
-Descrição gerada automaticamente](../.gitbook/assets/22.png)
 
 **Localização dos Dispositivos**
 
