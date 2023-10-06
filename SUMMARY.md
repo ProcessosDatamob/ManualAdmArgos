@@ -29,7 +29,6 @@
   * [Editar política](manual-do-administrador/configuracoes/editar-politica/README.md)
     * [Configurações Gerais](manual-do-administrador/configuracoes/editar-politica/configuracoes-gerais.md)
       * [Configuração de VPN](manual-do-administrador/configuracoes/editar-politica/configuracoes-gerais/configuracao-de-vpn.md)
-      * [Configurações de rede Wi-Fi](manual-do-administrador/configuracoes/editar-politica/configuracoes-gerais/configuracoes-de-rede-wi-fi.md)
       * [Hardware](manual-do-administrador/configuracoes/editar-politica/configuracoes-gerais/hardware.md)
       * [Localização](manual-do-administrador/configuracoes/editar-politica/configuracoes-gerais/localizacao.md)
       * [Rede](manual-do-administrador/configuracoes/editar-politica/configuracoes-gerais/rede.md)
