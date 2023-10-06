@@ -12,6 +12,15 @@ As telas apresentam as seguintes partes, conforme numeração na figura:
 2. Use a caixa de pesquisa para localizar aplicativos dentro da lista exibida.
 3. Listagem de aplicativos incluídos.
 4. Tipo de instalação - Escolha o tipo de instalação de cada dispositivo. Os tipos de instalação são: disponível, pré-instalado, instalação forçada ou bloqueado.
+
+{% hint style="info" %}
+**NOTA**
+
+Importante ressaltar que o tipo de instalação “Pré-Instalado” de um aplicativo, acontece uma única vez no dispositivo. Ou seja: quando um aplicativo é pré-instalado é deletado pelo usuário, ao alterar a política que tenha o mesmo aplicativo com o tipo de instalação “pré-instalado” o aplicativo não será apresentado no dispositivo pois ele já foi removido anteriormente.
+
+Para que o aplicativo seja apresentado no dispositivo com o tipo de instalação “pré-instalado” é necessário realizar o comando “Remover Dispositivo (WIPE)” no portal ou factory reset através do dispositivo”.
+{% endhint %}
+
 5. Mais ações ("...") que podem ser realizadas com o aplicativo: Configurações Gerenciadas, Permissões, Configurações Avançadas e Remover Aplicativo.
 6. Adicionar Aplicativos - permite adicionar aplicativos para gerenciamento.
 
