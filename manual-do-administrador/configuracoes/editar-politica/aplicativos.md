@@ -9,6 +9,13 @@ A tela "Editar política" posicionada na guia "Aplicativos" é apresentada na se
 As telas apresentam as seguintes partes, conforme numeração na figura:
 
 1. Modo de seleção dos aplicativos na Play Store - permite controlar como os aplicativos serão exibidos nos dispositivos registrados nesta política. No modo "Restrito", os usuários só podem visualizar e instalar da Google Play Store os aplicativos listados abaixo. Os outros aplicativos serão removidos e não estarão disponíveis nos dispositivos.
+
+{% hint style="info" %}
+**NOTA:**
+
+Ao selecionar a opção “Aberta” os aplicativos adicionados na política apresentarão o tipo de instalação: Instalação Forçada, pois entende que todos os aplicativos já estão disponíveis.
+{% endhint %}
+
 2. Use a caixa de pesquisa para localizar aplicativos dentro da lista exibida.
 3. Listagem de aplicativos incluídos.
 4. Tipo de instalação - Escolha o tipo de instalação de cada dispositivo. Os tipos de instalação são: disponível, pré-instalado, instalação forçada ou bloqueado.
