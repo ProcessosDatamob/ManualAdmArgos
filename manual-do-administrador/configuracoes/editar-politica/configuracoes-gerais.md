@@ -2,8 +2,8 @@
 
 As configurações gerais são agrupadas nos tipos:
 
+* Configuração de Rede Wi-Fi
 * Configuração de VPN;
-* Configurações de rede Wi-Fi;
 * Hardware;
 * Localização;
 * Rede;
@@ -13,7 +13,13 @@ As configurações gerais são agrupadas nos tipos:
 * Tela de Bloqueio;
 * Usuário;
 
-![](<../../../.gitbook/assets/4 (3).png>)
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**NOTA**
+
+O campo "pesquisa" permite inserir palavras-chave relevantes para encontrar rapidamente informações específicas relacionadas ao produto.
+{% endhint %}
 
 Os grupos de configurações são apresentados nas próximas subseções.
 
