@@ -9,6 +9,15 @@ Para visualizar e gerar o relatório das localizações, siga os passos descrito
 ![](<../../.gitbook/assets/0 (2).png>)
 
 2. Selecione as datas que deseja buscar para obter informações e clique no botão Buscar;
+
+{% hint style="info" %}
+**NOTA**
+
+A tela “Localização de Dispositivos” apresenta um relatório da última localização registrada, o que significa que ao realizar a busca de um período, alguns dispositivos podem não ser apresentados devido ao último registro não corresponder ao período pesquisado.
+
+Importante ressaltar que o endereço apresentado pode sofrer alteração ao atualizar a tela, pois sempre vai apresentar a última localização do dispositivo.
+{% endhint %}
+
 3. Caso queira visualizar a localização de um dispositivo específico, digite o número do dispositivo no campo “Pesquisar”;
 4. Para ordenar as informações exibidas, clique nas setas ao lado do título da informação que deseja ordenar. (Usuário, telefone, Lat/Lng ou data);
 5. Clique no sinal ">", que aparece no início da linha, para exibir o endereço;
