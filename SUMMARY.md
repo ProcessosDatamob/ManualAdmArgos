@@ -38,7 +38,7 @@
       * [Tela de Bloqueio](manual-do-administrador/configuracoes/editar-politica/configuracoes-gerais/tela-de-bloqueio.md)
       * [Usuário](manual-do-administrador/configuracoes/editar-politica/configuracoes-gerais/usuario.md)
     * [Modo Quiosque](manual-do-administrador/configuracoes/editar-politica/modo-quiosque.md)
-    * [Modo Quiosque (atualizado)](manual-do-administrador/configuracoes/editar-politica/modo-quiosque-atualizado.md)
+    * [Modo Quiosque](manual-do-administrador/configuracoes/editar-politica/modo-quiosque-1.md)
     * [Aplicativos](manual-do-administrador/configuracoes/editar-politica/aplicativos.md)
   * [Perfil de Consumo](manual-do-administrador/configuracoes/perfil-de-consumo.md)
   * [Gerenciar Redes Wi-Fi](manual-do-administrador/configuracoes/gerenciar-redes-wi-fi.md)
