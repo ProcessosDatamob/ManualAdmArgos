@@ -25,8 +25,8 @@ Para acessar as configurações de "Modo Quiosque" siga os seguintes passos:
 
 E alterará a launcher do Dispositivo para a launcher do aplicativo Kiosk, não permitirá que o usuário altere a launcher no dispositivo e manterá a configuração de Modo Quiosque recebida na politica.
 
-* Wallpaper - Pode ser realizado o upload de uma imagem de papel de parede na política e definido a orientação de tela , que serão enviados para o aplicativo.
+* Papel de parede - pode ser realizado o upload de uma imagem de papel de parede na política e definido a orientação de tela , que serão enviados para o aplicativo.
 
-<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Os aplicativos que serão exibidos no dispositivo, serão definidos na política, ou seja, somente os aplicativos liberados na política serão exibidos na laucher.

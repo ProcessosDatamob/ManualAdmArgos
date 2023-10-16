@@ -11,7 +11,7 @@ Ao acessar a tela, o sistema não permitirá alterar as informações do campo �
 1. Preencha o nome do usuário.
 2. Caso necessário, informe um código de identificação para o usuário.
 3. Informe o e-mail que será utilizado para o usuário acessar o sistema (exemplos: carina@teste.com, jose@app.com.br, jonas@tecnologia.com.br). Esse e-mail não pode estar sendo utilizado por nenhum outro usuário da empresa.
-4. Informe uma senha para o usuário.  &#x20;
+4. Informe uma senha para o usuário.
 
 <figure><img src="../../.gitbook/assets/image (20).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -24,6 +24,6 @@ Se for um responsável de grupo, mais opções serão exibidas:
 
 6. Selecione o(s) grupo(s) que o usuário irá administrar.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 7. Clique no botão “Cadastrar” para concluir o cadastro do usuário.
