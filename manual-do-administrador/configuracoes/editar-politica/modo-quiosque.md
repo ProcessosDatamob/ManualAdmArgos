@@ -26,6 +26,7 @@ Para acessar as configurações de "Modo Quiosque" siga os seguintes passos:
 E alterará a launcher do Dispositivo para a launcher do aplicativo Kiosk, não permitirá que o usuário altere a launcher no dispositivo e manterá a configuração de Modo Quiosque recebida na politica.
 
 * Papel de parede - pode ser realizado o upload de uma imagem de papel de parede na política e definido a orientação de tela , que serão enviados para o aplicativo.
+* Cor da fonte dos ícones - pode ser configurada a cor do texto dos ícones da tela inicial, <mark style="color:blue;">através do preenchimento do código da cor desejada.</mark>
 
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
