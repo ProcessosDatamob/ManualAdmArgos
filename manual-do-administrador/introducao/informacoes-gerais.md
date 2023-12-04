@@ -1,9 +1,9 @@
 # Informações gerais
 
-O <mark style="background-color:orange;">\<NomeProduto></mark> é uma solução de Gerenciamento de Mobilidade Corporativa composta por:
+O <\<NomeProduto> é uma solução de Gerenciamento de Mobilidade Corporativa composta por:
 
-* **Portal de Administração** <mark style="background-color:orange;">\<NomeProduto></mark> - sistema web que realiza toda a gestão dos dispositivos móveis da empresa.
-* **Aplicativo** <mark style="background-color:orange;">\<NomeProduto></mark> - aplicativo Android que coleta todas as informações de uso e consumos do dispositivo móvel. Este aplicativo é instalado por padrão estando presente em todos os dispositivos que registrados no sistema.
+* **Portal de Administração** <\<NomeProduto> - sistema web que realiza toda a gestão dos dispositivos móveis da empresa.
+* **Aplicativo** <\<NomeProduto> - aplicativo Android que coleta todas as informações de uso e consumos do dispositivo móvel. Este aplicativo é instalado por padrão estando presente em todos os dispositivos que registrados no sistema.
 * **Aplicativo Security Browser** - Aplicativo Android de navegação web responsável por realizar os bloqueios de sites, bem como monitorar a navegação do usuário do dispositivo.
 * **Aplicação Block SIM -** é responsável pelo bloqueio do chip SIM, impedindo a sua utilização noutro dispositivo.
 
@@ -14,11 +14,11 @@ O <mark style="background-color:orange;">\<NomeProduto></mark> é uma solução 
 * Para utilizar o bloqueio do chip, ao criar uma nova política deverá ser selecionado o modo de gerenciamento"Android - Block SIM", deste modo o sistema adiciona automaticamente a aplicação Block SIM, restringindo as alterações da senha do dispositivo e garantindo a ligação do chip ao dispositivo. No momento do registro do dispositivo, o usuário deverá seguir as etapas da instalação e conceder as licenças solicitadas. Para mais detalhes sobre o processo de bloqueio do chip use o "Manual de Instalação - Block sim".
 {% endhint %}
 
-A partir do <mark style="background-color:orange;">\<NomeProduto></mark> é possível acessar as informações sobre o consumo e o uso dos dispositivos alocados aos funcionários de uma empresa. Também é possível definir políticas de bloqueios para restringir o uso indevido dos dispositivos, possibilitando ao administrador avaliar e aumentar a produtividade dos funcionários, através da análise e da gestão dos recursos de telecomunicação da empresa.
+A partir do <\<NomeProduto> é possível acessar as informações sobre o consumo e o uso dos dispositivos alocados aos funcionários de uma empresa. Também é possível definir políticas de bloqueios para restringir o uso indevido dos dispositivos, possibilitando ao administrador avaliar e aumentar a produtividade dos funcionários, através da análise e da gestão dos recursos de telecomunicação da empresa.
 
 **Fluxo dos Dados**
 
-Todas as informações coletadas pelo aplicativo <mark style="background-color:orange;">\<NomeProduto></mark> são enviadas periodicamente para os servidores do sistema. As informações são compiladas e consolidadas em 1 hora para serem visualizadas no portal de administração.
+Todas as informações coletadas pelo aplicativo <\<NomeProduto> são enviadas periodicamente para os servidores do sistema. As informações são compiladas e consolidadas em 1 hora para serem visualizadas no portal de administração.
 
 Os dados de consumo coletados pelo aplicativo são enviados de acordo com o tempo configurado no portal, na opção "Sincronizar cada", que varia de 30 minutos a 24 horas.
 
