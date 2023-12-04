@@ -1,14 +1,14 @@
 # Gerenciar Redes Wi-Fi
 
-Para acessar a tela Gerenciar Redes Wi-fi, devemos acessar o menu “Configurações” e o Submenu “Gerenciar Redes Wi-fi” conforme segue:
+Para acessar a tela Gerenciar Redes Wi-fi, devemos acessar o menu “**Configurações**” e o Submenu “**Gerenciar Redes Wi-fi**” conforme segue:
 
 <figure><img src="../../.gitbook/assets/Imagem11.png" alt=""><figcaption></figcaption></figure>
 
-Ao acessar o submenu a tela abaixo será exibida, clique em "Adicionar":
+Ao acessar o submenu a tela abaixo será exibida, clique em "**Adicionar**":
 
 <figure><img src="../../.gitbook/assets/Imagem16.png" alt=""><figcaption></figcaption></figure>
 
-Após clicar em "Adicionar", a seguinte tela para preenchimento dos dados da Rede Wi-fi , será exibida. Todos os campos devem ser preenchidos e por fim clicar em Salvar.
+Após clicar em "**Adicionar**", a seguinte tela para preenchimento dos dados da Rede Wi-fi , será exibida. Todos os campos devem ser preenchidos e por fim clicar em Salvar.
 
 <figure><img src="../../.gitbook/assets/Imagem17.png" alt=""><figcaption></figcaption></figure>
 

@@ -30,7 +30,7 @@ Os filtros “Empresa”, “Grupo” e “Usuário” permitem realizar uma an�
 
 6. No canto superior direito da tela, temos alguns ícones que tem as seguintes funcionalidades:
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## **Barra de Status**
 
@@ -68,7 +68,7 @@ Ao clicar em "**Total**” o indicador exibirá a tela “**Lista de Dispositivo
 
 * **SEM COMUNICAÇÃO -** Este indicador exibe o número total de dispositivos que não estão enviando dados aos servidores a um período prolongado. Ao clicar em "**Sem Comunicação**” o sistema exibe a tela de dispositivos sem comunicação.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Esta falta de comunicação pode ocorrer quando o dispositivo se encontrar nas seguintes situações:
 

@@ -24,4 +24,4 @@ Importante ressaltar que o endereço apresentado pode sofrer alteração ao atua
 6. Para exportar o relatório das localizações, clique no link “Excel”;
 7. Para copiar as informações do relatório das localizações, clique no link “Copiar”;
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>

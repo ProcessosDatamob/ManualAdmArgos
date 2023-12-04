@@ -16,7 +16,7 @@ Para saber como gerenciar os dispositivos ativos da empresa, siga os passos desc
 9. Clique no ">" para visualizar todas as informações do dispositivo.
 10. Use os três pontinhos "..." para exibir o menu de ações e aplicar a ação desejada ao dispositivo.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 **Informações do Dispositivo**
 
@@ -31,7 +31,7 @@ As informações do dispositivo exibidas na lista são:
 
 Clicando no sinal ">" ao lado do usuário o sistema exibe mais informações conforme pode ser visto na imagem abaixo.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Política** - nome da política atribuída ao dispositivo;
 * **Fabricante -** nome do fabricante do dispositivo;
