@@ -1,6 +1,6 @@
 # Documentos e Materiais de Apoio
 
-Nesta tela é possível realizar o download dos documentos e materiais de apoio para utilizar o <mark style="background-color:orange;">\<NomeProduto></mark>.
+Nesta tela é possível realizar o download dos documentos e materiais de apoio para utilizar o **\<NomeProduto>**.
 
 Para acessar os materiais, basta selecionar o menu Ajuda e o submenu Documentos e Materiais de Apoio.
 

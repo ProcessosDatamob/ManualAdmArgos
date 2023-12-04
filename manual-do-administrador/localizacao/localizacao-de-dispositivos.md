@@ -4,24 +4,28 @@ Essa tela do sistema tem como objetivo visualizar e gerar um relatório com a ú
 
 Para visualizar e gerar o relatório das localizações, siga os passos descritos nesta seção.
 
-1. Clique no menu “Localização” e selecione o submenu “Localização de dispositivos”.
+1. Clique no menu “**Localização**” e selecione o submenu “**Localização de dispositivos**”
 
 ![](<../../.gitbook/assets/0 (2).png>)
 
-2. Selecione as datas que deseja buscar para obter informações e clique no botão Buscar;
+2. Selecione o usuário ou as datas que deseja buscar para obter informações
+
+<figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTA**
 
-A tela “Localização de Dispositivos” apresenta um relatório da última localização registrada, o que significa que ao realizar a busca de um período, alguns dispositivos podem não ser apresentados devido ao último registro não corresponder ao período pesquisado.
+A tela “**Localização de Dispositivos**” apresenta um relatório da última localização registrada, o que significa que ao realizar a busca de um período, alguns dispositivos podem não ser apresentados devido ao último registro não corresponder ao período pesquisado.
 
 Importante ressaltar que o endereço apresentado pode sofrer alteração ao atualizar a tela, pois sempre vai apresentar a última localização do dispositivo.
 {% endhint %}
 
-3. Caso queira visualizar a localização de um dispositivo específico, digite o número do dispositivo no campo “Pesquisar”;
-4. Para ordenar as informações exibidas, clique nas setas ao lado do título da informação que deseja ordenar. (Usuário, telefone, Lat/Lng ou data);
-5. Clique no sinal ">", que aparece no início da linha, para exibir o endereço;
-6. Para exportar o relatório das localizações, clique no link “Excel”;
-7. Para copiar as informações do relatório das localizações, clique no link “Copiar”;
+3. Clique no botão "**Buscar**" e aparecerá a relação de dispositivos e sua última localização automaticamente
+4. Caso queira visualizar a localização de um dispositivo específico, digite o número do dispositivo no campo “**Pesquisar**”.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+
+5. Para ordenar as informações exibidas, clique nas setas ao lado do título da informação que deseja ordenar. (Usuário, telefone, Lat/Lng ou data).
+6. Clique no sinal ">", que aparece no início da linha, para exibir o endereço;
+7. Para exportar o relatório das localizações, clique no link “Excel”.
+8. Para copiar as informações do relatório das localizações, clique no link “Copiar”

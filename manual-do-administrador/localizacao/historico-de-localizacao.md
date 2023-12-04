@@ -4,13 +4,13 @@ Esta tela do sistema tem como objetivo possibilitar ao usuário visualizar e ger
 
 Para visualizar e gerar o relatório, siga os passos descritos nesta seção.
 
-1. Clique no menu "Localização" e selecione o submenu “Histórico de localização”.
+1. Clique no menu "**Localização**" e selecione o submenu “**Histórico de localização**”.
 
 ![](<../../.gitbook/assets/0 (5).png>)
 
 Selecione as informações do relatório que deseja filtrar.
 
-2. Clique no botão “Buscar”.
+2. Clique no botão “**Buscar**”.
 
 {% hint style="info" %}
 **OBSERVAÇÃO**

@@ -1,9 +1,8 @@
 # Relatório por Data
 
-Para gerar um relatório por data escolha a opção "Relatório por Data" no menu "Sites".
+Para gerar um relatório por data escolha a opção "**Relatório por Data**" no menu "**Sites**".
 
-![Interface gráfica do usuário, Aplicativo, Teams
-](<../../.gitbook/assets/0 (4).png>)
+![Interface gráfica do usuário, Aplicativo, Teams](<../../.gitbook/assets/0 (4).png>)
 
 <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
