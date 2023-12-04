@@ -13,4 +13,4 @@ As opções do menu de configurações são:
 * **Perfil de Consumo -** permite cadastrar o perfil de consumo para empresa, grupo e usuário;
 * **Gerenciar Redes Wi-fi -** permite cadastrar redes de Wi-fi que posteriormente serão utilizadas nas Configurações de Políticas;
 
-As quatro opções do menu de "Configurações" são detalhadas nas próximas subseções.
+As quatro opções do menu de "**Configurações**" são detalhadas nas próximas subseções.

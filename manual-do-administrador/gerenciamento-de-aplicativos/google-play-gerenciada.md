@@ -2,13 +2,13 @@
 
 A Google Play Gerenciada permite que sejam selecionados os aplicativos que estarão disponíveis para download nos dispositivos da empresa.
 
-Depois de entrar no Portal de Administração, uma das primeiras etapas é definir quais aplicativos você deseja gerenciar para sua organização. No menu "Gerenciamento de Aplicativos", você pode gerenciar todos os aplicativos autorizados para instalação em seus dispositivos Android. Você pode gerenciar três tipos diferentes de aplicativos:
+Depois de entrar no Portal de Administração, uma das primeiras etapas é definir quais aplicativos você deseja gerenciar para sua organização. No menu "**Gerenciamento de Aplicativos**", você pode gerenciar todos os aplicativos autorizados para instalação em seus dispositivos Android. Você pode gerenciar três tipos diferentes de aplicativos:
 
 * **Aplicativos públicos -** aplicativos disponíveis na Google Play Store pública;
 * **Aplicativos privados -** seus próprios aplicativos Android para sua empresa;
 * **Web Apps -** transformar uma página da web em um aplicativo Android.
 
-Para acessar a Google Play Gerenciada, acesse o menu de "Gerenciamento de Aplicativos" e a opção "Google Play Gerenciada".
+Para acessar a Google Play Gerenciada, acesse o menu de "**Gerenciamento de Aplicativos**" e a opção "**Google Play Gerenciada**".
 
 ![](<../../.gitbook/assets/5 (3).png>)
 
@@ -20,15 +20,14 @@ A imagem a seguir mostra a tela da Google Play Gerenciada. Observe a tela e os d
 * **Pesquisar na Play Store -** permite pesquisar por aplicativos públicos;
 * **Apps Particulares -** permite fazer upload de aplicativos próprios da empresa.
 * **Apps da Web -** permite criar aplicativos da web.
+* Clique sobre a categoria desejada para mostrar mais aplicativos da categoria.
+* O botão "Veja mais" mostra mais aplicativos na mesma categoria.
 
-1. Clique sobre a categoria desejada para mostrar mais aplicativos da categoria.
-2. O botão "Veja mais" mostra mais aplicativos na mesma categoria.
+## **Aplicativos Públicos**
 
-**Aplicativos Públicos**
+Para escolher um aplicativo público, acesse o menu da "**Google Play Gerenciada**". A tela inicial já vem com a opção "**Pesquisar na Play Store**" aberta. Clique sobre o aplicativo e abrirá a tela de informações do aplicativo. Para selecioná-lo clique no botão “**Selecionar**". Observe os itens numerados na tela a seguir:
 
-Para escolher um aplicativo público, acesse o menu da "Google Play Gerenciada". A tela inicial já vem com a opção "Pesquisar na Play Store" aberta. Clique sobre o aplicativo e abrirá a tela de informações do aplicativo. Para selecioná-lo clique no botão “Selecionar". Observe os itens numerados na tela a seguir:
-
-1. Botão "Selecionar" para selecionar um aplicativo.
+1. Botão "**Selecionar**" para selecionar um aplicativo.
 2. Seta para voltar a tela de aplicativos da Google Play.
 
 ![](<../../.gitbook/assets/7 (4).png>)
@@ -37,13 +36,13 @@ Ao selecionar um aplicativo, o sistema solicitará a confirmação antes da incl
 
 ![](<../../.gitbook/assets/8 (4).png>)
 
-Para ver a lista dos aplicativos incluídos, volte na tela de "Aplicativos Gerenciados". Para mais configurações sobre políticas de aplicativos, consulte a seção [<mark style="background-color:purple;">Gerenciar Políticas</mark>](../configuracoes/gerenciar-politicas/).
+Para ver a lista dos aplicativos incluídos, volte na tela de [**"Aplicativos Gerenciados"**](broken-reference). Para mais configurações sobre políticas de aplicativos, consulte a seção [**Gerenciar Políticas**](broken-reference)**.**
 
-**Aplicativos Particulares**
+## **Aplicativos Particulares**
 
 Para fazer upload de aplicativos próprios da empresa, siga os seguintes passos:
 
-1. Acesse o ícone de "Aplicativos Particulares";
+1. Acesse o ícone de "**Aplicativos Particulares**";
 2. Clique no mais "+” que aparece na parte inferior direita da tela;
 
 ![](<../../.gitbook/assets/9 (3).png>)
@@ -58,13 +57,13 @@ Para fazer upload de aplicativos próprios da empresa, siga os seguintes passos:
 Os aplicativos privados devem ter um nome de pacote exclusivo que não tenha sido usado antes quando carregado em sua loja Google Play gerenciada.
 {% endhint %}
 
-**Aplicativos da Web**
+## **Aplicativos da Web**
 
-Um "aplicativo da web" transforma uma página da web em um aplicativo Android, tornando mais fácil encontrá-lo e usá-lo em dispositivos móveis.
+Um "**aplicativo da web**" transforma uma página da web em um aplicativo Android, tornando mais fácil encontrá-lo e usá-lo em dispositivos móveis.
 
-Para criar um aplicativo da web, siga os seguintes passos (numerados na figura a seguir):
+Para criar um aplicativo da web, siga os seguintes passos na figura a seguir:
 
-1. Acesse o menu "Apps da Web";
+1. Acesse o menu "**Apps da Web**";
 2. Clique no botão de adição no canto inferior direito da tela;
 
 <figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
