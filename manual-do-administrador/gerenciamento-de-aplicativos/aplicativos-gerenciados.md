@@ -8,7 +8,7 @@ Para visualizar e gerar esse relatório, clique no menu “Gerenciamento de Apli
 
 O sistema exibirá uma lista com todos os aplicativos instalados nos dispositivos da empresa. A tela de exibição dos aplicativos gerenciados é apresentada a seguir.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 A tela possui elementos padrão que são semelhantes a outras telas do sistema. Os itens seguintes apresentam as opções de gerenciamento desta tela e estão enumerados na figura anterior:
 
@@ -28,6 +28,6 @@ Se o aplicativo for removido da “Google Play Gerenciada” é recomendado que 
 
 Caso seja o relatório de uma página, ele é gerado e baixado automaticamente. Caso seja o completo, pode demorar alguns minutos para ser gerado é disponibilizado para download nas notificações do sistema, conforme pode ser visualizado a seguir.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 7. Para copiar as informações da lista de aplicativos para a área de transferência, clique no botão “Copiar”.

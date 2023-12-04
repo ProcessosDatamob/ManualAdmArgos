@@ -10,7 +10,7 @@ Para visualizar as perguntas frequentes, clique no menu “Ajuda”, selecione o
 2. Filtre sua dúvida nas categorias listadas.
 3. Para visualizar a resposta da pergunta, clique no símbolo “>” localizado à esquerda da pergunta.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ao rolar até o final da página, temos acesso aos Manuais para Download:
 

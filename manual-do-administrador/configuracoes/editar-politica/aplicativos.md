@@ -4,7 +4,7 @@ A guia de configurações de aplicativos permite gerenciar configurações, perm
 
 A tela "Editar política" posicionada na guia "Aplicativos" é apresentada na sequência.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 As telas apresentam as seguintes partes, conforme numeração na figura:
 

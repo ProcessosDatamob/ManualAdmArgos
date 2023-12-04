@@ -4,11 +4,11 @@ Essa tela do sistema tem como objetivo possibilitar ao usuário visualizar os co
 
 Para visualizar os consumos, siga os passos descritos abaixo.
 
-1. Clique no menu “Empresa” e selecione o submenu “Consumos”.
+1. Clique no menu “**Empresa**” e selecione o submenu “**Consumos**”.
 
 ![](<../../.gitbook/assets/0 (1) (1) (1).png>)
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="531"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="531"><figcaption></figcaption></figure>
 
 2. Clique na aba “Dados” ou “SMS” para escolher o tipo de consumo que deseja visualizar.
 3. Preencha as datas do intervalo em que os Dados ou SMS que deseja visualizar foram consumidos. Ao clicar em "Buscar" serão exibidos os históricos de consumo, por usuário, no período especificado.

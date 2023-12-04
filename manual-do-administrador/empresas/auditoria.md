@@ -4,14 +4,40 @@ Esta tela do sistema tem como objetivo possibilitar a visualização e gerar rel
 
 Para saber como utilizar esta tela siga os passos descritos nesta sessão:
 
-1. Clique no menu “Empresa” e selecione o submenu “Auditoria”.
+1. Clique no menu “**Empresa**” e selecione o submenu “**Auditoria**”.
 
-![](<../../.gitbook/assets/0 (14).png>)
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 2. Selecione o intervalo de datas que deseja consultar as informações;
 3. Utilizar o campo “Usuários” caso queira consultar informações de um usuário específico;
 4. É possível também filtrar por atividade através do campo “Atividades”, sendo que os tipos disponíveis são: Inserção, Exclusão, Edição, Termos de Uso e Política de Privacidade;
 5. Pode ser selecionado também o tipo de categoria, sendo elas: Empresa, dispositivo ou Política;
-6. Para copiar as informações, basta clicar no botão “Copiar”
+6. Para exportar as informações em Excel, basta clicar no botão “Excel”
 
-<figure><img src="../../.gitbook/assets/image (12) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+{% hint style="info" %}
+**NOTA**
+
+No relatório exportado em Excel tem uma coluna "**Alterações**" onde é possível consultar os campos modificados.
+{% endhint %}
+
+7. Para copiar as informações, basta clicar no botão “Copiar”
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**NOTA**
+
+Clicando em ↑↓ é possível ordenar a coluna de Data e Hora.
+{% endhint %}
+
+## **Informação sobre os filtros das ações do portal**
+
+A partir dos filtros é possível identificar as ações do portal que possuem registro, para verificar as alterações realizadas e rastrear as mudanças de comportamento. Quando selecionar uma opção de “**Atividade**” então apresentará as opções de “**Categoria**” que possuem registros conforme combinações descritas na tabela abaixo:
+
+<table><thead><tr><th width="278.5">Atividade</th><th>Categoria</th></tr></thead><tbody><tr><td>Inserção</td><td><ul><li>Empresa</li><li>Dispositivo</li></ul></td></tr><tr><td>Edição</td><td><ul><li>Empresa</li></ul></td></tr><tr><td>Exclusão</td><td><ul><li>Dispositivo</li><li>Usuário</li></ul></td></tr><tr><td>Termos de Uso</td><td><ul><li>Empresa</li><li>Dispositivo</li></ul></td></tr><tr><td>Política de Privacidade</td><td><ul><li>Empresa</li><li>Dispositivo</li></ul></td></tr><tr><td>Termo de responsabilidade</td><td><ul><li>Empresa</li><li>Dispositivo</li><li>Usuário</li><li>Gerenciar Nota Fiscal</li></ul></td></tr></tbody></table>
+
+{% hint style="info" %}
+**NOTA**
+
+Quando selecionar um usuário administrador irá exibir sua atividade e categoria.
+{% endhint %}

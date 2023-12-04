@@ -67,7 +67,7 @@ Para criar um aplicativo da web, siga os seguintes passos (numerados na figura a
 1. Acesse o menu "Apps da Web";
 2. Clique no botão de adição no canto inferior direito da tela;
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Especifique um título que será exibido no dispositivo, na Play Store gerenciada e na lista e aplicativos da empresa
 4. Especifique a URL onde os aplicativos da web são abertos
