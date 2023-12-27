@@ -10,7 +10,7 @@ A tela apresenta os elementos que são padrão em todas as telas de listagens do
 
 1. Filtro que pode ser aplicado a listagem de políticas cadastradas para auxiliar a encontrar políticas.
 2. Listagem das políticas cadastradas no sistema.
-3. Mais ações de gerenciamento para uma política podem ser acessadas clicando sobre os "..." localizados no final da linha da política.
+3. Mais ações de gerenciamento para uma política podem ser acessadas clicando sobre os "..." localizados no final da linha da política:
 
 * **Editar Política -** abre a tela para gerenciar as configurações da política;
 * **Remover Política -** abre uma caixa de mensagem para confirmação da exclusão da política. Clicando no botão "**Remover**" a política será removida do sistema;
