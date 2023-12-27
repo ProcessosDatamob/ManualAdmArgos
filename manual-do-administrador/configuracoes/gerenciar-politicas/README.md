@@ -4,9 +4,7 @@ Ao acessar a opção "**Gerenciar Políticas**" abrirá a tela apresentada na se
 
 ![](<../../../.gitbook/assets/0 (11).png>)
 
-<mark style="background-color:orange;">NOVA IMAGEM ></mark>
-
-<figure><img src="../../../.gitbook/assets/Captura de tela 2023-12-27 165132.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 A tela apresenta os elementos que são padrão em todas as telas de listagens do sistema, os quais são descritos abaixo:
 

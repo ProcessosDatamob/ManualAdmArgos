@@ -11,11 +11,9 @@ Para saber como gerenciar os dispositivos ativos da empresa, siga os passos desc
 4. Para localizar um dispositivo específico, digite o nome do usuário, IMEI ou ICCID do dispositivo no campo “Pesquisar”
 5. Para exportar o relatório dos dispositivos, clique no botão “Excel”
 6. Para copiar as informações dos dispositivos, clique no botão “Copiar”
-7. <mark style="background-color:orange;">Use os filtros Grupo, Política, Modelo e Fabricante para encontrar os dispositivos se deseja listar ou utilize os Filtros Avançados para buscar Sistema Operacional,  Modo de Gerenciamento, Data Inicial de Registro ou Data Final de Registro para acessar as informações desejadas</mark>
+7.  Use os filtros Grupo, Política, Modelo e Fabricante para encontrar os dispositivos de deseja listar ou o filtro Modo de Gerenciamento para acessar as informações desejadas
 
-<mark style="background-color:orange;">NOVA IMAGEM</mark>
-
-<figure><img src="../../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTA**
@@ -26,11 +24,9 @@ Para realizar a pesquisa pelo número do telefone utilizar o campo de pesquisa l
 8. Ordene a listagem de dispositivos pelas colunas nas setas "↑↓"
 9. Clique no ">" para visualizar todas as informações do dispositivo
 
-<mark style="background-color:orange;">NOVA IMAGEM</mark>
+<figure><img src="../../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
-
-10. Use os três pontinhos "..." para exibir o menu de ações e aplicar a ação desejada ao dispositivo
+8. Use os três pontinhos "..." para exibir o menu de ações e aplicar a ação desejada ao dispositivo
 
 ## **Informações do Dispositivo**
 
