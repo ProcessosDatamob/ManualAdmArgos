@@ -1,4 +1,4 @@
-# 👤 USUÁRIOS
+# USUÁRIOS
 
 Todos os usuários do sistema podem ser classificados em três tipos: **Administrador de Empresa, Administrador de Grupo e Usuário de Dispositivo.** Para saber como gerenciar cada um deles basta acessar as sessões “[**Gerenciar usuários administradores**](broken-reference)”, “[**Cadastrar novo usuário administrador**](broken-reference)” e “[**Lista de dispositivos**](broken-reference)” neste manual.
 

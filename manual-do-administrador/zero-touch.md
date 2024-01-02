@@ -1,4 +1,4 @@
-# 🤳 ZERO TOUCH
+# ZERO TOUCH
 
 O registro Zero Touch é um processo simplificado para dispositivos Android a serem provisionados para gerenciamento empresarial. O dispositivo inicia o método de provisionamento de dispositivo totalmente gerenciado e baixa o aplicativo **\<NomeProduto>** associado, que conclui a configuração do dispositivo.
 
