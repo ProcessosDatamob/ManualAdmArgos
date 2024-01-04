@@ -1,6 +1,41 @@
 # Opções de gerenciamento de dispositivos
 
-Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível ter acesso a opções de consulta e configurações do dispositivo usando os três pontinhos "**...**" que aparecem à direita na listagem dos dispositivos, como ilustrado na imagem abaixo:
+Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível ter acesso as informações do dispositivo, clicando no botão de informações:
+
+<figure><img src="../../../.gitbook/assets/Captura de tela 2024-01-04 135743.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+
+### Detalhes
+
+* **Usuário -** nome do usuário cadastrado no portal;
+* **Identificação -** Identificação cadastrada para o dispositivo;
+* **Telefone -** número de telefone;
+* **IMEI -** número interno e único em cada dispositivo. No Android 10 já não é possível capturar esta informação do dispositivo porque utilizamos outro método para receber esta informação com o Enriquecimento de URL;
+* **ICCID -** número do chip SIM;
+* **Modelo -** modelo do dispositivo;
+* **Fabricante** - nome do fabricante do dispositivo;
+* **Sistema Operacional -** sistema operacional do dispositivo;
+* **Versão do Android** - versão do Android do dispositivo;
+
+### Instalação
+
+* **Data de Registro -** data de registro dos dispositivos;
+* **Modo de gerenciamento -** exibe o modo de gerenciamento utilizado;
+* **Versão do app -** versão do companion instalado no dispositivo;
+* **Nome da Política no Portal** **-** nome da política atribuída ao dispositivo~~;~~
+* **Data da Última Comunicação -** exibirá a data em que o dispositivo se comunicou a última vez com o portal;
+
+### Hardware
+
+* **Armazenamento Interno -** quanto de armazenamento interno possui;
+* **Bateria -** Quantos % de bateria está no momento;
+
+E clicando nos três pontinhos "**...**" à direita na listagem dos dispositivos, aparecem as opções de consulta e configurações do dispositivo, como ilustrado na imagem abaixo:
+
+
+
+<mark style="background-color:purple;">ATUALIZAR PRINT</mark>
 
 <figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
@@ -104,31 +139,20 @@ Esta operação permite excluir um dispositivo, ela limpa os dados e configuraç
 Uma mensagem é exibida na tela para informação e advertência. A operação não pode ser desfeita, portanto, confirme somente quando tiver certeza de que deseja eliminar o dispositivo.
 {% endhint %}
 
-## **Gerenciar Informações**
+## **Gerenciar**
 
 Esta opção permite acessar a tela para editar dados do dispositivo, como: Usuário, identificação e Grupo.
 
-<figure><img src="../../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+Além de poder editar os dados, são exibidos mais abaixo duas listas com as informações de Software e Hardware relacionados ao dispositivo gerenciado.
 
-Além de poder editar os dados, são exibidos mais abaixo duas listas com as informações de Software e Hardware relacionados ao dispositivo gerenciado:
+### **Informações de Software**
 
-<figure><img src="../../../.gitbook/assets/image (50).png" alt=""><figcaption></figcaption></figure>
-
-## **Informações de Software**
-
-* **Sistema** **operacional** - Android;
-* **Número** **de** **Série** - número de série do dispositivo;
-* **Em conformidade** - é a aderência do dispositivo a todas as configurações de políticas atribuídas a ele. Se alguma configuração não foi aplicada, o valor desta opção será "Não". É possível acessar o "Relatório de Não Conformidade" nos três pontinhos no final da linha do dispositivo;
-* **Status Aplicado -** status atribuído ao dispositivo;
+* **Modo de gerenciamento -** exibe o modo de gerenciamento utilizado
+* **Versão do app -** versão do companion instalado no dispositivo
 * **Data da última atualização -** data e hora em que as informações do dispositivo foram sincronizadas com o portal. Esta data vem da AMAPI (API da Google), ou seja, são as informações coletadas pela API da Google no dispositivo;
-* **Data da sincronização da política -** data e hora da última sincronização de Política;
-* Armazenamento interno - espaço de armazenamento do dispositivo;
-* **Versão do Android -** Versão do Android;
-* **Versão da Política Aplicada -** versão da política que está aplicada no dispositivo;
 * **Nome da Política no Portal** - nome da política atribuída ao dispositivo;
-* **Nome da Política no Dispositivo -** nome da política que está aplicada no dispositivo;
 
-## **Informações de Hardware**
+### **Informações de Hardware**
 
 * **Armazenamento Interno -** quanto de armazenamento interno possui;
 * **Bateria -** Quantos % de bateria está no momento;

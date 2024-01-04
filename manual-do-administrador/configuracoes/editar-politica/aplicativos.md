@@ -31,18 +31,50 @@ Para que o aplicativo seja apresentado no dispositivo com o tipo de instalação
 5. Mais ações ("...") que podem ser realizadas com o aplicativo: Configurações Gerenciadas, Permissões, Configurações Avançadas e Remover Aplicativo.
 6. **Adicionar Aplicativos -** permite adicionar aplicativos para gerenciamento.
 
+### **Adicionar Aplicativos**
+
+A opção Adicionar aplicativos terá comportamentos diferentes quando o Modo Quiosque estiver ativado ou desativado.
+
+* **Modo Quiosque Desativado:** Ao clicar no botão "**Adicionar Aplicativos**", caso seja uma política com **Modo Quiosque Desativado**, será exibida a listagem de aplicativos que foram  na adicionados usando a [**Google Play Gerenciada**](../../gerenciamento-de-aplicativos/google-play-gerenciada.md).&#x20;
+* **Modo Quiosque Ativado:** Caso a política que estiver sendo editada for uma política com o **Modo Quiosque** **Ativado**, ao clicar no botão **Adicionar aplicativos**, aparecerão 3 opções para adicionar os aplicativos.
+
+<figure><img src="../../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+
+* **Sistema**
+
+1. Clicar na opção “**Sistema"**, e abrirá a tela “**Adicionar do sistema**"
+2. Selecionar a Fabricante e o Dispositivo
+3. Selecionar um ou mais aplicativos clicando no checkbox
+4. Clicar no botão "**Adicionar selecionados**"
+
+<figure><img src="../../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+
+* **Playstore**&#x20;
+
+1. Clicar na opção “**Playstore**", e abrirá a tela “**Adicionar Aplicativos**"
+2. Selecionar um ou mais aplicativos clicando no checkbox
+3. Clicar no botão "**Adicionar selecionados**"
+
+<figure><img src="../../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="warning" %}
 **IMPORTANTE**
 
-Os aplicativos precisam ser primeiramente adicionados usando a [**Google Play Gerenciada**](broken-reference). Clique no botão "**Adicionar Aplicativos**" e a tela a seguir será exibida.
+Os aplicativos precisam ser primeiramente adicionados usando a [**Google Play Gerenciada**](broken-reference).&#x20;
 {% endhint %}
 
-![](<../../../.gitbook/assets/7 (3).png>)
+* **Manual**
 
-Estando a janela "**Adicionar aplicativos**" aberta, conforme figura anterior, para adicionar aplicativos na política, siga os seguintes passos:
+1. Clicar na opção “**Manual**", e abrirá a tela “**Adicionar Aplicativos Manualmente**"
+2. Preencher os campos: Nome do App (opcional), Nome do Pacote e clicar em "**Adicionar**"
 
-7. Selecione um ou mais aplicativos clicando no checkbox;
-8. Clique no botão "**Adicionar selecionados**".
+<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**OBSERVAÇÃO**
+
+Ao criar uma política com modo de gerenciamento Android Block SIM, automaticamente na aba APLICATIVOS, já estará adicionado o aplicativo Block SIM com modo de instalação Forçada, ou seja, quando o usuário realizar a ativação do Vivo Gestão Dispositivo utilizando esta política, já será instalado automaticamente o Block SIM, sem que ele precise baixar na Play Store.
+{% endhint %}
 
 ## **Configurações Gerenciadas**
 
