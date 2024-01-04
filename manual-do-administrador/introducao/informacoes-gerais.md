@@ -41,7 +41,7 @@ Para saber como criar um administrador de portal ou grupo, leia a seção “[**
 
 ## Compatibilidade de dispositivos
 
-O produto **\<NomeProduto>** foi criado em parceria com a Google no programa Android Enterprise. A Google mantém uma lista de dispositivos homologados e recomendados para uso com o Android Enterprise em seu Diretório de Soluções Enterprise. Para aceder aos dispositivos recomendados no âmbito do programa Android Enterprise, contacte o Directório de Soluções do Google através do link https://androidenterprisepartners.withgoogle.com/devices/.&#x20;
+O produto **\<NomeProduto>** foi criado em parceria com a Google no programa Android Enterprise. A Google mantém uma lista de dispositivos homologados e recomendados para uso com o Android Enterprise em seu Diretório de Soluções Enterprise. Para acessar aos dispositivos recomendados no âmbito do programa Android Enterprise, contacte o Directório de Soluções do Google através do link https://androidenterprisepartners.withgoogle.com/devices/.&#x20;
 
 O selo Android Enterprise Recommended identifica dispositivos Android que atendem a certos padrões de segurança, desempenho e gestão adequados para uso em ambientes empresariais. Quando um dispositivo recebe a certificação "Android Enterprise Recommended", isso significa que ele passou por testes rigorosos e cumpre requisitos específicos estabelecidos pelo Google.&#x20;
 
