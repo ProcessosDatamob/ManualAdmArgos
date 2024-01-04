@@ -38,3 +38,13 @@ O Portal de Administração possui dois níveis de acesso:
 * **Administrador de grupo**: este nível dá acesso aos dados do seu grupo e permite enviar mensagens ao grupo;
 
 Para saber como criar um administrador de portal ou grupo, leia a seção “[**Configurações Iniciais e Níveis**](broken-reference)**'**'.
+
+## Compatibilidade de dispositivos
+
+O produto **\<NomeProduto>** foi criado em parceria com a Google no programa Android Enterprise. A Google mantém uma lista de dispositivos homologados e recomendados para uso com o Android Enterprise em seu Diretório de Soluções Enterprise. Para aceder aos dispositivos recomendados no âmbito do programa Android Enterprise, contacte o Directório de Soluções do Google através do link https://androidenterprisepartners.withgoogle.com/devices/.&#x20;
+
+O selo Android Enterprise Recommended identifica dispositivos Android que atendem a certos padrões de segurança, desempenho e gestão adequados para uso em ambientes empresariais. Quando um dispositivo recebe a certificação "Android Enterprise Recommended", isso significa que ele passou por testes rigorosos e cumpre requisitos específicos estabelecidos pelo Google.&#x20;
+
+O facto de um dispositivo não estar na lista de dispositivos recomendados do Google não significa que não funcionará. Atualmente, Android Enterprise é compatível com todas as versões do Android 6.0. No entanto, alguns recursos podem não estar disponíveis em versões anteriores do sistema operacional. Recomenda-se usar as versões mais recentes do Android para aproveitar todas as características e benefícios que a plataforma oferece.
+
+Importante notar que foi desenvolvido com o Google Android Enterprise e outras tecnologias adicionais, o que significa que algumas funções, como localização, consumo de bateria e armazenamento, podem ter um comportamento diferente do esperado, dependendo das configurações do sistema operativo do dispositivo.
