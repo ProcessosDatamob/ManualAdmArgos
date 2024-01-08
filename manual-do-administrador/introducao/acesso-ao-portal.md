@@ -67,7 +67,7 @@ Após confirmar os dados, será exibida a tela do **\<NomeProduto>** com a mensa
 
 Clique em "Ok" e poderá iniciar as configurações necessárias para gerenciar os dispositivos da sua empresa.
 
-## **Recuperar Senha**
+### **Recuperar Senha**
 
 Caso não lembre a senha de acesso ao portal, realize os seguintes passos para recuperá-la.
 

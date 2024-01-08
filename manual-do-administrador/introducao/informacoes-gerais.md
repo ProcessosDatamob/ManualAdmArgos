@@ -16,13 +16,13 @@ O **\<NomeProduto>** é uma solução de Gerenciamento de Mobilidade Corporativa
 
 A partir do **\<NomeProduto>** é possível acessar as informações sobre o consumo e o uso dos dispositivos alocados aos funcionários de uma empresa. Também é possível definir políticas de bloqueios para restringir o uso indevido dos dispositivos, possibilitando ao administrador avaliar e aumentar a produtividade dos funcionários, através da análise e da gestão dos recursos de telecomunicação da empresa.
 
-## **Fluxo dos Dados**
+### **Fluxo dos Dados**
 
 Todas as informações coletadas pelo aplicativo **\<NomeProduto>** são enviadas periodicamente para os servidores do sistema. As informações são compiladas e consolidadas para serem visualizadas no portal de administração.
 
 Os dados de consumo coletados pelo aplicativo são enviados de acordo com o tempo configurado no portal, na opção **"Sincronizar cada"**, que varia de 30 minutos a 24 horas.
 
-## **Armazenamento dos Dados**
+### **Armazenamento dos Dados**
 
 Todos os dados do Portal permanecem armazenados durante 6 meses, após esse período as informações serão eliminadas dos servidores.
 
@@ -30,7 +30,7 @@ Caso ocorra alguma indisponibilidade nos servidores, o aplicativo manterá as in
 
 Todos os dados enviados pelo portal e recebidos pelo dispositivo permanecem armazenados, garantindo que as políticas permaneçam ativas, mesmo quando não possuir acesso à Internet e independente da disponibilidade dos servidores. A conexão será necessária apenas para receber novas políticas ou mensagens e para enviar os dados para o Portal.
 
-## **Nível de Acesso ao Portal**
+### **Nível de Acesso ao Portal**
 
 O Portal de Administração possui dois níveis de acesso:
 
@@ -39,7 +39,7 @@ O Portal de Administração possui dois níveis de acesso:
 
 Para saber como criar um administrador de portal ou grupo, leia a seção “[**Configurações Iniciais e Níveis**](broken-reference)**'**'.
 
-## Compatibilidade de dispositivos
+### Compatibilidade de dispositivos
 
 O produto **\<NomeProduto>** foi criado em parceria com a Google no programa Android Enterprise. A Google mantém uma lista de dispositivos homologados e recomendados para uso com o Android Enterprise em seu Diretório de Soluções Enterprise. Para acessar aos dispositivos recomendados no âmbito do programa Android Enterprise, contacte o Directório de Soluções do Google através do link https://androidenterprisepartners.withgoogle.com/devices/.&#x20;
 

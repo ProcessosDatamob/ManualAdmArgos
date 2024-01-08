@@ -2,14 +2,14 @@
 
 Ao acessar o **\<NomeProduto>**, o usuário terá acesso às configurações e funcionalidades.
 
-## **Configurações Iniciais**
+### **Configurações Iniciais**
 
 As primeiras configurações, recomendável a serem realizadas no portal são:
 
 * **Perfil de Consumo** - para que todos os dados capturados possam ser analisados corretamente (detalhado na seção [**“Perfil de Consumo”**](broken-reference) deste manual).
 * **Dia de início do ciclo** - para definir a data de início da contabilização dos dados que serão analisados (detalhado na seção [**“Configurações Gerais”**](broken-reference) deste manual).
 
-## **Níveis de Configurações**
+### **Níveis de Configurações**
 
 As configurações podem ser realizadas em três níveis (Empresa / Grupo / Usuário) e essas configurações são aplicadas aos dispositivos da seguinte forma:
 

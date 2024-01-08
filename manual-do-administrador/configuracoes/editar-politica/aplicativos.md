@@ -76,7 +76,7 @@ Os aplicativos precisam ser primeiramente adicionados usando a [**Google Play Ge
 Ao criar uma política com modo de gerenciamento Android Block SIM, automaticamente na aba APLICATIVOS, já estará adicionado o aplicativo Block SIM com modo de instalação Forçada, ou seja, quando o usuário realizar a ativação do Vivo Gestão Dispositivo utilizando esta política, já será instalado automaticamente o Block SIM, sem que ele precise baixar na Play Store.
 {% endhint %}
 
-## **Configurações Gerenciadas**
+### **Configurações Gerenciadas**
 
 Para acessar as configurações gerenciadas de um aplicativo é necessário estar na tela "**Editar Política**" com a guia "**Aplicativos**" selecionada. Siga os seguintes passos:
 
@@ -97,7 +97,7 @@ Após o passo 2 a tela a seguir será exibida. Nesta tela temos os seguintes ite
 
 ![](<../../../.gitbook/assets/9 (2).png>)
 
-## **Permissões**
+### **Permissões**
 
 Para acessar as configurações de permissões de um aplicativo é necessário estar na tela "**Editar Política**" com a guia "**Aplicativos**" selecionada. Siga os seguintes passos:
 
@@ -112,7 +112,7 @@ Após o passo 2 a tela a seguir será exibida. A lista de permissões, que podem
 
 As permissões podem ser configuradas como: Solicitar ao usuário, Ativada ou Negada.
 
-## **Configurações Avançadas**
+### **Configurações Avançadas**
 
 Para acessar as configurações avançadas de um aplicativo é necessário estar na tela "**Editar Política**" com a guia "**Aplicativos**" selecionada. Siga os seguintes passos:
 
@@ -128,7 +128,7 @@ Após o passo 2 a tela a seguir será exibida. Nesta tela temos os seguintes ite
 
 ![](<../../../.gitbook/assets/13 (1).png>)
 
-## **Remover Aplicativo**
+### **Remover Aplicativo**
 
 Para excluir um aplicativo da política é necessário estar na tela "**Editar Política**" com a guia "**Aplicativos**" selecionada. Siga os seguintes passos:
 

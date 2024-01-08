@@ -11,7 +11,7 @@ Para visualizar ou alterar os dados da empresa, siga os passos descritos abaixo:
 
 ![](<../../.gitbook/assets/1 (7) (1).png>)
 
-## **Excluir Empresa**
+### **Excluir Empresa**
 
 Na tela de Informações da Empresa é possível excluir a empresa utilizando o botão "**Excluir Empresa**", localizado ao lado do botão "**Atualizar**".\
 Esta ação leva a exclusão da conta da empresa na Google Play Gerenciada, a exclusão de todos os dispositivos registrados e todas as políticas e informações.

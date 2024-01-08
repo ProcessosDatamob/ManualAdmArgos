@@ -16,10 +16,10 @@ O submenu Informações dos aplicativos mostra as informações dos aplicativos 
 
 ![](<../../.gitbook/assets/20 (2).png>)
 
-## **Histórico de Consumo**
+### **Histórico de Consumo**
 
 Para acessar esta tela, use os três pontos no final da linha do aplicativo. Nesta tela pode-se visualizar o gráfico de evolução do consumo de dados da aplicação dos dispositivos.
 
-## **Usuários com Aplicativos**
+### **Usuários com Aplicativos**
 
 Para acessar esta tela, use os três pontos no final da linha do aplicativo. Nesta tela, você pode ver todos os dispositivos que possuem o aplicativo instalado.

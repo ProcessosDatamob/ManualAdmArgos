@@ -33,19 +33,15 @@ Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível
 
 E clicando nos três pontinhos "**...**" à direita na listagem dos dispositivos, aparecem as opções de consulta e configurações do dispositivo, como ilustrado na imagem abaixo:
 
-
-
-<mark style="background-color:purple;">ATUALIZAR PRINT</mark>
-
 <figure><img src="../../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
 
 As opções disponíveis estão em destaque na imagem a seguir:
 
-<table><thead><tr><th width="308.28506787330315">Modo de Gerenciamento</th><th>Opções disponíveis</th></tr></thead><tbody><tr><td>Android</td><td>Histórico de Bateria<br>Histórico de Armazenamento<br>Relatório de Não Conformidade<br>Alterar Política<br>Ativar/ Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Gerar Nova Senha do Dispositivo<br>Remover Dispositivo (WIPE)<br>Gerenciar Informações</td></tr><tr><td>Android Block SIM</td><td>Histórico de Bateria<br>Histórico de Armazenamento<br>Relatório de Não Conformidade<br>Alterar Política<br>Ativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Remover Bloqueio de Tela<br>Remover Dispositivo (WIPE)<br>Gerenciar Informações<br>Controle Remoto</td></tr><tr><td>Android Work Profile</td><td>Histórico de Bateria<br>Histórico de Armazenamento<br>Relatório de Não Conformidade<br>Alterar Política<br>Remover Dispositivo (WIPE)<br>Gerenciar Informações</td></tr></tbody></table>
+<table><thead><tr><th width="277.28506787330315">Modo de Gerenciamento</th><th>Opções disponíveis</th></tr></thead><tbody><tr><td>Android</td><td>Histórico de Bateria<br>Histórico de Armazenamento<br>Relatório de Não Conformidade<br>Alterar Política<br>Ativar/ Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Gerar Nova Senha do Dispositivo<br>Remover Dispositivo (WIPE)<br>Gerenciar Informações</td></tr><tr><td>Android Block SIM</td><td>Histórico de Bateria<br>Histórico de Armazenamento<br>Relatório de Não Conformidade<br>Alterar Política<br>Ativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Remover Bloqueio de Tela<br>Remover Dispositivo (WIPE)<br>Gerenciar Informações<br>Controle Remoto</td></tr><tr><td>Android Work Profile</td><td>Histórico de Bateria<br>Histórico de Armazenamento<br>Relatório de Não Conformidade<br>Alterar Política<br>Remover Dispositivo (WIPE)<br>Gerenciar Informações</td></tr></tbody></table>
 
 As opções que estão em destaque na figura são detalhadas nas próximas subseções.
 
-## **Histórico de Bateria**
+### **Histórico de Bateria**
 
 Para visualizar o histórico da bateria do dispositivo, clique em “**Histórico de bateria**”.
 
@@ -56,7 +52,7 @@ O sistema exibirá a tela do histórico da bateria do dispositivo.
 
 <figure><img src="../../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
-## **Histórico de Armazenamento**
+### **Histórico de Armazenamento**
 
 Para visualizar o histórico de memória livre no armazenamento interno do dispositivo, clique em “**Histórico de armazenamento**”.
 
@@ -67,13 +63,13 @@ O sistema exibirá a tela do "**Histórico de Armazenamento**" com o histórico 
 1. Selecione uma data, para visualizar os dados do histórico.
 2. Passe o mouse sobre o gráfico para visualizar os valores em horário específico.
 
-## **Relatório de Não Conformidade**
+### **Relatório de Não Conformidade**
 
 Para exibir as inconsistências em configurações atribuídas ao dispositivo utilize a opção "**Relatório de Não conformidade**".
 
 <figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
-## **Alterar Política**
+### **Alterar Política**
 
 Ao escolher a opção **Alterar Política**, aparecerá no centro da tela uma caixa de diálogo para a escolha da política a ser atribuída ao dispositivo. Escolha a política entre as políticas listadas e clique em atualizar para mudar a política do dispositivo.
 
@@ -81,7 +77,7 @@ A política define configurações, incluindo critérios de hardware, software, 
 
 <figure><img src="../../../.gitbook/assets/image (45).png" alt=""><figcaption></figcaption></figure>
 
-## **Desativar Dispositivo**
+### **Desativar Dispositivo**
 
 Ao enviar o comando **Desativar Dispositivo**, todos os aplicativos que não são Google serão desativados, serão permitidas chamadas telefônicas e o status do dispositivo muda para desativado. Para desativar um dispositivo utilize a opção "**Desativar Dispositivo**" no menu de opções do dispositivo. Esta opção aparece somente para dispositivos que estão no status "**Ativo**". Uma tela de confirmação será exibida conforme apresentado abaixo.
 
@@ -89,23 +85,23 @@ Ao enviar o comando **Desativar Dispositivo**, todos os aplicativos que não sã
 
 Clique no botão "**Desativar**" para confirmar a operação.
 
-## **Ativar Dispositivo**
+### **Ativar Dispositivo**
 
 Esta opção aparece somente para dispositivos que estão no status "**Desabilitado**". Para ativar um dispositivo desabilitado clique em "**Ativar Dispositivo**" nas opções de gerenciamento do dispositivo.
 
 Confirme a atualização clicando em "**Ativar**" na caixa de diálogo, conforme apresentado na sequência.
 
-## **Desligar Tela do dispositivo**
+### **Desligar Tela do dispositivo**
 
 A opção "**Desligar Tela**" envia um comando para desligar a tela do dispositivo. Ao clicar na opção "**Desligar Tela**" o comando é executado diretamente e uma mensagem aparecerá na tela para informar que o comando foi enviado ao dispositivo.
 
-## **Reiniciar Dispositivo**
+### **Reiniciar Dispositivo**
 
 Esta operação envia um comando para reiniciar o dispositivo. Escolha a opção "**Reiniciar Dispositivo**". Uma mensagem é exibida na tela do portal para confirmar o envio do comando. A mensagem exibida é mostrada abaixo.
 
 <figure><img src="../../../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
 
-## **Remover Bloqueio de Tela**
+### **Remover Bloqueio de Tela**
 
 Esta operação envia um comando para remover o bloqueio de tela do dispositivo. Escolha a opção "**Remover Bloqueio de Tela**". Uma mensagem é exibida na tela do portal para confirmar o envio do comando.
 
@@ -115,7 +111,7 @@ Esta operação envia um comando para remover o bloqueio de tela do dispositivo.
 Esta opção só ficará disponível para dispositivos ativados com política em modo de gerenciamento Android Block SIM.
 {% endhint %}
 
-## **Gerar nova senha do dispositivo**
+### **Gerar nova senha do dispositivo**
 
 O sistema permite que seja gerada uma nova senha para o dispositivo. Para realizar esta operação, escolha a opção "**Gerar Nova Senha do Dispositivo**" conforme mostrado na imagem apresentada na sequência.
 
@@ -129,7 +125,7 @@ A tela para gerar nova senha do dispositivo é mostrada a seguir.
 
 <figure><img src="../../../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
-## **Remover Dispositivo (WIPE)**
+### **Remover Dispositivo (WIPE)**
 
 Esta operação permite excluir um dispositivo, ela limpa os dados e configurações do dispositivo. Os dispositivos excluídos não aparecem na lista de dispositivos da empresa. A opção "Remover Dispositivo" aparece na lista de opções do dispositivo na tela de listagem de dispositivos (menu "Dispositivos", opção "Listar Dispositivos").
 
@@ -139,7 +135,7 @@ Esta operação permite excluir um dispositivo, ela limpa os dados e configuraç
 Uma mensagem é exibida na tela para informação e advertência. A operação não pode ser desfeita, portanto, confirme somente quando tiver certeza de que deseja eliminar o dispositivo.
 {% endhint %}
 
-## **Gerenciar**
+### **Gerenciar**
 
 Esta opção permite acessar a tela para editar dados do dispositivo, como: Usuário, identificação e Grupo.
 

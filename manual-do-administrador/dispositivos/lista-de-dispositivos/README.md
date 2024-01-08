@@ -28,7 +28,7 @@ Para realizar a pesquisa pelo número do telefone utilizar o campo de pesquisa l
 
 8. Use os três pontinhos "..." para exibir o menu de ações e aplicar a ação desejada ao dispositivo
 
-## **Informações do Dispositivo**
+### **Informações do Dispositivo**
 
 As informações do dispositivo exibidas na lista são:
 

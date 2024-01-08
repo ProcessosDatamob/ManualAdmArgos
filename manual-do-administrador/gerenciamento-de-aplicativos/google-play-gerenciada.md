@@ -23,7 +23,7 @@ A imagem a seguir mostra a tela da Google Play Gerenciada. Observe a tela e os d
 * Clique sobre a categoria desejada para mostrar mais aplicativos da categoria.
 * O botão "Veja mais" mostra mais aplicativos na mesma categoria.
 
-## **Aplicativos Públicos**
+### **Aplicativos Públicos**
 
 Para escolher um aplicativo público, acesse o menu da "**Google Play Gerenciada**". A tela inicial já vem com a opção "**Pesquisar na Play Store**" aberta. Clique sobre o aplicativo e abrirá a tela de informações do aplicativo. Para selecioná-lo clique no botão “**Selecionar**". Observe os itens numerados na tela a seguir:
 
@@ -38,7 +38,7 @@ Ao selecionar um aplicativo, o sistema solicitará a confirmação antes da incl
 
 Para ver a lista dos aplicativos incluídos, volte na tela de [**"Aplicativos Gerenciados"**](broken-reference). Para mais configurações sobre políticas de aplicativos, consulte a seção [**Gerenciar Políticas**](broken-reference)**.**
 
-## **Aplicativos Particulares**
+### **Aplicativos Particulares**
 
 Para fazer upload de aplicativos próprios da empresa, siga os seguintes passos:
 
@@ -57,7 +57,7 @@ Para fazer upload de aplicativos próprios da empresa, siga os seguintes passos:
 Os aplicativos privados devem ter um nome de pacote exclusivo que não tenha sido usado antes quando carregado em sua loja Google Play gerenciada.
 {% endhint %}
 
-## **Aplicativos da Web**
+### **Aplicativos da Web**
 
 Um "**aplicativo da web**" transforma uma página da web em um aplicativo Android, tornando mais fácil encontrá-lo e usá-lo em dispositivos móveis.
 

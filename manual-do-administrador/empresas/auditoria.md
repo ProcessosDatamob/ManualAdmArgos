@@ -30,7 +30,7 @@ No relatório exportado em Excel tem uma coluna "**Alterações**" onde é poss�
 Clicando em ↑↓ é possível ordenar a coluna de Data e Hora.
 {% endhint %}
 
-## **Informação sobre os filtros das ações do portal**
+### **Informação sobre os filtros das ações do portal**
 
 A partir dos filtros é possível identificar as ações do portal que possuem registro, para verificar as alterações realizadas e rastrear as mudanças de comportamento. Quando selecionar uma opção de “**Atividade**” então apresentará as opções de “**Categoria**” que possuem registros conforme combinações descritas na tabela abaixo:
 

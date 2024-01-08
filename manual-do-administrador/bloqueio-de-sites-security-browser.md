@@ -6,7 +6,7 @@ Os bloqueios de sites são realizados pelo aplicativo Security Browser. Ele faz 
 
 Assim, é importante destacar que a instalação e configuração do aplicativo Security Browser são fundamentais para o desempenho correto das funcionalidades relacionadas ao bloqueio e monitoramento de sites visitados.
 
-## **Processo de Instalação do Security Browser**
+### **Processo de Instalação do Security Browser**
 
 O processo de instalação do browser é simples e transparente para o usuário final. Entretanto, é importante orientar o usuário para que utilize este navegador web como padrão. Desta forma, será possível realizar corretamente os bloqueios e o monitoramento de sites visitados.
 
@@ -47,7 +47,7 @@ Para realizar a instalação do aplicativo, acesse o menu "[**Gerenciamento de A
 
 Após a inclusão do aplicativo na política, as configurações de bloqueios podem ser definidas. A próxima subseção mostra como realizar o bloqueio de sites.
 
-## **Bloqueio de Sites**
+### **Bloqueio de Sites**
 
 O bloqueio de sites possibilita que o dispositivo seja utilizado para navegação no âmbito do trabalho, e que sites e categorias indesejadas estejam inacessíveis. Para realizar o bloqueio de sites siga os passos abaixo:
 

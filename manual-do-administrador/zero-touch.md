@@ -10,7 +10,7 @@ Para usar o registro Zero Touch, você precisará de dispositivos compatíveis c
 >
 > [https://androidenterprisepartners.withgoogle.com/devices/#!?device\_features=zero\_touch](https://androidenterprisepartners.withgoogle.com/devices/#!?device\_features=zero\_touch)
 
-## **Vinculação da Conta Zero Touch**
+### **Vinculação da Conta Zero Touch**
 
 Para iniciar a utilização do Zero Touch siga os seguintes passos:
 
@@ -22,7 +22,7 @@ Para iniciar a utilização do Zero Touch siga os seguintes passos:
 
 4. Inserir usuário e senha e confirmar
 
-## **Configurando os dispositivos para Zero-Touch**
+### **Configurando os dispositivos para Zero-Touch**
 
 Nesta etapa serão definidas as configurações e bloqueios que serão aplicadas aos dispositivos.
 
