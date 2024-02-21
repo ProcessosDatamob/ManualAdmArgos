@@ -1,6 +1,8 @@
 # Auditoria
 
-Esta tela do sistema tem como objetivo possibilitar a visualização e gerar relatórios das alterações realizadas no portal e no dispositivo.
+Esta tela do sistema tem como objetivo permitir a visualização e gerar relatórios de algumas ações realizadas no portal.&#x20;
+
+As alterações auditáveis são: mudanças na empresa, registro da empresa na Google, exclusão da empresa na Google, aceitação dos termos de uso e política de privacidade no portal e aceitação do termo de uso e política de privacidade na aplicação. O sistema permite filtrar por data, usuário, atividade e categoria.&#x20;
 
 Para saber como utilizar esta tela siga os passos descritos nesta sessão:
 

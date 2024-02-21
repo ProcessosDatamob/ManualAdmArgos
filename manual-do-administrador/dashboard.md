@@ -4,31 +4,31 @@ Esta tela do sistema tem como objetivo possibilitar ao usuário a visualização
 
 Para saber como acessar e analisar os dados exibidos no Dashboard, siga os passos descritos nesta seção.
 
-1. A tela de Dashboard pode ser considerada a “**Tela Inicial**” do sistema, pois é exibida assim que acessa o Portal, mas também pode ser acessada clicando no menu “Dashboard”. Em um primeiro acesso, os indicadores de usuários, dispositivos e consumos não terão ainda informações, por isso estarão zerados.
+A tela de Dashboard pode ser considerada a “**Tela Inicial**” do sistema, pois é exibida assim que acessa o Portal, mas também pode ser acessada clicando no menu “Dashboard”. Em um primeiro acesso, os indicadores de usuários, dispositivos e consumos não terão ainda informações, por isso estarão zerados.
 
 ![](<../.gitbook/assets/0 (2) (1).png>)
 
 Ao acessar a tela, todas as informações serão exibidas separadas por seções. Cada seção corresponde a um dado diferente, coletado do dispositivo e todas as informações são exibidas de acordo com as opções selecionadas no filtro (Empresa, Grupo ou Usuário).
 
-2. Ao habilitar a opção do filtro “**Roaming internacional**”, no canto superior direito da tela, o sistema exibirá somente as informações coletadas quando os dispositivos estiverem utilizando uma conexão em Roaming.
+Ao habilitar a opção do filtro “**Roaming internacional**”, no canto superior direito da tela, o sistema exibirá somente as informações coletadas quando os dispositivos estiverem utilizando uma conexão em Roaming.
 
 ![](<../.gitbook/assets/1 (1) (1) (1).png>)
 
 Os filtros “Empresa”, “Grupo” e “Usuário” permitem realizar uma análise dos dados dos dispositivos de um nível determinado.
 
-3. Clique no filtro “**Empresa**”, digite e selecione o nome da empresa para exibir as informações coletadas de todos os dispositivos.
+Clique no filtro “**Empresa**”, digite e selecione o nome da empresa para exibir as informações coletadas de todos os dispositivos.
 
 ![](<../.gitbook/assets/2 (1) (1) (1).png>)
 
-4. Clique no filtro “**Grupo**”, digite e selecione o nome do grupo, para exibir as informações coletadas de todos os dispositivos que fazem parte de um Grupo.
+Clique no filtro “**Grupo**”, digite e selecione o nome do grupo, para exibir as informações coletadas de todos os dispositivos que fazem parte de um Grupo.
 
 ![](<../.gitbook/assets/3 (4).png>)
 
-5. Clique no filtro “**Usuário**” digite e selecione o usuário, para exibir as informações coletadas do dispositivo do usuário.
+Clique no filtro “**Usuário**” digite e selecione o usuário, para exibir as informações coletadas do dispositivo do usuário.
 
 ![](<../.gitbook/assets/4 (2).png>)
 
-6. No canto superior direito da tela, temos alguns ícones que tem as seguintes funcionalidades:
+No canto superior direito da tela, temos alguns ícones que tem as seguintes funcionalidades:
 
 * Notificações - No ícone ![](https://lh7-us.googleusercontent.com/LIqOOPLli\_-KQv0gbnkeBAgAG1\_EOWziv1kRkMmMtO2dOIvA17vDOpWbmtTw5\_2RUg1D-mUt1PWNvciaKyYAHysUPk47UBQ8yIufI8DmrX523Zqn\_ntcDKa0ff0KqkWZeeaDLHoJF9MB762IkIm6vw)o administrador pode ver as notificações do portal, por exemplo, ao solicitar a geração de um relatório.&#x20;
 * Admin - No ícone ![](https://lh7-us.googleusercontent.com/XnN5TtWJIzJYNZfcb\_18o7Mzx\_RrJYRxyodSpfkBQuPCce64vPyFVeN6g6umpqRYxKpCZ\_v8JGiU3iuMYa4vOmakPCagWJmIJFLK3dsOj3f7Ta1mH0KwNpxCTIGDJ5xs1IUicW1Ncuv2XJcBMyJvGg) exibe a opção para que o administrador possa sair do portal e também exibe a versão atual da solução o número da versão.
@@ -123,6 +123,22 @@ O valor percentual de cada um dos 5 aplicativos é calculado em relação à som
 Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as informações de todos os aplicativos.
 
 ![](../.gitbook/assets/18.png)
+
+### <mark style="color:red;">Inventário de Dispositivos</mark>
+
+<mark style="color:red;">Este indicador mostra a percentagem dos 5 fabricantes de dispositivos ativos. O valor percentual de cada um dos cinco fabricantes é calculado em relação à soma total de todos os dispositivos ativos.</mark>
+
+### <mark style="color:red;">Sites mais visitados</mark>&#x20;
+
+<mark style="color:red;">Este indicador mostra a percentagem dos 5 locais mais visitados nos dispositivos durante o ciclo. O valor percentual de cada um dos 5 sítios é calculado em relação à soma total de todos os acessos aos sítios durante o ciclo.</mark>
+
+
+
+{% hint style="info" %}
+ATENÇÃO&#x20;
+
+Os sites visitados são obtidos pelo navegador web padrão do sistema **\<NomeProduto>**. Este navegador é chamado Security Browser e precisa estar instalado e configurado nos dispositivos. Para mais informações sobre administração e configuração do navegador, visite a seção "Security Browser".
+{% endhint %}
 
 ### **Indicador de Consumo e Histórico**
 

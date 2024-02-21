@@ -27,3 +27,9 @@ Se for um responsável de grupo, mais opções serão exibidas:
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 7. Clique no botão “Cadastrar” para concluir o cadastro do usuário.
+
+{% hint style="info" %}
+**NOTA**&#x20;
+
+Ao completar o registro, o sistema enviará um e-mail ao usuário com um link para criar sua senha.
+{% endhint %}
