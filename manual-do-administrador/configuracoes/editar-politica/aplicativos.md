@@ -40,7 +40,7 @@ A opção Adicionar aplicativos terá comportamentos diferentes quando o Modo Qu
 
 <figure><img src="../../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
 
-* **Sistema**
+### **Sistema**
 
 1. Clicar na opção “**Sistema"**, e abrirá a tela “**Adicionar do sistema**"
 2. Selecionar a Fabricante e o Dispositivo
@@ -49,7 +49,7 @@ A opção Adicionar aplicativos terá comportamentos diferentes quando o Modo Qu
 
 <figure><img src="../../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
-* **Playstore**&#x20;
+### **Playstore**&#x20;
 
 1. Clicar na opção “**Playstore**", e abrirá a tela “**Adicionar Aplicativos**"
 2. Selecionar um ou mais aplicativos clicando no checkbox
@@ -63,7 +63,7 @@ A opção Adicionar aplicativos terá comportamentos diferentes quando o Modo Qu
 Os aplicativos precisam ser primeiramente adicionados usando a [**Google Play Gerenciada**](broken-reference).&#x20;
 {% endhint %}
 
-* **Manual**
+### **Manual**
 
 1. Clicar na opção “**Manual**", e abrirá a tela “**Adicionar Aplicativos Manualmente**"
 2. Preencher os campos: Nome do App (opcional), Nome do Pacote e clicar em "**Adicionar**"

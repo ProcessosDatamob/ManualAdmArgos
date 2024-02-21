@@ -20,8 +20,10 @@ A imagem a seguir mostra a tela da Google Play Gerenciada. Observe a tela e os d
 * **Pesquisar na Play Store -** permite pesquisar por aplicativos públicos;
 * **Apps Particulares -** permite fazer upload de aplicativos próprios da empresa.
 * **Apps da Web -** permite criar aplicativos da web.
-* Clique sobre a categoria desejada para mostrar mais aplicativos da categoria.
-* O botão "Veja mais" mostra mais aplicativos na mesma categoria.
+
+Clique sobre a categoria desejada para mostrar mais aplicativos da categoria.
+
+O botão "Veja mais" mostra mais aplicativos na mesma categoria.
 
 ### **Aplicativos Públicos**
 
