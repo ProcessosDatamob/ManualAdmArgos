@@ -67,7 +67,9 @@ O sistema exibirá a tela do "**Histórico de Armazenamento**" com o histórico 
 
 Para exibir as inconsistências em configurações atribuídas ao dispositivo utilize a opção "**Relatório de Não conformidade**".
 
-<figure><img src="../../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
+
+No “Relatório de Não Conformidade" é possível "Exportar" e "Copiar", permitindo exportar as informações do relatório para um arquivo Excel ou copiar as informações para uma área de transferência.
 
 ### **Alterar Política**
 
