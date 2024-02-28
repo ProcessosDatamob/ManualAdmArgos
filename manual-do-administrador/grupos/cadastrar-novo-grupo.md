@@ -1,6 +1,6 @@
 # Cadastrar novo grupo
 
-Para criar um grupo, siga os passos descritos nesta seção.
+Para criar um grupo, siga os passos descritos nesta seção
 
 1. Clique no menu “**Grupos**” e selecione o submenu “**Cadastrar novo grupo**”.
 

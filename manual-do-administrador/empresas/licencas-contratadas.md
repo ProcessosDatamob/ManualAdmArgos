@@ -12,7 +12,7 @@ Para saber como visualizar as licenças, siga os passos descritos nesta seção:
 3. Para ordenar as informações exibidas, clique no título da informação que desejar.
 4. Para exportar as informações das licenças, clique no botão “Excel”.
 5. Para copiar as informações das licenças, clique no botão “Copiar”.
-6. Utilize o filtro "Dispositivos registrados" para mostrar somente as informações de todos os dispositivos, apenas registrados ou os não registrados;
+6. Utilize o filtro "Dispositivos registrados" para mostrar somente as informações de todos os dispositivos, apenas registrados ou os não registrados.
 7. Para filtrar por status da licença utilize o filtro "Status".
 8. Para filtrar pelo tipo de plano na licença utilize o filtro "Plano".
 

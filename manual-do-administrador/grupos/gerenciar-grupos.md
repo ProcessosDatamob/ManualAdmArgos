@@ -2,7 +2,7 @@
 
 Essa tela do sistema tem como objetivo possibilitar ao usuário administrar os grupos de usuários de dispositivos.
 
-Para administrar um grupo, siga os passos descritos abaixo.
+Para administrar um grupo, siga os passos descritos abaixo:
 
 1. A tela de administração de grupos pode ser acessada clicando no menu “**Grupos**” e selecionando o submenu **“Gerenciar Grupos”.** Esta tela também é exibida ao concluir o cadastro de um novo grupo. Esta tela é apresentada na sequência do texto.
 

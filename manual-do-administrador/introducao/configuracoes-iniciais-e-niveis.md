@@ -11,7 +11,7 @@ As primeiras configurações, recomendável a serem realizadas no portal são:
 
 ### **Níveis de Configurações**
 
-As configurações podem ser realizadas em três níveis (Empresa / Grupo / Usuário) e essas configurações são aplicadas aos dispositivos da seguinte forma:
+As configurações podem ser realizadas em três níveis (Empresa/ Grupo/ Usuário) e essas configurações são aplicadas aos dispositivos da seguinte forma:
 
 * **Empresa (Geral)** – Ao criar uma configuração nesse nível o sistema verificará se existe uma regra configurada no nível de usuário. Caso não exista, verifica se existe uma regra configurada no nível de Grupo e, se também não existe, o sistema aplicará nos dispositivos da Empresa a regra configurada no nível da Empresa;
 * **Grupo** – Ao criar uma configuração nesse nível, o sistema verificará se existe uma configuração no nível de Usuário, caso não exista, o sistema aplicará nos dispositivos do grupo a regra configurada no nível do Grupo;

@@ -10,11 +10,11 @@ Para saber como utilizar esta tela siga os passos descritos nesta sessão:
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-2. Selecione o intervalo de datas que deseja consultar as informações;
-3. Utilizar o campo “Usuários” caso queira consultar informações de um usuário específico;
-4. É possível também filtrar por atividade através do campo “Atividades”, sendo que os tipos disponíveis são: Inserção, Exclusão, Edição, Termos de Uso e Política de Privacidade;
-5. Pode ser selecionado também o tipo de categoria, sendo elas: Empresa, dispositivo ou Política;
-6. Para exportar as informações em Excel, basta clicar no botão “Excel”
+2. Selecione o intervalo de datas que deseja consultar as informações.
+3. Utilizar o campo “Usuários” caso queira consultar informações de um usuário específico.
+4. É possível também filtrar por atividade através do campo “Atividades”, sendo que os tipos disponíveis são: Inserção, Exclusão, Edição, Termos de Uso e Política de Privacidade.
+5. Pode ser selecionado também o tipo de categoria, sendo elas: Empresa, dispositivo ou Política.
+6. Para exportar as informações em Excel, basta clicar no botão “Excel”.
 
 {% hint style="info" %}
 **NOTA**
@@ -22,7 +22,7 @@ Para saber como utilizar esta tela siga os passos descritos nesta sessão:
 No relatório exportado em Excel tem uma coluna "**Alterações**" onde é possível consultar os campos modificados.
 {% endhint %}
 
-7. Para copiar as informações, basta clicar no botão “Copiar”
+7. Para copiar as informações, basta clicar no botão “Copiar”.
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 

@@ -14,7 +14,7 @@ layout:
 
 # Acesso ao portal
 
-Quando o **\<NomeProduto>**> é ativado para uma empresa, as seguintes tarefas são executadas pelo sistema, para possibilitar o acesso do usuário administrador da empresa ao Portal:
+Quando o **\<NomeProduto>** é ativado para uma empresa, as seguintes tarefas são executadas pelo sistema, para possibilitar o acesso do usuário administrador da empresa ao Portal:
 
 * Criação das credenciais do Portal de Administração;
 * Envio de um E-mail de boas-vindas, contendo as credenciais e um link para acessar o Portal de Administração.
@@ -45,7 +45,7 @@ Após o passo 8, uma nova tela de confirmação de E-mail irá aparecer. Uma men
 O E-mail de confirmação é uma mensagem automática e pode ser identificada em seu provedor de E-mail como spam. Por isso, caso não tenha recebido, verifique também na caixa de spam.
 {% endhint %}
 
-9. O token de confirmação deve ser inserido na tela para confirmar o cadastro da empresa. A tela de confirmação é mostrada a seguir.
+9. O token de confirmação deve ser inserido na tela para confirmar o cadastro da empresa. A tela de confirmação é mostrada a seguir:
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="" width="343"><figcaption></figcaption></figure>
 
