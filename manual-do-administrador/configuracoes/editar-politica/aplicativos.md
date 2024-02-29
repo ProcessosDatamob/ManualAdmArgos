@@ -4,7 +4,7 @@ A guia de configurações de aplicativos permite gerenciar configurações, perm
 
 A tela "**Editar política**" posicionada na guia "**Aplicativos**" é apresentada na sequência.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de tela 2024-02-29 160922.png" alt=""><figcaption></figcaption></figure>
 
 As telas apresentam as seguintes partes, conforme numeração na figura:
 
@@ -28,53 +28,9 @@ Importante ressaltar que o tipo de instalação “Pré-Instalado” de um aplic
 Para que o aplicativo seja apresentado no dispositivo com o tipo de instalação “pré-instalado” é necessário realizar o comando “Remover Dispositivo (WIPE)” no portal ou factory reset através do dispositivo”.
 {% endhint %}
 
-5. Mais ações ("...") que podem ser realizadas com o aplicativo: Configurações Gerenciadas, Permissões, Configurações Avançadas e Remover Aplicativo.
-6. **Adicionar Aplicativos -** permite adicionar aplicativos para gerenciamento.
-
-### **Adicionar Aplicativos**
-
-A opção Adicionar aplicativos terá comportamentos diferentes quando o Modo Quiosque estiver ativado ou desativado.
-
-* **Modo Quiosque Desativado:** Ao clicar no botão "**Adicionar Aplicativos**", caso seja uma política com **Modo Quiosque Desativado**, será exibida a listagem de aplicativos que foram  na adicionados usando a [**Google Play Gerenciada**](../../gerenciamento-de-aplicativos/google-play-gerenciada.md).&#x20;
-* **Modo Quiosque Ativado:** Caso a política que estiver sendo editada for uma política com o **Modo Quiosque** **Ativado**, ao clicar no botão **Adicionar aplicativos**, aparecerão 3 opções para adicionar os aplicativos.
-
-<figure><img src="../../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
-
-### **Sistema**
-
-1. Clicar na opção “**Sistema"**, e abrirá a tela “**Adicionar do sistema**"
-2. Selecionar a Fabricante e o Dispositivo
-3. Selecionar um ou mais aplicativos clicando no checkbox
-4. Clicar no botão "**Adicionar selecionados**"
-
-<figure><img src="../../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
-
-### **Playstore**&#x20;
-
-1. Clicar na opção “**Playstore**", e abrirá a tela “**Adicionar Aplicativos**"
-2. Selecionar um ou mais aplicativos clicando no checkbox
-3. Clicar no botão "**Adicionar selecionados**"
-
-<figure><img src="../../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="warning" %}
-**IMPORTANTE**
-
-Os aplicativos precisam ser primeiramente adicionados usando a [**Google Play Gerenciada**](broken-reference).&#x20;
-{% endhint %}
-
-### **Manual**
-
-1. Clicar na opção “**Manual**", e abrirá a tela “**Adicionar Aplicativos Manualmente**"
-2. Preencher os campos: Nome do App (opcional), Nome do Pacote e clicar em "**Adicionar**"
-
-<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
-
-{% hint style="info" %}
-**OBSERVAÇÃO**
-
-Ao criar uma política com modo de gerenciamento Android Block SIM, automaticamente na aba APLICATIVOS, já estará adicionado o aplicativo Block SIM com modo de instalação Forçada, ou seja, quando o usuário realizar a ativação do Vivo Gestão Dispositivo utilizando esta política, já será instalado automaticamente o Block SIM, sem que ele precise baixar na Play Store.
-{% endhint %}
+5. Mais ações ("...") que podem ser realizadas com o aplicativo: [Configurações Gerenciadas](aplicativos.md#configuracoes-gerenciadas), [Permissões](aplicativos.md#permissoes), [Configurações Avançadas](aplicativos.md#configuracoes-avancadas) e [Remover Aplicativo](aplicativos.md#remover-aplicativo).
+6. **Adicionar Aplicativos -** permite adicionar aplicativos para gerenciamento, para mais informações acessar o conteúdo [Adicionar Aplicativos](aplicativos.md#adicionar-aplicativos) nesta página.
+7. **Restrições de funcionamento -**permite criar restrições de acesso aos apps por horário, para que seja possível definir os horários em que os apps não poderão ser acessados. Para mais informações acessar o conteúdo [Restrições de Funcionamento](aplicativos.md#restricoes-de-funcionamento) nesta página.
 
 ### **Configurações Gerenciadas**
 
@@ -146,3 +102,62 @@ Após o passo 2 a tela a seguir será exibida para confirmação da exclusão. C
 
 O aplicativo será removido da listagem de aplicativos da política que está sendo editada, porém ele permanecerá nos Aplicativos Gerenciados, pode ser incluído novamente na política e pode fazer parte das configurações de outras políticas.
 {% endhint %}
+
+### **Adicionar Aplicativos**
+
+A opção Adicionar aplicativos terá comportamentos diferentes quando o Modo Quiosque estiver ativado ou desativado.
+
+* **Modo Quiosque Desativado:** Ao clicar no botão "**Adicionar Aplicativos**", caso seja uma política com **Modo Quiosque Desativado**, será exibida a listagem de aplicativos que foram  na adicionados usando a [**Google Play Gerenciada**](../../gerenciamento-de-aplicativos/google-play-gerenciada.md).&#x20;
+* **Modo Quiosque Ativado:** Caso a política que estiver sendo editada for uma política com o **Modo Quiosque** **Ativado**, ao clicar no botão **Adicionar aplicativos**, aparecerão 3 opções para adicionar os aplicativos.
+
+<figure><img src="../../../.gitbook/assets/image (69).png" alt=""><figcaption></figcaption></figure>
+
+* **Sistema**
+
+1. Clicar na opção “**Sistema"**, e abrirá a tela “**Adicionar do sistema**"
+2. Selecionar a Fabricante e o Dispositivo
+3. Selecionar um ou mais aplicativos clicando no checkbox
+4. Clicar no botão "**Adicionar selecionados**"
+
+<figure><img src="../../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
+
+* **Playstore**&#x20;
+
+1. Clicar na opção “**Playstore**", e abrirá a tela “**Adicionar Aplicativos**"
+2. Selecionar um ou mais aplicativos clicando no checkbox
+3. Clicar no botão "**Adicionar selecionados**"
+
+<figure><img src="../../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+**IMPORTANTE**
+
+Os aplicativos precisam ser primeiramente adicionados usando a [**Google Play Gerenciada**](broken-reference).&#x20;
+{% endhint %}
+
+* **Manual**
+
+1. Clicar na opção “**Manual**", e abrirá a tela “**Adicionar Aplicativos Manualmente**"
+2. Preencher os campos: Nome do App (opcional), Nome do Pacote e clicar em "**Adicionar**"
+
+<figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**OBSERVAÇÃO**
+
+Ao criar uma política com modo de gerenciamento Android Block SIM, automaticamente na aba APLICATIVOS, já estará adicionado o aplicativo Block SIM com modo de instalação Forçada, ou seja, quando o usuário realizar a ativação do Vivo Gestão Dispositivo utilizando esta política, já será instalado automaticamente o Block SIM, sem que ele precise baixar na Play Store.
+{% endhint %}
+
+### <mark style="color:red;">Restrições de Funcionamento</mark>
+
+<mark style="color:red;">Para acessar o ícone de Restrições de Funcionamento, é necessário estar na tela "</mark><mark style="color:red;">**Editar Política**</mark><mark style="color:red;">" de uma política Android, Android - Block SIM ou Android - Work Profile, com a guia "</mark><mark style="color:red;">**Aplicativos**</mark><mark style="color:red;">" selecionada.</mark>&#x20;
+
+<mark style="color:red;">O sistema exibirá o ícone de "Restrições de Funcionamento"</mark> <mark style="color:red;">em todos os apps, exceto: Companion, Kiosk Launcher, Block Sim e Remote View, e se o app tiver restrições, irá aparecer uma notificação:</mark> ![](<../../../.gitbook/assets/image (79).png>).
+
+<figure><img src="../../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:red;">Para ativar as restrições:</mark>
+
+1. <mark style="color:red;">Selecionar o campo “Ativar restrições".</mark>
+2. <mark style="color:red;">Informar o horário de inicio e fim do período para cada dia, ou selecionar o campo "Restringir"  para bloquear o funcionamento o dia inteiro.</mark>
+3. <mark style="color:red;">Clicar em "Confirmar" para salvar as alterações, a política enviará as informações de restrições do app, nas configurações gerenciadas do companion, para os dispositivos vinculados.</mark>
