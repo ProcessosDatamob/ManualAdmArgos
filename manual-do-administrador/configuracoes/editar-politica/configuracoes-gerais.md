@@ -22,7 +22,3 @@ O campo "**pesquisa**" permite inserir palavras-chave relevantes para encontrar 
 {% endhint %}
 
 Os grupos de configurações são apresentados nas próximas subseções.
-
-Use os botões seletores para ativar ou desativar as configurações de bloqueio. Na próxima imagem destacada, com o número 1, a configuração ativada e, com o número 2, a configuração desabilitada.
-
-<figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
