@@ -7,7 +7,7 @@ Para acessar as configurações de "**Modo Quiosque**" siga os seguintes passos:
 1. Na tela "**Editar política**", selecione a guia "**Modo Quiosque**".
 2. Ative o modo quiosque clicando sobre o botão de ativação.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Será exibida na tela uma mensagem para confirmação. Confirme clicando no botão "**Ativar**".
 

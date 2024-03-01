@@ -1,9 +1,7 @@
-# Configurações Gerais
+# Configurações Gerais - Android e Android Block SIM
 
 As configurações gerais são agrupadas nos tipos:
 
-* Configuração de Rede Wi-Fi
-* Configuração de VPN;
 * Hardware;
 * Localização;
 * Rede;
@@ -11,9 +9,11 @@ As configurações gerais são agrupadas nos tipos:
 * Segurança;
 * Sistema Operacional;
 * Tela de Bloqueio;
+* <mark style="color:red;">Trabalho;</mark>
 * Usuário;
+* VPN;
 
-<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTA**

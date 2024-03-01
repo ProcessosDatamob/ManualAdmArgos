@@ -24,7 +24,7 @@ No relatório exportado em Excel tem uma coluna "**Alterações**" onde é poss�
 
 7. Para copiar as informações, basta clicar no botão “Copiar”.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTA**

@@ -6,7 +6,7 @@ Para administrar um grupo, siga os passos descritos abaixo:
 
 1. A tela de administração de grupos pode ser acessada clicando no menu “**Grupos**” e selecionando o submenu **“Gerenciar Grupos”.** Esta tela também é exibida ao concluir o cadastro de um novo grupo. Esta tela é apresentada na sequência do texto.
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 2. Ao entrar na tela, a lista de grupos cadastrados é exibida.
 
