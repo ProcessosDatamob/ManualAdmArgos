@@ -6,27 +6,41 @@ Para saber como gerenciar os dispositivos ativos da empresa, siga os passos desc
 
 <figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../../.gitbook/assets/Captura de tela 2024-03-01 114335.png" alt=""><figcaption></figcaption></figure>
+
 2. Na parte superior da tela o sistema exibe a distribuição dos dispositivos, separados por fabricantes
-3. A lista de dispositivos é mostrada na parte inferior da tela
-4. Para localizar um dispositivo específico, digite o nome do usuário, IMEI ou ICCID do dispositivo no campo “Pesquisar”
-5. Para exportar o relatório dos dispositivos, clique no botão “Excel”
-6. Para copiar as informações dos dispositivos, clique no botão “Copiar”
-7. Use os filtros Grupo, Política, Modelo e Fabricante para encontrar os dispositivos se deseja listar ou utilize os Filtros Avançados para buscar Modo de Gerenciamento e Data Inicial de Registro e Data Final de Registro (filtrará pela data de registro dos dispositivos que estão no período especificado) para acessar as informações desejadas
+3. Use os filtros Grupo, Política, Modelo e Fabricante para encontrar os dispositivos se deseja listar
+4. Utilize os Filtros Avançados para buscar Modo de Gerenciamento e Data Inicial de Registro e Data Final de Registro (filtrará pela data de registro dos dispositivos que estão no período especificado) para acessar as informações desejadas
+5. Para localizar um dispositivo específico, digite o número do telefone, nome do usuário, IMEI ou ICCID do dispositivo no campo “Pesquisar”
+6. Para exportar o relatório dos dispositivos, clique no botão “Excel”
+7. Para copiar as informações dos dispositivos, clique no botão “Copiar”
+8. <mark style="color:red;">Clique na opção de “Ações em lote" para aplicar uma ação em vários dispositivos de uma vez só. Para mais informações, acessar o conteúdo</mark> [<mark style="color:red;">Ações em lote</mark>](./#acoes-em-lote) <mark style="color:red;">nesta página</mark>
+9. A lista de dispositivos é mostrada na parte inferior da tela
+10. Ordene a listagem de dispositivos pelas colunas nas setas "↑↓"
+11. Clique no ">" para visualizar todas as informações do dispositivo, para mais informações, acessar o conteúdo[ Informações do Dispositivo](./#informacoes-do-dispositivo) nesta página.
+12. Use os três pontinhos "..." para exibir o menu de ações e aplicar a ação desejada ao dispositivo
 
-<figure><img src="../../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
+### <mark style="color:red;">Ações em lote</mark>
 
-{% hint style="info" %}
-**NOTA**
+<mark style="color:red;">Ao clicar na opção “Ações em lote" o sistema exibirá uma tela contendo alguns campos para preenchimento:</mark>
 
-Para realizar a pesquisa pelo número do telefone utilizar o campo de pesquisa livre.
-{% endhint %}
+<figure><img src="../../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
-8. Ordene a listagem de dispositivos pelas colunas nas setas "↑↓"
-9. Clique no ">" para visualizar todas as informações do dispositivo
+<figure><img src="../../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+* <mark style="color:red;">Empresa: selecionar a empresa</mark>&#x20;
+* <mark style="color:red;">Grupos</mark>
+* <mark style="color:red;">Usuário de dispositivos</mark>
+* <mark style="color:red;">Comandos:</mark>
+  * <mark style="color:red;">Desativar dispositivo</mark>
+  * <mark style="color:red;">Ativar dispositivo</mark>
+  * <mark style="color:red;">Desligar tela</mark>
+  * <mark style="color:red;">Reiniciar dispositivo</mark>
+  * <mark style="color:red;">Remover dispositivo (Wipe)</mark>
+* <mark style="color:red;">Botão “Enviar"</mark>
+* <mark style="color:red;">Botão “Cancelar"</mark>
 
-8. Use os três pontinhos "..." para exibir o menu de ações e aplicar a ação desejada ao dispositivo
+
 
 ### **Informações do Dispositivo**
 
