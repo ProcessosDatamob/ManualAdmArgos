@@ -26,21 +26,22 @@ Para saber como gerenciar os dispositivos ativos da empresa, siga os passos desc
 
 <figure><img src="../../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
+* <mark style="color:red;">Empresa: preencher a empresa desejada (ao selecionar a empresa, os campos de grupo e usuário ficará desabilitado)</mark>
+* <mark style="color:red;">Grupos: preencher o grupo desejado</mark>
+* <mark style="color:red;">Usuário de dispositivos: preencher os usuários desejados</mark>
+* <mark style="color:red;">Comandos: selecionar o comando desejado (Desativar dispositivo, Ativar dispositivo, Desligar tela, Reiniciar dispositivo ou Remover dispositivo (Wipe))</mark>
+
 <figure><img src="../../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 
-* <mark style="color:red;">Empresa: selecionar a empresa</mark>&#x20;
-* <mark style="color:red;">Grupos</mark>
-* <mark style="color:red;">Usuário de dispositivos</mark>
-* <mark style="color:red;">Comandos:</mark>
-  * <mark style="color:red;">Desativar dispositivo</mark>
-  * <mark style="color:red;">Ativar dispositivo</mark>
-  * <mark style="color:red;">Desligar tela</mark>
-  * <mark style="color:red;">Reiniciar dispositivo</mark>
-  * <mark style="color:red;">Remover dispositivo (Wipe)</mark>
-* <mark style="color:red;">Botão “Enviar"</mark>
-* <mark style="color:red;">Botão “Cancelar"</mark>
+<mark style="color:red;">O sistema exibirá as seguintes mensagem de confirmação para cada comando:</mark>
 
+* <mark style="color:red;">**Desativar dispositivo - "**</mark>_<mark style="color:red;">Você deseja mesmo desativar os dispositivos selecionados?"</mark>_
+* <mark style="color:red;">**Ativar dispositivo - "**</mark>_<mark style="color:red;">Você deseja mesmo ativar os dispositivos selecionados?"</mark>_
+* <mark style="color:red;">**Desligar tela - "**</mark>_<mark style="color:red;">Você deseja mesmo desligar a tela dos dispositivos selecionados?"</mark>_
+* <mark style="color:red;">**Reiniciar dispositivo - "**</mark>_<mark style="color:red;">Você deseja mesmo reiniciar os dispositivos selecionados?"</mark>_
+* <mark style="color:red;">**Remover dispositivo (Wipe) - "**</mark>_<mark style="color:red;">Você deseja mesmo remover todos os dispositivos selecionados? Esta ação não pode ser desfeita."</mark>_
 
+<mark style="color:red;">Ao finalizar, clicar em "Enviar"</mark>
 
 ### **Informações do Dispositivo**
 
