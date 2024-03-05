@@ -17,7 +17,13 @@ Para acessar as configurações de "**Modo Quiosque**" siga os seguintes passos:
 
 <figure><img src="../../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
-Quando o dispositivo instalar o aplicativo Kiosk, o aplicativo capturará a lista de todos os aplicativos instalados no dispositivo enviará esta lista para o Portal. Além disto enviará as seguintes configurações gerenciadas para o portal:
+<figure><img src="../../../.gitbook/assets/Captura de tela 2024-03-05 165507 (1).png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:red;">É possível ativar os serviços de telefonia no modo Quiosque, para que seja possível usar as funcionalidades do telefone, selecionando entre as opções: Ativo ou Definido pelo Dispositivo.</mark>
+
+<mark style="color:red;">Ao definir como "Ativo" e salvar a política, o sistema enviará na política e no Quiosque os pacotes dos serviços de telefonia para o dispositivo, e permitirá receber e realizar ligações no dispositivo que provisionar a política. E ao definir como "Definido pelo Dispositivo", o dispositivo funcionará de acordo com a sua configuração padrão, tendo ou não os serviços</mark>
+
+&#x20;Quando o dispositivo instalar o aplicativo Kiosk, o aplicativo capturará a lista de todos os aplicativos instalados no dispositivo enviará esta lista para o Portal. Além disto enviará as seguintes configurações gerenciadas para o portal:
 
 * Papel de parede
 * Cor da fonte dos ícones
