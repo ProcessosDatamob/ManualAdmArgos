@@ -8,9 +8,9 @@
 
 &#x20;<mark style="color:purple;">Para realizar o bloqueio de dispositivos fora do horário de trabalho, siga os passos a seguir:</mark>
 
-1. <mark style="color:purple;">Ative a opção "Bloquear dispositivo fora do horário de trabalho"</mark>
-2. <mark style="color:purple;">Preencher o campo "Dias de trabalho", com os dias trabalhados na semana dia de início e dia fim</mark>
-3. <mark style="color:purple;">Preencher o campo "Horário de trabalho", com horário de trabalho inicial e final</mark>&#x20;
+1. <mark style="color:purple;">Ative a opção "Bloquear dispositivo fora do horário de trabalho".</mark>
+2. <mark style="color:purple;">Preencha o campo "Dias de trabalho", com os dias trabalhados na semana dia de início e dia fim.</mark>
+3. <mark style="color:purple;">Preencha o campo "Horário de trabalho", com horário de trabalho inicial e final.</mark>
 
 <figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
