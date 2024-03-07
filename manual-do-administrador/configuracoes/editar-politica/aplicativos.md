@@ -30,7 +30,9 @@ Para que o aplicativo seja apresentado no dispositivo com o tipo de instalação
 
 5. Mais ações ("...") que podem ser realizadas com o aplicativo: [Configurações Gerenciadas](aplicativos.md#configuracoes-gerenciadas), [Permissões](aplicativos.md#permissoes), [Configurações Avançadas](aplicativos.md#configuracoes-avancadas) e [Remover Aplicativo](aplicativos.md#remover-aplicativo).
 6. **Adicionar Aplicativos -** permite adicionar aplicativos para gerenciamento, para mais informações acessar o conteúdo [Adicionar Aplicativos](aplicativos.md#adicionar-aplicativos) nesta página.
-7. **Restrições de funcionamento -**permite criar restrições de acesso aos apps por horário, para que seja possível definir os horários em que os apps não poderão ser acessados. Para mais informações acessar o conteúdo [Restrições de Funcionamento](aplicativos.md#restricoes-de-funcionamento) nesta página.
+7. <mark style="color:purple;">**Restrições de funcionamento -**</mark><mark style="color:purple;">permite criar restrições de acesso aos apps por horário, para que seja possível definir os horários em que os apps não poderão ser acessados. Para mais informações acessar o conteúdo</mark> [<mark style="color:purple;">Restrições de Funcionamento</mark>](aplicativos.md#restricoes-de-funcionamento) <mark style="color:purple;">nesta página.</mark>
+
+<mark style="color:red;background-color:orange;">Atualizar a imagem anterior nos manuais com IOS  e padrão outros idiomas.</mark>&#x20;
 
 ### **Configurações Gerenciadas**
 
@@ -148,16 +150,19 @@ Os aplicativos precisam ser primeiramente adicionados usando a [**Google Play Ge
 Ao criar uma política com modo de gerenciamento Android Block SIM, automaticamente na aba APLICATIVOS, já estará adicionado o aplicativo Block SIM com modo de instalação Forçada, ou seja, quando o usuário realizar a ativação do Vivo Gestão Dispositivo utilizando esta política, já será instalado automaticamente o Block SIM, sem que ele precise baixar na Play Store.
 {% endhint %}
 
-### <mark style="color:red;">Restrições de Funcionamento</mark>
+### <mark style="color:purple;">Restrições de Funcionamento</mark>
 
-<mark style="color:red;">Para acessar o ícone de Restrições de Funcionamento, é necessário estar na tela "</mark><mark style="color:red;">**Editar Política**</mark><mark style="color:red;">" de uma política Android, Android - Block SIM ou Android - Work Profile, com a guia "</mark><mark style="color:red;">**Aplicativos**</mark><mark style="color:red;">" selecionada.</mark>&#x20;
+<mark style="color:purple;">Para definir restrições de funcionamento de aplicativos por dias e horários, é necessário clicar no icone de restrições de funcionamento na linha referente ao aplicativo desejado. A imagem a seguir destaca:</mark>&#x20;
 
-<mark style="color:red;">O sistema exibirá o ícone de "Restrições de Funcionamento"</mark> <mark style="color:red;">em todos os apps, exceto: Companion, Kiosk Launcher, Block Sim e Remote View, e se o app tiver restrições, irá aparecer uma notificação:</mark> ![](<../../../.gitbook/assets/image (79).png>).
+1. <mark style="color:purple;">Ícones para acessar a opção "Restrições de Funcionamento";</mark>&#x20;
+2. <mark style="color:purple;">Botão seletor para ativar restrições.</mark>
 
-<figure><img src="../../../.gitbook/assets/image (80).png" alt=""><figcaption></figcaption></figure>
+<mark style="color:purple;">A opção de "Restrições de Funcionamento" está disponível para todos os aplicativos, exceto: aplicativo do sistema \<nome\_produto>, Kiosk Launcher, Block Sim e Remote View.  Quando o aplicativo já possui restrição de funcionamento, o seu ícone de restrição de funcionamento mudará para</mark> ![](<../../../.gitbook/assets/image (79).png>).
+
+<figure><img src="../../../.gitbook/assets/Captura de pantalla 2024-03-07 a la(s) 15.51.55.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">Para ativar as restrições:</mark>
 
 1. <mark style="color:red;">Selecionar o campo “Ativar restrições".</mark>
 2. <mark style="color:red;">Informar o horário de inicio e fim do período para cada dia, ou selecionar o campo "Restringir"  para bloquear o funcionamento o dia inteiro.</mark>
-3. <mark style="color:red;">Clicar em "Confirmar" para salvar as alterações, a política enviará as informações de restrições do app, nas configurações gerenciadas do companion, para os dispositivos vinculados.</mark>
+3. <mark style="color:red;">Clique em "Confirmar" para salvar as alterações, a política enviará as informações de restrições do app, nas configurações gerenciadas do companion, para os dispositivos vinculados.</mark>
