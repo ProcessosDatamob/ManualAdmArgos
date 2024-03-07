@@ -15,27 +15,22 @@ Para acessar as configurações de "**Modo Quiosque**" siga os seguintes passos:
 
 4. Ao ativar o Modo Quiosque na política e provisionar um dispositivo com esta política, o aplicativo **Kiosk Launcher Manager** será instalado automaticamente no dispositivo.
 
-<figure><img src="../../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+Quando o dispositivo instalar o aplicativo Kiosk, o aplicativo capturará a lista de todos os aplicativos instalados no dispositivo enviará esta lista para o Portal. Além disto enviará as seguintes configurações gerenciadas para o portal.  E alterará a launcher do Dispositivo para a launcher do aplicativo Kiosk, não permitirá que o usuário altere a launcher no dispositivo e manterá a configuração de Modo Quiosque recebida na politica.
 
-<figure><img src="../../../.gitbook/assets/Captura de tela 2024-03-05 165507 (1).png" alt=""><figcaption></figcaption></figure>
+### <mark style="color:purple;">Opções de configuração do Quiosque</mark>
 
-<mark style="color:red;">É possível ativar os serviços de telefonia no modo Quiosque, para que seja possível usar as funcionalidades do telefone, selecionando entre as opções: Ativo ou Definido pelo Dispositivo.</mark>
+<mark style="color:purple;">Estando o modo quiosque ativado, as seguintes opções de configuração estarão disponíveis:</mark>&#x20;
 
-<mark style="color:red;">Ao definir como "Ativo" e salvar a política, o sistema enviará na política e no Quiosque os pacotes dos serviços de telefonia para o dispositivo, e permitirá receber e realizar ligações no dispositivo que provisionar a política. E ao definir como "Definido pelo Dispositivo", o dispositivo funcionará de acordo com a sua configuração padrão, tendo ou não os serviços</mark>
 
-&#x20;Quando o dispositivo instalar o aplicativo Kiosk, o aplicativo capturará a lista de todos os aplicativos instalados no dispositivo enviará esta lista para o Portal. Além disto enviará as seguintes configurações gerenciadas para o portal:
-
-* Papel de parede
-* Cor da fonte dos ícones
-* Orientação de Tela
-* Tamanho de ícones e Fontes
-* Ordenação dos ícones
-* Posicionamento da imagem
-
-E alterará a launcher do Dispositivo para a launcher do aplicativo Kiosk, não permitirá que o usuário altere a launcher no dispositivo e manterá a configuração de Modo Quiosque recebida na politica.
 
 <figure><img src="../../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
+* <mark style="color:purple;">**Botões de navegação**</mark><mark style="color:purple;">: permite definir como "Ativo", "Bloqueado" ou "Apenas botão Home";</mark>
+* <mark style="color:purple;">**Botão "Power"**</mark><mark style="color:purple;">:  permite definir como "Disponível" ou "Bloqueado";</mark>
+* <mark style="color:purple;">**Exibir Mensagens de Erro**</mark><mark style="color:purple;">: permite definir como "Ativo" ou "Silenciado";</mark>
+* <mark style="color:purple;">**Informações Exibidas na Barra de Status**</mark><mark style="color:purple;">: permite definir como "Notificações e informações do sistema", "Apenas informações do sistema" ou "Nenhuma";</mark>
+* <mark style="color:purple;">**Acesso à Configurações**</mark><mark style="color:purple;">: permite definir como "Liberado" ou "Bloqueado";</mark>
+* <mark style="color:purple;">**Serviços Adicionais de Telefonia**</mark><mark style="color:purple;">: permite definir como "Ativo" ou "Definido pelo dispositivo".  Ao definir como "Ativo" e salvar a política, o sistema enviará na política e no quiosque os pacotes dos serviços de telefonia para o dispositivo, e permitirá receber e realizar ligações no dispositivo que provisionar a política. E ao definir como "Definido pelo Dispositivo", o dispositivo funcionará de acordo com a sua configuração padrão, tendo ou não os serviços.</mark>
 * **Papel de parede** - pode ser realizado o upload de uma imagem de papel de parede na política e definido a orientação de tela, que serão enviados para o aplicativo
 
 <figure><img src="../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
