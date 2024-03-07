@@ -14,34 +14,28 @@ Para saber como gerenciar os dispositivos ativos da empresa, siga os passos desc
 5. Para localizar um dispositivo específico, digite o número do telefone, nome do usuário, IMEI ou ICCID do dispositivo no campo “Pesquisar”
 6. Para exportar o relatório dos dispositivos, clique no botão “Excel”
 7. Para copiar as informações dos dispositivos, clique no botão “Copiar”
-8. <mark style="color:red;">Clique na opção de “Ações em lote" para aplicar uma ação em vários dispositivos de uma vez só. Para mais informações, acessar o conteúdo</mark> [<mark style="color:red;">Ações em lote</mark>](./#acoes-em-lote) <mark style="color:red;">nesta página</mark>
+8. <mark style="color:purple;">Clique na opção de “Ações em lote" para aplicar uma ação em vários dispositivos de uma vez só. Para mais informações, acessar o conteúdo</mark> [<mark style="color:purple;">Ações em lote</mark>](./#acoes-em-lote) <mark style="color:purple;">nesta página</mark>
 9. A lista de dispositivos é mostrada na parte inferior da tela
 10. Ordene a listagem de dispositivos pelas colunas nas setas "↑↓"
 11. Clique no ">" para visualizar todas as informações do dispositivo, para mais informações, acessar o conteúdo[ Informações do Dispositivo](./#informacoes-do-dispositivo) nesta página.
 12. Use os três pontinhos "..." para exibir o menu de ações e aplicar a ação desejada ao dispositivo
 
-### <mark style="color:red;">Ações em lote</mark>
+### <mark style="color:purple;">Ações em lote</mark>
 
-<mark style="color:red;">Ao clicar na opção “Ações em lote" o sistema exibirá uma tela contendo alguns campos para preenchimento:</mark>
+<mark style="color:purple;">Ao clicar na opção “Ações em lote" o sistema exibirá uma tela contendo alguns campos para preenchimento, conforme pode ser visto na tela abaixo.</mark>&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
 
-* <mark style="color:red;">Empresa: preencher a empresa desejada (ao selecionar a empresa, os campos de grupo e usuário ficará desabilitado)</mark>
-* <mark style="color:red;">Grupos: preencher o grupo desejado</mark>
-* <mark style="color:red;">Usuário de dispositivos: preencher os usuários desejados</mark>
-* <mark style="color:red;">Comandos: selecionar o comando desejado (Desativar dispositivo, Ativar dispositivo, Desligar tela, Reiniciar dispositivo ou Remover dispositivo (Wipe))</mark>
+* <mark style="color:purple;">Empresa: clique no campo empresa e no nome da empresa para enviar um camando para todos os dispositivos da empresa (ao selecionar a empresa, os campos de grupo e usuário ficaram desabilitado)</mark>
+* <mark style="color:purple;">Grupos: clique em grupo e escolha o grupo desejado</mark>
+* <mark style="color:purple;">Usuário de dispositivos: clique em usuário e escolha o usuário desejado.</mark>&#x20;
+* <mark style="color:purple;">Comandos: clique em comando e escolha o comando desejado (Desativar dispositivo, Ativar dispositivo, Desligar tela, Reiniciar dispositivo ou Remover dispositivo (Wipe))</mark>
 
 <figure><img src="../../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">O sistema exibirá as seguintes mensagem de confirmação para cada comando:</mark>
+<mark style="color:purple;">Após definir os dados da tela clique em "Enviar" para enviar o comando.  Antes de executar o envio, o sistema abrirá uma caixa de diálogo com os botões "Confirmar" e "Cancelar".</mark>&#x20;
 
-* <mark style="color:red;">**Desativar dispositivo - "**</mark>_<mark style="color:red;">Você deseja mesmo desativar os dispositivos selecionados?"</mark>_
-* <mark style="color:red;">**Ativar dispositivo - "**</mark>_<mark style="color:red;">Você deseja mesmo ativar os dispositivos selecionados?"</mark>_
-* <mark style="color:red;">**Desligar tela - "**</mark>_<mark style="color:red;">Você deseja mesmo desligar a tela dos dispositivos selecionados?"</mark>_
-* <mark style="color:red;">**Reiniciar dispositivo - "**</mark>_<mark style="color:red;">Você deseja mesmo reiniciar os dispositivos selecionados?"</mark>_
-* <mark style="color:red;">**Remover dispositivo (Wipe) - "**</mark>_<mark style="color:red;">Você deseja mesmo remover todos os dispositivos selecionados? Esta ação não pode ser desfeita."</mark>_
-
-<mark style="color:red;">Ao finalizar, clicar em "Enviar"</mark>
+<figure><img src="../../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 ### **Informações do Dispositivo**
 
