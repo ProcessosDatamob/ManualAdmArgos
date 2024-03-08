@@ -30,9 +30,7 @@ Para que o aplicativo seja apresentado no dispositivo com o tipo de instalação
 
 5. Mais ações ("...") que podem ser realizadas com o aplicativo: [Configurações Gerenciadas](aplicativos.md#configuracoes-gerenciadas), [Permissões](aplicativos.md#permissoes), [Configurações Avançadas](aplicativos.md#configuracoes-avancadas) e [Remover Aplicativo](aplicativos.md#remover-aplicativo).
 6. **Adicionar Aplicativos -** permite adicionar aplicativos para gerenciamento, para mais informações acessar o conteúdo [Adicionar Aplicativos](aplicativos.md#adicionar-aplicativos) nesta página.
-7. <mark style="color:purple;">**Restrições de funcionamento -**</mark><mark style="color:purple;">permite criar restrições de acesso aos apps por horário, para que seja possível definir os horários em que os apps não poderão ser acessados. Para mais informações acessar o conteúdo</mark> [<mark style="color:purple;">Restrições de Funcionamento</mark>](aplicativos.md#restricoes-de-funcionamento) <mark style="color:purple;">nesta página.</mark>
-
-<mark style="color:red;background-color:orange;">Atualizar a imagem anterior e textos em azul nos manuais com IOS  e padrão outros idiomas.</mark>&#x20;
+7. **Restrições de funcionamento -**permite criar restrições de acesso aos apps por horário, para que seja possível definir os horários em que os apps não poderão ser acessados. Para mais informações acessar o conteúdo [Restrições de Funcionamento](aplicativos.md#restricoes-de-funcionamento) nesta página.
 
 ### **Configurações Gerenciadas**
 
@@ -116,20 +114,18 @@ A opção Adicionar aplicativos terá comportamentos diferentes quando o Modo Qu
 
 * **Sistema**
 
-<mark style="color:red;background-color:orange;">**Correção abaixo em azul.  Também os verbos iniciais para seguir o padrão anterior da página.**</mark>&#x20;
-
-1. <mark style="color:purple;">Clique</mark> na opção “**Sistema"**, e abrirá a tela “<mark style="color:purple;">**Aplicativos**</mark>** do sistema**"
-2. <mark style="color:purple;">Selecione</mark> a Fabricante e o Dispositivo
-3. <mark style="color:purple;">Selecione</mark> um ou mais aplicativos clicando no checkbox
-4. <mark style="color:purple;">Clique</mark> no botão "**Adicionar selecionados**"
+1. Clique na opção “**Sistema"**, e abrirá a tela “**Aplicativos do sistema**"
+2. Selecione a Fabricante e o Dispositivo
+3. Selecione um ou mais aplicativos clicando no checkbox
+4. Clique no botão "**Adicionar selecionados**"
 
 <figure><img src="../../../.gitbook/assets/image (70).png" alt=""><figcaption></figcaption></figure>
 
 * **Playstore**&#x20;
 
-1. <mark style="color:purple;">Clique</mark> na opção “**Playstore**", e abrirá a tela “**Adicionar Aplicativos**"
-2. <mark style="color:purple;">Selecione</mark> um ou mais aplicativos clicando no checkbox
-3. <mark style="color:purple;">Clique</mark> no botão "**Adicionar selecionados**"
+1. Clique na opção “**Playstore**", e abrirá a tela “**Adicionar Aplicativos**"
+2. Selecione um ou mais aplicativos clicando no checkbox
+3. Clique no botão "**Adicionar selecionados**"
 
 <figure><img src="../../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
@@ -141,8 +137,8 @@ Os aplicativos precisam ser primeiramente adicionados usando a [**Google Play Ge
 
 * **Manual**
 
-1. <mark style="color:purple;">Clique</mark> na opção “**Manual**", e abrirá a tela “**Adicionar Aplicativos Manualmente**"
-2. <mark style="color:purple;">Preencha</mark> os campos: Nome do App (opcional), Nome do Pacote e clicar em "**Adicionar**"
+1. Clique na opção “**Manual**", e abrirá a tela “**Adicionar Aplicativos Manualmente**"
+2. Preencha os campos: Nome do App (opcional), Nome do Pacote e clicar em "**Adicionar**"
 
 <figure><img src="../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
 
@@ -152,19 +148,19 @@ Os aplicativos precisam ser primeiramente adicionados usando a [**Google Play Ge
 Ao criar uma política com modo de gerenciamento Android Block SIM, automaticamente na aba APLICATIVOS, já estará adicionado o aplicativo Block SIM com modo de instalação Forçada, ou seja, quando o usuário realizar a ativação do Vivo Gestão Dispositivo utilizando esta política, já será instalado automaticamente o Block SIM, sem que ele precise baixar na Play Store.
 {% endhint %}
 
-### <mark style="color:purple;">Restrições de Funcionamento</mark>
+### Restrições de Funcionamento
 
-<mark style="color:purple;">Para definir restrições de funcionamento de aplicativos por dias e horários, é necessário clicar no icone de restrições de funcionamento na linha referente ao aplicativo desejado. A imagem a seguir destaca:</mark>&#x20;
+Para definir restrições de funcionamento de aplicativos por dias e horários, é necessário clicar no icone de restrições de funcionamento na linha referente ao aplicativo desejado. A imagem a seguir destaca:&#x20;
 
-1. <mark style="color:purple;">Ícones para acessar a opção "Restrições de Funcionamento";</mark>&#x20;
-2. <mark style="color:purple;">Botão seletor para ativar restrições.</mark>
+1. Ícones para acessar a opção "Restrições de Funcionamento";&#x20;
+2. Botão seletor para ativar restrições.
 
-<mark style="color:purple;">A opção de "Restrições de Funcionamento" está disponível para todos os aplicativos, exceto: aplicativo do sistema \<nome\_produto>, Kiosk Launcher, Block Sim e Remote View.  Quando o aplicativo já possui restrição de funcionamento, o seu ícone de restrição de funcionamento mudará para</mark> ![](<../../../.gitbook/assets/image (79).png>).
+A opção de "Restrições de Funcionamento" está disponível para todos os aplicativos, exceto: aplicativo do sistema \<nome\_produto>, Kiosk Launcher, Block Sim e Remote View.  Quando o aplicativo já possui restrição de funcionamento, o seu ícone de restrição de funcionamento mudará para ![](<../../../.gitbook/assets/image (79).png>).
 
 <figure><img src="../../../.gitbook/assets/Captura de pantalla 2024-03-07 a la(s) 15.51.55.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:purple;">Para ativar as restrições:</mark>
+Para ativar as restrições:
 
-1. <mark style="color:purple;">Selecione o campo “Ativar restrições".</mark>
-2. <mark style="color:purple;">Informe o horário de inicio e fim do período para cada dia, ou selecione o campo "Restringir"  para bloquear o funcionamento o dia inteiro.</mark>
-3. <mark style="color:purple;">Clique em "Confirmar" para salvar as alterações. A política enviará as informações de restrições do aplicativo para os dispositivos vinculados.</mark>
+1. Selecione o campo “Ativar restrições".
+2. Informe o horário de inicio e fim do período para cada dia, ou selecione o campo "Restringir"  para bloquear o funcionamento o dia inteiro.
+3. Clique em "Confirmar" para salvar as alterações. A política enviará as informações de restrições do aplicativo para os dispositivos vinculados<mark style="color:purple;">.</mark>

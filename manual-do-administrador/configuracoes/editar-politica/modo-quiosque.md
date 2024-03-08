@@ -17,20 +17,18 @@ Para acessar as configurações de "**Modo Quiosque**" siga os seguintes passos:
 
 Quando o dispositivo instalar o aplicativo Kiosk, o aplicativo capturará a lista de todos os aplicativos instalados no dispositivo enviará esta lista para o Portal. Além disto enviará as seguintes configurações gerenciadas para o portal.  E alterará a launcher do Dispositivo para a launcher do aplicativo Kiosk, não permitirá que o usuário altere a launcher no dispositivo e manterá a configuração de Modo Quiosque recebida na politica.
 
-### <mark style="color:purple;">Opções de configuração do Quiosque</mark>
+### Opções de configuração do Quiosque
 
-<mark style="color:purple;">Estando o modo quiosque ativado, as seguintes opções de configuração estarão disponíveis:</mark>&#x20;
-
-
+Estando o modo quiosque ativado, as seguintes opções de configuração estarão disponíveis:&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
 
-* <mark style="color:purple;">**Botões de navegação**</mark><mark style="color:purple;">: permite definir os botões de navegação do dispositivo como "Ativo", "Bloqueado" ou "Apenas botão Home";</mark>
-* <mark style="color:purple;">**Botão "Power"**</mark><mark style="color:purple;">:  permite definir o botão power do dispositivo como "Disponível" ou "Bloqueado";</mark>
-* <mark style="color:purple;">**Exibir Mensagens de Erro**</mark><mark style="color:purple;">: permite definir a exibição de mensagens de erro como "Ativo" ou "Silenciado";</mark>
-* <mark style="color:purple;">**Informações Exibidas na Barra de Status**</mark><mark style="color:purple;">: permite definir as informações que serão exibidas na barra de status do dispositivo.  Pode ser definido como "Notificações e informações do sistema", "Apenas informações do sistema" ou "Nenhuma";</mark>
-* <mark style="color:purple;">**Acesso à Configurações**</mark><mark style="color:purple;">: permite definir como "Liberado" ou "Bloqueado";</mark>
-* <mark style="color:purple;">**Serviços Adicionais de Telefonia**</mark><mark style="color:purple;">: permite definir os serviços de telefonia como "Ativo" ou "Definido pelo dispositivo".  Ao definir como "Ativo" e salvar a política, o sistema enviará na política e no quiosque os pacotes dos serviços de telefonia para o dispositivo, e permitirá receber e realizar ligações no dispositivo que provisionar a política. E ao definir como "Definido pelo Dispositivo", o dispositivo funcionará de acordo com a sua configuração padrão, tendo ou não os serviços.</mark>
+* **Botões de navegação**: permite definir os botões de navegação do dispositivo como "Ativo", "Bloqueado" ou "Apenas botão Home";
+* **Botão "Power"**:  permite definir o botão power do dispositivo como "Disponível" ou "Bloqueado";
+* **Exibir Mensagens de Erro**: permite definir a exibição de mensagens de erro como "Ativo" ou "Silenciado";
+* **Informações Exibidas na Barra de Status**: permite definir as informações que serão exibidas na barra de status do dispositivo.  Pode ser definido como "Notificações e informações do sistema", "Apenas informações do sistema" ou "Nenhuma";
+* **Acesso à Configurações**: permite definir como "Liberado" ou "Bloqueado";
+* **Serviços Adicionais de Telefonia**: permite definir os serviços de telefonia como "Ativo" ou "Definido pelo dispositivo".  Ao definir como "Ativo" e salvar a política, o sistema enviará na política e no quiosque os pacotes dos serviços de telefonia para o dispositivo, e permitirá receber e realizar ligações no dispositivo que provisionar a política. E ao definir como "Definido pelo Dispositivo", o dispositivo funcionará de acordo com a sua configuração padrão, tendo ou não os serviços.
 * **Papel de parede** - pode ser realizado o upload de uma imagem de papel de parede na política e definido a orientação de tela, que serão enviados para o aplicativo
 
 <figure><img src="../../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
