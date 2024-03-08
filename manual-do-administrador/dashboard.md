@@ -122,13 +122,13 @@ Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as in
 
 ![](../.gitbook/assets/18.png)
 
-### <mark style="color:red;">Inventário de Dispositivos</mark>
+### Inventário de Dispositivos
 
-<mark style="color:red;">Este indicador mostra a percentagem dos 5 fabricantes de dispositivos ativos. O valor percentual de cada um dos cinco fabricantes é calculado em relação à soma total de todos os dispositivos ativos.</mark>
+Este indicador mostra a percentagem dos 5 fabricantes de dispositivos ativos. O valor percentual de cada um dos cinco fabricantes é calculado em relação à soma total de todos os dispositivos ativos.
 
-### <mark style="color:red;">Sites mais visitados</mark>&#x20;
+### Sites mais visitados&#x20;
 
-<mark style="color:red;">Este indicador mostra a percentagem dos 5 locais mais visitados nos dispositivos durante o ciclo. O valor percentual de cada um dos 5 sítios é calculado em relação à soma total de todos os acessos aos sítios durante o ciclo.</mark>
+Este indicador mostra a percentagem dos 5 locais mais visitados nos dispositivos durante o ciclo. O valor percentual de cada um dos 5 sítios é calculado em relação à soma total de todos os acessos aos sítios durante o ciclo.
 
 
 
