@@ -39,7 +39,7 @@ Para configurar siga os seguintes passos:
 É necessário preencher os seguintes campos que serão de identificação para o usuário do dispositivo.
 
 * “Nome da Configuração”: Identifique a configuração desejada;
-* “DPC do EMM”: Android Device Police;
+* “DPC do EMM”: Android Device Policy;
 * “Extras do DPC”;
 * “Nome da Empresa”: Nome da Empresa;
 * “Endereço de e-mail do suporte”: Informe o e-mail de suporte da sua empresa;
