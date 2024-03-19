@@ -11,8 +11,11 @@ Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível
 * **Usuário -** nome do usuário cadastrado no portal;
 * **Identificação -** Identificação cadastrada para o dispositivo;
 * **Telefone -** número de telefone;
+* <mark style="color:red;">**Grupo -**</mark> <mark style="color:red;"></mark><mark style="color:red;">grupo cadastrado no portal</mark><mark style="color:red;">**;**</mark>
 * **IMEI -** número interno e único em cada dispositivo. No Android 10 já não é possível capturar esta informação do dispositivo porque utilizamos outro método para receber esta informação com o Enriquecimento de URL;
 * **ICCID -** número do chip SIM;
+* **Número de série -** número de série do dispositivo;
+* **Telefone -** número de telefone;
 * **Modelo -** modelo do dispositivo;
 * **Fabricante** - nome do fabricante do dispositivo;
 * **Sistema Operacional -** sistema operacional do dispositivo;
@@ -20,10 +23,15 @@ Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível
 
 ### Instalação
 
+* <mark style="color:red;">**Status Aplicado -**</mark> status do registro do dispositivo, se o dispositivo está totalmente registrado, o status será "Ativo";
+* **Data de Registro -** data de registro dos dispositivos;
 * **Data de Registro -** data de registro dos dispositivos;
 * **Modo de gerenciamento -** exibe o modo de gerenciamento utilizado;
 * **Versão do app -** versão do companion instalado no dispositivo;
-* **Nome da Política no Portal** **-** nome da política atribuída ao dispositivo~~;~~
+* **Nome da Política no Portal** **-** nome da política atribuída ao dispositivo;
+* <mark style="color:red;">**Versão da política Aplicada -**</mark> <mark style="color:red;"></mark><mark style="color:red;">versão da política;</mark>
+* <mark style="color:red;">**Data de sincronização da Política -**</mark> <mark style="color:red;"></mark><mark style="color:red;">exibirá a data da sincronização da política;</mark>
+* **Em conformidade -** é a aderência do dispositivo a todas as configurações de políticas atribuídas a ele. Se alguma configuração não foi aplicada, o valor desta opção será "Não".&#x20;
 * **Data da Última Comunicação -** exibirá a data em que o dispositivo se comunicou a última vez com o portal;
 
 ### Hardware
