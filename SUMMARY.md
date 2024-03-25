@@ -62,3 +62,9 @@
 * [AJUDA](manual-do-administrador/ajuda/README.md)
   * [Perguntas Frequentes](manual-do-administrador/ajuda/perguntas-frequentes.md)
   * [Documentos e Materiais de Apoio](manual-do-administrador/ajuda/documentos-e-materiais-de-apoio.md)
+
+## Release notes
+
+* [Release Notes \<NomeProduto> V8.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v8.0.0.md)
+* [Release Notes \<NomeProduto> V 7.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0.md)
+* [Release Notes \<NomeProduto> v6.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v6.0.0.md)
