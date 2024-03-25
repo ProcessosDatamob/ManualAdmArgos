@@ -5,4 +5,4 @@ Para ativar um aplicativo de sistema, deve ser utilizado o seguinte formato de c
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-[**Voltar ao menu inicial** ](./)
+[**Voltar ao menu inicial** ](../release-notes-less-than-nomeproduto-greater-than-v-7.0.0.md)

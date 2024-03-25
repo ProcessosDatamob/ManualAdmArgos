@@ -4,4 +4,4 @@ Na tela de Auditoria no filtro “Atividade" foi incluída a opção “Envio". 
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-[**Voltar ao menu inicial** ](./)
+[**Voltar ao menu inicial** ](../release-notes-less-than-nomeproduto-greater-than-v-7.0.0.md)

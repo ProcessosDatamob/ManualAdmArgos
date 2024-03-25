@@ -4,4 +4,4 @@ Permite definir restrições de funcionamento de aplicativos por horário. Esta 
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-[**Voltar ao menu inicial** ](./)
+[**Voltar ao menu inicial** ](../release-notes-less-than-nomeproduto-greater-than-v-7.0.0.md)

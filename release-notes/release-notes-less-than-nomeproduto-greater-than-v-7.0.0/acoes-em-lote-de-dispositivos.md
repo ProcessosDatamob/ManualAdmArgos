@@ -4,4 +4,4 @@ Na tela de Dispositivos foi incluída a função de "Ações em Lote". Ao clicar
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
-[**Voltar ao menu inicial** ](./)
+[**Voltar ao menu inicial** ](../release-notes-less-than-nomeproduto-greater-than-v-7.0.0.md)

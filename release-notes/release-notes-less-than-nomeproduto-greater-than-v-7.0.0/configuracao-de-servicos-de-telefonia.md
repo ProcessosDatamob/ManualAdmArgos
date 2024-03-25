@@ -4,4 +4,4 @@ Na tela de "Editar Política" estando ativado o modo quiosque, foi incluída a o
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-[**Voltar ao menu inicial** ](./)
+[**Voltar ao menu inicial** ](../release-notes-less-than-nomeproduto-greater-than-v-7.0.0.md)
