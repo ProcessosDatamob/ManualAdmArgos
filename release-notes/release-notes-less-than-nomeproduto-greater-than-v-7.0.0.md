@@ -2,11 +2,11 @@
 
 ### Novidades da Versão
 
-* Ativação de Apps de Sistemas via QRCode
-* Ativação de Apps de Sistemas via Comando
-* Restrição de Funcionamento de Apps por Horário
-* Configuração de MFA por Empresa
-* Registro de Log de Ações em Lote
-* Configuração de Serviços de Telefonia
-* Ações em Lote de Dispositivos
-* Bloqueio Total Fora do Horário de Trabalho
+1. Ativação de Apps de Sistemas via QRCode
+2. Ativação de Apps de Sistemas via Comando
+3. Restrição de Funcionamento de Apps por Horário
+4. Configuração de MFA por Empresa
+5. Registro de Log de Ações em Lote
+6. Configuração de Serviços de Telefonia
+7. Ações em Lote de Dispositivos
+8. Bloqueio Total Fora do Horário de Trabalho
