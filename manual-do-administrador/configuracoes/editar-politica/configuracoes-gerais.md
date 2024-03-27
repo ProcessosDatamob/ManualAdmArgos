@@ -9,7 +9,7 @@ As configurações gerais são agrupadas nos tipos:
 * Segurança;
 * Sistema Operacional;
 * Tela de Bloqueio;
-* <mark style="color:purple;">Trabalho;</mark>
+* Trabalho;
 * Usuário;
 * VPN;
 
