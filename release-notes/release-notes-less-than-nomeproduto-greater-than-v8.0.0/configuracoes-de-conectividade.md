@@ -10,7 +10,7 @@ Na tela de configurações de políticas, "Editar Políticas" e guia "Configura�
 
 <figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
 
-3. &#x20;<mark style="color:red;">**Configurações de Tethering**</mark>
+3. &#x20;<mark style="color:red;">**Configurações de Tethering ( ) -**</mark>
 
 <figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
