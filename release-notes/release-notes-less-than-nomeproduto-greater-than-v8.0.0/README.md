@@ -4,4 +4,4 @@
 
 1. Alterar Atualização do Kiosk Launcher
 2. Novo App de Configurações
-3. Alterar Configurações de Conectividade
+3. Configurações de Conectividade
