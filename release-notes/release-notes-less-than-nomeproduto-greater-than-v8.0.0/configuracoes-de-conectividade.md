@@ -10,10 +10,10 @@ Na tela de configurações de políticas, "Editar Políticas" e guia "Configura�
 
 <figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
 
-3. &#x20;<mark style="color:red;">**Configurações de Tethering ( ) -**</mark>
+3. &#x20;**Configurações de Tethering** (grupo de configurações "Hardware" ) - a partir desta versão é possível escolher entre as opções:  "Permitir todas as formas de tethering", Não permitir tethering Wi-Fi" e "Não permitir todas as formas de tethering".&#x20;
 
 <figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">**Critério 4: Nova Configurações de Wi-Fi Direct**</mark>
+4. **Configurações de Wi-Fi Direct** (grupo de configurações "Hardware") - a partir desta versão temos a nova configuração de Wi-Fi Direct com as opções: "Permitir usar Wi-fi Direct" e "Não Permitir usar Wi-Fi Direct".&#x20;
 
 <figure><img src="../../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
