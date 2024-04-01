@@ -1,10 +1,12 @@
-# Alterar Configurações de Conectividade
+# Configurações de Conectividade
 
-<mark style="color:red;">**Critério 1: Alterando Configurações de Wi-Fi**</mark>
+Na tela de configurações de políticas, "Editar Políticas" e guia "Configurações",  foram implementadas mais opções de configurações de conectividade. &#x20;
+
+1. **Privilégio de Configuração de Wi-Fi** - a partir desta versão é possível escolher entre as opções: "Permitir configurações Wi-Fi", "Não permitir adicionar configuração Wi-Fi" ou "Não permitir configurações de Wi-Fi".&#x20;
 
 <figure><img src="../../.gitbook/assets/image (102).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">**Critério 2: Alterando Configurações de USB**</mark>
+2. <mark style="color:red;">**Configurações de USB -**</mark>&#x20;
 
 <figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
 
