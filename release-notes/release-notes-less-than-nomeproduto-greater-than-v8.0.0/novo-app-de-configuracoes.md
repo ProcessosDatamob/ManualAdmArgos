@@ -1,2 +1,0 @@
-# Novo App de Configurações
-

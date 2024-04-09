@@ -2,6 +2,4 @@
 
 ### Novidades da Versão
 
-1. Alterar Atualização do Kiosk Launcher
-2. Novo App de Configurações
-3. Configurações de Conectividade
+1. Configurações de Conectividade

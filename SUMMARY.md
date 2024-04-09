@@ -66,8 +66,6 @@
 ## Release notes
 
 * [Release Notes \<NomeProduto> V8.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v8.0.0/README.md)
-  * [Alterar Atualização do Kiosk Launcher](release-notes/release-notes-less-than-nomeproduto-greater-than-v8.0.0/alterar-atualizacao-do-kiosk-launcher.md)
-  * [Novo App de Configurações](release-notes/release-notes-less-than-nomeproduto-greater-than-v8.0.0/novo-app-de-configuracoes.md)
   * [Configurações de Conectividade](release-notes/release-notes-less-than-nomeproduto-greater-than-v8.0.0/configuracoes-de-conectividade.md)
 * [Release Notes \<NomeProduto> V 7.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0.md)
   * [Ativação de Apps de Sistemas via QRCode](release-notes/release-notes-less-than-nomeproduto-greater-than-v-7.0.0/ativacao-de-apps-de-sistemas-via-qrcode.md)
