@@ -21,7 +21,7 @@ Quando o **\<NomeProduto>** é ativado para uma empresa, as seguintes tarefas s�
 
 Para acessar o Portal de Administração, siga os passos descritos nesta seção:
 
-1. Acesse o endereço <mark style="background-color:orange;">\<EnderecoProduto></mark> para visualizar a tela de acesso do Portal. De preferência utilize um navegador Google Chrome, com a versão mais atualizada.
+1. Acesse o endereço <mark style="color:orange;">\<EnderecoProduto></mark> para visualizar a tela de acesso do Portal. De preferência utilize um navegador Google Chrome, com a versão mais atualizada.
 2. Preencha os campos de “**E-mail**” e “**Senha**” com as credenciais de acesso, recebidas no E-mail de boas-vindas.
 3. Clique em “**Iniciar Seção**” para confirmar as informações e acessar o Portal.
 

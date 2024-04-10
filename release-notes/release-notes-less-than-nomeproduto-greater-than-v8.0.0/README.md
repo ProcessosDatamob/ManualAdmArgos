@@ -2,4 +2,4 @@
 
 ### Novidades da Versão
 
-1. Configurações de Conectividade
+1. [Configurações de Conectividade](configuracoes-de-conectividade.md)
