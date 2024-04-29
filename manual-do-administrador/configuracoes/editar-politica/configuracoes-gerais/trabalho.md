@@ -4,7 +4,7 @@ Essa funcionalidade permite ao usuário administrador configurar um bloqueio tot
 
 Estando na aba "**Configurações**" da tela "**Editar Políticas**", clique em "**Trabalho**" para ver as opções de configuração.
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;Para realizar o bloqueio de dispositivos fora do horário de trabalho, siga os passos a seguir:
 

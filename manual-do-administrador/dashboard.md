@@ -69,7 +69,7 @@ Ao clicar em "**Total**” o indicador exibirá a tela “**Lista de Dispositivo
 
 * **SEM COMUNICAÇÃO -** Este indicador exibe o número total de dispositivos que não estão enviando dados aos servidores a um período prolongado. Ao clicar em "**Sem Comunicação**” o sistema exibe a tela de dispositivos sem comunicação.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Esta falta de comunicação pode ocorrer quando o dispositivo se encontrar nas seguintes situações:
 
@@ -153,6 +153,10 @@ Para realizar a análise individual dos usuários de dispositivos, clique em "**
 ### **Localização dos Dispositivos**
 
 O mapa exibe a última localização dos dispositivos. Para que a localização seja exibida e atualizada, o dispositivo deve estar conectado à internet, deve haver sinal de GPS e a configuração de "**Modo de Localização**" deve estar "**Ativa**" em Localização na política aplicada ao dispositivo.
+
+<mark style="color:red;">Caso sistema não carregar as localizações no mapa, clique no botão "Exibir localizações”,  e carregará as informações das localizações no mapa.</mark>
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Leia a seção “[**Gerenciar Políticas**](broken-reference)” deste manual para saber como ativar o "**Modo de Localização**" dos dispositivos.
 

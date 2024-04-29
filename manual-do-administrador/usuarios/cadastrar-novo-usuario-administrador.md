@@ -24,7 +24,7 @@ Se for um responsável de grupo, mais opções serão exibidas:
 
 6. Selecione o(s) grupo(s) que o usuário irá administrar.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 7. Clique no botão “Cadastrar” para concluir o cadastro do usuário.
 
