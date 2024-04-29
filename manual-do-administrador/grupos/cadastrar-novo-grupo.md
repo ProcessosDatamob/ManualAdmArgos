@@ -14,4 +14,4 @@ Para criar um grupo, siga os passos descritos nesta seção
 
 Usuários ou Dispositivos que não estão vinculados a nenhum grupo são listados e podem ser marcados para já estarem no novo grupo que está sendo cadastrado. Também é possível pesquisar usuários para vincular ao novo grupo.
 
-Ao concluir o cadastro, o sistema abrirá a tela de gerenciamento de grupos. Leia a seção “[Gerenciar Grupos](broken-reference)” para saber como gerenciar os dispositivos vinculados a um grupo.
+Ao concluir o cadastro, o sistema abrirá a tela de gerenciamento de grupos. Leia a seção “Gerenciar Grupos” para saber como gerenciar os dispositivos vinculados a um grupo.

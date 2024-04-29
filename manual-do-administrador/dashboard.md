@@ -100,7 +100,7 @@ Este gráfico exibe os 5 aplicativos que mais consumiram dados móveis durante o
 
 O valor percentual de cada um dos 5 aplicativos é calculado em relação à soma total de consumo de todos os aplicativos durante o ciclo.
 
-Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as informações de todos os aplicativos. Para saber como utilizar essa tela, leia a seção “[**Aplicativos**](broken-reference)” deste manual.
+Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as informações de todos os aplicativos. Para saber como utilizar essa tela, leia a seção “**Aplicativos**” deste manual.
 
 ![](../.gitbook/assets/16.png)
 
@@ -110,7 +110,7 @@ Este gráfico exibe os 5 usuários que mais consumiram dados móveis durante o c
 
 O valor percentual de cada um dos 5 usuários é calculado em relação à soma total de consumo de todos os usuários durante o ciclo.
 
-Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as informações de consumos da empresa. Para saber como utilizar essa tela, leia a seção “[Consumo da Empresa](broken-reference)” deste manual.
+Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as informações de consumos da empresa. Para saber como utilizar essa tela, leia a seção “Consumo da Empresa” deste manual.
 
 ### **Tempo de Uso por Aplicativo**
 
@@ -142,7 +142,7 @@ Os sites visitados são obtidos pelo navegador web padrão do sistema **\<NomePr
 
 Este indicador exibe em percentuais os dados móveis e SMS consumidos nos últimos 6 ciclos.
 
-Para realizar a análise individual dos consumos de dados móveis ou SMS, acesse o item **"**[**Consumos**](broken-reference)**"** no menu "[**Empresas**](broken-reference)".
+Para realizar a análise individual dos consumos de dados móveis ou SMS, acesse o item **"Consumos"** no menu "**Empresas**".
 
 ### **Indicador de Novos Usuários de Dispositivos e Histórico**
 
