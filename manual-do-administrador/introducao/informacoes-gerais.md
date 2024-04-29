@@ -10,8 +10,8 @@ O **\<NomeProduto>** é uma solução de Gerenciamento de Mobilidade Corporativa
 {% hint style="warning" %}
 **IMPORTANTE**
 
-* O aplicativo Security Browser está disponível na Play Store e deve ser incluído na política de registro dos dispositivos. Passo a passo para inclusão e configuração do aplicativo [Security Browser](broken-reference).
-* Para utilizar o bloqueio do chip, ao criar uma nova política deverá ser selecionado o modo de gerenciamento[ **"Android - Block SIM",**](broken-reference) deste modo o sistema adiciona automaticamente a aplicação **Block SIM**, restringindo as alterações da senha do dispositivo e garantindo a ligação do chip ao dispositivo. No momento do registro do dispositivo, o usuário deverá seguir as etapas da instalação e conceder as licenças solicitadas. Para mais detalhes sobre o processo de bloqueio do chip use o **"Manual de Instalação - Block sim"**.
+* O aplicativo Security Browser está disponível na Play Store e deve ser incluído na política de registro dos dispositivos. Passo a passo para inclusão e configuração do aplicativo Security Browser.
+* Para utilizar o bloqueio do chip, ao criar uma nova política deverá ser selecionado o modo de gerenciamento **"Android - Block SIM",** deste modo o sistema adiciona automaticamente a aplicação **Block SIM**, restringindo as alterações da senha do dispositivo e garantindo a ligação do chip ao dispositivo. No momento do registro do dispositivo, o usuário deverá seguir as etapas da instalação e conceder as licenças solicitadas. Para mais detalhes sobre o processo de bloqueio do chip use o **"Manual de Instalação - Block sim"**.
 {% endhint %}
 
 A partir do **\<NomeProduto>** é possível acessar as informações sobre o consumo e o uso dos dispositivos alocados aos funcionários de uma empresa. Também é possível definir políticas de bloqueios para restringir o uso indevido dos dispositivos, possibilitando ao administrador avaliar e aumentar a produtividade dos funcionários, através da análise e da gestão dos recursos de telecomunicação da empresa.
@@ -37,7 +37,7 @@ O Portal de Administração possui dois níveis de acesso:
 * **Administrador do portal**: esse nível dá acesso total às informações e permite definir políticas de bloqueio para os dispositivos;
 * **Administrador de grupo**: este nível dá acesso aos dados do seu grupo e permite enviar mensagens ao grupo;
 
-Para saber como criar um administrador de portal ou grupo, leia a seção “[**Configurações Iniciais e Níveis**](broken-reference)**'**'.
+Para saber como criar um administrador de portal ou grupo, leia a seção “**Configurações Iniciais e Níveis'**'.
 
 ### Compatibilidade de dispositivos
 
