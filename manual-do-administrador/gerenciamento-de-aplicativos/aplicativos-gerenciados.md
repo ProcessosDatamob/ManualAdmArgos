@@ -16,14 +16,7 @@ A tela possui elementos padrão que são semelhantes a outras telas do sistema. 
 2. A listagem dos aplicativos é exibida na tela, sendo cada linha referente a um dispositivo.
 3. Para ordenar as informações exibidas, clique nas setas para cima e para baixo que ficam ao lado de cada título (Nome do Aplicativo, Origem e Nome do Pacote).
 4. Clicando em "..." o sistema exibe a opção de comando para o aplicativo.
-5. O comando "Remover Aplicativo" elimina o aplicativo da lista. Caso exista alguma política envolvendo o aplicativo, ele é somente ocultado da lista e continuará vinculado à política. O sistema solicita a confirmação da operação, conforme pode ser visto na figura a seguir.
-
-{% hint style="warning" %}
-**IMPORTANTE**
-
-Se o aplicativo for removido da “**Google Play Gerenciada**” é recomendado que o aplicativo seja removido da “**Lista de Aplicativos**”.
-{% endhint %}
-
+5. O comando "Remover Aplicativo" elimina o aplicativo da lista. <mark style="color:red;">Porém não é possível remover o aplicativo se existirem políticas vinculadas a ele, primeiro remova o vínculo das políticas para poder remover o aplicativo.</mark>
 6. Para gerar o relatório dos aplicativos, clique na opção “Excel”. O sistema pode gerar um relatório somente com as informações que estão na primeira página ou um relatório completo. Clique na opção desejada para que o sistema comece o processamento.
 
 Caso seja o relatório de uma página, ele é gerado e baixado automaticamente. Caso seja o completo, pode demorar alguns minutos para ser gerado é disponibilizado para download nas notificações do sistema, conforme pode ser visualizado a seguir.
