@@ -22,6 +22,7 @@
 * [GERENCIAMENTO DE APLICATIVOS](manual-do-administrador/gerenciamento-de-aplicativos/README.md)
   * [Aplicativos Gerenciados](manual-do-administrador/gerenciamento-de-aplicativos/aplicativos-gerenciados.md)
   * [Google Play Gerenciada](manual-do-administrador/gerenciamento-de-aplicativos/google-play-gerenciada.md)
+  * [Instalação Remota de Aplicativos](manual-do-administrador/gerenciamento-de-aplicativos/instalacao-remota-de-aplicativos.md)
 * [CONFIGURAÇÕES](manual-do-administrador/configuracoes/README.md)
   * [Gerenciar Políticas](manual-do-administrador/configuracoes/gerenciar-politicas/README.md)
     * [Token de Registro](manual-do-administrador/configuracoes/gerenciar-politicas/token-de-registro.md)

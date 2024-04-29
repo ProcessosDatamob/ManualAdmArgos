@@ -1,6 +1,6 @@
 # Lista de dispositivos
 
-Para saber como gerenciar os dispositivos ativos da empresa, siga os passos descritos abaixo.
+Para gerenciar os dispositivos ativos da empresa, siga os passos descritos abaixo.
 
 1. Clique no menu “**Dispositivos**” opção "**Lista de Dispositivos**" para acessar a tela
 

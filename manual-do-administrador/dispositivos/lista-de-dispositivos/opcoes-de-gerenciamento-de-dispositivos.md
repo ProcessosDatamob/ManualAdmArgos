@@ -4,13 +4,12 @@ Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2024-01-04 135743.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (75).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
 ### Detalhes
 
 * **Usuário -** nome do usuário cadastrado no portal;
 * **Identificação -** Identificação cadastrada para o dispositivo;
-* **Telefone -** número de telefone;
 * **Grupo -** grupo cadastrado para o dispositivo**;**
 * **IMEI -** número interno e único em cada dispositivo. No Android 10 já não é possível capturar esta informação do dispositivo porque utilizamos outro método para receber esta informação com o Enriquecimento de URL;
 * **ICCID -** número do chip SIM;
@@ -25,10 +24,10 @@ Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível
 
 * **Status Aplicado -** status do registro do dispositivo, se o dispositivo está totalmente registrado, o status será "Ativo";
 * **Data de Registro -** data de registro dos dispositivos;
-* **Data de Registro -** data de registro dos dispositivos;
 * **Modo de gerenciamento -** exibe o modo de gerenciamento utilizado;
 * **Versão do app -** versão do companion instalado no dispositivo;
 * **Nome da Política no Portal** **-** nome da política atribuída ao dispositivo;
+* <mark style="color:red;">**Nome da Política no Dispositivo -**</mark> <mark style="color:red;"></mark><mark style="color:red;">nome da política atribuída no dispositivo;</mark>
 * **Versão da política Aplicada -** versão da política;
 * **Data de sincronização da Política -** exibirá a data da sincronização da política;
 * **Em conformidade -** é a aderência do dispositivo a todas as configurações de políticas atribuídas a ele. Se alguma configuração não foi aplicada, o valor desta opção será "Não".&#x20;
@@ -38,6 +37,13 @@ Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível
 
 * **Armazenamento Interno -** quanto de armazenamento interno possui;
 * **Bateria -** Quantos % de bateria está no momento;
+
+### <mark style="color:red;">Permissões</mark>
+
+* <mark style="color:red;">**Acesso ao Dados de Uso -**</mark> <mark style="color:red;"></mark><mark style="color:red;">status sim ou não, caso o usuário não ative esta permissão, o aplicativo não irá capturar as consumos de dados e tempo de uso dos aplicativos.</mark>
+* <mark style="color:red;">**Ignorar Otimização de Bateria -**</mark> <mark style="color:red;"></mark><mark style="color:red;">status sim ou não, caso o usuário não ative esta permissão, o aplicativo poderá ser afetado pelas configurações de otimização de bateria, parar de capturar as localizações do dispositivos e parar de enviar as informações para o Portal.</mark>
+* <mark style="color:red;">**Escrita de Configurações do Sistema -**</mark> <mark style="color:red;"></mark><mark style="color:red;">status sim ou não, Caso o usuário não ative esta permissão, o aplicativo Kiosk Launcher Manage</mark><mark style="color:red;">**r**</mark> <mark style="color:red;"></mark><mark style="color:red;">não permitirá que o usuário alterar algumas configurações do sistema quando estiver no modo Quiosque.</mark>
+* <mark style="color:red;">**Leitura de SMS -**</mark> <mark style="color:red;"></mark><mark style="color:red;">status sim ou não, caso o usuário não ative esta permissão, o aplicativo não irá capturar as informações dos SMS enviados.</mark>
 
 E clicando nos três pontinhos "**...**" à direita na listagem dos dispositivos, aparecem as opções de consulta e configurações do dispositivo, como ilustrado na imagem abaixo:
 
