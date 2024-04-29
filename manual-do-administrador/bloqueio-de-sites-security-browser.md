@@ -10,7 +10,7 @@ Assim, é importante destacar que a instalação e configuração do aplicativo 
 
 O processo de instalação do browser é simples e transparente para o usuário final. Entretanto, é importante orientar o usuário para que utilize este navegador web como padrão. Desta forma, será possível realizar corretamente os bloqueios e o monitoramento de sites visitados.
 
-Para realizar a instalação do aplicativo, acesse o menu "[**Gerenciamento de Aplicativo**](broken-reference)[s](broken-reference)" e a opção "[**Google Play Gerenciada**](broken-reference)**"**. Na tela da Google Play Gerenciada realize os seguintes passos:
+Para realizar a instalação do aplicativo, acesse o menu "**Gerenciamento de Aplicativo**s" e a opção "**Google Play Gerenciada"**. Na tela da Google Play Gerenciada realize os seguintes passos:
 
 1. Utilize o campo de pesquisa para buscar "**Security Browser**".
 2. Selecione o aplicativo "**Security Browser**".
@@ -29,7 +29,7 @@ Para realizar a instalação do aplicativo, acesse o menu "[**Gerenciamento de A
 
 ![](<../.gitbook/assets/3 (2) (1).png>)
 
-6. Acesse a tela "[**Gerenciar Políticas**](broken-reference)" no menu "[**Configurações**](broken-reference)".
+6. Acesse a tela "**Gerenciar Políticas**" no menu "**Configurações**".
 7. Clique no botão "**Nova Política**", para criar uma política para incluir o Security Browser.
 8. Ou edite uma política existente caso já tenha uma política criada. Para isso acesse os "..." no final da linha da política e escolha "**Editar Política**".
 

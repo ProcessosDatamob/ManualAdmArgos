@@ -158,7 +158,7 @@ O mapa exibe a última localização dos dispositivos. Para que a localização 
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-Leia a seção “[**Gerenciar Políticas**](broken-reference)” deste manual para saber como ativar o "**Modo de Localização**" dos dispositivos.
+Leia a seção “**Gerenciar Políticas**” deste manual para saber como ativar o "**Modo de Localização**" dos dispositivos.
 
 A localização dos dispositivos é exibida com um marcador no mapa, que pode estar na cor verde ou vermelha, dependendo do status do dispositivo (verde = enviando dados e vermelho = sem envio de dados). Para visualizar as informações da localização, clique no marcador.
 

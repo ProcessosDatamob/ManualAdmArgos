@@ -131,7 +131,7 @@ A opção Adicionar aplicativos terá comportamentos diferentes quando o Modo Qu
 {% hint style="warning" %}
 **IMPORTANTE**
 
-Os aplicativos precisam ser primeiramente adicionados usando a [**Google Play Gerenciada**](broken-reference).&#x20;
+Os aplicativos precisam ser primeiramente adicionados usando a **Google Play Gerenciada**.&#x20;
 {% endhint %}
 
 * **Manual**
