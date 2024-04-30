@@ -8,7 +8,7 @@ Para visualizar e gerar esse relatório, clique no menu “**Gerenciamento de Ap
 
 O sistema exibirá uma lista com todos os aplicativos instalados nos dispositivos da empresa. A tela de exibição dos aplicativos gerenciados é apresentada a seguir.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 A tela possui elementos padrão que são semelhantes a outras telas do sistema. Os itens seguintes apresentam as opções de gerenciamento desta tela e estão enumerados na figura anterior:
 

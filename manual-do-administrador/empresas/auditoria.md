@@ -8,7 +8,7 @@ Para saber como utilizar esta tela siga os passos descritos nesta sessão:
 
 1. Clique no menu “**Empresa**” e selecione o submenu “**Auditoria**”.
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Selecione o intervalo de datas que deseja consultar as informações.
 3. Utilizar o campo “Usuários” caso queira consultar informações de um usuário específico.
