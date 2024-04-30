@@ -67,6 +67,14 @@ Após o passo 2 a tela a seguir será exibida. A lista de permissões, que podem
 
 As permissões podem ser configuradas como: Solicitar ao usuário, Ativada ou Negada.
 
+{% hint style="info" %}
+<mark style="color:red;">**Observação**</mark>
+
+<mark style="color:red;">Se a opção “Permissões" aparecer desabilitada no sistema, é para evitar que o usuário acesse configurações que não são relevantes para sua função. Visando garantir que o usuário não se confunda ou tente ajustar configurações que não estão dentro de suas atribuições ou necessidades específicas dentro do sistema.</mark>
+
+![](<../../../.gitbook/assets/image (112).png>)
+{% endhint %}
+
 ### **Configurações Avançadas**
 
 Para acessar as configurações avançadas de um aplicativo é necessário estar na tela "**Editar Política**" com a guia "**Aplicativos**" selecionada. Siga os seguintes passos:
