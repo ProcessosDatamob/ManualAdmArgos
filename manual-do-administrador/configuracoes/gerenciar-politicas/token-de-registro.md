@@ -16,7 +16,7 @@ Os itens disponíveis nesta tela são descritos abaixo:&#x20;
 
 _<mark style="color:red;background-color:orange;">**PRECISA CONSTAR ESSAS INFORMAÇÕES NO MANUAL??**</mark>_
 
-<mark style="color:red;">Após a seleção da rede Wi-Fi e a inclusão das configurações no QRCode, o sistema atualizará a imagem do QRCode com a nova configuração e também atualizará a configuração do Zero Touch. Ao realizar o registro utilizando o QRCode, o dispositivo será conectado automaticamente à rede configurada.</mark>
+<mark style="color:red;">Ao realizar o registro utilizando o QRCode, o dispositivo será conectado automaticamente à rede configurada.</mark>
 
 4. A opção “Habilitar Aplicativos de Sistema" permite habilitar todos os aplicativos de sistema nativos do dispositivo.  Quando esta opção é ativada, o sistema atualizará a imagem do QRCode incluindo a informação para habilitar os aplicativos de sistema.
 5. <mark style="color:red;">Ao ativar o campo "Pular Criptografia", será incluída a seguinte informação no QRCode: "</mark>_<mark style="color:red;">android.app.extra.PROVISIONING\_SKIP\_ENCRYPTION</mark>_<mark style="color:red;">". O sistema também atualizará a imagem do QRCode com a nova configuração e atualizará a configuração do Zero Touch. Após realizar o enroll com o QRCode, o dispositivo ignorará a criptografia do sistema.</mark>
