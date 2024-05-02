@@ -4,6 +4,10 @@ Esta tela do sistema tem como objetivo, possibilitar ao usuário visualizar e ge
 
 Para visualizar e gerar esse relatório, clique no menu “**Gerenciamento de Aplicativos**” e na opção "**Aplicativos Gerenciados**".
 
+<mark style="color:red;">Nova imagem</mark>
+
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="213"><figcaption></figcaption></figure>
+
 ![](<../../.gitbook/assets/0 (12).png>)
 
 O sistema exibirá uma lista com todos os aplicativos instalados nos dispositivos da empresa. A tela de exibição dos aplicativos gerenciados é apresentada a seguir.
