@@ -154,7 +154,7 @@ Para realizar a análise individual dos usuários de dispositivos, clique em "**
 
 O mapa exibe a última localização dos dispositivos. Para que a localização seja exibida e atualizada, o dispositivo deve estar conectado à internet, deve haver sinal de GPS e a configuração de "**Modo de Localização**" deve estar "**Ativa**" em Localização na política aplicada ao dispositivo.
 
-<mark style="color:red;">Caso sistema não carregar as localizações no mapa, clique no botão "Exibir localizações”,  e carregará as informações das localizações no mapa.</mark>
+<mark style="color:blue;">Caso o sistema não carregar as localizações no mapa, clique no botão "Exibir localizações”,  então elas serão exibidas.</mark>
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
