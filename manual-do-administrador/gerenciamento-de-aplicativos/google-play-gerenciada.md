@@ -10,7 +10,7 @@ Depois de entrar no Portal de Administração, uma das primeiras etapas é defin
 
 Para acessar a Google Play Gerenciada, acesse o menu de "**Gerenciamento de Aplicativos**" e a opção "**Google Play Gerenciada**".
 
-<mark style="color:red;">Nova imagem</mark>
+<mark style="color:blue;">Nova imagem</mark>
 
 <figure><img src="../../.gitbook/assets/image (113).png" alt="" width="213"><figcaption></figcaption></figure>
 
