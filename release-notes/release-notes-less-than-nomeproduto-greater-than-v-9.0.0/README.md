@@ -2,10 +2,10 @@
 
 ### Novidades da Versão
 
-1. Instalação Remota de Aplicativos
-2. Configurar Permissões Opcionais do Companion
-3. Informar Não Conformidade de Permissões
-4. Ocultar Permissões do Companion
-5. Remoção de Aplicativos Gerenciados
-6. Novas Configurações no QRCode
-7. Remoção da Localização Automática no Dashboard
+1. [Instalação Remota de Aplicativos](instalacao-remota-de-apk.md)
+2. [Configurar Permissões Opcionais do Companion](configuracao-de-permissoes-opcionais-do-companion.md)
+3. [Informar Não Conformidade de Permissões](informacao-de-nao-conformidade-de-permissoes.md)
+4. [Ocultar Permissões do Companion](ocultando-permissoes-do-companion.md)
+5. [Remoção de Aplicativos Gerenciados](remocao-de-aplicativos-gerenciados.md)
+6. [Novas Configurações no QRCode](novas-configuracoes-no-qrcode.md)
+7. [Remoção da Localização Automática no Dashboard](desativando-localizacao-automatica-no-dashboard.md)
