@@ -18,7 +18,7 @@ Para iniciar a utilização do Zero Touch siga os seguintes passos:
 2. Aguardar pela criação da sua conta Zero-Touch pela Operadora
 3. Uma vez criada a conta Zero-Touch, acesse o **\<NomeProduto>**, menu “**Zero Touch**” e faça a vinculação da conta com o **\<NomeProduto>** seguindo o processo após selecionar o botão “**Próxima**”.
 
-![](<../.gitbook/assets/0 (3).png>)
+![](<../.gitbook/assets/0 (4).png>)
 
 4. Inserir usuário e senha e confirmar
 
@@ -34,7 +34,7 @@ Para configurar siga os seguintes passos:
 
 2. Selecione o ícone “+” à direita da tela para criação de uma nova configuração
 
-![](<../.gitbook/assets/1 (3).png>)
+![](<../.gitbook/assets/1 (4).png>)
 
 É necessário preencher os seguintes campos que serão de identificação para o usuário do dispositivo.
 
@@ -45,7 +45,7 @@ Para configurar siga os seguintes passos:
 * “Endereço de e-mail do suporte”: Informe o e-mail de suporte da sua empresa;
 * “Número de telefone do suporte”: Informe o telefone de suporte da sua empresa.
 
-![](<../.gitbook/assets/2 (1) (1).png>)
+![](<../.gitbook/assets/2 (2).png>)
 
 3.  No **\<NomeProduto>**, defina qual a política será aplicada ao Zero-Touch, podendo ser uma nova política ou já existente para configurar manualmente a política na configuração Zero-Touch seguindo os passos abaixo:
 

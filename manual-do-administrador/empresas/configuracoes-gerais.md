@@ -6,7 +6,7 @@ Para saber como configurar a empresa siga os passos descritos nesta sessão:
 
 1. Clique no menu “**Empresa**” e selecione o submenu “**Configurações Gerais**”.
 
-![](<../../.gitbook/assets/0 (9).png>)
+![](<../../.gitbook/assets/0 (18).png>)
 
 2. Defina as configurações desejadas conforme as opções da tela de Configurações Gerais:&#x20;
 

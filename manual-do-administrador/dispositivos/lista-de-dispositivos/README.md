@@ -4,7 +4,7 @@ Para gerenciar os dispositivos ativos da empresa, siga os passos descritos abaix
 
 1. Clique no menu “**Dispositivos**” opção "**Lista de Dispositivos**" para acessar a tela
 
-<figure><img src="../../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (99).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2024-03-01 114335.png" alt=""><figcaption></figcaption></figure>
 
@@ -24,18 +24,18 @@ Para gerenciar os dispositivos ativos da empresa, siga os passos descritos abaix
 
 Ao clicar na opção “Ações em lote" o sistema exibirá uma tela contendo alguns campos para preenchimento, conforme pode ser visto na tela abaixo.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (81).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
 * Empresa: clique no campo empresa e no nome da empresa para enviar um camando para todos os dispositivos da empresa (ao selecionar a empresa, os campos de grupo e usuário ficaram desabilitado)
 * Grupos: clique em grupo e escolha o grupo desejado
 * Usuário de dispositivos: clique em usuário e escolha o usuário desejado.&#x20;
 * Comandos: clique em comando e escolha o comando desejado (Desativar dispositivo, Ativar dispositivo, Desligar tela, Reiniciar dispositivo ou Remover dispositivo (Wipe))
 
-<figure><img src="../../../.gitbook/assets/image (82).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
 
 Após definir os dados da tela clique em "Enviar" para enviar o comando.  Antes de executar o envio, o sistema abrirá uma caixa de diálogo com os botões "Confirmar" e "Cancelar".&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
 
 ### **Informações do Dispositivo**
 
@@ -49,7 +49,7 @@ As informações do dispositivo exibidas na lista são:
 
 Clicando no sinal ">" ao lado do usuário, o sistema exibe mais informações conforme pode ser visto na imagem abaixo.
 
-<figure><img src="../../../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
 
 * **Política** - nome da política atribuída ao dispositivo;
 * **Modo de Gerenciamento** - modo de gerenciamento atribuído ao dispositivo;

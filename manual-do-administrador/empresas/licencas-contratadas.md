@@ -6,7 +6,7 @@ Para saber como visualizar as licenças, siga os passos descritos nesta seção:
 
 1. Clique no menu “**Empresa**” e selecione o submenu “**Licenças Contratadas**”. Ao acessar a tela, o sistema exibirá os dados de todas as licenças contratadas pela empresa.
 
-![](<../../.gitbook/assets/0 (13).png>)
+![](<../../.gitbook/assets/0 (22).png>)
 
 2. Caso queira visualizar os dados de uma licença específica, digite o número da licença no campo “Telefone”.
 3. Para ordenar as informações exibidas, clique no título da informação que desejar.
@@ -16,4 +16,4 @@ Para saber como visualizar as licenças, siga os passos descritos nesta seção:
 7. Para filtrar por status da licença utilize o filtro "Status".
 8. Para filtrar pelo tipo de plano na licença utilize o filtro "Plano".
 
-<figure><img src="../../.gitbook/assets/image (10) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (124).png" alt="" width="563"><figcaption></figcaption></figure>

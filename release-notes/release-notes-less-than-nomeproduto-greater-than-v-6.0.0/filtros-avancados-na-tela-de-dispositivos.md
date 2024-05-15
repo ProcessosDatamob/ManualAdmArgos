@@ -2,6 +2,6 @@
 
 Na tela de "Lista de Dispositivos" foi incluída a seção "Filtros Avançados". Agora é possível utilizar esta opção para filtrar os dispositivos pelo "Modo de Gerenciamento" da política provisionada e por um período em que os dispositivos foram registrados.
 
-<figure><img src="../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial** ](./)

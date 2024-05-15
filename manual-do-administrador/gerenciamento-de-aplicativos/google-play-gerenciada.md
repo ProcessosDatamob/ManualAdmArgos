@@ -12,11 +12,11 @@ Para acessar a Google Play Gerenciada, acesse o menu de "**Gerenciamento de Apli
 
 <mark style="color:blue;">Nova imagem</mark>
 
-<figure><img src="../../.gitbook/assets/image (113).png" alt="" width="213"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (182).png" alt="" width="213"><figcaption></figcaption></figure>
 
 A imagem a seguir mostra a tela da Google Play Gerenciada. Observe a tela e os destaques numerados:
 
-![](<../../.gitbook/assets/6 (3).png>)
+![](<../../.gitbook/assets/6 (4).png>)
 
 * **Botão Pesquisar** - botão usado para pesquisar por um aplicativo;
 * **Pesquisar na Play Store -** permite pesquisar por aplicativos públicos;
@@ -34,11 +34,11 @@ Para escolher um aplicativo público, acesse o menu da "**Google Play Gerenciada
 1. Botão "**Selecionar**" para selecionar um aplicativo.
 2. Seta para voltar a tela de aplicativos da Google Play.
 
-![](<../../.gitbook/assets/7 (4).png>)
+![](<../../.gitbook/assets/7 (5).png>)
 
 Ao selecionar um aplicativo, o sistema solicitará a confirmação antes da inclusão na lista de aplicativos. Clique em "Confirmar" para incluir o aplicativo ou escolha "Cancelar" para não realizar a inclusão.
 
-![](<../../.gitbook/assets/8 (4).png>)
+![](<../../.gitbook/assets/8 (5).png>)
 
 Para ver a lista dos aplicativos incluídos, volte na tela de **"Aplicativos Gerenciados"**. Para mais configurações sobre políticas de aplicativos, consulte a seção **Gerenciar Políticas.**
 
@@ -49,7 +49,7 @@ Para fazer upload de aplicativos próprios da empresa, siga os seguintes passos:
 1. Acesse o ícone de "**Aplicativos Particulares**";
 2. Clique no mais "+” que aparece na parte inferior direita da tela;
 
-![](<../../.gitbook/assets/9 (3).png>)
+![](<../../.gitbook/assets/9 (4).png>)
 
 3. Especifique o nome do seu aplicativo no campo Título e carregue seu arquivo APK.
 
@@ -70,7 +70,7 @@ Para criar um aplicativo da web, siga os seguintes passos na figura a seguir:
 1. Acesse o menu "**Apps da Web**";
 2. Clique no botão de adição no canto inferior direito da tela;
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
 3. Especifique um título que será exibido no dispositivo, na Play Store gerenciada e na lista e aplicativos da empresa
 4. Especifique a URL onde os aplicativos da web são abertos
@@ -88,7 +88,7 @@ Clicando sobre o aplicativo a tela para editar o aplicativo web aparece, como po
 9. Editar as definições e ícone do aplicativo.
 10. Excluir o aplicativo da Google Play Gerenciada.
 
-<figure><img src="../../.gitbook/assets/image (7) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (66).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **IMPORTANTE**

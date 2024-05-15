@@ -6,6 +6,6 @@ Após o cadastro, o usuário poderá realizar o login normalmente no Portal.
 
 Com esse novo fluxo de criação de senha, o campo de senha não será exibido na tela de cadastro do usuário, mas será mantido na edição de um cadastro existente.
 
-<figure><img src="../../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial** ](./)

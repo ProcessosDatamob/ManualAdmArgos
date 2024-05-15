@@ -26,7 +26,7 @@ Para saber como enviar mensagens e comandos, siga os passos descritos nesta seç
 1. Clique no menu “**Mensagens**” para acessar a tela.
 2. Para enviar mensagens e comandos, clique no botão "**Nova Mensagem**".
 
-<figure><img src="../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 3. Para enviar mensagens e comandos para todos os dispositivos da empresa, selecione a empresa.
 4. Para enviar mensagens e comandos para os dispositivos de um ou mais grupos, selecione os grupos.
@@ -44,7 +44,7 @@ Caso um dispositivo seja informado em dois campos (ex.: grupo e usuário), ele r
 9. Clique no botão “Enviar”, para colocar a mensagem ou comando na fila de envio.
 10. Ao colocar a mensagem ou comando na fila de envio, o sistema exibirá o comando ou a mensagem no relatório de envio.
 
-<figure><img src="../../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
 
 11. Caso queira visualizar uma mensagem ou comando específico, digite o texto no campo “Pesquisar”;
 12. Para ordenar as informações exibidas, clique no título da coluna “data”;
@@ -52,4 +52,4 @@ Caso um dispositivo seja informado em dois campos (ex.: grupo e usuário), ele r
 14. Para exportar o relatório dos aplicativos, clique em “Excel”;
 15. Para copiar as informações do relatório dos aplicativos, clique em “Copiar”;
 
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>

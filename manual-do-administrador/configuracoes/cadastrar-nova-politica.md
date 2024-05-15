@@ -6,7 +6,7 @@ Esta tela do sistema tem o objetivo de realizar o cadastro de novas políticas. 
 
 A tela inicial do cadastro de políticas é apresentada na sequência.
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
 
 Para cadastrar uma nova política siga os seguintes passos:
 

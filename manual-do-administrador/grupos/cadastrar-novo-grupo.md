@@ -4,13 +4,13 @@ Para criar um grupo, siga os passos descritos nesta seção
 
 1. Clique no menu “**Grupos**” e selecione o submenu “**Cadastrar novo grupo**”.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 2. Ao acessar a tela, o sistema não permitirá alterar a informação do campo “**Empresa**” pois é essencial para o funcionamento correto das regras do sistema.
 3. Preencha o nome do grupo.
 4. Clique em “**Cadastrar**” para concluir o cadastro do novo grupo.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 Usuários ou Dispositivos que não estão vinculados a nenhum grupo são listados e podem ser marcados para já estarem no novo grupo que está sendo cadastrado. Também é possível pesquisar usuários para vincular ao novo grupo.
 

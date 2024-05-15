@@ -6,7 +6,7 @@ Para visualizar e gerar o relatório, siga os passos descritos nesta seção.
 
 1. Clique no menu "**Localização**" e selecione o submenu “**Histórico de localização**”.
 
-![](<../../.gitbook/assets/0 (5).png>)
+![](<../../.gitbook/assets/0 (6).png>)
 
 Selecione as informações do relatório que deseja filtrar.
 
@@ -25,4 +25,4 @@ O sistema exibirá todas as localizações dos dispositivos de acordo com filtro
 7. Para visualizar uma quantidade maior de localizações por página, selecione a quantidade no final da página, conforme a figura abaixo.
 8. Utilize o campo de navegação para visualizar as localizações das outras páginas do relatório.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>

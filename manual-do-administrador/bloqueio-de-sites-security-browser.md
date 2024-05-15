@@ -15,35 +15,35 @@ Para realizar a instalação do aplicativo, acesse o menu "**Gerenciamento de Ap
 1. Utilize o campo de pesquisa para buscar "**Security Browser**".
 2. Selecione o aplicativo "**Security Browser**".
 
-![](<../.gitbook/assets/0 (6) (1).png>)
+![](<../.gitbook/assets/0 (15).png>)
 
 3. Abrirá a tela com mais informações do aplicativo. Clique no botão "**Selecionar**", conforme em destaque na próxima imagem.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" width="449"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (40).png" alt="" width="449"><figcaption></figcaption></figure>
 
 4. Clique no botão confirmar para efetivar a inclusão.
 
-![](<../.gitbook/assets/2 (4) (1).png>)
+![](<../.gitbook/assets/2 (10).png>)
 
 5. O aplicativo **Security Browser** aparecerá na lista de "**Aplicativos Gerenciados**", conforme pode ser visualizado na tela a seguir.
 
-![](<../.gitbook/assets/3 (2) (1).png>)
+![](<../.gitbook/assets/3 (6).png>)
 
 6. Acesse a tela "**Gerenciar Políticas**" no menu "**Configurações**".
 7. Clique no botão "**Nova Política**", para criar uma política para incluir o Security Browser.
 8. Ou edite uma política existente caso já tenha uma política criada. Para isso acesse os "..." no final da linha da política e escolha "**Editar Política**".
 
-![](<../.gitbook/assets/4 (2) (1).png>)
+![](<../.gitbook/assets/4 (4).png>)
 
 9. Na tela "**Editar Política**" selecione a guia "**Aplicativos**".
 10. Clique no botão "**Adicionar Aplicativos**''.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (41).png" alt="" width="563"><figcaption></figcaption></figure>
 
 11. Marque o checkbox ao final da linha onde está o aplicativo **Security Browser**
 12. Clique no botão "**Adicionar selecionados**".
 
-![](<../.gitbook/assets/6 (1) (1).png>)
+![](<../.gitbook/assets/6 (2).png>)
 
 Após a inclusão do aplicativo na política, as configurações de bloqueios podem ser definidas. A próxima subseção mostra como realizar o bloqueio de sites.
 
@@ -55,17 +55,17 @@ O bloqueio de sites possibilita que o dispositivo seja utilizado para navegaçã
 2. Escolha o "**Tipo de instalação**" do Security Browser como "**Instalação Forçada**" ou "**Pré-instalado**".
 3. Clique em "**Configurações Gerenciadas**" para abrir a tela de configurações gerenciadas do Security Browser.
 
-![](<../.gitbook/assets/7 (2).png>)
+![](<../.gitbook/assets/7 (3).png>)
 
 4. Se desejar bloquear a navegação em todos os sites ative o seletor destacado na figura.
 
-![](<../.gitbook/assets/8 (2).png>)
+![](<../.gitbook/assets/8 (3).png>)
 
 5. Digite o site ou palavra-chave que deseja bloquear e clique no botão "**Adicionar**". As palavras ou sites adicionados vão sendo mostrados logo abaixo na tela.
 6. Use o seletor para bloquear ou desbloquear.
 7. Use a lixeira para excluir o site ou palavra-chave.
 
-![](<../.gitbook/assets/9 (1) (1).png>)
+![](<../.gitbook/assets/9 (2).png>)
 
 8. Para realizar o bloqueio por categoria, clique sobre os seletores para ativar ou desativar o bloqueio da categoria desejada. Na tela abaixo estão bloqueadas as categorias: conteúdo adulto, conteúdo alcoólico, tabaco e compras.
 

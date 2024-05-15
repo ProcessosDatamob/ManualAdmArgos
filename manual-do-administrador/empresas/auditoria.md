@@ -8,7 +8,7 @@ Para saber como utilizar esta tela siga os passos descritos nesta sessão:
 
 1. Clique no menu “**Empresa**” e selecione o submenu “**Auditoria**”.
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
 2. Selecione o intervalo de datas que deseja consultar as informações.
 3. Utilizar o campo “Usuários” caso queira consultar informações de um usuário específico.
@@ -24,7 +24,7 @@ No relatório exportado em Excel tem uma coluna "**Alterações**" onde é poss�
 
 7. Para copiar as informações, basta clicar no botão “Copiar”.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTA**

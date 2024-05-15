@@ -19,7 +19,7 @@ O sistema exibirá uma lista com os aplicativos instalados nos dispositivos da e
 7. Ordene a listagem de dispositivos pelas colunas nas setas "↑↓".
 8. Ao clicar nos três pontinhos "...",  e clicar em  “Visualizar instalação", é possível acessar a tela “Detalhes de Envio do Aplicativo".
 
-<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
 
 #### Instalar Aplicativo
 
@@ -35,4 +35,4 @@ Para instalar um aplicativo remotamente siga os passos a seguir:
 Ao confirmar o envio, o sistema exibirá uma mensagem de sucesso, enviará um push de instalação do app para todos os dispositivos da política e usuários selecionados e adicionará o pacote do app na política de todos os dispositivos selecionados como "Disponível".
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (176).png" alt=""><figcaption></figcaption></figure>

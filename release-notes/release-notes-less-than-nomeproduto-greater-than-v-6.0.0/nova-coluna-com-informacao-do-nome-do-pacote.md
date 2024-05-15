@@ -4,6 +4,6 @@ Na tela de "Edição da Política" foi incluída uma coluna com o "Nome do Pacot
 
 Dessa forma ficará mais fácil de identificar o aplicativo que será exibido ou instalado no dispositivo.
 
-<figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial** ](./)
