@@ -15,6 +15,12 @@ Alguns dos comandos especiais são:
 
 Ao receber um comando, o aplicativo não exibirá o texto do comando enviado.
 
+{% hint style="info" %}
+**NOTA**
+
+Para reiniciar os serviços no caso de perda de comunicação do aplicativo, clique em “Nova Mensagem”, envie a mensagem “start\_services" para os dispositivos afetados, quando o aplicativo receber o push com o comando, ele irá inicializar os processos do aplicativo, ativar os alarmes do aplicativo e enviar as informações pertinentes do aplicativo, incluindo Device Info, Consumos, Site e SMS.
+{% endhint %}
+
 Para saber como enviar mensagens e comandos, siga os passos descritos nesta seção.
 
 1. Clique no menu “**Mensagens**” para acessar a tela.

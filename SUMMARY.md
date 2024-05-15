@@ -71,6 +71,7 @@
   * [Configuração de Permissões Opcionais do Companion](release-notes/release-notes-less-than-nomeproduto-greater-than-v-9.0.0/configuracao-de-permissoes-opcionais-do-companion.md)
   * [Informação de Não Conformidade de Permissões](release-notes/release-notes-less-than-nomeproduto-greater-than-v-9.0.0/informacao-de-nao-conformidade-de-permissoes.md)
   * [Ocultando Permissões do Companion](release-notes/release-notes-less-than-nomeproduto-greater-than-v-9.0.0/ocultando-permissoes-do-companion.md)
+  * [Start Service no Companion](release-notes/release-notes-less-than-nomeproduto-greater-than-v-9.0.0/start-service-no-companion.md)
   * [Remoção de Aplicativos Gerenciados](release-notes/release-notes-less-than-nomeproduto-greater-than-v-9.0.0/remocao-de-aplicativos-gerenciados.md)
   * [Novas Configurações no QRCode](release-notes/release-notes-less-than-nomeproduto-greater-than-v-9.0.0/novas-configuracoes-no-qrcode.md)
   * [Desativando Localização Automática no Dashboard](release-notes/release-notes-less-than-nomeproduto-greater-than-v-9.0.0/desativando-localizacao-automatica-no-dashboard.md)
