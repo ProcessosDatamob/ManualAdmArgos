@@ -4,8 +4,6 @@ Esta tela do sistema tem como objetivo, possibilitar ao usuário visualizar e ge
 
 Para visualizar e gerar esse relatório, clique no menu “**Gerenciamento de Aplicativos**” e na opção "**Aplicativos Gerenciados**".
 
-<mark style="color:blue;">Nova imagem</mark>
-
 <figure><img src="../../.gitbook/assets/image.png" alt="" width="213"><figcaption></figcaption></figure>
 
 ![](<../../.gitbook/assets/0 (12).png>)
@@ -20,7 +18,7 @@ A tela possui elementos padrão que são semelhantes a outras telas do sistema. 
 2. A listagem dos aplicativos é exibida na tela, sendo cada linha referente a um dispositivo.
 3. Para ordenar as informações exibidas, clique nas setas para cima e para baixo que ficam ao lado de cada título (Nome do Aplicativo, Origem e Nome do Pacote).
 4. Clicando em "..." o sistema exibe a opção de comando para o aplicativo.
-5. O comando "Remover Aplicativo" elimina o aplicativo da lista. <mark style="color:blue;">Porém não é possível remover o aplicativo se existirem políticas vinculadas a ele, primeiro remova o vínculo das políticas para poder remover o aplicativo.</mark>
+5. O comando "Remover Aplicativo" elimina o aplicativo da lista. Porém não é possível remover o aplicativo se existirem políticas vinculadas a ele, primeiro remova o vínculo das políticas para poder remover o aplicativo.
 6. Para gerar o relatório dos aplicativos, clique na opção “Excel”. O sistema pode gerar um relatório somente com as informações que estão na primeira página ou um relatório completo. Clique na opção desejada para que o sistema comece o processamento.
 
 Caso seja o relatório de uma página, ele é gerado e baixado automaticamente. Caso seja o completo, pode demorar alguns minutos para ser gerado é disponibilizado para download nas notificações do sistema, conforme pode ser visualizado a seguir.

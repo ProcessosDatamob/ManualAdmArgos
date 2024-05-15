@@ -1,38 +1,38 @@
 # Instalação Remota de Aplicativos
 
-<mark style="color:blue;">Esta tela do sistema tem como objetivo, possibilitar ao usuário realizar a instalação de aplicativos remotamente sem o aplicativo estar na Play Store.</mark>
+Esta tela do sistema tem como objetivo, possibilitar ao usuário realizar a instalação de aplicativos remotamente sem o aplicativo estar na Play Store.
 
-<mark style="color:blue;">Para gerenciar e enviar a instalação remota de aplicativos para os dispositivos, clique no menu “</mark><mark style="color:blue;">**Gerenciamento de Aplicativos**</mark><mark style="color:blue;">” e na opção "</mark><mark style="color:blue;">**Instalação Remota de Aplicativos**</mark><mark style="color:blue;">".</mark>
+Para gerenciar e enviar a instalação remota de aplicativos para os dispositivos, clique no menu “**Gerenciamento de Aplicativos**” e na opção "**Instalação Remota de Aplicativos**".
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-04-29 140640 (1).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">O sistema exibirá uma lista com os aplicativos instalados nos dispositivos da empresa. A tela de exibição dos aplicativos é apresentada a seguir.</mark>
+O sistema exibirá uma lista com os aplicativos instalados nos dispositivos da empresa. A tela de exibição dos aplicativos é apresentada a seguir.
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-04-29 141809.png" alt=""><figcaption></figcaption></figure>
 
-1. <mark style="color:blue;">O sistema exibirá um filtro de período por data.</mark>
-2. <mark style="color:blue;">No campo de pesquisa é possível buscar por uma informação específica.</mark>
-3. <mark style="color:blue;">Para exportar o relatório dos dispositivos, clique no botão “Excel”.</mark>
-4. <mark style="color:blue;">Para copiar as informações dos dispositivos, clique no botão “Copiar”.</mark>
-5. <mark style="color:blue;">No campo "Nova Instalação" é possível enviar a instalação remota de um aplicativo para os dispositivos. Para mais detalhes acesse "</mark>[<mark style="color:blue;">Instalar Aplicativo</mark>](instalacao-remota-de-aplicativos.md#instalar-aplicativo)<mark style="color:blue;">" nesta mesma página.</mark>
-6. <mark style="color:blue;">A lista de informações dos aplicativos exibe os seguintes detalhes:  Data do Envio, Nome do App, Nome do pacote e URL para download.</mark>
-7. <mark style="color:blue;">Ordene a listagem de dispositivos pelas colunas nas setas "↑↓".</mark>
-8. <mark style="color:blue;">Ao clicar nos três pontinhos "...",  e clicar em  “Visualizar instalação", é possível acessar a tela “Detalhes de Envio do Aplicativo".</mark>
+1. O sistema exibirá um filtro de período por data.
+2. No campo de pesquisa é possível buscar por uma informação específica.
+3. Para exportar o relatório dos dispositivos, clique no botão “Excel”.
+4. Para copiar as informações dos dispositivos, clique no botão “Copiar”.
+5. No campo "Nova Instalação" é possível enviar a instalação remota de um aplicativo para os dispositivos. Para mais detalhes acesse "[Instalar Aplicativo](instalacao-remota-de-aplicativos.md#instalar-aplicativo)" nesta mesma página.
+6. A lista de informações dos aplicativos exibe os seguintes detalhes:  Data do Envio, Nome do App, Nome do pacote e URL para download.
+7. Ordene a listagem de dispositivos pelas colunas nas setas "↑↓".
+8. Ao clicar nos três pontinhos "...",  e clicar em  “Visualizar instalação", é possível acessar a tela “Detalhes de Envio do Aplicativo".
 
 <figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
-#### <mark style="color:blue;">Instalar Aplicativo</mark>
+#### Instalar Aplicativo
 
-<mark style="color:blue;">Para instalar um aplicativo remotamente siga os passos a seguir:</mark>
+Para instalar um aplicativo remotamente siga os passos a seguir:
 
-1. <mark style="color:blue;">Selecione a política e usuários de dispositivos vinculados a políticas dos seguintes modos de gerenciamento: Android, Android - Block SIM e Android - Work Profile.</mark>
-2. <mark style="color:blue;">Preencha os campos obrigatórios: Nome, Nome do pacote e URL para download.</mark>
-3. <mark style="color:blue;">Clique em "Enviar".</mark>&#x20;
+1. Selecione a política e usuários de dispositivos vinculados a políticas dos seguintes modos de gerenciamento: Android, Android - Block SIM e Android - Work Profile.
+2. Preencha os campos obrigatórios: Nome, Nome do pacote e URL para download.
+3. Clique em "Enviar".&#x20;
 
 {% hint style="info" %}
-<mark style="color:blue;">**Observação**</mark>
+**Observação**
 
-<mark style="color:blue;">Ao confirmar o envio, o sistema exibirá uma mensagem de sucesso, enviará um push de instalação do app para todos os dispositivos da política e usuários selecionados e adicionará o pacote do app na política de todos os dispositivos selecionados como "Disponível".</mark>
+Ao confirmar o envio, o sistema exibirá uma mensagem de sucesso, enviará um push de instalação do app para todos os dispositivos da política e usuários selecionados e adicionará o pacote do app na política de todos os dispositivos selecionados como "Disponível".
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>

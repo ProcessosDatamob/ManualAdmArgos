@@ -34,23 +34,23 @@ Para que o aplicativo seja apresentado no dispositivo com o tipo de instalação
 
 ### **Configurações Gerenciadas**
 
-<mark style="color:blue;">Para acessar as configurações gerenciadas de um aplicativo é necessário estar na tela "</mark><mark style="color:blue;">**Editar Política**</mark><mark style="color:blue;">" com a guia "</mark><mark style="color:blue;">**Aplicativos**</mark><mark style="color:blue;">" selecionada. Siga os seguintes passos:</mark>
+Para acessar as configurações gerenciadas de um aplicativo é necessário estar na tela "**Editar Política**" com a guia "**Aplicativos**" selecionada. Siga os seguintes passos:
 
-1. <mark style="color:blue;">Localize o aplicativo desejado e clique nos três pontinhos "...", localizados no final da linha e clique na opção "</mark><mark style="color:blue;">**Configurações Gerenciadas**</mark><mark style="color:blue;">".</mark>
+1. Localize o aplicativo desejado e clique nos três pontinhos "...", localizados no final da linha e clique na opção "**Configurações Gerenciadas**".
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2024-04-29 150335.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">A tela a seguir será exibida:</mark>
+A tela a seguir será exibida:
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2024-04-29 150749.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">Nesta tela é possível ver a identificação do aplicativo selecionado e a tela de configuração que foi escolhida ("Configurações Gerenciadas");</mark>
+Nesta tela é possível ver a identificação do aplicativo selecionado e a tela de configuração que foi escolhida ("Configurações Gerenciadas");
 
-2. <mark style="color:blue;">Clique no menu “Permissões Opcionais" para acessar a lista de configurações gerenciadas disponíveis para o aplicativo selecionado. Nesse menu é possível ativar e desativar cada uma das configurações.</mark>
+2. Clique no menu “Permissões Opcionais" para acessar a lista de configurações gerenciadas disponíveis para o aplicativo selecionado. Nesse menu é possível ativar e desativar cada uma das configurações.
 
 <figure><img src="../../../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
-3. <mark style="color:blue;">Ao clicar em "Salvar" o sistema</mark> <mark style="color:blue;">enviará as configurações selecionadas para os dispositivos.</mark>
+3. Ao clicar em "Salvar" o sistema enviará as configurações selecionadas para os dispositivos.
 
 ### **Permissões**
 
@@ -68,9 +68,9 @@ Após o passo 2 a tela a seguir será exibida. A lista de permissões, que podem
 As permissões podem ser configuradas como: Solicitar ao usuário, Ativada ou Negada.
 
 {% hint style="info" %}
-<mark style="color:blue;">**Observação**</mark>
+**Observação**
 
-<mark style="color:blue;">Se a opção “Permissões" aparecer desabilitada no sistema, é para evitar que o usuário acesse configurações que não são relevantes para sua função. Visando garantir que o usuário não se confunda ou tente ajustar configurações que não estão dentro de suas atribuições ou necessidades específicas dentro do sistema.</mark>
+Se a opção “Permissões" aparecer desabilitada no sistema, é para evitar que o usuário acesse configurações que não são relevantes para sua função. Visando garantir que o usuário não se confunda ou tente ajustar configurações que não estão dentro de suas atribuições ou necessidades específicas dentro do sistema.
 
 ![](<../../../.gitbook/assets/image (112).png>)
 {% endhint %}
