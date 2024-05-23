@@ -18,7 +18,12 @@ Ao selecionar a opção “**Aberta**” os aplicativos adicionados na política
 
 2. Use a caixa de pesquisa para localizar aplicativos dentro da lista exibida.
 3. Listagem de aplicativos incluídos.
-4. **Tipo de instalação -** Escolha o tipo de instalação de cada dispositivo. Os tipos de instalação são: disponível, pré-instalado, instalação forçada ou bloqueado.
+4. **Tipos de instalação -** escolha o tipo de instalação de cada dispositivo. Os tipos de instalação são:&#x20;
+
+* **Disponível -** o aplicativo fica disponível para instalação, o usuário tem a opção de instalá-lo conforme sua conveniência. Não é instalado automaticamente no dispositivo.
+* **Pré-instalado -** o aplicativo é instalado no dispositivo automaticamente. Quando o usuário for utilizar o dispositivo as ferramentas ou configurações necessárias já estarão instaladas.
+* **Instalação Forçada-** o aplicativo é instalado automaticamente no dispositivo sem a intervenção do usuário. O usuário não pode desinstalar o aplicativo, se o fizer, o sistema irá instalar novamente, garantindo que as ferramentas necessárias estejam sempre presentes e ativas.
+* **Bloqueado -** a instalação de certos aplicativos é explicitamente impedida. O usuário não poderá instalar ou acessar esses aplicativos ou configurações restritos no dispositivo.
 
 {% hint style="info" %}
 **NOTA**
