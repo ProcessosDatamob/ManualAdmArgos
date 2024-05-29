@@ -25,11 +25,11 @@ Para acessar o Portal de Administração, siga os passos descritos nesta seção
 2. Preencha os campos de “**E-mail**” e “**Senha**” com as credenciais de acesso, recebidas no E-mail de boas-vindas.
 3. Clique em “**Iniciar Seção**” para confirmar as informações e acessar o Portal.
 
-<figure><img src="../../.gitbook/assets/image (71).png" alt="" width="229"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (72).png" alt="" width="229"><figcaption></figcaption></figure>
 
 > Em seu primeiro acesso, após clicar em "**Iniciar Sessão**”, o usuário deverá confirmar os dados da empresa. A tela de confirmação dos dados da empresa aparecerá somente no primeiro acesso e é mostrada na figura a seguir.
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt="" width="266"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (73).png" alt="" width="266"><figcaption></figcaption></figure>
 
 4. Confirmar o Nome da Empresa e E-mail;
 5. Criar uma senha;
@@ -47,11 +47,11 @@ O E-mail de confirmação é uma mensagem automática e pode ser identificada em
 
 9. O token de confirmação deve ser inserido na tela para confirmar o cadastro da empresa. A tela de confirmação é mostrada a seguir:
 
-<figure><img src="../../.gitbook/assets/image (73).png" alt="" width="343"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (74).png" alt="" width="343"><figcaption></figcaption></figure>
 
 Caso não tenha recebido o token por e-mail, o usuário pode solicitar que seja enviado novamente clicando na opção “**Reenviar código**" que fica disponível logo acima do botão "**Confirmar**".
 
-<figure><img src="../../.gitbook/assets/image (74).png" alt="" width="542"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (75).png" alt="" width="542"><figcaption></figcaption></figure>
 
 Após esta confirmação, o sistema abrirá a tela da Google Play. Este é o passo final do primeiro acesso ao Portal. Nesta tela será realizada a configuração de uma conta Google Play para a empresa. Esta etapa é importante para que a empresa gerencie os aplicativos que estarão disponíveis em seus dispositivos. A tela é mostrada a seguir.
 
@@ -73,10 +73,10 @@ Caso não lembre a senha de acesso ao portal, realize os seguintes passos para r
 
 1. Clique em “Esqueceu a senha?” logo abaixo do campo Senha. O sistema exibirá a tela de recuperação de senha.
 
-<figure><img src="../../.gitbook/assets/image (76).png" alt="" width="230"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (77).png" alt="" width="230"><figcaption></figcaption></figure>
 
 2. Preencha o seu E-mail de usuário e confirme.
 
-<figure><img src="../../.gitbook/assets/image (77).png" alt="" width="230"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (78).png" alt="" width="230"><figcaption></figcaption></figure>
 
 Ao clicar em “**Confirmar**” o sistema enviará uma mensagem ao seu endereço de E-mail com instruções para troca de senha.

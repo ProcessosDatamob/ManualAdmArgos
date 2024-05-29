@@ -6,7 +6,7 @@ Para visualizar este relatório, siga os passos descritos nesta seção.
 
 1. Clique no menu “**Sites**” e selecione o submenu “**Relatório por URL / Palavra-Chave**”.
 
-<figure><img src="../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
 2. Digite uma URL ou Palavra-chave para gerar o relatório de sites específicos. Caso queira gerar o relatório de todos os sites, deixe o campo em branco;
 3. Clique no botão “Buscar” para gerar o relatório dos sites acessados;

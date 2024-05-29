@@ -10,7 +10,7 @@ Depois de entrar no Portal de Administração, uma das primeiras etapas é defin
 
 Para acessar a Google Play Gerenciada, acesse o menu de "**Gerenciamento de Aplicativos**" e a opção "**Google Play Gerenciada**".
 
-<figure><img src="../../.gitbook/assets/image (182).png" alt="" width="213"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (183).png" alt="" width="213"><figcaption></figcaption></figure>
 
 A imagem a seguir mostra a tela da Google Play Gerenciada. Observe a tela e os destaques numerados:
 
@@ -68,7 +68,7 @@ Para criar um aplicativo da web, siga os seguintes passos na figura a seguir:
 1. Acesse o menu "**Apps da Web**";
 2. Clique no botão de adição no canto inferior direito da tela;
 
-<figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
 3. Especifique um título que será exibido no dispositivo, na Play Store gerenciada e na lista e aplicativos da empresa
 4. Especifique a URL onde os aplicativos da web são abertos
@@ -86,7 +86,7 @@ Clicando sobre o aplicativo a tela para editar o aplicativo web aparece, como po
 9. Editar as definições e ícone do aplicativo.
 10. Excluir o aplicativo da Google Play Gerenciada.
 
-<figure><img src="../../.gitbook/assets/image (66).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (67).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **IMPORTANTE**

@@ -4,7 +4,7 @@ Ao acessar a opção "**Gerenciar Políticas**" abrirá a tela apresentada na se
 
 ![](<../../../.gitbook/assets/0 (20).png>)
 
-<figure><img src="../../../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
 
 A tela apresenta os elementos que são padrão em todas as telas de listagens do sistema, os quais são descritos abaixo:
 
@@ -12,7 +12,7 @@ A tela apresenta os elementos que são padrão em todas as telas de listagens do
 2. Listagem das políticas cadastradas no sistema.
 3. Mais ações de gerenciamento para uma política podem ser acessadas clicando sobre os "..." localizados no final da linha da política:
 
-<figure><img src="../../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (152).png" alt=""><figcaption></figcaption></figure>
 
 * **Editar Política -** abre a tela para gerenciar as configurações da política;
 * **Remover Política -** abre uma caixa de mensagem para confirmação da exclusão da política. Clicando no botão "**Remover**" a política será removida do sistema;

@@ -2,6 +2,6 @@
 
 Na tela de "Dispositivos > Lista de Dispositivos" agora será exibida a versão do aplicativo companion instalada no dispositivo. É possível visualizar esta informação acessando os detalhes ou a opção "Gerenciar" do dispositivo .
 
-<figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial** ](./)

@@ -53,7 +53,7 @@ Nesta tela é possível ver a identificação do aplicativo selecionado e a tela
 
 2. Clique no menu “Permissões Opcionais" para acessar a lista de configurações gerenciadas disponíveis para o aplicativo selecionado. Nesse menu é possível ativar e desativar cada uma das configurações.
 
-<figure><img src="../../../.gitbook/assets/image (178).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
 
 3. Ao clicar em "Salvar" o sistema enviará as configurações selecionadas para os dispositivos.
 
@@ -77,7 +77,7 @@ As permissões podem ser configuradas como: Solicitar ao usuário, Ativada ou Ne
 
 Se a opção “Permissões" aparecer desabilitada no sistema, é para evitar que o usuário acesse configurações que não são relevantes para sua função. Visando garantir que o usuário não se confunda ou tente ajustar configurações que não estão dentro de suas atribuições ou necessidades específicas dentro do sistema.
 
-![](<../../../.gitbook/assets/image (181).png>)
+![](<../../../.gitbook/assets/image (182).png>)
 {% endhint %}
 
 ### **Configurações Avançadas**
@@ -122,7 +122,7 @@ A opção Adicionar aplicativos terá comportamentos diferentes quando o Modo Qu
 * **Modo Quiosque Desativado:** Ao clicar no botão "**Adicionar Aplicativos**", caso seja uma política com **Modo Quiosque Desativado**, será exibida a listagem de aplicativos que foram  na adicionados usando a [**Google Play Gerenciada**](../../gerenciamento-de-aplicativos/google-play-gerenciada.md).&#x20;
 * **Modo Quiosque Ativado:** Caso a política que estiver sendo editada for uma política com o **Modo Quiosque** **Ativado**, ao clicar no botão **Adicionar aplicativos**, aparecerão 3 opções para adicionar os aplicativos.
 
-<figure><img src="../../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
 
 * **Sistema**
 
@@ -131,7 +131,7 @@ A opção Adicionar aplicativos terá comportamentos diferentes quando o Modo Qu
 3. Selecione um ou mais aplicativos clicando no checkbox
 4. Clique no botão "**Adicionar selecionados**"
 
-<figure><img src="../../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
 
 * **Playstore**&#x20;
 
@@ -139,7 +139,7 @@ A opção Adicionar aplicativos terá comportamentos diferentes quando o Modo Qu
 2. Selecione um ou mais aplicativos clicando no checkbox
 3. Clique no botão "**Adicionar selecionados**"
 
-<figure><img src="../../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **IMPORTANTE**
@@ -152,7 +152,7 @@ Os aplicativos precisam ser primeiramente adicionados usando a **Google Play Ger
 1. Clique na opção “**Manual**", e abrirá a tela “**Adicionar Aplicativos Manualmente**"
 2. Preencha os campos: Nome do App (opcional), Nome do Pacote e clicar em "**Adicionar**"
 
-<figure><img src="../../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **OBSERVAÇÃO**
@@ -167,7 +167,7 @@ Para definir restrições de funcionamento de aplicativos por dias e horários, 
 1. Ícones para acessar a opção "Restrições de Funcionamento";&#x20;
 2. Botão seletor para ativar restrições.
 
-A opção de "Restrições de Funcionamento" está disponível para todos os aplicativos, exceto: aplicativo do sistema \<nome\_produto>, Kiosk Launcher, Block Sim e Remote View.  Quando o aplicativo já possui restrição de funcionamento, o seu ícone de restrição de funcionamento mudará para ![](<../../../.gitbook/assets/image (141).png>).
+A opção de "Restrições de Funcionamento" está disponível para todos os aplicativos, exceto: aplicativo do sistema \<nome\_produto>, Kiosk Launcher, Block Sim e Remote View.  Quando o aplicativo já possui restrição de funcionamento, o seu ícone de restrição de funcionamento mudará para ![](<../../../.gitbook/assets/image (142).png>).
 
 <figure><img src="../../../.gitbook/assets/Captura de pantalla 2024-03-07 a la(s) 15.51.55.png" alt=""><figcaption></figcaption></figure>
 

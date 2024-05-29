@@ -7,7 +7,7 @@ Para saber como compartilhar documentos com os dispositivos, siga os passos desc
 1. Clique no menu “**Compartilhar Documentos**”, para acessar a tela.
 2. Clique no botão "**Compartilhar novo**" para compartilhar um documento. A tela compartilhar documentos é exibida a seguir:
 
-<figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
 
 ![](<../.gitbook/assets/1 (8).png>)
 
@@ -26,7 +26,7 @@ Caso um dispositivo seja informado em dois campos (ex.: grupo e usuário), este 
 8. Caso queira excluir da seleção a empresa, o grupo ou o usuário de dispositivo, clique no “x” ao lado do item selecionado.
 9. Clique no botão “Enviar”, para colocar o documento na fila de envio.
 
-<figure><img src="../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
 10. Ao colocar o documento na fila de envio, o sistema exibirá a URL no relatório de envio.
 11. Caso queira visualizar uma URL específica, digite a URL no campo “Pesquisar”.
@@ -37,4 +37,4 @@ Caso um dispositivo seja informado em dois campos (ex.: grupo e usuário), este 
 16. Ao receber o documento, o aplicativo baixa o mesmo e o coloca na lista de notificações recebidas. Ao clicar no ícone de aviso, podemos ver todas as notificações e documentos recebidos.
 17. Essas notificações de documentos podem ser eliminadas arrastando a notificação para a esquerda e confirmando a exclusão.
 
-<figure><img src="../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>

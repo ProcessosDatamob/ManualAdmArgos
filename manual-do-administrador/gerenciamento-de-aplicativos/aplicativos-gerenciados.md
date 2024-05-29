@@ -10,7 +10,7 @@ Para visualizar e gerar esse relatório, clique no menu “**Gerenciamento de Ap
 
 O sistema exibirá uma lista com todos os aplicativos instalados nos dispositivos da empresa. A tela de exibição dos aplicativos gerenciados é apresentada a seguir.
 
-<figure><img src="../../.gitbook/assets/image (62).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (63).png" alt="" width="563"><figcaption></figcaption></figure>
 
 A tela possui elementos padrão que são semelhantes a outras telas do sistema. Os itens seguintes apresentam as opções de gerenciamento desta tela e estão enumerados na figura anterior:
 
@@ -23,6 +23,6 @@ A tela possui elementos padrão que são semelhantes a outras telas do sistema. 
 
 Caso seja o relatório de uma página, ele é gerado e baixado automaticamente. Caso seja o completo, pode demorar alguns minutos para ser gerado é disponibilizado para download nas notificações do sistema, conforme pode ser visualizado a seguir.
 
-<figure><img src="../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
 
 7. Para copiar as informações da lista de aplicativos para a área de transferência, clique no botão “Copiar”.

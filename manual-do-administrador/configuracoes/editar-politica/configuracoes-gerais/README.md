@@ -13,7 +13,7 @@ As configurações gerais são agrupadas nos tipos:
 * Usuário;
 * VPN;
 
-<figure><img src="../../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTA**

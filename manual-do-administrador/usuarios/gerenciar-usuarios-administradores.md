@@ -10,7 +10,7 @@ Ao acessar a tela, o sistema não permitirá alterar as informações do campo �
 
 1. Ao acessar a tela, o sistema exibirá uma listagem com todos os usuários administradores.
 
-<figure><img src="../../.gitbook/assets/image (61).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (62).png" alt="" width="563"><figcaption></figcaption></figure>
 
 2. Para localizar um usuário, digite o nome do usuário no campo” Pesquisar”.
 3. Para ordenar as informações exibidas, clique no título da informação que desejar.

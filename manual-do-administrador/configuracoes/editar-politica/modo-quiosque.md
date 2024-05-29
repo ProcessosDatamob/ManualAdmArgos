@@ -7,11 +7,11 @@ Para acessar as configurações de "**Modo Quiosque**" siga os seguintes passos:
 1. Na tela "**Editar política**", selecione a guia "**Modo Quiosque**".
 2. Ative o modo quiosque clicando sobre o botão de ativação.
 
-<figure><img src="../../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 3. Será exibida na tela uma mensagem para confirmação. Confirme clicando no botão "**Ativar**".
 
-<figure><img src="../../../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
 
 4. Ao ativar o Modo Quiosque na política e provisionar um dispositivo com esta política, o aplicativo **Kiosk Launcher Manager** será instalado automaticamente no dispositivo.
 
@@ -21,7 +21,7 @@ Quando o dispositivo instalar o aplicativo Kiosk, o aplicativo capturará a list
 
 Estando o modo quiosque ativado, as seguintes opções de configuração estarão disponíveis:&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
 * **Botões de navegação**: permite definir os botões de navegação do dispositivo como "Ativo", "Bloqueado" ou "Apenas botão Home";
 * **Botão "Power"**:  permite definir o botão power do dispositivo como "Disponível" ou "Bloqueado";
@@ -31,26 +31,26 @@ Estando o modo quiosque ativado, as seguintes opções de configuração estarã
 * **Serviços Adicionais de Telefonia**: permite definir os serviços de telefonia como "Ativo" ou "Definido pelo dispositivo".  Ao definir como "Ativo" e salvar a política, o sistema enviará na política e no quiosque os pacotes dos serviços de telefonia para o dispositivo, e permitirá receber e realizar ligações no dispositivo que provisionar a política. E ao definir como "Definido pelo Dispositivo", o dispositivo funcionará de acordo com a sua configuração padrão, tendo ou não os serviços.
 * **Papel de parede** - pode ser realizado o upload de uma imagem de papel de parede na política e definido a orientação de tela, que serão enviados para o aplicativo
 
-<figure><img src="../../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
 
 * **Cor da fonte dos ícones -** permite configurar a cor do texto dos ícones na tela inicial
 
-<figure><img src="../../../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
 
 * **Orientação de Tela -** permite selecionar a orientação de tela para o dispositivo, e o padrão é: “Definido pelo usuário"
 
-<figure><img src="../../../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
 
 * **Tamanho de ícones e Fontes -** permite selecionar as seguintes opções de tamanho de exibição: Padrão do sistema _(padrão),_ Pequeno (_75%_) e Grande (_125%_)
 
-<figure><img src="../../../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
 
 * **Ordenação dos ícones -** permite realizar a ordenação dos ícones
 
-<figure><img src="../../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
 
 * **Posicionamento da imagem -** permite selecionar a posição da imagem do papel de parede na tela inicial do dispositivo
 
-<figure><img src="../../../.gitbook/assets/image (158).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
 
 Os aplicativos que serão exibidos no dispositivo, serão definidos na política, ou seja, somente os aplicativos liberados na política serão exibidos na laucher.
