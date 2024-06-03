@@ -19,7 +19,7 @@ Quando o dispositivo instalar o aplicativo Kiosk, o aplicativo capturará a list
 
 {% hint style="info" %}
 **Nota**\
-Ao ativar o Modo Quiosque, para o correto funcionamento do aparelho ou de alguma aplicação, se faz necessário, a inclusão de forma manual dos seguintes pacotes de Sistema: -&#x20;
+Ao ativar o Modo Quiosque, para o correto funcionamento do aparelho ou de alguma aplicação, se faz necessário, a inclusão de forma manual dos seguintes pacotes de Sistema:&#x20;
 
 \- Acessibilidade Samsung: **com.samsung.accessibility**
 
