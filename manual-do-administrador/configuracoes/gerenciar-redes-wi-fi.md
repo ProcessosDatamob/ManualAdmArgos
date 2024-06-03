@@ -16,7 +16,9 @@ Após clicar em "Adicionar", a seguinte tela para preenchimento dos dados da Red
 
 * <mark style="color:red;">**Nome da Configuração**</mark><mark style="color:red;">: identificação personalizada para a rede Wi-Fi configurada.</mark>
 * <mark style="color:red;">**SSID**</mark><mark style="color:red;">: nome da rede Wi-Fi que será exibido aos usuários.</mark>
+* <mark style="color:red;">**Rede oculta -**</mark> <mark style="color:red;"></mark><mark style="color:red;">indica se a rede Wi-Fi é oculta e não será exibida automaticamente nas listas de redes disponíveis.</mark>
 * <mark style="color:red;">**Senha**</mark><mark style="color:red;">: código de acesso necessário para conectar-se à rede Wi-Fi.</mark>
+* <mark style="color:red;">**Conectar automaticamente -**</mark> <mark style="color:red;"></mark><mark style="color:red;">define se o dispositivo deve se conectar automaticamente a esta rede quando estiver ao alcance.</mark>
 * <mark style="color:red;">**Modo do Endereço MAC**</mark><mark style="color:red;">: define como o endereço MAC do dispositivo será utilizado (automático ou MAC do dispositivo).</mark>
 * <mark style="color:red;">**Tipo de Segurança**</mark><mark style="color:red;">: método de criptografia usado para proteger a rede Wi-Fi (Nenhum, WEP-PSK, WPA-PSK, WPA/EAP, WEB-8021X ou WPA3-Enterprise\_192).</mark>
 

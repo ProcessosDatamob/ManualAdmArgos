@@ -42,7 +42,7 @@ Estando o modo quiosque ativado, as seguintes opções de configuração estarã
 
 <mark style="color:red;background-color:orange;">Separei em 2 imagens, 1:</mark>
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 * **Botões de navegação**: permite definir os botões de navegação do dispositivo como "Ativo", "Bloqueado" ou "Apenas botão Home";
 * **Botão "Power"**:  permite definir o botão power do dispositivo como "Disponível" ou "Bloqueado";
@@ -53,7 +53,7 @@ Estando o modo quiosque ativado, as seguintes opções de configuração estarã
 
 <mark style="color:red;background-color:orange;">Separei em 2 imagens, 2:</mark>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Papel de parede** - pode ser realizado o upload de uma imagem de papel de parede na política e definido a orientação de tela, que serão enviados para o aplicativo
 
@@ -83,7 +83,7 @@ Estando o modo quiosque ativado, as seguintes opções de configuração estarã
 
 <mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:red;">**Acesso Temporário ao Dispositivo -**</mark> <mark style="color:red;"></mark><mark style="color:red;">permite configurar um período temporário durante o qual o usuário pode acessar o dispositivo.</mark>
 
