@@ -66,6 +66,12 @@
 
 ## Release notes
 
+* [Release Notes \<NomeProduto> V 10.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v-10.0.0/README.md)
+  * [Permitir Acesso Temporário ao Dispositivo no Modo Quiosque](release-notes/release-notes-less-than-nomeproduto-greater-than-v-10.0.0/permitir-acesso-temporario-ao-dispositivo-no-modo-quiosque.md)
+  * [Manuais Online adicionados nos Materiais de Apoio](release-notes/release-notes-less-than-nomeproduto-greater-than-v-10.0.0/manuais-online-adicionados-nos-materiais-de-apoio.md)
+  * [Page 2](release-notes/release-notes-less-than-nomeproduto-greater-than-v-10.0.0/page-2.md)
+  * [Page 1](release-notes/release-notes-less-than-nomeproduto-greater-than-v-10.0.0/page-1.md)
+  * [Page](release-notes/release-notes-less-than-nomeproduto-greater-than-v-10.0.0/page.md)
 * [Release Notes \<NomeProduto> V 9.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v-9.0.0/README.md)
   * [Instalação Remota de APK](release-notes/release-notes-less-than-nomeproduto-greater-than-v-9.0.0/instalacao-remota-de-apk.md)
   * [Configuração de Permissões Opcionais do Companion](release-notes/release-notes-less-than-nomeproduto-greater-than-v-9.0.0/configuracao-de-permissoes-opcionais-do-companion.md)

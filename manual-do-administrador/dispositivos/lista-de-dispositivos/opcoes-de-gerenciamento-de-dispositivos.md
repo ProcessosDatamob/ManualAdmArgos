@@ -4,7 +4,7 @@ Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2024-01-04 135743.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (180).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### Detalhes
 
@@ -19,6 +19,7 @@ Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível
 * **Fabricante** - nome do fabricante do dispositivo;
 * **Sistema Operacional -** sistema operacional do dispositivo;
 * **Versão do Android** - versão do Android do dispositivo;
+* <mark style="color:red;">**Senha de Acesso Temporário**</mark> <mark style="color:red;"></mark><mark style="color:red;">- senha temporária baseada no Número de Série do dispositivo, atualizada conforme definição, com opção de copiar e exibição do tempo restante até a senha expirar.</mark>
 
 ### Instalação
 

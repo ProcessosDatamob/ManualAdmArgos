@@ -40,7 +40,9 @@ Para saber mais sobre como incluir aplicativos de forma manual na política , le
 
 Estando o modo quiosque ativado, as seguintes opções de configuração estarão disponíveis:&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+<mark style="color:red;background-color:orange;">Separei em 2 imagens, 1:</mark>
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 * **Botões de navegação**: permite definir os botões de navegação do dispositivo como "Ativo", "Bloqueado" ou "Apenas botão Home";
 * **Botão "Power"**:  permite definir o botão power do dispositivo como "Disponível" ou "Bloqueado";
@@ -48,6 +50,11 @@ Estando o modo quiosque ativado, as seguintes opções de configuração estarã
 * **Informações Exibidas na Barra de Status**: permite definir as informações que serão exibidas na barra de status do dispositivo.  Pode ser definido como "Notificações e informações do sistema", "Apenas informações do sistema" ou "Nenhuma";
 * **Acesso à Configurações**: permite definir como "Liberado" ou "Bloqueado";
 * **Serviços Adicionais de Telefonia**: permite definir os serviços de telefonia como "Ativo" ou "Definido pelo dispositivo".  Ao definir como "Ativo" e salvar a política, o sistema enviará na política e no quiosque os pacotes dos serviços de telefonia para o dispositivo, e permitirá receber e realizar ligações no dispositivo que provisionar a política. E ao definir como "Definido pelo Dispositivo", o dispositivo funcionará de acordo com a sua configuração padrão, tendo ou não os serviços.
+
+<mark style="color:red;background-color:orange;">Separei em 2 imagens, 2:</mark>
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 * **Papel de parede** - pode ser realizado o upload de uma imagem de papel de parede na política e definido a orientação de tela, que serão enviados para o aplicativo
 
 <figure><img src="../../../.gitbook/assets/image (154).png" alt=""><figcaption></figcaption></figure>
@@ -71,5 +78,17 @@ Estando o modo quiosque ativado, as seguintes opções de configuração estarã
 * **Posicionamento da imagem -** permite selecionar a posição da imagem do papel de parede na tela inicial do dispositivo
 
 <figure><img src="../../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
+
+* <mark style="color:red;">**Bloquear acesso as configurações de Wi-Fi -**</mark> <mark style="color:red;"></mark><mark style="color:red;">impede que os usuários acessem e modifiquem as configurações de Wi-Fi durante a inicialização e uso do dispositivo no modo Kiosk.</mark>
+
+<mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+* <mark style="color:red;">**Acesso Temporário ao Dispositivo -**</mark> <mark style="color:red;"></mark><mark style="color:red;">permite configurar um período temporário durante o qual o usuário pode acessar o dispositivo.</mark>
+
+<mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Os aplicativos que serão exibidos no dispositivo, serão definidos na política, ou seja, somente os aplicativos liberados na política serão exibidos na laucher.
