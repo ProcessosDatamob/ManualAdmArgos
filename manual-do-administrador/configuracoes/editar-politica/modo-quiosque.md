@@ -17,6 +17,20 @@ Para acessar as configurações de "**Modo Quiosque**" siga os seguintes passos:
 
 Quando o dispositivo instalar o aplicativo Kiosk, o aplicativo capturará a lista de todos os aplicativos instalados no dispositivo enviará esta lista para o Portal. Além disto enviará as seguintes configurações gerenciadas para o portal.  E alterará a launcher do Dispositivo para a launcher do aplicativo Kiosk, não permitirá que o usuário altere a launcher no dispositivo e manterá a configuração de Modo Quiosque recebida na politica.
 
+{% hint style="info" %}
+**Nota**\
+Ao ativar o Modo Quiosque, para o correto funcionamento do aparelho ou de alguma aplicação, se faz necessário, a inclusão de forma manual dos seguintes pacotes de Sistema:
+
+* Acessibilidade Samsung: **com.samsung.accessibility**
+* Lupa de pesquisa: **com.android.settings.intelligence**
+* Pop-up "Abrir com" do navegador: **com.android.intentresolver / android**
+* Pop-up "Abrir com" do sistema: **com.android.systemic / android**
+* Instalações OTA (Over-the-air) para dispositivos Samsung: **com.wssyncmldm**
+* Transferência de arquivos quando conectado no PC: **com.android.systemui / com.samsung.android.MtpApplication**
+
+Para saber mais sobre como incluir aplicativos de forma manual na política , leia a sessão: [Aplicativos](aplicativos.md).
+{% endhint %}
+
 ### Opções de configuração do Quiosque
 
 Estando o modo quiosque ativado, as seguintes opções de configuração estarão disponíveis:&#x20;
