@@ -1,6 +1,6 @@
 # Token de Registro
 
-<mark style="color:blue;">P</mark>ara acessar a tela de "Token de Registro" de dispositivos clique no menu "Configurações" na opção "Gerenciar Políticas" e clique nos três pontinhos "..." da política desejada. Fazer o registro do dispositivo dessa forma facilita o enrolamento (enroll) do dispositivo, tornando o processo de configuração inicial mais eficiente e prático. As configurações disponíveis permitem incluir informações detalhadas diretamente no QRCode utilizado para configurar os dispositivos gerenciados. A tela de "Token de Registro" é mostrada a seguir:
+Para acessar a tela de "Token de Registro" de dispositivos clique no menu "Configurações" na opção "Gerenciar Políticas" e clique nos três pontinhos "..." da política desejada. Fazer o registro do dispositivo dessa forma facilita o enrolamento (enroll) do dispositivo, tornando o processo de configuração inicial mais eficiente e prático. As configurações disponíveis permitem incluir informações detalhadas diretamente no QRCode utilizado para configurar os dispositivos gerenciados. A tela de "Token de Registro" é mostrada a seguir:
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2024-04-30 103515.png" alt=""><figcaption></figcaption></figure>
 
