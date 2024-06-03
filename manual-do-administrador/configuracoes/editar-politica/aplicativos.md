@@ -39,6 +39,8 @@ Para que o aplicativo seja apresentado no dispositivo com o tipo de instalação
 
 ### **Configurações Gerenciadas**
 
+Esta funcionalidade permite aos administradores alterar os requisitos de permissão necessários para a execução dos aplicativos. As configurações gerenciadas ,possibilitam gerenciar de forma flexível as permissões, adequando-as conforme a necessidade específica de cada aplicação e melhorando a experiência e segurança do usuário final.
+
 Para acessar as configurações gerenciadas de um aplicativo é necessário estar na tela "**Editar Política**" com a guia "**Aplicativos**" selecionada. Siga os seguintes passos:
 
 1. Localize o aplicativo desejado e clique nos três pontinhos "...", localizados no final da linha e clique na opção "**Configurações Gerenciadas**".
@@ -51,11 +53,32 @@ A tela a seguir será exibida:
 
 Nesta tela é possível ver a identificação do aplicativo selecionado e a tela de configuração que foi escolhida ("Configurações Gerenciadas");
 
-2. Clique no menu “Permissões Opcionais" para acessar a lista de configurações gerenciadas disponíveis para o aplicativo selecionado. Nesse menu é possível ativar e desativar cada uma das configurações.
+{% hint style="info" %}
+**Nota**
+
+As configurações disponíveis, vão ser exibidas conforme o que estiver disponível para cada aplicativo, ou seja, irá variar as configurações disponíveis dependendo do aplicativo selecionado. Em alguns aplicativos por exemplo, vai exibir a mensagem: _Não existem configurações disponíveis para este aplicativo._
+{% endhint %}
+
+### Permissões Opcionais do Companion
+
+Para o Companion, foi criada dentro das Configurações Gerenciadas as Permissões Opcionais, para possibilitar ativar o companion em dispositivos que não possuem as permissões solicitadas na ativação.
+
+Sendo assim, para acessar as “Permissões Opcionais",  clique nos três pontinhos "...", localizados no final da linha e clique na opção "**Configurações Gerenciadas**" do aplicativo Companion.
+
+Ao expandir as "Permissões Opcionais" serão exibidas várias opões e será possível ativar e desativar cada uma das configurações.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
 
-3. Ao clicar em "Salvar" o sistema enviará as configurações selecionadas para os dispositivos.
+As "Permissões Opcionais" incluem os seguintes ajustes:
+
+* Estabelecer o Permissão "Acesso aos Dados de Uso" como Opcional: Permite ao usuário optar por não ativar este permissão durante a configuração. Sem esta permissão, a aplicação não capturará dados de uso e tempo de uso dos aplicativos, e essa informação não será exibida no Portal.
+* Estabelecer o Permissão "Ignorar Otimização de Bateria" como Opcional: Permite ao usuário optar por não ativar este permissão durante a configuração. Sem esta permissão, a aplicação pode ser afetada pela otimização de bateria, deixando de capturar localizações e enviar informações ao Portal.
+* Estabelecer o Permissão "Escrita de Configurações do Sistema" como Opcional: Permite ao usuário optar por não ativar este permissão durante a configuração. Sem esta permissão, a aplicação Kiosk Launcher Manager não poderá alterar certas configurações do sistema no modo quiosque.
+* Estabelecer o Permissão "Leitura de SMS" como Opcional: Permite ao usuário optar por não ativar este permissão durante a configuração. Sem esta permissão, a aplicação não capturará informações dos SMS enviados, e essa informação não será exibida no Portal.
+* Estabelecer o Permissão "Instalação de Apps de Fontes Desconhecidas" como Opcional: Permite ao usuário optar por não ativar este permissão durante a configuração. Sem esta permissão, a aplicação não poderá instalar aplicativos remotamente.
+* Estabelecer o Permissão "Sobreposição de Tela" como Opcional: Permite ao usuário optar por não ativar este permissão durante a configuração. Sem esta permissão, a aplicação não exibirá a mensagem de confirmação para instalação de aplicativos remotamente.
+
+Ao clicar em "Salvar" o sistema enviará as configurações selecionadas para os dispositivos.
 
 ### **Permissões**
 
@@ -76,6 +99,8 @@ As permissões podem ser configuradas como: Solicitar ao usuário, Ativada ou Ne
 **Observação**
 
 Se a opção “Permissões" aparecer desabilitada no sistema, é para evitar que o usuário acesse configurações que não são relevantes para sua função. Visando garantir que o usuário não se confunda ou tente ajustar configurações que não estão dentro de suas atribuições ou necessidades específicas dentro do sistema.
+
+Impede que os usuários finais acessem e modifiquem configurações críticas de permissões, reservando esse controle exclusivamente para administradores.&#x20;
 
 ![](<../../../.gitbook/assets/image (182).png>)
 {% endhint %}

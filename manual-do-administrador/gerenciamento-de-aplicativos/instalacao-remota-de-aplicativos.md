@@ -1,6 +1,8 @@
 # Instalação Remota de Aplicativos
 
-Esta tela do sistema tem como objetivo, possibilitar a instalação, desinstalação e atualização remota de aplicativos nos dispositivos da empresa, sem que o aplicativo esteja na Play Store. Para que isso seja possível, o aplicativo deve estar em um servidor com acesso público a uma URL e em um ambiente HTTPS. Se o arquivo não estiver nessas condições, o download do aplicativo não será realizado.
+Esta funcionalidade permite a instalação de aplicativos remotamente sem que esses aplicativos estejam disponíveis na Play Store. Isso elimina a necessidade de publicação na Play Store, simplificando o processo de distribuição de aplicativos específicos para os dispositivos gerenciados pela empresa. Com essa funcionalidade, os administradores podem instalar diretamente os aplicativos necessários, garantindo uma distribuição mais rápida e eficiente de soluções empresariais personalizadas.&#x20;
+
+Para que isso seja possível, o aplicativo deve estar em um servidor com acesso público a uma URL e em um ambiente HTTPS. Se o arquivo não estiver nessas condições, o download do aplicativo não será realizado.
 
 Para gerenciar e enviar a instalação remota de aplicativos para os dispositivos, clique no menu “**Gerenciamento de Aplicativos**” e na opção "**Instalação Remota de Aplicativos**".
 
@@ -27,10 +29,9 @@ Para instalar um aplicativo remotamente siga os passos a seguir:
 
 1. Selecione a política e usuários de dispositivos vinculados a políticas dos seguintes modos de gerenciamento: Android, Android - Block SIM e Android - Work Profile.
 
-{% hint style="warning" %}
-É possível enviar apenas para um usuário em específico ou caso desejar enviar para vários usuários, basta selecionar somente a política na qual estes usuários estão provisionados.
-
-Mas é importante ressaltar que ao enviar para a Política, todos os usuários da política receberão a instalação do aplicativo!
+{% hint style="info" %}
+**Nota**\
+É possível enviar apenas para um usuário em específico ou caso desejar enviar para vários usuários, basta selecionar somente a política na qual estes usuários estão provisionados. Mas é importante ressaltar que ao enviar para a Política, todos os usuários da política receberão a instalação do aplicativo!
 {% endhint %}
 
 1. Preencha os campos obrigatórios: Nome, Nome do pacote e URL para download.

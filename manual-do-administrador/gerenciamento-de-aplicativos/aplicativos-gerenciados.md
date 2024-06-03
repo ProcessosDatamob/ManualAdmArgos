@@ -4,7 +4,7 @@ Esta tela do sistema tem como objetivo, possibilitar ao usuário visualizar e ge
 
 Para visualizar e gerar esse relatório, clique no menu “**Gerenciamento de Aplicativos**” e na opção "**Aplicativos Gerenciados**".
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="213"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="213"><figcaption></figcaption></figure>
 
 ![](<../../.gitbook/assets/0 (21).png>)
 
@@ -18,10 +18,14 @@ A tela possui elementos padrão que são semelhantes a outras telas do sistema. 
 2. A listagem dos aplicativos é exibida na tela, sendo cada linha referente a um dispositivo.
 3. Para ordenar as informações exibidas, clique nas setas para cima e para baixo que ficam ao lado de cada título (Nome do Aplicativo, Origem e Nome do Pacote).
 4. Clicando em "..." o sistema exibe a opção de comando para o aplicativo.
-5. O comando "Remover Aplicativo" elimina o aplicativo da lista. Porém não é possível remover o aplicativo se existirem políticas vinculadas a ele, primeiro remova o vínculo das políticas para poder remover o aplicativo.
-6. Para gerar o relatório dos aplicativos, clique na opção “Excel”. O sistema pode gerar um relatório somente com as informações que estão na primeira página ou um relatório completo. Clique na opção desejada para que o sistema comece o processamento.
+5.  <mark style="color:blue;">A</mark>o selecionar a opção “Remover aplicativo" e clicar em "Remover", o sistema realiza uma verificação automática para determinar se o aplicativo está vinculado a alguma política ativa, se o aplicativo estiver vinculado a uma ou mais políticas, o sistema exibirá a seguinte mensagem de bloqueio: _"Não é possível remover o aplicativo nome\_do\_app, pois existem políticas vinculadas! Remova o vínculo das seguintes políticas para poder remover o aplicativo: lista\_de\_nomes\_das\_politicas."_
 
-Caso seja o relatório de uma página, ele é gerado e baixado automaticamente. Caso seja o completo, pode demorar alguns minutos para ser gerado é disponibilizado para download nas notificações do sistema, conforme pode ser visualizado a seguir.
+    Antes de remover o aplicativo, é necessário desvinculá-lo de todas as políticas listadas na mensagem de bloqueio. Isso significa que o administrador deve acessar cada política mencionada e remover o aplicativo das suas configurações.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+6. Para gerar o relatório dos aplicativos, clique na opção “Excel”. O sistema pode gerar um relatório somente com as informações que estão na primeira página ou um relatório completo. Clique na opção desejada para que o sistema comece o processamento.\
+   Caso seja o relatório de uma página, ele é gerado e baixado automaticamente. Caso seja o completo, pode demorar alguns minutos para ser gerado é disponibilizado para download nas notificações do sistema, conforme pode ser visualizado a seguir.
 
 <figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
 
