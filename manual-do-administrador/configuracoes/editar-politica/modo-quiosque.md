@@ -19,14 +19,19 @@ Quando o dispositivo instalar o aplicativo Kiosk, o aplicativo capturará a list
 
 {% hint style="info" %}
 **Nota**\
-Ao ativar o Modo Quiosque, para o correto funcionamento do aparelho ou de alguma aplicação, se faz necessário, a inclusão de forma manual dos seguintes pacotes de Sistema:
+Ao ativar o Modo Quiosque, para o correto funcionamento do aparelho ou de alguma aplicação, se faz necessário, a inclusão de forma manual dos seguintes pacotes de Sistema: -&#x20;
 
-* Acessibilidade Samsung: **com.samsung.accessibility**
-* Lupa de pesquisa: **com.android.settings.intelligence**
-* Pop-up "Abrir com" do navegador: **com.android.intentresolver / android**
-* Pop-up "Abrir com" do sistema: **com.android.systemic / android**
-* Instalações OTA (Over-the-air) para dispositivos Samsung: **com.wssyncmldm**
-* Transferência de arquivos quando conectado no PC: **com.android.systemui / com.samsung.android.MtpApplication**
+\- Acessibilidade Samsung: **com.samsung.accessibility**
+
+\- Lupa de pesquisa: **com.android.settings.intelligence**
+
+\- Pop-up "Abrir com" do navegador: **com.android.intentresolver / android**
+
+\- Pop-up "Abrir com" do sistema: **com.android.systemic / android**
+
+\- Instalações OTA (Over-the-air) para dispositivos Samsung: **com.wssyncmldm**
+
+\- Transferência de arquivos quando conectado no PC: **com.android.systemui / com.samsung.android.MtpApplication**
 
 Para saber mais sobre como incluir aplicativos de forma manual na política , leia a sessão: [Aplicativos](aplicativos.md).
 {% endhint %}
