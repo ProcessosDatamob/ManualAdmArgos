@@ -4,7 +4,7 @@ Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2024-01-04 135743.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Detalhes
 
@@ -84,7 +84,7 @@ O sistema exibirá a tela do "**Histórico de Armazenamento**" com o histórico 
 
 Para exibir as inconsistências em configurações atribuídas ao dispositivo utilize a opção "**Relatório de Não conformidade**".
 
-<figure><img src="../../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 No “Relatório de Não Conformidade" é possível "Exportar" e "Copiar", permitindo exportar as informações do relatório para um arquivo Excel ou copiar as informações para uma área de transferência.
 
@@ -134,7 +134,7 @@ Esta opção só ficará disponível para dispositivos ativados com política em
 
 O sistema permite que seja gerada uma nova senha para o dispositivo. Para realizar esta operação, escolha a opção "**Gerar Nova Senha do Dispositivo**" conforme mostrado na imagem apresentada na sequência.
 
-Preencha os campos "**Nova Senha**" e "**Confirmar nova senh**a" com valores iguais para que o botão "**Confirmar**" esteja habilitado. Opcionalmente, e conforme a necessidade, poderão ser marcadas as opções:
+Preencha os campos "**Nova Senha**" e "**Confirmar nova senha**" com valores iguais para que o botão "**Confirmar**" esteja habilitado. Opcionalmente, e conforme a necessidade, poderão ser marcadas as opções:
 
 * Não permitir que outros administradores alterem a senha novamente até que o usuário a insira no dispositivo;
 * Não pedir credenciais de usuário na inicialização do dispositivo;
