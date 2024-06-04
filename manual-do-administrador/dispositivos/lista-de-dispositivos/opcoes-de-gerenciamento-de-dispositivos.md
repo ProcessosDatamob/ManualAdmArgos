@@ -50,8 +50,6 @@ Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível
 
 E clicando nos três pontinhos "**...**" à direita na listagem dos dispositivos, aparecem as opções de consulta e configurações do dispositivo, como ilustrado na imagem abaixo:
 
-<figure><img src="../../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
-
 <figure><img src="../../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
 As opções disponíveis estão em destaque na imagem a seguir:
