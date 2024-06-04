@@ -72,6 +72,7 @@
   * [Novos Tipos de Segurança de Rede WiFi](release-notes/release-notes-less-than-nomeproduto-greater-than-v-10.0.0/novos-tipos-de-seguranca-de-rede-wifi.md)
   * [Novos Campos e Filtros de Identificação do Dispositivo](release-notes/release-notes-less-than-nomeproduto-greater-than-v-10.0.0/novos-campos-e-filtros-de-identificacao-do-dispositivo.md)
   * [Alteração de Telefone por Licença](release-notes/release-notes-less-than-nomeproduto-greater-than-v-10.0.0/alteracao-de-telefone-por-licenca.md)
+  * [Adicionar Aplicativos Manuais à Política](release-notes/release-notes-less-than-nomeproduto-greater-than-v-10.0.0/adicionar-aplicativos-manuais-a-politica.md)
   * [Page](release-notes/release-notes-less-than-nomeproduto-greater-than-v-10.0.0/page.md)
 * [Release Notes \<NomeProduto> V 9.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v-9.0.0/README.md)
   * [Instalação Remota de APK](release-notes/release-notes-less-than-nomeproduto-greater-than-v-9.0.0/instalacao-remota-de-apk.md)

@@ -177,17 +177,25 @@ Os aplicativos precisam ser primeiramente adicionados usando a **Google Play Ger
 1. Clique na opção “**Manual**", e abrirá a tela “**Adicionar Aplicativos Manualmente**"
 2. Preencha os campos: Nome do App (opcional), Nome do Pacote e clicar em "**Adicionar**"
 
-<figure><img src="../../../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
+<mark style="color:red;">O tipo de instalação ficará como "Disponível", e permitirá alterar o tipo de instalação do app entre as opções: Disponível, Pré-instalado, Instalação forçada ou Bloqueado, e vai enviar para o dispositivo o app com o tipo de instalação definido ao salvar a política.</mark>&#x20;
+
+{% hint style="info" %}
+<mark style="color:red;">**NOTA**</mark>
+
+<mark style="color:red;">Caso o aplicativo não esteja na Google Play, as opções "Pré-instalado" e "Instalação forçada" terão o mesmo efeito que a opção "Disponível".</mark>
+{% endhint %}
+
+<figure><img src="../../../.gitbook/assets/image (163).png" alt="" width="470"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **OBSERVAÇÃO**
 
-Ao criar uma política com modo de gerenciamento Android Block SIM, automaticamente na aba APLICATIVOS, já estará adicionado o aplicativo Block SIM com modo de instalação Forçada, ou seja, quando o usuário realizar a ativação do Vivo Gestão Dispositivo utilizando esta política, já será instalado automaticamente o Block SIM, sem que ele precise baixar na Play Store.
+Ao criar uma política com modo de gerenciamento Android Block SIM, automaticamente na aba Aplicativos, já estará adicionado o aplicativo Block SIM com modo de instalação Forçada, ou seja, quando o usuário realizar a ativação do Vivo Gestão Dispositivo utilizando esta política, já será instalado automaticamente o Block SIM, sem que ele precise baixar na Play Store.
 {% endhint %}
 
 ### Restrições de Funcionamento
 
-Para definir restrições de funcionamento de aplicativos por dias e horários, é necessário clicar no icone de restrições de funcionamento na linha referente ao aplicativo desejado. A imagem a seguir destaca:&#x20;
+Para definir restrições de funcionamento de aplicativos por dias e horários, é necessário clicar no ícone de restrições de funcionamento na linha referente ao aplicativo desejado. A imagem a seguir destaca:&#x20;
 
 1. Ícones para acessar a opção "Restrições de Funcionamento";&#x20;
 2. Botão seletor para ativar restrições.
