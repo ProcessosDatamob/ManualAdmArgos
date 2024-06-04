@@ -11,6 +11,8 @@ Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível
 * **Usuário -** nome do usuário cadastrado no portal;
 * **Identificação -** Identificação cadastrada para o dispositivo;
 * **Grupo -** grupo cadastrado para o dispositivo**;**
+* <mark style="color:red;">**Departamento**</mark> <mark style="color:red;"></mark><mark style="color:red;">- unidade ou departamento da organização ao qual o dispositivo está atribuído;</mark>
+* <mark style="color:red;">**Telefone do Usuário**</mark> <mark style="color:red;"></mark><mark style="color:red;">- número de telefone associado ao usuário do dispositivo;</mark>
 * **IMEI -** número interno e único em cada dispositivo. No Android 10 já não é possível capturar esta informação do dispositivo porque utilizamos outro método para receber esta informação com o Enriquecimento de URL;
 * **ICCID -** número do chip SIM;
 * **Número de série -** número de série do dispositivo;
@@ -154,16 +156,31 @@ Uma mensagem é exibida na tela para informação e advertência. A operação n
 
 ### **Gerenciar**
 
-Esta opção permite acessar a tela para editar dados do dispositivo, como: Usuário, identificação e Grupo.
+Esta opção permite acessar a tela para editar dados do dispositivo, como: Usuário, Identificação, Grupo, <mark style="color:red;">Departamento e Telefone do Usuário.</mark>
+
+<mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
+
+<figure><img src="../../../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
 
 Além de poder editar os dados, são exibidos mais abaixo duas listas com as informações de Software e Hardware relacionados ao dispositivo gerenciado.
+
+<mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
+
+<figure><img src="../../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
 ### **Informações de Software**
 
 * **Modo de gerenciamento -** exibe o modo de gerenciamento utilizado
 * **Versão do app -** versão do companion instalado no dispositivo
+* **Número de Série -** número de série do dispositivo;
+* **Em Conformidade -** é a aderência do dispositivo a todas as configurações de políticas atribuídas a ele. Se alguma configuração não foi aplicada, o valor desta opção será "Não".&#x20;
+* **Status Aplicado -** status do registro do dispositivo, se o dispositivo está totalmente registrado, o status será "Ativo";
 * **Data da última atualização -** data e hora em que as informações do dispositivo foram sincronizadas com o portal. Esta data vem da AMAPI (API da Google), ou seja, são as informações coletadas pela API da Google no dispositivo;
+* **Data de Sincronização da Política -**exibirá a data da sincronização da política;
+* **Versão do Android -** versão do Android do dispositivo;
+* **Versão da Política Aplicada** - versão da política;
 * **Nome da Política no Portal** - nome da política atribuída ao dispositivo;
+* **Nome da Política no Dispositivo -** nome da política atribuída no dispositivo;
 
 ### **Informações de Hardware**
 
