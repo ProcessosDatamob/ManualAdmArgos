@@ -11,7 +11,7 @@ O submenu Informações dos aplicativos mostra as informações dos aplicativos 
 4. Para buscar um aplicativo específico, escreva o nome do aplicativo no campo de Busca;
 5. Para exportar o relatório dos dispositivos, clique no botão "Excel";
 6. Para copiar as informações dos dispositivos, clique no botão "Copiar";
-7. Ordene a lista de aplicativos nas colunas clicando nas flechas “ ![](broken-reference)”
+7. Ordene a lista de aplicativos nas colunas clicando nas setas “![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/U%2B21C5.svg/22px-U%2B21C5.svg.png)”
 8. Utilize os três pontos "..." para mostrar o menu de ações e ver os detalhes dos aplicativos;
 
 ![](<../../.gitbook/assets/20 (2).png>)
