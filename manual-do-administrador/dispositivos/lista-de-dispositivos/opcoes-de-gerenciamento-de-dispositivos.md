@@ -50,11 +50,13 @@ Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível
 
 E clicando nos três pontinhos "**...**" à direita na listagem dos dispositivos, aparecem as opções de consulta e configurações do dispositivo, como ilustrado na imagem abaixo:
 
+<figure><img src="../../../.gitbook/assets/image (194).png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
 As opções disponíveis estão em destaque na imagem a seguir:
 
-<table><thead><tr><th width="277.28506787330315">Modo de Gerenciamento</th><th>Opções disponíveis</th></tr></thead><tbody><tr><td>Android</td><td>Histórico de Bateria<br>Histórico de Armazenamento<br>Relatório de Não Conformidade<br>Alterar Política<br>Ativar/ Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Gerar Nova Senha do Dispositivo<br>Remover Dispositivo (WIPE)<br>Gerenciar Informações</td></tr><tr><td>Android Block SIM</td><td>Histórico de Bateria<br>Histórico de Armazenamento<br>Relatório de Não Conformidade<br>Alterar Política<br>Ativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Remover Bloqueio de Tela<br>Remover Dispositivo (WIPE)<br>Gerenciar Informações<br>Controle Remoto</td></tr><tr><td>Android Work Profile</td><td>Histórico de Bateria<br>Histórico de Armazenamento<br>Relatório de Não Conformidade<br>Alterar Política<br>Remover Dispositivo (WIPE)<br>Gerenciar Informações</td></tr></tbody></table>
+<table><thead><tr><th width="277.28506787330315">Modo de Gerenciamento</th><th>Opções disponíveis</th></tr></thead><tbody><tr><td>Android</td><td>Relatório de Não Conformidade<br>Alterar Política<br>Ativar/ Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Gerar Nova Senha do Dispositivo<br>Remover Dispositivo (WIPE)<br>Gerenciar</td></tr><tr><td>Android Block SIM</td><td><p>Histórico de Bateria<br>Histórico de Armazenamento<br>Relatório de Não Conformidade<br>Alterar Política<br>Ativar/Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Remover Bloqueio de Tela</p><p><mark style="color:red;background-color:orange;">Remover Bloqueio de Chip</mark><br>Remover Dispositivo (WIPE)<br>Gerenciar </p></td></tr><tr><td>Android Work Profile</td><td>Histórico de Bateria<br>Histórico de Armazenamento<br>Relatório de Não Conformidade<br>Alterar Política<br>Remover Dispositivo (WIPE)<br>Gerenciar </td></tr></tbody></table>
 
 As opções que estão em destaque na figura são detalhadas nas próximas subseções.
 
@@ -129,6 +131,12 @@ Esta operação envia um comando para remover o bloqueio de tela do dispositivo.
 
 Esta opção só ficará disponível para dispositivos ativados com política em modo de gerenciamento Android Block SIM.
 {% endhint %}
+
+### <mark style="color:red;">**Remover Bloqueio de Chip**</mark>
+
+<mark style="color:red;">Essa funcionalidade permite que administradores removam o bloqueio de CHIP em dispositivos vinculados a uma política “Android - Block SIM", liberando o acesso completo do usuário ao dispositivo.</mark>&#x20;
+
+<mark style="color:red;">Acesse a tela "Lista de Dispositivos", clique nos três pontinhos "...", e selecione a opção "Remover Bloqueio de Chip", então exibirá uma mensagem de confirmação do envio da remoção do bloqueio de Chip, clique em "Confirmar".</mark>
 
 ### **Gerar nova senha do dispositivo**
 
