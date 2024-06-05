@@ -10,3 +10,4 @@ Estas novas configurações facilitam a classificação e o gerenciamento dos di
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
+[**Voltar ao menu inicial**](./)

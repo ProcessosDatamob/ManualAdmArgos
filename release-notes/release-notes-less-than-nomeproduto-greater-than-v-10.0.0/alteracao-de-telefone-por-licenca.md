@@ -4,25 +4,27 @@ Na tela de "Dashboard" foi realizada uma atualização que permite identificar d
 
 A alteração foi realizada nas seguintes telas:
 
-* <mark style="color:red;">Dispositivos sem Comunicação</mark>
-* <mark style="color:red;">Consumos de Dados</mark>
-* <mark style="color:red;">Consumos de SMS</mark>
-* <mark style="color:red;">Licenças Contratadas</mark>&#x20;
-* <mark style="color:red;">Gerenciar Grupos</mark>&#x20;
-* <mark style="color:red;">Cadastrar Novo Grupo</mark>&#x20;
+* Dispositivos sem Comunicação
+* Consumos de Dados
+* Consumos de SMS
+* Licenças Contratadas&#x20;
+* Gerenciar Grupos&#x20;
+* Cadastrar Novo Grupo&#x20;
 * Aplicativos > Usuários com Aplicativo&#x20;
-* <mark style="color:red;">Instalação Remota de Aplicativos > Detalhes de Envio do Aplicativo</mark>&#x20;
-* <mark style="color:red;">Perfil de Consumo > aba Usuário</mark>
-* <mark style="color:red;">Lista de Dispositivos</mark>&#x20;
-* <mark style="color:red;">Relatório de Não Conformidade</mark>&#x20;
-* <mark style="color:red;">Gerenciar Dispositivo</mark>
-* <mark style="color:red;">Informações do Dispositivo</mark>
-* <mark style="color:red;">Relatório de Sites por URL ou Palavra-Chave</mark>&#x20;
-* <mark style="color:red;">Mensagens > Detalhes da Mensagem</mark>
-* <mark style="color:red;">Compartilhar Documentos > Detalhes do Compartilhamento</mark>
-* <mark style="color:red;">Localização de Dispositivos</mark>
-* <mark style="color:red;">Histórico de Localização</mark>&#x20;
+* Instalação Remota de Aplicativos > Detalhes de Envio do Aplicativo&#x20;
+* Perfil de Consumo > aba Usuário
+* Lista de Dispositivos&#x20;
+* Relatório de Não Conformidade&#x20;
+* Gerenciar Dispositivo
+* Informações do Dispositivo
+* Relatório de Sites por URL ou Palavra-Chave&#x20;
+* Mensagens > Detalhes da Mensagem
+* Compartilhar Documentos > Detalhes do Compartilhamento
+* Localização de Dispositivos
+* Histórico de Localização&#x20;
 
 Nos Relatórios Gerados o campo que era "Telefone" agora também será exibido como “Licença”.
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+[**Voltar ao menu inicial**](./)

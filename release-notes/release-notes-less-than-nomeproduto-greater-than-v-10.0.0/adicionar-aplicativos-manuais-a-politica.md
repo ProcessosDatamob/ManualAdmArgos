@@ -6,3 +6,4 @@ O sistema adicionará o aplicativo na lista de aplicativos com a origem 'Manual'
 
 <figure><img src="../../.gitbook/assets/image (193).png" alt=""><figcaption></figcaption></figure>
 
+[**Voltar ao menu inicial**](./)

@@ -9,3 +9,5 @@ Esta funcionalidade assegura que os dispositivos possam ser temporariamente desb
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-06-03 180813 (1).png" alt=""><figcaption></figcaption></figure>
+
+[**Voltar ao menu inicial**](./)
