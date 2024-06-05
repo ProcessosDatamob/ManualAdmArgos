@@ -136,13 +136,20 @@ O sistema permite que seja gerada uma nova senha para o dispositivo. Para realiz
 
 Preencha os campos "**Nova Senha**" e "**Confirmar nova senha**" com valores iguais para que o botão "**Confirmar**" esteja habilitado. Opcionalmente, e conforme a necessidade, poderão ser marcadas as opções:
 
-* Não permitir que outros administradores alterem a senha novamente até que o usuário a insira no dispositivo;
 * Não pedir credenciais de usuário na inicialização do dispositivo;
 * Bloquear o dispositivo após a redefinição da senha.
 
 A tela para gerar nova senha do dispositivo é mostrada a seguir.
 
 <figure><img src="../../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+<mark style="color:red;">**OBSERVAÇÃO**</mark>
+
+<mark style="color:red;">Ao selecionar a opção "Não pedir credenciais de usuário na inicialização do dispositivo", a senha não será solicitada durante o processo de inicialização. A senha será necessária apenas para desbloquear a tela do dispositivo.</mark>
+
+<mark style="color:red;">**Inicialização Segura (Secure Boot)**</mark><mark style="color:red;">: a senha solicitada na inicialização é uma medida de segurança implementada pelo Secure Boot. Esta funcionalidade protege o processo de inicialização contra ataques de segurança provenientes de códigos mal-intencionados, como malware e ransomware.</mark>
+{% endhint %}
 
 ### **Remover Dispositivo (WIPE)**
 
