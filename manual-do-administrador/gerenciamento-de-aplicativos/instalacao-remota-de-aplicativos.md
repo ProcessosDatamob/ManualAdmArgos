@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Instalação Remota de Aplicativos
 
 Esta funcionalidade permite a instalação de aplicativos remotamente sem que esses aplicativos estejam disponíveis na Play Store. Isso elimina a necessidade de publicação na Play Store, simplificando o processo de distribuição de aplicativos específicos para os dispositivos gerenciados pela empresa. Com essa funcionalidade, os administradores podem instalar diretamente os aplicativos necessários, garantindo uma distribuição mais rápida e eficiente de soluções empresariais personalizadas.&#x20;
@@ -29,22 +43,9 @@ O sistema exibirá uma lista com os aplicativos instalados nos dispositivos da e
 
 Para instalar um aplicativo remotamente siga os passos a seguir:
 
-1. Selecione a política e usuários de dispositivos vinculados a políticas dos seguintes modos de gerenciamento: Android, Android - Block SIM e Android - Work Profile.
-
-{% hint style="info" %}
-**NOTA**\
-É possível enviar apenas para um usuário em específico ou caso desejar enviar para vários usuários, basta selecionar somente a política na qual estes usuários estão provisionados. Mas é importante ressaltar que ao enviar para a Política, todos os usuários da política receberão a instalação do aplicativo!
-{% endhint %}
-
+1. Selecione a política ou os usuários de dispositivos vinculados a políticas dos seguintes modos de gerenciamento: Android, Android - Block SIM e Android - Work Profile.  Para enviar para 1 usuário ou mais, selecione os usuários que deseja, ao selecionar a política, vocês realizara o envio para todos os usuários vinculados a política, ou ainda se desejar enviar para usuários específicos e para uma política, pode selecionar ambos os campos.
 2. Preencha os campos obrigatórios: Nome, Nome do pacote e URL para download.
 3. Clique em "Enviar".&#x20;
-
-{% hint style="info" %}
-<mark style="color:red;">**NOTA**</mark>
-
-<mark style="color:red;">O aplicativo enviado através da instalação remota, é enviado com o tipo de instalação "Disponível", sendo assim, caso o usuário desinstalar o aplicativo, para instalar novamente, o administrador, precisara enviar novamente o comando de instalar aplicativo via portal para o dispositivo.</mark>
-{% endhint %}
-
 4. O Companion fara download do app recebido.
 5. E solicitará a confirmação do usuário para realizar instalação do app baixado.
 6.  E exibirá uma notificação informando que possui um app disponível para a instalação:
@@ -59,3 +60,15 @@ Ao confirmar o envio, o sistema exibirá uma mensagem de sucesso, enviará um pu
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
+
+
+
+{% hint style="info" %}
+<mark style="color:blue;">**NOTA**</mark>
+
+1. <mark style="color:blue;">O aplicativo enviado através da instalação remota, é enviado com o tipo de instalação "Disponível", sendo assim, caso o usuário desinstalar o aplicativo, para instalar novamente, o administrador, precisara enviar novamente o comando de instalar aplicativo via portal para o dispositivo.</mark>
+2. <mark style="color:blue;">Hoje esta funcionalidade não esta disponível em políticas que estejam com</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Modo Quiosque Ativado.**</mark>
+3. <mark style="color:blue;">Caso o pacote inserido pelo usuário esteja diferente do pacote do app disponível no link de download:</mark>
+   * _<mark style="color:blue;">A Notificação ficará fixa no dispositivo até que o mesmo seja reiniciado</mark>_
+   * _<mark style="color:blue;">O App será removido do dispositivo automaticamente pela Google</mark>_
+{% endhint %}
