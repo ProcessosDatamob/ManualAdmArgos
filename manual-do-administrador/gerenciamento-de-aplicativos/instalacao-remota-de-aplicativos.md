@@ -32,18 +32,25 @@ Para instalar um aplicativo remotamente siga os passos a seguir:
 1. Selecione a política e usuários de dispositivos vinculados a políticas dos seguintes modos de gerenciamento: Android, Android - Block SIM e Android - Work Profile.
 
 {% hint style="info" %}
-**Nota**\
+**NOTA**\
 É possível enviar apenas para um usuário em específico ou caso desejar enviar para vários usuários, basta selecionar somente a política na qual estes usuários estão provisionados. Mas é importante ressaltar que ao enviar para a Política, todos os usuários da política receberão a instalação do aplicativo!
 {% endhint %}
 
-1. Preencha os campos obrigatórios: Nome, Nome do pacote e URL para download.
-2. Clique em "Enviar".&#x20;
-3. O Companion fara download do app recebido.
-4. E solicitará a confirmação do usuário para realizar instalação do app baixado.
-5.  E exibirá uma notificação informando que possui um app disponível para a instalação:
+2. Preencha os campos obrigatórios: Nome, Nome do pacote e URL para download.
+3. Clique em "Enviar".&#x20;
+
+{% hint style="info" %}
+<mark style="color:red;">**NOTA**</mark>
+
+<mark style="color:red;">O aplicativo enviado através da instalação remota, é enviado com o tipo de instalação "Disponível", sendo assim, caso o usuário desinstalar o aplicativo, para instalar novamente, o administrador, precisara enviar novamente o comando de instalar aplicativo via portal para o dispositivo.</mark>
+{% endhint %}
+
+4. O Companion fara download do app recebido.
+5. E solicitará a confirmação do usuário para realizar instalação do app baixado.
+6.  E exibirá uma notificação informando que possui um app disponível para a instalação:
 
     _**Você possui uma instalação pendente! Clique aqui para iniciar**_
-6. Após clicar na notificação, a instalação será solicitada novamente.
+7. Após clicar na notificação, a instalação será solicitada novamente.
 
 {% hint style="info" %}
 **Observação**
