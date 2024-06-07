@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Aplicativos
 
 A guia de configurações de aplicativos permite gerenciar configurações, permissões, definir o modo de instalação, bem como, incluir e excluir aplicativos.
@@ -35,7 +49,7 @@ Para que o aplicativo seja apresentado no dispositivo com o tipo de instalação
 
 5. Mais ações ("...") que podem ser realizadas com o aplicativo: [Configurações Gerenciadas](aplicativos.md#configuracoes-gerenciadas), [Permissões](aplicativos.md#permissoes), [Configurações Avançadas](aplicativos.md#configuracoes-avancadas) e [Remover Aplicativo](aplicativos.md#remover-aplicativo).
 6. **Adicionar Aplicativos -** permite adicionar aplicativos para gerenciamento, para mais informações acessar o conteúdo [Adicionar Aplicativos](aplicativos.md#adicionar-aplicativos) nesta página.
-7. **Restrições de funcionamento -**permite criar restrições de acesso aos apps por horário, para que seja possível definir os horários em que os apps não poderão ser acessados. Para mais informações acessar o conteúdo [Restrições de Funcionamento](aplicativos.md#restricoes-de-funcionamento) nesta página.
+7. **Restrições de funcionamento -** permite criar restrições de acesso aos apps por horário, para que seja possível definir os horários em que os apps não poderão ser acessados. Para mais informações acessar o conteúdo [Restrições de Funcionamento](aplicativos.md#restricoes-de-funcionamento) nesta página.
 
 ### **Configurações Gerenciadas**
 
@@ -144,7 +158,12 @@ O aplicativo será removido da listagem de aplicativos da política que está se
 
 A opção Adicionar aplicativos terá comportamentos diferentes quando o Modo Quiosque estiver ativado ou desativado.
 
-* **Modo Quiosque Desativado:** Ao clicar no botão "**Adicionar Aplicativos**", caso seja uma política com **Modo Quiosque Desativado**, será exibida a listagem de aplicativos que foram  na adicionados usando a [**Google Play Gerenciada**](../../gerenciamento-de-aplicativos/google-play-gerenciada.md).&#x20;
+* **Modo Quiosque Desativado:** Ao clicar no botão "**Adicionar Aplicativos**", caso seja uma política com **Modo Quiosque Desativado**<mark style="color:blue;">, serão exibidas duas opções, a</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Playstore**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">que contempla a   listagem de aplicativos que foram adicionados usando a</mark> [<mark style="color:blue;">**Google Play Gerenciada**</mark>](../../gerenciamento-de-aplicativos/google-play-gerenciada.md) <mark style="color:blue;">e a opção</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Manual**</mark><mark style="color:blue;">, que permite adicionar aplicativos de forma manual.</mark>
+
+<mark style="color:blue;">**NOVA IMAGEM**</mark>
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 * **Modo Quiosque Ativado:** Caso a política que estiver sendo editada for uma política com o **Modo Quiosque** **Ativado**, ao clicar no botão **Adicionar aplicativos**, aparecerão 3 opções para adicionar os aplicativos.
 
 <figure><img src="../../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
@@ -177,12 +196,12 @@ Os aplicativos precisam ser primeiramente adicionados usando a **Google Play Ger
 1. Clique na opção “**Manual**", e abrirá a tela “**Adicionar Aplicativos Manualmente**"
 2. Preencha os campos: Nome do App (opcional), Nome do Pacote e clicar em "**Adicionar**"
 
-<mark style="color:red;">O tipo de instalação ficará como "Disponível", e permitirá alterar o tipo de instalação do app entre as opções: Disponível, Pré-instalado, Instalação forçada ou Bloqueado, e vai enviar para o dispositivo o app com o tipo de instalação definido ao salvar a política.</mark>&#x20;
+<mark style="color:red;">O tipo de instalação ficará como "Disponível", e permitirá alterar o tipo de instalação do app para  as opções: Disponível, Pré-instalado, Instalação forçada ou Bloqueado, e vai enviar para o dispositivo o app com o tipo de instalação definido ao salvar a política.</mark>&#x20;
 
 {% hint style="info" %}
-<mark style="color:red;">**NOTA**</mark>
+<mark style="color:blue;">**NOTA**</mark>
 
-<mark style="color:red;">Caso o aplicativo não esteja na Google Play, as opções "Pré-instalado" e "Instalação forçada" terão o mesmo efeito que a opção "Disponível".</mark>
+<mark style="color:blue;">Caso o aplicativo não esteja na Google Play, as opções "Pré-instalado" e "Instalação forçada" terão o mesmo efeito que a opção "Disponível". Ou seja, o aplicativo fica disponível para instalação, o usuário tem a opção de instalá-lo conforme sua conveniência. Não é instalado automaticamente no dispositivo.</mark>
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (163).png" alt="" width="470"><figcaption></figcaption></figure>
@@ -192,6 +211,14 @@ Os aplicativos precisam ser primeiramente adicionados usando a **Google Play Ger
 
 Ao criar uma política com modo de gerenciamento Android Block SIM, automaticamente na aba Aplicativos, já estará adicionado o aplicativo Block SIM com modo de instalação Forçada, ou seja, quando o usuário realizar a ativação do Vivo Gestão Dispositivo utilizando esta política, já será instalado automaticamente o Block SIM, sem que ele precise baixar na Play Store.
 {% endhint %}
+
+
+
+* **Remota**
+
+<mark style="color:blue;">Os aplicativos enviados via instalação remota, através do menu</mark> [<mark style="color:blue;">"Instalação Remota de Aplicativos"</mark>](../../gerenciamento-de-aplicativos/instalacao-remota-de-aplicativos.md)<mark style="color:blue;">, serão exibidos na listagem de aplicativos com a ORIGEM = "Remota" e com o tipo de instalação 'Disponível' com a edição bloqueada.</mark>
+
+
 
 ### Restrições de Funcionamento
 

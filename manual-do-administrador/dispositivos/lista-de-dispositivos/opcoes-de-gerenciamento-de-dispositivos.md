@@ -18,7 +18,7 @@ Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível
 
 <mark style="background-color:orange;">NOVA IMAGEM</mark>
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
