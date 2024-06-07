@@ -7,4 +7,4 @@
 3. [Novos Tipos de Segurança de Rede WiFi](novos-tipos-de-seguranca-de-rede-wifi.md)
 4. [Novos Campos e Filtros de Identificação do Dispositivo](novos-campos-e-filtros-de-identificacao-do-dispositivo.md)
 5. [Alteração de Telefone por Licença](alteracao-de-telefone-por-licenca.md)
-6. [Adicionar Aplicativos Manuais à Política](adicionar-aplicativos-manuais-a-politica.md)
+6. [Adicionar Aplicativos Manuais à Política](adicionar-aplicativos-manuais-a-politica-sem-modo-quiosque-ativo.md)
