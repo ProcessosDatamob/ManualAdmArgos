@@ -16,7 +16,9 @@ layout:
 
 Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível ter acesso as informações do dispositivo, clicando no botão de Mais informações:
 
-<figure><img src="../../../.gitbook/assets/Captura de tela 2024-01-04 135743.png" alt=""><figcaption></figcaption></figure>
+<mark style="background-color:orange;">NOVA IMAGEM</mark>
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 

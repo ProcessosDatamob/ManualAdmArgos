@@ -76,7 +76,7 @@ Estando o modo quiosque ativado, as seguintes opções de configuração estarã
 
 <mark style="color:red;background-color:orange;">Separei em 2 imagens, 2:</mark>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Papel de parede** - pode ser realizado o upload de uma imagem de papel de parede na política e definido a orientação de tela, que serão enviados para o aplicativo
 
