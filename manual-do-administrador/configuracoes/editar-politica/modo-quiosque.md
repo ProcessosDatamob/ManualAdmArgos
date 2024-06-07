@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Modo Quiosque
 
 Esta configuração tem como objetivo possibilitar a criação de um ambiente em que o usuário do dispositivo possa acessar somente os aplicativos previamente liberados pelo administrador, ou seja, apenas os ícones dos aplicativos selecionados serão exibidos na tela do dispositivo.
@@ -15,7 +29,9 @@ Para acessar as configurações de "**Modo Quiosque**" siga os seguintes passos:
 
 4. Ao ativar o Modo Quiosque na política e provisionar um dispositivo com esta política, o aplicativo **Kiosk Launcher Manager** será instalado automaticamente no dispositivo.
 
-Quando o dispositivo instalar o aplicativo Kiosk, o aplicativo capturará a lista de todos os aplicativos instalados no dispositivo enviará esta lista para o Portal. Além disto enviará as seguintes configurações gerenciadas para o portal.  E alterará a launcher do Dispositivo para a launcher do aplicativo Kiosk, não permitirá que o usuário altere a launcher no dispositivo e manterá a configuração de Modo Quiosque recebida na politica.
+Quando o dispositivo instalar o aplicativo Kiosk, o aplicativo capturará a lista de todos os aplicativos instalados no dispositivo enviará esta lista para o Portal. Além disto enviará as configurações gerenciadas para o portal.  E alterará a launcher do Dispositivo para a launcher do aplicativo Kiosk, não permitirá que o usuário altere a launcher no dispositivo e manterá a configuração de Modo Quiosque recebida na politica.
+
+Os aplicativos que serão exibidos no dispositivo, serão definidos na política, ou seja, somente os aplicativos liberados na política serão exibidos na laucher.
 
 {% hint style="info" %}
 **NOTA**\
@@ -49,6 +65,13 @@ Estando o modo quiosque ativado, as seguintes opções de configuração estarã
 * **Exibir Mensagens de Erro**: permite definir a exibição de mensagens de erro como "Ativo" ou "Silenciado";
 * **Informações Exibidas na Barra de Status**: permite definir as informações que serão exibidas na barra de status do dispositivo.  Pode ser definido como "Notificações e informações do sistema", "Apenas informações do sistema" ou "Nenhuma";
 * **Acesso à Configurações**: permite definir como "Liberado" ou "Bloqueado";
+
+{% hint style="info" %}
+**OBSERVAÇÃO:** Durante a ativação de um dispositivo em uma política com Modo Quiosque Ativo, a configuração "**Acesso à Configurações**" precisa estar como "**Liberada**", para que o usuário possa conceder as permissões solicitadas para a ativação do Companion. Isto poque o usuário precisa acessar diretamente a interface de configurações do dispositivo. Por esse motivo, no modo quiosque nenhum aplicativo conseguirá ativar permissões que exijam acesso a interface de configuração do SO, se as configurações estiverem bloqueadas na política. Após o enroll as configurações poderão ser bloqueadas se necessário.&#x20;
+
+Outra opção, para não precisar deixar o acesso as configurações liberado, é deixar as permissões do companion como opcional, assim o usuário consegue ativar sem que seja necessário conceder as permissões, porém neste caso, os dados referentes as permissões não concedidas, não serão coletados.
+{% endhint %}
+
 * **Serviços Adicionais de Telefonia**: permite definir os serviços de telefonia como "Ativo" ou "Definido pelo dispositivo".  Ao definir como "Ativo" e salvar a política, o sistema enviará na política e no quiosque os pacotes dos serviços de telefonia para o dispositivo, e permitirá receber e realizar ligações no dispositivo que provisionar a política. E ao definir como "Definido pelo Dispositivo", o dispositivo funcionará de acordo com a sua configuração padrão, tendo ou não os serviços.
 
 <mark style="color:red;background-color:orange;">Separei em 2 imagens, 2:</mark>
@@ -85,10 +108,11 @@ Estando o modo quiosque ativado, as seguintes opções de configuração estarã
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-* <mark style="color:red;">**Acesso Temporário ao Dispositivo -**</mark> <mark style="color:red;"></mark><mark style="color:red;">permite configurar um período temporário durante o qual o usuário pode acessar o dispositivo.</mark>
+* <mark style="color:blue;">**Acesso Temporário ao Dispositivo -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Configuração para permitir que o usuário realize acesso ao dispositivo durante um determinado tempo. Para ativar a permissão, arraste a chave para a direita de quem esta a frente da tela. Além disto, é possível definir o tempo de duração do acesso do usuário no dispositivo. Que pode ser de 5,10,15,30 minutos ou 1 hora. Ao habilitar o acesso temporário, será gerada uma senha para que o usuário possa acessar o dispositivo, na sessão</mark> [<mark style="color:blue;">"Dispositivos"</mark> ](../../dispositivos/)<mark style="color:blue;">detalharemos melhor como irá funcionar.</mark>
+
+<mark style="color:blue;">Após encerrar o tempo definido, o Modo Quiosque é ativado novamente automaticamente.</mark>&#x20;
 
 <mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
 
 <figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-Os aplicativos que serão exibidos no dispositivo, serão definidos na política, ou seja, somente os aplicativos liberados na política serão exibidos na laucher.
