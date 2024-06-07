@@ -1,6 +1,20 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Opções de gerenciamento de dispositivos
 
-Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível ter acesso as informações do dispositivo, clicando no botão de informações:
+Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível ter acesso as informações do dispositivo, clicando no botão de Mais informações:
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2024-01-04 135743.png" alt=""><figcaption></figcaption></figure>
 
@@ -21,7 +35,7 @@ Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível
 * **Fabricante** - nome do fabricante do dispositivo;
 * **Sistema Operacional -** sistema operacional do dispositivo;
 * **Versão do Android** - versão do Android do dispositivo;
-* <mark style="color:red;">**Senha de Acesso Temporário**</mark> <mark style="color:red;"></mark><mark style="color:red;">- senha temporária baseada no Número de Série do dispositivo, atualizada conforme definição, com opção de copiar e exibição do tempo restante até a senha expirar.</mark>
+* <mark style="color:blue;">**Senha de Acesso Temporário**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- Esta senha temporária, é a senha gerada ao ativar a Configuração</mark> [<mark style="color:blue;">"Acesso Temporário ao Dispositivo"</mark>](../../configuracoes/editar-politica/modo-quiosque.md) <mark style="color:blue;">no Modo Quiosque. A senha será atualizada no portal a cada 5 minutos,  com opção de copiar e exibição do tempo restante até a senha expirar. Sendo assim, caso foi definido o tempo de 10 minutos para o usuários acessar o dispositivo, caso ultrapasse esses 10 minutos, ele não conseguirá utilizar a mesma senha, pois ela já terá atualizado.</mark>
 
 ### Instalação
 
