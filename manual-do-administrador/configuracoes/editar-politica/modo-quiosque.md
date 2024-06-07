@@ -33,12 +33,6 @@ Ao ativar o Modo Quiosque, para o correto funcionamento do aparelho ou de alguma
 
 \- Transferência de arquivos quando conectado no PC: **com.android.systemui / com.samsung.android.MtpApplication**
 
-<mark style="color:red;">Para que seja possível realizar a instalação remota de aplicativos:</mark>
-
-<mark style="color:red;">- Instalador de Pacotes do Android:</mark> <mark style="color:red;"></mark><mark style="color:red;">**com.google.android.packageinstaller**</mark>
-
-<mark style="color:red;">- Criação e Gerenciamento de Diálogos em Aplicativos Android:</mark> <mark style="color:red;"></mark><mark style="color:red;">**android.app.Dialog**</mark>
-
 Para saber mais sobre como incluir aplicativos de forma manual na política , leia a sessão: [Aplicativos](aplicativos.md).
 {% endhint %}
 
