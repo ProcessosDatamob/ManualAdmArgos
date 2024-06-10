@@ -22,6 +22,14 @@ Após clicar em "Adicionar", a seguinte tela para preenchimento dos dados da Red
 * <mark style="color:red;">**Modo do Endereço MAC**</mark><mark style="color:red;">: define como o endereço MAC do dispositivo será utilizado (automático ou MAC do dispositivo).</mark>
 * <mark style="color:red;">**Tipo de Segurança**</mark><mark style="color:red;">: método de criptografia usado para proteger a rede Wi-Fi (Nenhum, WEP-PSK, WPA-PSK, WPA/EAP, WEB-8021X ou WPA3-Enterprise\_192).</mark>
 
+<mark style="color:red;">Ao selecionar o tipo de segurança “WPA-EAP" ou “WEP-8021X" ou "WPA3-Enterprise\_192, serão exibidos mais campos para preenchimento: Nome do Domínio, Identidade, Identidade Oculta, Senha do Usuário, Autenticação Inner, Autenticação Outer, Tipo de Certificado do Cliente, Certificado do Cliente, Tipo de Certificado do Servidor e Certificado do Servidor.</mark>
+
+{% hint style="info" %}
+<mark style="color:red;">Nos campos  Certificado do Cliente e  Certificado do Servidor, caso não desejar subir arquivo, basta manter a opção "Selecione uma opção", selecionada, assim o sistema não habilitará os campos de carregamento do arquivo.</mark>
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (200).png" alt=""><figcaption></figcaption></figure>
+
 Após Salvar, o portal retornará à tela anterior, onde será exibida a rede salva e caso existam outras redes , serão listadas também.
 
 <figure><img src="../../.gitbook/assets/Imagem18.png" alt=""><figcaption></figcaption></figure>
