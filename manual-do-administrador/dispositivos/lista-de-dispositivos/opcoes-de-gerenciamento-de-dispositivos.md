@@ -18,7 +18,7 @@ Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível
 
 <mark style="background-color:orange;">NOVA IMAGEM</mark>
 
-<figure><img src="../../../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso as Informações do dispositivo:</mark>
 
