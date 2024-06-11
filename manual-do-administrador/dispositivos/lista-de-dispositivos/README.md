@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Lista de dispositivos
 
 Para gerenciar os dispositivos ativos da empresa, siga os passos descritos abaixo.
@@ -24,18 +38,18 @@ Para gerenciar os dispositivos ativos da empresa, siga os passos descritos abaix
 
 ### Ações em lote
 
-Ao clicar na opção “Ações em lote" o sistema exibirá uma tela contendo alguns campos para preenchimento, conforme pode ser visto na tela abaixo.&#x20;
+Ao clicar na opção **“Ações em lote"** o sistema exibirá uma tela contendo alguns campos para preenchimento, conforme pode ser visto na tela abaixo.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (144).png" alt=""><figcaption></figcaption></figure>
 
-* Empresa: clique no campo empresa e no nome da empresa para enviar um camando para todos os dispositivos da empresa (ao selecionar a empresa, os campos de grupo e usuário ficaram desabilitado)
-* Grupos: clique em grupo e escolha o grupo desejado
-* Usuário de dispositivos: clique em usuário e escolha o usuário desejado.&#x20;
-* Comandos: clique em comando e escolha o comando desejado (Desativar dispositivo, Ativar dispositivo, Desligar tela, Reiniciar dispositivo ou Remover dispositivo (Wipe))
+* **Empresa:** clique no campo empresa e no nome da empresa para enviar um camando para todos os dispositivos da empresa (ao selecionar a empresa, os campos de grupo e usuário ficaram desabilitado)
+* **Grupos:** clique em grupo e escolha o grupo desejado
+* **Usuário de dispositivos**: clique em usuário e escolha o usuário desejado.&#x20;
+* **Comandos:** clique em comando e escolha o comando desejado (Desativar dispositivo, Ativar dispositivo, Desligar tela, Reiniciar dispositivo ou Remover dispositivo (Wipe))
 
 <figure><img src="../../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
 
-Após definir os dados da tela clique em "Enviar" para enviar o comando.  Antes de executar o envio, o sistema abrirá uma caixa de diálogo com os botões "Confirmar" e "Cancelar".&#x20;
+Após definir os dados da tela clique em **"Enviar"** para enviar o comando.  Antes de executar o envio, o sistema abrirá uma caixa de diálogo com os botões "Confirmar" e "Cancelar".&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
 
@@ -63,8 +77,8 @@ Clicando no sinal ">" ao lado do usuário, o sistema exibe mais informações co
 * **Sistema** **operacional** - versão do Android;
 * **Data** **de** **registro** - data e hora do registro do dispositivo;
 * **Grupo** - grupo ao qual o dispositivo está associado;
-* <mark style="color:red;">**Departamento**</mark> <mark style="color:red;"></mark><mark style="color:red;">- unidade ou departamento da organização ao qual o dispositivo está atribuído;</mark>
-* <mark style="color:red;">**Telefone do Usuário**</mark> <mark style="color:red;"></mark><mark style="color:red;">- número de telefone associado ao usuário do dispositivo;</mark>
+* <mark style="color:blue;">**Departamento**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- É um campo de texto livre, ou seja, o administrador pode digitar o que desejar. Indica a unidade ou departamento da organização ao qual o dispositivo está atribuído;</mark>
+* <mark style="color:blue;">**Telefone do Usuário**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- É um campo de texto livre, ou seja, o administrador pode digitar o que desejar. Indica o número de telefone associado ao usuário do dispositivo;</mark>
 * **Data da última comunicação** - última comunicação do dispositivo;
 * **Status** - informa status do dispositivo. Os status que um dispositivo pode ter estão na tabela a seguir:
 
