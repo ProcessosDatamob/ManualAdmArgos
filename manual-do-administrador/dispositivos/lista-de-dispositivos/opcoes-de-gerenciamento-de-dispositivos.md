@@ -14,11 +14,13 @@ layout:
 
 # Opções de gerenciamento de dispositivos
 
-Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível ter acesso as informações do dispositivo, clicando no botão de Mais informações:
+Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível ter acesso as informações do dispositivo, clicando no botão de **Mais informações**:
 
 <mark style="background-color:orange;">NOVA IMAGEM</mark>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (201).png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:blue;">Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso as Informações do dispositivo:</mark>
 
 <figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -166,11 +168,11 @@ A tela para gerar nova senha do dispositivo é mostrada a seguir.
 <figure><img src="../../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:red;">**OBSERVAÇÃO**</mark>
+<mark style="color:blue;">**OBSERVAÇÃO**</mark>
 
-<mark style="color:red;">Ao selecionar a opção "Não pedir credenciais de usuário na inicialização do dispositivo", a senha não será solicitada durante o processo de inicialização. A senha será necessária apenas para desbloquear a tela do dispositivo.</mark>
+<mark style="color:blue;">Ao selecionar a opção "Não pedir credenciais de usuário na inicialização do dispositivo", a senha não será solicitada durante o processo de inicialização. A senha será necessária apenas para desbloquear a tela do dispositivo.</mark>
 
-<mark style="color:red;">**Inicialização Segura (Secure Boot)**</mark><mark style="color:red;">: a senha solicitada na inicialização é uma medida de segurança implementada pelo Secure Boot. Esta funcionalidade protege o processo de inicialização contra ataques de segurança provenientes de códigos mal-intencionados, como malware e ransomware.</mark>
+<mark style="color:blue;">**Inicialização Segura (Secure Boot)**</mark><mark style="color:blue;">: a senha solicitada na inicialização é uma medida de segurança implementada pelo Secure Boot. Esta funcionalidade protege o processo de inicialização contra ataques de segurança provenientes de códigos mal-intencionados, como malware e ransomware.</mark>
 {% endhint %}
 
 ### **Remover Dispositivo (WIPE)**
@@ -185,7 +187,7 @@ Uma mensagem é exibida na tela para informação e advertência. A operação n
 
 ### **Gerenciar**
 
-Esta opção permite acessar a tela para editar dados do dispositivo, como: Usuário, Identificação, Grupo, <mark style="color:red;">Departamento e Telefone do Usuário.</mark>
+Esta opção permite acessar a tela para editar dados do dispositivo, como: Usuário, Identificação, Grupo, <mark style="color:blue;">Departamento e Telefone do Usuário.</mark>
 
 <mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
 
