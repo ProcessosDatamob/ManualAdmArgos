@@ -27,7 +27,7 @@ Para gerenciar os dispositivos ativos da empresa, siga os passos descritos abaix
 2. Na parte superior da tela o sistema exibe a distribuição dos dispositivos, separados por fabricantes
 3. Use os filtros Grupo, Política, Modelo e Fabricante para encontrar os dispositivos se deseja listar
 4. Utilize os Filtros Avançados para buscar Modo de Gerenciamento e Data Inicial de Registro e Data Final de Registro (filtrará pela data de registro dos dispositivos que estão no período especificado) para acessar as informações desejadas
-5. Para localizar um dispositivo específico, digite o número do telefone, nome do usuário, IMEI ou ICCID do dispositivo no campo “Pesquisar”
+5. Para localizar um dispositivo específico, digite o número do telefone, nome do usuário, IMEI, ICCID, <mark style="color:blue;">departamento ou telefone do usuário</mark> do dispositivo no campo “Pesquisar”
 6. Para exportar o relatório dos dispositivos, clique no botão “Excel”
 7. Para copiar as informações dos dispositivos, clique no botão “Copiar”
 8. Clique na opção de “Ações em lote" para aplicar uma ação em vários dispositivos de uma vez só. Para mais informações, acessar o conteúdo [Ações em lote](./#acoes-em-lote) nesta página
