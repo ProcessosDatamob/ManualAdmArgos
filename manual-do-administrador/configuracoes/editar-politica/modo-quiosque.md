@@ -67,7 +67,9 @@ Estando o modo quiosque ativado, as seguintes opções de configuração estarã
 * **Acesso à Configurações**: permite definir como "Liberado" ou "Bloqueado";
 
 {% hint style="info" %}
-<mark style="color:blue;">**OBSERVAÇÃO:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Durante a ativação de um dispositivo em uma política com Modo Quiosque Ativo, a configuração "</mark><mark style="color:blue;">**Acesso à Configurações**</mark><mark style="color:blue;">" precisa estar como "</mark><mark style="color:blue;">**Liberada**</mark><mark style="color:blue;">", para que o usuário possa conceder as permissões solicitadas para a ativação do Companion. Isto poque o usuário precisa acessar diretamente a interface de configurações do dispositivo. Por esse motivo, no modo quiosque nenhum aplicativo conseguirá ativar permissões que exijam acesso a interface de configuração do SO, se as configurações estiverem bloqueadas na política. Após o enroll as configurações poderão ser bloqueadas se necessário.</mark>&#x20;
+<mark style="color:blue;">**OBSERVAÇÃO**</mark>&#x20;
+
+<mark style="color:blue;">Durante a ativação de um dispositivo em uma política com Modo Quiosque Ativo, a configuração "</mark><mark style="color:blue;">**Acesso à Configurações**</mark><mark style="color:blue;">" precisa estar como "</mark><mark style="color:blue;">**Liberada**</mark><mark style="color:blue;">", para que o usuário possa conceder as permissões solicitadas para a ativação do Companion. Isto poque o usuário precisa acessar diretamente a interface de configurações do dispositivo. Por esse motivo, no modo quiosque nenhum aplicativo conseguirá ativar permissões que exijam acesso a interface de configuração do SO, se as configurações estiverem bloqueadas na política. Após o enroll as configurações poderão ser bloqueadas se necessário.</mark>&#x20;
 
 <mark style="color:blue;">Outra opção, para não precisar deixar o acesso as configurações liberado, é deixar as permissões do companion como opcional, assim o usuário consegue ativar sem que seja necessário conceder as permissões, porém neste caso, os dados referentes as permissões não concedidas, não serão coletados.</mark>
 {% endhint %}
@@ -115,4 +117,3 @@ Estando o modo quiosque ativado, as seguintes opções de configuração estarã
 <mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
 
 <figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
-

@@ -25,6 +25,8 @@ Após clicar em "Adicionar", a seguinte tela para preenchimento dos dados da Red
 <mark style="color:red;">Ao selecionar o tipo de segurança “WPA-EAP" ou “WEP-8021X" ou "WPA3-Enterprise\_192, serão exibidos mais campos para preenchimento: Nome do Domínio, Identidade, Identidade Oculta, Senha do Usuário, Autenticação Inner, Autenticação Outer, Tipo de Certificado do Cliente, Certificado do Cliente, Tipo de Certificado do Servidor e Certificado do Servidor.</mark>
 
 {% hint style="info" %}
+<mark style="color:red;">**NOTA**</mark>
+
 <mark style="color:red;">Nos campos  Certificado do Cliente e  Certificado do Servidor, caso não desejar subir arquivo, basta manter a opção "Selecione uma opção", selecionada, assim o sistema não habilitará os campos de carregamento do arquivo.</mark>
 {% endhint %}
 
