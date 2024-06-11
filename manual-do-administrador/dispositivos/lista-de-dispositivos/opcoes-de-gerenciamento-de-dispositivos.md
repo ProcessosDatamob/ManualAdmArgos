@@ -27,8 +27,8 @@ Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível
 * **Usuário -** nome do usuário cadastrado no portal;
 * **Identificação -** Identificação cadastrada para o dispositivo;
 * **Grupo -** grupo cadastrado para o dispositivo**;**
-* <mark style="color:red;">**Departamento**</mark> <mark style="color:red;"></mark><mark style="color:red;">- unidade ou departamento da organização ao qual o dispositivo está atribuído;</mark>
-* <mark style="color:red;">**Telefone do Usuário**</mark> <mark style="color:red;"></mark><mark style="color:red;">- número de telefone associado ao usuário do dispositivo;</mark>
+* <mark style="color:blue;">**Departamento**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- É um campo de texto livre, ou seja, o administrador pode digitar o que desejar. Indica a unidade ou departamento da organização ao qual o dispositivo está atribuído;</mark>
+* <mark style="color:blue;">**Telefone do Usuário**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- É um campo de texto livre, ou seja, o administrador pode digitar o que desejar. Indica o número de telefone associado ao usuário do dispositivo;</mark>
 * **IMEI -** número interno e único em cada dispositivo. No Android 10 já não é possível capturar esta informação do dispositivo porque utilizamos outro método para receber esta informação com o Enriquecimento de URL;
 * **ICCID -** número do chip SIM;
 * **Número de série -** número de série do dispositivo;
