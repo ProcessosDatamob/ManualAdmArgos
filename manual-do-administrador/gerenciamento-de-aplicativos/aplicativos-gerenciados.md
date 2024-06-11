@@ -4,7 +4,7 @@ Esta tela do sistema tem como objetivo, possibilitar ao usuário visualizar e ge
 
 Para visualizar e gerar esse relatório, clique no menu “**Gerenciamento de Aplicativos**” e na opção "**Aplicativos Gerenciados**".
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="213"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="213"><figcaption></figcaption></figure>
 
 ![](<../../.gitbook/assets/0 (21).png>)
 

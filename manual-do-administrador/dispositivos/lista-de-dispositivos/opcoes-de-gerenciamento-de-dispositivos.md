@@ -74,7 +74,7 @@ E clicando nos três pontinhos "**...**" à direita na listagem dos dispositivos
 
 <mark style="color:blue;background-color:orange;">**NOVA IMAGEM**</mark>
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 As opções disponíveis <mark style="color:blue;">variam de acordo com o Modo de Gerenciamento da política na qual o dispositivo estiver vinculado e</mark> estão em destaque na imagem a seguir:
 

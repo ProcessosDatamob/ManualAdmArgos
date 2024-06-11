@@ -162,7 +162,7 @@ A opção Adicionar aplicativos terá comportamentos diferentes quando o Modo Qu
 
 <mark style="color:blue;">**NOVA IMAGEM**</mark>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Modo Quiosque Ativado:** Caso a política que estiver sendo editada for uma política com o **Modo Quiosque** **Ativado**, ao clicar no botão **Adicionar aplicativos**, aparecerão 3 opções para adicionar os aplicativos.
 
@@ -212,13 +212,9 @@ Os aplicativos precisam ser primeiramente adicionados usando a **Google Play Ger
 Ao criar uma política com modo de gerenciamento Android Block SIM, automaticamente na aba Aplicativos, já estará adicionado o aplicativo Block SIM com modo de instalação Forçada, ou seja, quando o usuário realizar a ativação do Vivo Gestão Dispositivo utilizando esta política, já será instalado automaticamente o Block SIM, sem que ele precise baixar na Play Store.
 {% endhint %}
 
-
-
 * **Remota**
 
 <mark style="color:blue;">Os aplicativos enviados via instalação remota, através do menu</mark> [<mark style="color:blue;">"Instalação Remota de Aplicativos"</mark>](../../gerenciamento-de-aplicativos/instalacao-remota-de-aplicativos.md)<mark style="color:blue;">, serão exibidos na listagem de aplicativos com a ORIGEM = "Remota" e com o tipo de instalação 'Disponível' com a edição bloqueada.</mark>
-
-
 
 ### Restrições de Funcionamento
 

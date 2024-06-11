@@ -8,7 +8,7 @@ Para visualizar os consumos, siga os passos descritos abaixo.
 
 ![](<../../.gitbook/assets/0 (10).png>)
 
-<figure><img src="../../.gitbook/assets/image (38).png" alt="" width="531"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-06-11 160847.png" alt=""><figcaption></figcaption></figure>
 
 2. Clique na aba “Dados” ou “SMS” para escolher o tipo de consumo que deseja visualizar.
 3. Preencha as datas do intervalo em que os Dados ou SMS que deseja visualizar foram consumidos. Ao clicar em "Buscar" serão exibidos os históricos de consumo, por usuário, no período especificado.
@@ -17,4 +17,4 @@ Para visualizar os consumos, siga os passos descritos abaixo.
 6. Para exportar as informações dos consumos, clique no botão “Excel”.
 7. Para copiar as informações dos consumos, clique no botão “Copiar”.
 
-<figure><img src="../../.gitbook/assets/image (124).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-06-11 161038.png" alt=""><figcaption></figcaption></figure>
