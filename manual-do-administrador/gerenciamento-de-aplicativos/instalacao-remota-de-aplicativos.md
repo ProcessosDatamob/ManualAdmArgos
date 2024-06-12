@@ -35,8 +35,6 @@ O sistema exibirá uma lista com os aplicativos instalados nos dispositivos da e
 7. Ordene a listagem de aplicativos pelas colunas nas setas "↑↓".
 8. Ao clicar nos três pontinhos "...",  e clicar em  “Visualizar instalação", é possível acessar a tela “Detalhes de Envio do Aplicativo".
 
-<mark style="background-color:orange;">NOVA IMAGEM</mark>
-
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 #### Instalar Aplicativo
@@ -61,14 +59,12 @@ Ao confirmar o envio, o sistema exibirá uma mensagem de sucesso, enviará um pu
 
 <figure><img src="../../.gitbook/assets/image (177).png" alt=""><figcaption></figcaption></figure>
 
-
-
 {% hint style="info" %}
-<mark style="color:blue;">**NOTA**</mark>
+**NOTA**
 
-1. <mark style="color:blue;">O aplicativo enviado através da instalação remota, é enviado com o tipo de instalação "Disponível", sendo assim, caso o usuário desinstalar o aplicativo, para instalar novamente, o administrador, precisara enviar novamente o comando de instalar aplicativo via portal para o dispositivo.</mark>
-2. <mark style="color:blue;">Hoje esta funcionalidade não esta disponível em políticas que estejam com</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Modo Quiosque Ativado.**</mark>
-3. <mark style="color:blue;">Caso o pacote inserido pelo usuário esteja diferente do pacote do app disponível no link de download:</mark>
-   * _<mark style="color:blue;">A Notificação ficará fixa no dispositivo até que o mesmo seja reiniciado</mark>_
-   * _<mark style="color:blue;">O App será removido do dispositivo automaticamente pela Google</mark>_
+1. O aplicativo enviado através da instalação remota, é enviado com o tipo de instalação "Disponível", sendo assim, caso o usuário desinstalar o aplicativo, para instalar novamente, o administrador, precisara enviar novamente o comando de instalar aplicativo via portal para o dispositivo.
+2. Hoje esta funcionalidade não esta disponível em políticas que estejam com **Modo Quiosque Ativado.**
+3. Caso o pacote inserido pelo usuário esteja diferente do pacote do app disponível no link de download:
+   * _A Notificação ficará fixa no dispositivo até que o mesmo seja reiniciado_
+   * _O App será removido do dispositivo automaticamente pela Google_
 {% endhint %}

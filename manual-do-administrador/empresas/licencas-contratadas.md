@@ -16,4 +16,4 @@ Para saber como visualizar as licenças, siga os passos descritos nesta seção:
 7. Para filtrar por status da licença utilize o filtro "Status".
 8. Para filtrar pelo tipo de plano na licença utilize o filtro "Plano".
 
-<figure><img src="../../.gitbook/assets/image (125).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-06-12 094335.png" alt=""><figcaption></figcaption></figure>

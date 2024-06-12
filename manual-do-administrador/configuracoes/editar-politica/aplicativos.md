@@ -68,7 +68,7 @@ A tela a seguir será exibida:
 Nesta tela é possível ver a identificação do aplicativo selecionado e a tela de configuração que foi escolhida ("Configurações Gerenciadas");
 
 {% hint style="info" %}
-**Nota**
+**NOTA**
 
 As configurações disponíveis, vão ser exibidas conforme o que estiver disponível para cada aplicativo, ou seja, irá variar as configurações disponíveis dependendo do aplicativo selecionado. Em alguns aplicativos por exemplo, vai exibir a mensagem: _Não existem configurações disponíveis para este aplicativo._
 {% endhint %}
@@ -158,9 +158,7 @@ O aplicativo será removido da listagem de aplicativos da política que está se
 
 A opção Adicionar aplicativos terá comportamentos diferentes quando o Modo Quiosque estiver ativado ou desativado.
 
-* **Modo Quiosque Desativado:** Ao clicar no botão "**Adicionar Aplicativos**", caso seja uma política com **Modo Quiosque Desativado**<mark style="color:blue;">, serão exibidas duas opções, a</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Playstore**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">que contempla a   listagem de aplicativos que foram adicionados usando a</mark> [<mark style="color:blue;">**Google Play Gerenciada**</mark>](../../gerenciamento-de-aplicativos/google-play-gerenciada.md) <mark style="color:blue;">e a opção</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Manual**</mark><mark style="color:blue;">, que permite adicionar aplicativos de forma manual.</mark>
-
-<mark style="color:blue;">**NOVA IMAGEM**</mark>
+* **Modo Quiosque Desativado:** Ao clicar no botão "**Adicionar Aplicativos**", caso seja uma política com **Modo Quiosque Desativado**, serão exibidas duas opções, a **Playstore** que contempla a   listagem de aplicativos que foram adicionados usando a [**Google Play Gerenciada**](../../gerenciamento-de-aplicativos/google-play-gerenciada.md) e a opção **Manual**, que permite adicionar aplicativos de forma manual.
 
 <figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -196,12 +194,12 @@ Os aplicativos precisam ser primeiramente adicionados usando a **Google Play Ger
 1. Clique na opção “**Manual**", e abrirá a tela “**Adicionar Aplicativos Manualmente**"
 2. Preencha os campos: Nome do App (opcional), Nome do Pacote e clicar em "**Adicionar**"
 
-<mark style="color:red;">O tipo de instalação ficará como "Disponível", e permitirá alterar o tipo de instalação do app para  as opções: Disponível, Pré-instalado, Instalação forçada ou Bloqueado, e vai enviar para o dispositivo o app com o tipo de instalação definido ao salvar a política.</mark>&#x20;
+O tipo de instalação ficará como "Disponível", e permitirá alterar o tipo de instalação do app para  as opções: Disponível, Pré-instalado, Instalação forçada ou Bloqueado, e vai enviar para o dispositivo o app com o tipo de instalação definido ao salvar a política.&#x20;
 
 {% hint style="info" %}
-<mark style="color:blue;">**NOTA**</mark>
+**NOTA**
 
-<mark style="color:blue;">Caso o aplicativo não esteja na Google Play, as opções "Pré-instalado" e "Instalação forçada" terão o mesmo efeito que a opção "Disponível". Ou seja, o aplicativo fica disponível para instalação, o usuário tem a opção de instalá-lo conforme sua conveniência. Não é instalado automaticamente no dispositivo.</mark>
+Caso o aplicativo não esteja na Google Play, as opções "Pré-instalado" e "Instalação forçada" terão o mesmo efeito que a opção "Disponível". Ou seja, o aplicativo fica disponível para instalação, o usuário tem a opção de instalá-lo conforme sua conveniência. Não é instalado automaticamente no dispositivo.
 {% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (163).png" alt="" width="470"><figcaption></figcaption></figure>
@@ -214,7 +212,7 @@ Ao criar uma política com modo de gerenciamento Android Block SIM, automaticame
 
 * **Remota**
 
-<mark style="color:blue;">Os aplicativos enviados via instalação remota, através do menu</mark> [<mark style="color:blue;">"Instalação Remota de Aplicativos"</mark>](../../gerenciamento-de-aplicativos/instalacao-remota-de-aplicativos.md)<mark style="color:blue;">, serão exibidos na listagem de aplicativos com a ORIGEM = "Remota" e com o tipo de instalação 'Disponível' com a edição bloqueada.</mark>
+Os aplicativos enviados via instalação remota, através do menu ["Instalação Remota de Aplicativos"](../../gerenciamento-de-aplicativos/instalacao-remota-de-aplicativos.md), serão exibidos na listagem de aplicativos com a Origem  = "Remota" e com o tipo de instalação 'Disponível' com a edição bloqueada.
 
 ### Restrições de Funcionamento
 

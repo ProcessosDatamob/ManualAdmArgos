@@ -34,7 +34,7 @@ Importante ressaltar que o endereço apresentado pode sofrer alteração ao atua
 
 3. Clique no botão "**Buscar**" e aparecerá a relação de dispositivos e sua última localização automaticamente
 4. Caso queira visualizar a localização de um dispositivo específico, digite o número do dispositivo no campo “**Pesquisar**”.
-5. <mark style="color:blue;">Para ordenar as informações exibidas, clique nas setas ao lado do título da informação que deseja ordenar. (Usuário, Licença, Lat/Lng ou Data).</mark>
+5. Para ordenar as informações exibidas, clique nas setas ao lado do título da informação que deseja ordenar. (Usuário, Licença, Lat/Lng ou Data).
 6. Clique no sinal ">", que aparece no início da linha, para exibir o endereço;
 7. Para exportar o relatório das localizações, clique no link “Excel”.
 8. Para copiar as informações do relatório das localizações, clique no link “Copiar”

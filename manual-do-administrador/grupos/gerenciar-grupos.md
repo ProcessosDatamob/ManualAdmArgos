@@ -10,8 +10,6 @@ Para administrar um grupo, siga os passos descritos abaixo:
 
 2. Ao entrar na tela, a lista de grupos cadastrados é exibida.
 
-<mark style="background-color:orange;">NOVA IMAGEM</mark>
-
 <figure><img src="../../.gitbook/assets/paintttt.png" alt=""><figcaption></figcaption></figure>
 
 3. É possível utilizar o filtro de Licença para encontrar o grupo de um usuário.

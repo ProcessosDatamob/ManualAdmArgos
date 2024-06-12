@@ -56,8 +56,6 @@ Para saber mais sobre como incluir aplicativos de forma manual na política , le
 
 Estando o modo quiosque ativado, as seguintes opções de configuração estarão disponíveis:&#x20;
 
-<mark style="color:red;background-color:orange;">Separei em 2 imagens, 1:</mark>
-
 <figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Botões de navegação**: permite definir os botões de navegação do dispositivo como "Ativo", "Bloqueado" ou "Apenas botão Home";
@@ -67,16 +65,14 @@ Estando o modo quiosque ativado, as seguintes opções de configuração estarã
 * **Acesso à Configurações**: permite definir como "Liberado" ou "Bloqueado";
 
 {% hint style="info" %}
-<mark style="color:blue;">**OBSERVAÇÃO**</mark>&#x20;
+**OBSERVAÇÃO**&#x20;
 
-<mark style="color:blue;">Durante a ativação de um dispositivo em uma política com Modo Quiosque Ativo, a configuração "</mark><mark style="color:blue;">**Acesso à Configurações**</mark><mark style="color:blue;">" precisa estar como "</mark><mark style="color:blue;">**Liberada**</mark><mark style="color:blue;">", para que o usuário possa conceder as permissões solicitadas para a ativação do Companion. Isto poque o usuário precisa acessar diretamente a interface de configurações do dispositivo. Por esse motivo, no modo quiosque nenhum aplicativo conseguirá ativar permissões que exijam acesso a interface de configuração do SO, se as configurações estiverem bloqueadas na política. Após o enroll as configurações poderão ser bloqueadas se necessário.</mark>&#x20;
+Durante a ativação de um dispositivo em uma política com Modo Quiosque Ativo, a configuração "**Acesso à Configurações**" precisa estar como "**Liberada**", para que o usuário possa conceder as permissões solicitadas para a ativação do Companion. Isto poque o usuário precisa acessar diretamente a interface de configurações do dispositivo. Por esse motivo, no modo quiosque nenhum aplicativo conseguirá ativar permissões que exijam acesso a interface de configuração do SO, se as configurações estiverem bloqueadas na política. Após o enroll as configurações poderão ser bloqueadas se necessário.&#x20;
 
-<mark style="color:blue;">Outra opção, para não precisar deixar o acesso as configurações liberado, é deixar as permissões do companion como opcional, assim o usuário consegue ativar sem que seja necessário conceder as permissões, porém neste caso, os dados referentes as permissões não concedidas, não serão coletados.</mark>
+Outra opção, para não precisar deixar o acesso as configurações liberado, é deixar as permissões do companion como opcional, assim o usuário consegue ativar sem que seja necessário conceder as permissões, porém neste caso, os dados referentes as permissões não concedidas, não serão coletados.
 {% endhint %}
 
 * **Serviços Adicionais de Telefonia**: permite definir os serviços de telefonia como "Ativo" ou "Definido pelo dispositivo".  Ao definir como "Ativo" e salvar a política, o sistema enviará na política e no quiosque os pacotes dos serviços de telefonia para o dispositivo, e permitirá receber e realizar ligações no dispositivo que provisionar a política. E ao definir como "Definido pelo Dispositivo", o dispositivo funcionará de acordo com a sua configuração padrão, tendo ou não os serviços.
-
-<mark style="color:red;background-color:orange;">Separei em 2 imagens, 2:</mark>
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -104,16 +100,12 @@ Estando o modo quiosque ativado, as seguintes opções de configuração estarã
 
 <figure><img src="../../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
 
-* <mark style="color:red;">**Bloquear acesso as configurações de Wi-Fi -**</mark> <mark style="color:red;"></mark><mark style="color:red;">impede que os usuários acessem e modifiquem as configurações de Wi-Fi durante a inicialização e uso do dispositivo no modo Kiosk.</mark>
-
-<mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
+* **Bloquear acesso as configurações de Wi-Fi -** impede que os usuários acessem e modifiquem as configurações de Wi-Fi durante a inicialização e uso do dispositivo no modo Kiosk.
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-* <mark style="color:blue;">**Acesso Temporário ao Dispositivo -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Configuração para permitir que o usuário realize acesso ao dispositivo durante um determinado tempo. Para ativar a permissão, arraste a chave para a direita de quem esta a frente da tela. Além disto, é possível definir o tempo de duração do acesso do usuário no dispositivo. Que pode ser de 5,10,15,30 minutos ou 1 hora. Ao habilitar o acesso temporário, será gerada uma senha para que o usuário possa acessar o dispositivo, na sessão</mark> [<mark style="color:blue;">"</mark>](../../dispositivos/lista-de-dispositivos/opcoes-de-gerenciamento-de-dispositivos.md)[<mark style="color:blue;">Opções de Gerenciamento de Dispositivos"</mark> ](../../dispositivos/lista-de-dispositivos/opcoes-de-gerenciamento-de-dispositivos.md)<mark style="color:blue;">detalharemos melhor como irá funcionar.</mark>
+* **Acesso Temporário ao Dispositivo -** Configuração para permitir que o usuário realize acesso ao dispositivo durante um determinado tempo. Para ativar a permissão, arraste a chave para a direita de quem esta a frente da tela. Além disto, é possível definir o tempo de duração do acesso do usuário no dispositivo. Que pode ser de 5, 10, 15, 30 minutos ou 1 hora. Ao habilitar o acesso temporário, será gerada uma senha para que o usuário possa acessar o dispositivo, na sessão ["](../../dispositivos/lista-de-dispositivos/opcoes-de-gerenciamento-de-dispositivos.md)[Opções de Gerenciamento de Dispositivos" ](../../dispositivos/lista-de-dispositivos/opcoes-de-gerenciamento-de-dispositivos.md)detalharemos melhor como irá funcionar.
 
-<mark style="color:blue;">Após encerrar o tempo definido, o Modo Quiosque é ativado novamente automaticamente.</mark>&#x20;
-
-<mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
+Após encerrar o tempo definido, o Modo Quiosque é ativado novamente automaticamente.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>

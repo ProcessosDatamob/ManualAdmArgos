@@ -14,7 +14,7 @@ layout:
 
 # Novos Campos e Filtros de Identificação do Dispositivo
 
-No menu **"Lista de Dispositivos"**, na opção **"Gerenciar",** foram adicionadas novas opções que permitem inserir informações detalhadas sobre cada dispositivo. O sistema agora exibe os campos **Departamento** e **Telefone do Usuário** <mark style="color:blue;">que são de texto livre, ou seja, permite livre digitação ao administrador,</mark> proporcionando uma gestão mais completa e organizada dos dispositivos.
+No menu **"Lista de Dispositivos"**, na opção **"Gerenciar",** foram adicionadas novas opções que permitem inserir informações detalhadas sobre cada dispositivo. O sistema agora exibe os campos **Departamento** e **Telefone do Usuário** que são de texto livre, ou seja, permite livre digitação ao administrador, proporcionando uma gestão mais completa e organizada dos dispositivos.
 
 As informações de **Departamento** e **Telefone do Usuário** foram adicionadas na tela inicial da **"Lista de Dispositivos"** ao clicar em ">" é possível visualiza-las.
 

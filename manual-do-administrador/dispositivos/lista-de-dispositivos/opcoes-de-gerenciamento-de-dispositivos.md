@@ -16,11 +16,9 @@ layout:
 
 Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível ter acesso as informações do dispositivo, clicando no botão de **Mais informações**:
 
-<mark style="background-color:orange;">NOVA IMAGEM</mark>
-
 <figure><img src="../../../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso as Informações do dispositivo:</mark>
+Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso as Informações do dispositivo:
 
 <figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -29,8 +27,8 @@ Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível
 * **Usuário -** nome do usuário cadastrado no portal;
 * **Identificação -** Identificação cadastrada para o dispositivo;
 * **Grupo -** grupo cadastrado para o dispositivo**;**
-* <mark style="color:blue;">**Departamento**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- É um campo de texto livre, ou seja, o administrador pode digitar o que desejar. Indica a unidade ou departamento da organização ao qual o dispositivo está atribuído;</mark>
-* <mark style="color:blue;">**Telefone do Usuário**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- É um campo de texto livre, ou seja, o administrador pode digitar o que desejar. Indica o número de telefone associado ao usuário do dispositivo;</mark>
+* **Departamento** - É um campo de texto livre, ou seja, o administrador pode digitar o que desejar. Indica a unidade ou departamento da organização ao qual o dispositivo está atribuído;
+* **Telefone do Usuário** - É um campo de texto livre, ou seja, o administrador pode digitar o que desejar. Indica o número de telefone associado ao usuário do dispositivo;
 * **IMEI -** número interno e único em cada dispositivo. No Android 10 já não é possível capturar esta informação do dispositivo porque utilizamos outro método para receber esta informação com o Enriquecimento de URL;
 * **ICCID -** número do chip SIM;
 * **Número de série -** número de série do dispositivo;
@@ -39,9 +37,7 @@ Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível
 * **Fabricante** - nome do fabricante do dispositivo;
 * **Sistema Operacional -** sistema operacional do dispositivo;
 * **Versão do Android** - versão do Android do dispositivo;
-* <mark style="color:blue;">**Senha de Acesso Temporário**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- Esta senha temporária, é gerada ao ativar a Configuração</mark> [<mark style="color:blue;">"Acesso Temporário ao Dispositivo"</mark>](../../configuracoes/editar-politica/modo-quiosque.md) <mark style="color:blue;">no Modo Quiosque. A senha deverá ser fornecida ao usuário do dispositivo e será atualizada no portal a cada 5 minutos,  com opção de copiar e exibição do tempo restante até a senha expirar. Sendo assim, caso foi definido o tempo de 10 minutos para o usuários acessar o dispositivo, caso ultrapasse esses 10 minutos, ele não conseguirá utilizar a mesma senha, pois ela já terá atualizado. No dispositivo, com a senha em mãos, o usuário deverá acessar as</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Configurações Iniciais**</mark><mark style="color:blue;">, clicar na opção</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Acesso Temporário**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">e digitar a senha no campo</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**"Código"**</mark><mark style="color:blue;">.</mark>
-
-<mark style="color:blue;">NOVA IMAGEM</mark>
+* **Senha de Acesso Temporário** - Esta senha temporária, é gerada ao ativar a Configuração ["Acesso Temporário ao Dispositivo"](../../configuracoes/editar-politica/modo-quiosque.md) no Modo Quiosque. A senha deverá ser fornecida ao usuário do dispositivo e será atualizada no portal a cada 5 minutos,  com opção de copiar e exibição do tempo restante até a senha expirar. Sendo assim, caso foi definido o tempo de 10 minutos para o usuários acessar o dispositivo, caso ultrapasse esses 10 minutos, ele não conseguirá utilizar a mesma senha, pois ela já terá atualizado. No dispositivo, com a senha em mãos, o usuário deverá acessar as **Configurações Iniciais**, clicar na opção **Acesso Temporário** e digitar a senha no campo **"Código"**.
 
 <figure><img src="../../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
 
@@ -72,11 +68,9 @@ Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível
 
 E clicando nos três pontinhos "**...**" à direita na listagem dos dispositivos, aparecem as opções de consulta e configurações do dispositivo, como ilustrado na imagem abaixo:
 
-<mark style="color:blue;background-color:orange;">**NOVA IMAGEM**</mark>
-
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-As opções disponíveis <mark style="color:blue;">variam de acordo com o Modo de Gerenciamento da política na qual o dispositivo estiver vinculado e</mark> estão em destaque na imagem a seguir:
+As opções disponíveis variam de acordo com o Modo de Gerenciamento da política na qual o dispositivo estiver vinculado e estão em destaque na imagem a seguir:
 
 <table><thead><tr><th width="277.28506787330315">Modo de Gerenciamento</th><th>Opções disponíveis</th></tr></thead><tbody><tr><td>Android</td><td>Relatório de Não Conformidade<br>Alterar Política<br>Ativar/ Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Gerar Nova Senha do Dispositivo<br>Remover Dispositivo (WIPE)<br>Gerenciar</td></tr><tr><td>Android Block SIM</td><td>Histórico de Bateria<br>Histórico de Armazenamento<br>Relatório de Não Conformidade<br>Alterar Política<br>Ativar/Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Remover Bloqueio de Tela<br>Remover Dispositivo (WIPE)<br>Gerenciar </td></tr><tr><td>Android Work Profile</td><td>Histórico de Bateria<br>Histórico de Armazenamento<br>Relatório de Não Conformidade<br>Alterar Política<br>Remover Dispositivo (WIPE)<br>Gerenciar </td></tr></tbody></table>
 
@@ -168,11 +162,11 @@ A tela para gerar nova senha do dispositivo é mostrada a seguir.
 <figure><img src="../../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:blue;">**OBSERVAÇÃO**</mark>
+**OBSERVAÇÃO**
 
-<mark style="color:blue;">Ao selecionar a opção "Não pedir credenciais de usuário na inicialização do dispositivo", a senha não será solicitada durante o processo de inicialização. A senha será necessária apenas para desbloquear a tela do dispositivo.</mark>
+Ao selecionar a opção "Não pedir credenciais de usuário na inicialização do dispositivo", a senha não será solicitada durante o processo de inicialização. A senha será necessária apenas para desbloquear a tela do dispositivo.
 
-<mark style="color:blue;">**Inicialização Segura (Secure Boot)**</mark><mark style="color:blue;">: a senha solicitada na inicialização é uma medida de segurança implementada pelo Secure Boot. Esta funcionalidade protege o processo de inicialização contra ataques de segurança provenientes de códigos mal-intencionados, como malware e ransomware.</mark>
+**Inicialização Segura (Secure Boot)**: a senha solicitada na inicialização é uma medida de segurança implementada pelo Secure Boot. Esta funcionalidade protege o processo de inicialização contra ataques de segurança provenientes de códigos mal-intencionados, como malware e ransomware.
 {% endhint %}
 
 ### **Remover Dispositivo (WIPE)**
@@ -187,15 +181,11 @@ Uma mensagem é exibida na tela para informação e advertência. A operação n
 
 ### **Gerenciar**
 
-Esta opção permite acessar a tela para editar dados do dispositivo, como: Usuário, Identificação, Grupo, <mark style="color:blue;">Departamento e Telefone do Usuário.</mark>
-
-<mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
+Esta opção permite acessar a tela para editar dados do dispositivo, como: Usuário, Identificação, Grupo, Departamento e Telefone do Usuário.
 
 <figure><img src="../../../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
 
 Além de poder editar os dados, são exibidos mais abaixo duas listas com as informações de Software e Hardware relacionados ao dispositivo gerenciado.
-
-<mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
 
 <figure><img src="../../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 

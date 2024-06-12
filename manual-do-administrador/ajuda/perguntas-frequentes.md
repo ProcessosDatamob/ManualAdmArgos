@@ -12,8 +12,6 @@ Para visualizar as perguntas frequentes, clique no menu “**Ajuda**”, selecio
 
 <figure><img src="../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">Ao rolar até o final da página, temos acesso aos Manuais clicando em "Saiba mais":</mark>
-
-<mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
+Ao rolar até o final da página, temos acesso aos Manuais clicando em "Saiba mais":
 
 <figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>

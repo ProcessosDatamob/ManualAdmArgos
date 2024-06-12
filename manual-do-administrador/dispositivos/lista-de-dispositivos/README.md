@@ -20,8 +20,6 @@ Para gerenciar os dispositivos ativos da empresa, siga os passos descritos abaix
 
 <figure><img src="../../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
-
 <figure><img src="../../../.gitbook/assets/painttt.png" alt=""><figcaption></figcaption></figure>
 
 2. Na parte superior da tela o sistema exibe a distribuição dos dispositivos, separados por fabricantes
@@ -65,8 +63,6 @@ As informações do dispositivo exibidas na lista são:
 
 Clicando no sinal ">" ao lado do usuário, o sistema exibe mais informações conforme pode ser visto na imagem abaixo.
 
-<mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
-
 <figure><img src="../../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
 
 * **Política** - nome da política atribuída ao dispositivo;
@@ -77,8 +73,8 @@ Clicando no sinal ">" ao lado do usuário, o sistema exibe mais informações co
 * **Sistema** **operacional** - versão do Android;
 * **Data** **de** **registro** - data e hora do registro do dispositivo;
 * **Grupo** - grupo ao qual o dispositivo está associado;
-* <mark style="color:blue;">**Departamento**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- É um campo de texto livre, ou seja, o administrador pode digitar o que desejar. Indica a unidade ou departamento da organização ao qual o dispositivo está atribuído;</mark>
-* <mark style="color:blue;">**Telefone do Usuário**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- É um campo de texto livre, ou seja, o administrador pode digitar o que desejar. Indica o número de telefone associado ao usuário do dispositivo;</mark>
+* **Departamento** - É um campo de texto livre, ou seja, o administrador pode digitar o que desejar. Indica a unidade ou departamento da organização ao qual o dispositivo está atribuído;
+* **Telefone do Usuário** - É um campo de texto livre, ou seja, o administrador pode digitar o que desejar. Indica o número de telefone associado ao usuário do dispositivo;
 * **Data da última comunicação** - última comunicação do dispositivo;
 * **Status** - informa status do dispositivo. Os status que um dispositivo pode ter estão na tabela a seguir:
 

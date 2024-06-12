@@ -1,6 +1,6 @@
 # Alteração de Telefone por Licença
 
-<mark style="color:blue;">Na tela de "Dashboard" foi realizada uma alteração que permite identificar dispositivos por licença ao invés do número de telefone. Essa mudança facilita o entendimento e a gestão das informações dos dispositivos.</mark>
+Foi realizada uma alteração que permite identificar dispositivos por licença ao invés do número de telefone. Essa mudança facilita o entendimento e a gestão das informações dos dispositivos.
 
 A alteração foi realizada nas seguintes telas:
 

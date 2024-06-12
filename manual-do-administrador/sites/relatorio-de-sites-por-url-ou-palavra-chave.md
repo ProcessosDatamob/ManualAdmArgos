@@ -10,6 +10,6 @@ Para visualizar este relatório, siga os passos descritos nesta seção.
 
 2. Digite uma URL ou Palavra-chave para gerar o relatório de sites específicos. Caso queira gerar o relatório de todos os sites, deixe o campo em branco;
 3. Clique no botão “Buscar” para gerar o relatório dos sites acessados;
-4. Para ordenar as informações exibidas, clique nas setas ao lado do título da informação que desejar <mark style="color:blue;">(URL ou Palavra-chave, Usuário, Licença ou Data);</mark>
+4. Para ordenar as informações exibidas, clique nas setas ao lado do título da informação que desejar (URL ou Palavra-chave, Usuário, Licença ou Data);
 5. Para exportar as informações dos sites acessados, clique no botão “Excel”;
 6. Para copiar as informações dos sites acessados, clique no botão “Copiar”;
