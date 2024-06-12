@@ -18,7 +18,7 @@ Para saber como configurar a empresa siga os passos descritos nesta sessão:
 * **Autenticação de dois fatores -** Esta configuração permite ativar a autenticação de dois fatores no Portal de Administração  **\<NomeProduto>**.  Após ativar a configuração, sempre que tentar realizar acesso ao Portal, o usuário precisará informar um código de confirmação que será enviado para o seu e-mail;
 
 {% hint style="info" %}
-**Observação:**
+**OBSERVAÇÃO**
 
 Antes de ativar essa configuração certifique que todos os usuários estão cadastrados com um e-mail válido.&#x20;
 {% endhint %}

@@ -10,8 +10,6 @@ Para criar um grupo, siga os passos descritos nesta seção
 3. Preencha o nome do grupo.
 4. Clique em “**Cadastrar**” para concluir o cadastro do novo grupo.
 
-<mark style="background-color:orange;">NOVA IMAGEM</mark>
-
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Usuários ou Dispositivos que não estão vinculados a nenhum grupo são listados e podem ser marcados para já estarem no novo grupo que está sendo cadastrado. Também é possível pesquisar usuários para vincular ao novo grupo.
