@@ -65,9 +65,9 @@ Ao confirmar o envio, o sistema exibirá uma mensagem de sucesso, enviará um pu
 **NOTA**
 
 1. O aplicativo enviado através da instalação remota, é enviado com o tipo de instalação "Disponível", sendo assim, caso o usuário desinstalar o aplicativo, para instalar novamente, o administrador, precisara enviar novamente o comando de instalar aplicativo via portal para o dispositivo.
-2. Em políticas que estejam com **Modo Quiosque Ativado,** para que a instalação remota de aplicativos funcione, será necessário liberar os seguintes pacotes:
-   * com.google.android.packageinstaller
-   * android.app.Dialog
+2. <mark style="color:red;">Em políticas que estejam com</mark> <mark style="color:red;"></mark><mark style="color:red;">**Modo Quiosque Ativado,**</mark> <mark style="color:red;"></mark><mark style="color:red;">para que a instalação remota de aplicativos funcione,</mark> <mark style="color:red;">será necessário liberar os seguintes pacotes:</mark>
+   * <mark style="color:red;">com.google.android.packageinstaller: necessário para a instalação de pacotes de aplicativos.</mark>
+   * <mark style="color:red;">android.app.Dialog: utilizado para exibir alertas e obter confirmações do usuário durante o processo de instalação.</mark>
 3. Caso o pacote inserido pelo usuário esteja diferente do pacote do app disponível no link de download:
    * _A Notificação ficará fixa no dispositivo até que o mesmo seja reiniciado_
    * _O App será removido do dispositivo automaticamente pela Google_
