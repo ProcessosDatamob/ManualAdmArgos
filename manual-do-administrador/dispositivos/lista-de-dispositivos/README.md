@@ -22,7 +22,7 @@ Para gerenciar os dispositivos ativos da empresa, siga os passos descritos abaix
 
 <mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 2. Na parte superior da tela o sistema exibe a distribuição dos dispositivos, separados por fabricantes
 3. Use os filtros Grupo, Política, Modelo e Fabricante para encontrar os dispositivos se deseja listar
@@ -35,13 +35,13 @@ Para gerenciar os dispositivos ativos da empresa, siga os passos descritos abaix
 
 <mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 10. <mark style="color:red;">Clique no ícone de configurações para selecionar as colunas que ficarão visíveis, e depois clique em "Salvar" para definir a configuração como padrão da tela para o usuário logado</mark>
 
     <mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 10. <mark style="color:red;">Ordene as colunas: Usuário, Identificação, Licença, IMEI, Modelo, Data de Registro e Data da última comunicação com as setas "↑↓"</mark>&#x20;
 11. Use os três pontinhos "..." para exibir o menu de ações e aplicar a ação desejada ao dispositivo

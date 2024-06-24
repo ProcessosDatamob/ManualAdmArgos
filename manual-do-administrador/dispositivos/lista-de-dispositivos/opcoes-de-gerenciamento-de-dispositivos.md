@@ -177,7 +177,9 @@ Além de poder editar os dados, são exibidos mais abaixo duas listas com as inf
 
 <figure><img src="../../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">Na aba "</mark><mark style="color:red;">**Aplicativos**</mark><mark style="color:red;">"</mark>
+<mark style="color:red;">Na aba "</mark><mark style="color:red;">**Aplicativos**</mark><mark style="color:red;">", é possível acessar a lista de todos os aplicativos instalados no dispositivo, contendo as seguintes informações: ícone, nome, consumo e tempo de uso. Os dados de consumo e tempo de uso são registrados dentro do ciclo. É possível pesquisar um aplicativo específico utilizando o campo de pesquisa, exportar relatórios completos ou da página, além de copiar as informações da lista. A aba também permite visualizar o gráfico de "Histórico de Consumo" do aplicativo durante o ciclo.</mark>
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">Na aba "</mark><mark style="color:red;">**Bateria**</mark><mark style="color:red;">", é possível selecionar uma data para visualizar as informações desejadas. Ao escolher a data, o sistema buscará e exibirá os dados da bateria em formato de gráfico.</mark>
 
@@ -186,24 +188,3 @@ Além de poder editar os dados, são exibidos mais abaixo duas listas com as inf
 <mark style="color:red;">Na aba "</mark><mark style="color:red;">**Armazenamento Livre**</mark><mark style="color:red;">" é possível visualizar a memória livre no armazenamento interno do dispositivo ao selecionar uma data para visualizar as informações desejadas. Ao escolher a data, o sistema buscará e exibirá os dados de armazenamento em formato de gráfico.</mark>
 
 <figure><img src="../../../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
-
-
-
-### **Informações de Software**
-
-* **Modo de gerenciamento -** exibe o modo de gerenciamento utilizado
-* **Versão do app -** versão do companion instalado no dispositivo
-* **Número de Série -** número de série do dispositivo;
-* **Em Conformidade -** é a aderência do dispositivo a todas as configurações de políticas atribuídas a ele. Se alguma configuração não foi aplicada, o valor desta opção será "Não".&#x20;
-* **Status Aplicado -** status do registro do dispositivo, se o dispositivo está totalmente registrado, o status será "Ativo";
-* **Data da última atualização -** data e hora em que as informações do dispositivo foram sincronizadas com o portal. Esta data vem da AMAPI (API da Google), ou seja, são as informações coletadas pela API da Google no dispositivo;
-* **Data de Sincronização da Política -**exibirá a data da sincronização da política;
-* **Versão do Android -** versão do Android do dispositivo;
-* **Versão da Política Aplicada** - versão da política;
-* **Nome da Política no Portal** - nome da política atribuída ao dispositivo;
-* **Nome da Política no Dispositivo -** nome da política atribuída no dispositivo;
-
-### **Informações de Hardware**
-
-* **Armazenamento Interno -** quanto de armazenamento interno possui;
-* **Bateria -** Quantos % de bateria está no momento;
