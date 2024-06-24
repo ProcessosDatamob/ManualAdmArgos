@@ -72,10 +72,6 @@ E clicando nos três pontinhos "**...**" à direita na listagem dos dispositivos
 
 As opções disponíveis variam de acordo com o Modo de Gerenciamento da política na qual o dispositivo estiver vinculado e estão em destaque na imagem a seguir:
 
-<mark style="color:red;">HISTORICO DE ARMAZENAMENTO REMOVIDO DA TABELA</mark>
-
-<mark style="color:red;">HISTORICO E BATERIA REMOVIDO DA TABELA</mark>
-
 <table><thead><tr><th width="272.28506787330315">Modo de Gerenciamento</th><th>Opções disponíveis</th></tr></thead><tbody><tr><td>Android</td><td>Histórico de Bateria<br>Histórico de Armazenamento<br>Relatório de Não Conformidade<br>Alterar Política<br>Ativar/ Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Gerar Nova Senha do Dispositivo<br>Remover Dispositivo (WIPE)<br>Gerenciar Informações</td></tr><tr><td>Android Block SIM</td><td><p>Histórico de Bateria<br>Histórico de Armazenamento</p><p>Relatório de Não Conformidade<br>Alterar Política<br>Ativar/Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Remover Bloqueio de Tela<br>Remover Dispositivo (WIPE)<br>Gerenciar </p></td></tr><tr><td>Android Work Profile</td><td><p>Histórico de Bateria<br>Histórico de Armazenamento</p><p>Relatório de Não Conformidade<br>Alterar Política<br>Remover Dispositivo (WIPE)<br>Gerenciar </p></td></tr></tbody></table>
 
 As opções que estão em destaque na figura são detalhadas nas próximas subseções.

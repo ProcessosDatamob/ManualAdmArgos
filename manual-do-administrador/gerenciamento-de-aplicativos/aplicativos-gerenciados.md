@@ -6,8 +6,6 @@ Para visualizar e gerar esse relatório, clique no menu “**Gerenciamento de Ap
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="213"><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/0 (21).png>)
-
 O sistema exibirá uma lista com todos os aplicativos instalados nos dispositivos da empresa. A tela de exibição dos aplicativos gerenciados é apresentada a seguir.
 
 <figure><img src="../../.gitbook/assets/image (63).png" alt="" width="563"><figcaption></figcaption></figure>

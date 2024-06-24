@@ -16,7 +16,7 @@ layout:
 
 Esta funcionalidade permite a instalação de aplicativos remotamente sem que esses aplicativos estejam disponíveis na Play Store. Isso elimina a necessidade de publicação na Play Store, simplificando o processo de distribuição de aplicativos específicos para os dispositivos gerenciados pela empresa. Com essa funcionalidade, os administradores podem instalar diretamente os aplicativos necessários, garantindo uma distribuição mais rápida e eficiente de soluções empresariais personalizadas.&#x20;
 
-<mark style="color:red;">É importante que a configuração Política de aplicativos não confiáveis (veja mais informações na Sessão</mark> [<mark style="color:red;">Segurança</mark>](../configuracoes/editar-politica/configuracoes-gerais/seguranca.md)<mark style="color:red;">) esteja selecionada para Permitir Instalações de Aplicativos Não Confiáveis, pois caso contrário, o aplicativo não poderá ser instalado.</mark>
+É importante que a configuração Política de aplicativos não confiáveis (veja mais informações na Sessão [Segurança](../configuracoes/editar-politica/configuracoes-gerais/seguranca.md)) esteja selecionada para Permitir Instalações de Aplicativos Não Confiáveis, pois caso contrário, o aplicativo não poderá ser instalado.
 
 Para que isso seja possível, o aplicativo deve estar em um servidor com acesso público a uma URL e em um ambiente HTTPS. Se o arquivo não estiver nessas condições, o download do aplicativo não será realizado.
 
@@ -65,9 +65,9 @@ Ao confirmar o envio, o sistema exibirá uma mensagem de sucesso, enviará um pu
 **NOTA**
 
 1. O aplicativo enviado através da instalação remota, é enviado com o tipo de instalação "Disponível", sendo assim, caso o usuário desinstalar o aplicativo, para instalar novamente, o administrador, precisara enviar novamente o comando de instalar aplicativo via portal para o dispositivo.
-2. <mark style="color:red;">Em políticas que estejam com</mark> <mark style="color:red;"></mark><mark style="color:red;">**Modo Quiosque Ativado,**</mark> <mark style="color:red;"></mark><mark style="color:red;">para que a instalação remota de aplicativos funcione,</mark> <mark style="color:red;">será necessário liberar os seguintes pacotes:</mark>
-   * <mark style="color:red;">com.google.android.packageinstaller: necessário para a instalação de pacotes de aplicativos.</mark>
-   * <mark style="color:red;">android.app.Dialog: utilizado para exibir alertas e obter confirmações do usuário durante o processo de instalação.</mark>
+2. Em políticas que estejam com **Modo Quiosque Ativado,** para que a instalação remota de aplicativos funcione, será necessário liberar os seguintes pacotes:
+   * com.google.android.packageinstaller: necessário para a instalação de pacotes de aplicativos.
+   * android.app.Dialog: utilizado para exibir alertas e obter confirmações do usuário durante o processo de instalação.
 3. Caso o pacote inserido pelo usuário esteja diferente do pacote do app disponível no link de download:
    * _A Notificação ficará fixa no dispositivo até que o mesmo seja reiniciado_
    * _O App será removido do dispositivo automaticamente pela Google_
