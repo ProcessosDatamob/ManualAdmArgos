@@ -16,7 +16,9 @@ layout:
 
 Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível ter acesso as informações do dispositivo, clicando no botão de **Mais informações**:
 
-<figure><img src="../../../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
+<mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
+
+<figure><img src="../../../.gitbook/assets/Captura de tela 2024-06-24 114339.png" alt=""><figcaption></figcaption></figure>
 
 Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso as Informações do dispositivo:
 
@@ -68,24 +70,19 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 
 E clicando nos três pontinhos "**...**" à direita na listagem dos dispositivos, aparecem as opções de consulta e configurações do dispositivo, como ilustrado na imagem abaixo:
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de tela 2024-06-24 114548.png" alt=""><figcaption></figcaption></figure>
 
 As opções disponíveis variam de acordo com o Modo de Gerenciamento da política na qual o dispositivo estiver vinculado e estão em destaque na imagem a seguir:
 
-<table><thead><tr><th width="277.28506787330315">Modo de Gerenciamento</th><th>Opções disponíveis</th></tr></thead><tbody><tr><td>Android</td><td>Relatório de Não Conformidade<br>Alterar Política<br>Ativar/ Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Gerar Nova Senha do Dispositivo<br>Remover Dispositivo (WIPE)<br>Gerenciar</td></tr><tr><td>Android Block SIM</td><td>Histórico de Bateria<br>Histórico de Armazenamento<br>Relatório de Não Conformidade<br>Alterar Política<br>Ativar/Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Remover Bloqueio de Tela<br>Remover Dispositivo (WIPE)<br>Gerenciar </td></tr><tr><td>Android Work Profile</td><td>Histórico de Bateria<br>Histórico de Armazenamento<br>Relatório de Não Conformidade<br>Alterar Política<br>Remover Dispositivo (WIPE)<br>Gerenciar </td></tr></tbody></table>
+<mark style="color:red;">HISTORICO DE ARMAZENAMENTO REMOVIDO DA TABELA</mark>
+
+<mark style="color:red;">HISTORICO E BATERIA REMOVIDO DA TABELA</mark>
+
+<table><thead><tr><th width="272.28506787330315">Modo de Gerenciamento</th><th>Opções disponíveis</th></tr></thead><tbody><tr><td>Android</td><td>Relatório de Não Conformidade<br>Alterar Política<br>Ativar/ Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Gerar Nova Senha do Dispositivo<br>Remover Dispositivo (WIPE)<br>Gerenciar</td></tr><tr><td>Android Block SIM</td><td>Relatório de Não Conformidade<br>Alterar Política<br>Ativar/Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Remover Bloqueio de Tela<br>Remover Dispositivo (WIPE)<br>Gerenciar </td></tr><tr><td>Android Work Profile</td><td>Relatório de Não Conformidade<br>Alterar Política<br>Remover Dispositivo (WIPE)<br>Gerenciar </td></tr></tbody></table>
 
 As opções que estão em destaque na figura são detalhadas nas próximas subseções.
 
-### **Histórico de Bateria**
-
-Para visualizar o histórico da bateria do dispositivo, clique em “**Histórico de bateria**”.
-
-O sistema exibirá a tela do histórico da bateria do dispositivo.
-
-1. Selecione uma data, para visualizar os dados do histórico.
-2. Passe o mouse sobre o gráfico para visualizar os valores em horário específico.
-
-<figure><img src="../../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+<mark style="color:red;">CONTEUDO HISTÓRICO DE BATERIA REMOVIDO</mark>
 
 ### **Histórico de Armazenamento**
 
@@ -181,13 +178,23 @@ Uma mensagem é exibida na tela para informação e advertência. A operação n
 
 ### **Gerenciar**
 
-Esta opção permite acessar a tela para editar dados do dispositivo, como: Usuário, Identificação, Grupo, Departamento e Telefone do Usuário.
+<mark style="color:red;">Ao entrar na tela o sistema exibira a tela diretamente na aba "Detalhes", onde é possível</mark> editar dados do dispositivo, como: Usuário, Identificação, Grupo, Departamento e Telefone do Usuário.
 
-<figure><img src="../../../.gitbook/assets/image (190).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
 
 Além de poder editar os dados, são exibidos mais abaixo duas listas com as informações de Software e Hardware relacionados ao dispositivo gerenciado.
 
 <figure><img src="../../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:red;">Na aba "Aplicativos"</mark>
+
+<mark style="color:red;">Na aba "Bateria", você pode selecionar uma data para visualizar as informações desejadas. Ao escolher a data, o sistema buscará e exibirá os dados da bateria em formato de gráfico.</mark>
+
+<figure><img src="../../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:red;">Na aba "Armazenamento Livre"</mark>
+
+
 
 ### **Informações de Software**
 

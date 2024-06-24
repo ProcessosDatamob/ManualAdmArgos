@@ -63,31 +63,4 @@ Após definir os dados da tela clique em **"Enviar"** para enviar o comando.  An
 
 <figure><img src="../../../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
 
-### **Informações do Dispositivo**
-
-As informações do dispositivo exibidas na lista são:
-
-* **Usuário -** nome do usuário cadastrado no portal;
-* **Identificação -** Identificação cadastrada para o dispositivo;
-* **Telefone -** número de telefone;
-* **IMEI -** número interno e único em cada dispositivo. No Android 10 já não é possível capturar esta informação do dispositivo porque utilizamos outro método para receber esta informação com o Enriquecimento de URL;
-* **Modelo -** modelo do dispositivo;
-
-Clicando no sinal ">" ao lado do usuário, o sistema exibe mais informações conforme pode ser visto na imagem abaixo.
-
-<figure><img src="../../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
-
-* **Política** - nome da política atribuída ao dispositivo;
-* **Modo de Gerenciamento** - modo de gerenciamento atribuído ao dispositivo;
-* **Versão do app \<NomeProduto> -** versão do companion instalado no dispositivo;
-* **ICCID -** número do chip SIM;
-* **Fabricante** - nome do fabricante do dispositivo;
-* **Sistema** **operacional** - versão do Android;
-* **Data** **de** **registro** - data e hora do registro do dispositivo;
-* **Grupo** - grupo ao qual o dispositivo está associado;
-* **Departamento** - É um campo de texto livre, ou seja, o administrador pode digitar o que desejar. Indica a unidade ou departamento da organização ao qual o dispositivo está atribuído;
-* **Telefone do Usuário** - É um campo de texto livre, ou seja, o administrador pode digitar o que desejar. Indica o número de telefone associado ao usuário do dispositivo;
-* **Data da última comunicação** - última comunicação do dispositivo;
-* **Status** - informa status do dispositivo. Os status que um dispositivo pode ter estão na tabela a seguir:
-
-<table data-header-hidden><thead><tr><th width="164.98324022346367"></th><th></th></tr></thead><tbody><tr><td><strong>Status</strong></td><td><strong>Descrição</strong></td></tr><tr><td>Ativo</td><td>O dispositivo está ativo.</td></tr><tr><td>Desabilitado</td><td>O dispositivo está desativado.</td></tr><tr><td>Deletado</td><td>O dispositivo foi excluído. Esse estado é usado no relatório de status final quando o dispositivo confirma a exclusão.</td></tr><tr><td>Provisionando</td><td>O dispositivo está sendo provisionado. Os dispositivos recém registrados ficam nesse estado até que uma política seja aplicada.</td></tr></tbody></table>
+<mark style="color:red;background-color:orange;">REMOVER CONTEÚDO DE INFORMAÇÕES DO DISPOSITIVO</mark>

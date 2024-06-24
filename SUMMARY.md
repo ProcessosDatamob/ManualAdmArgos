@@ -68,7 +68,7 @@
 
 * [Release Notes \<NomeProduto> V 11.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/README.md)
   * [Customização de colunas para Exibição de Informações](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/customizacao-de-colunas-para-exibicao-de-informacoes.md)
-  * [Page 11](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/page-11.md)
+  * [Novo Layout da Opção Gerenciar Dispositivo](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/novo-layout-da-opcao-gerenciar-dispositivo.md)
   * [Page 10](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/page-10.md)
   * [Page 9](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/page-9.md)
   * [Page 8](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/page-8.md)
