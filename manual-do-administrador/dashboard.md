@@ -94,13 +94,13 @@ Este indicador exibe o percentual de consumo de SMS enviados pelos dispositivos 
 
 ### **Consumo de Dados por Aplicativo**
 
-Este gráfico exibe os 5 aplicativos que mais consumiram dados móveis durante o ciclo. Os dados exibidos, são ordenados em percentual.
+Este gráfico exibe nome e valor da porcentagem dos 5 aplicativos que mais consumiram dados móveis durante o ciclo. Os dados exibidos, são ordenados em percentual.
 
-O valor percentual de cada um dos 5 aplicativos é calculado em relação à soma total de consumo de todos os aplicativos durante o ciclo.
+O valor percentual de cada um dos 5 aplicativos é calculado em relação à soma total de consumo de todos os aplicativos durante o ciclo, os dados são atualizados sempre que acessar a tela.
 
-Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as informações de todos os aplicativos. Para saber como utilizar essa tela, leia a seção “**Aplicativos**” deste manual.
+Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as informações de todos os aplicativos. Para saber como utilizar essa tela, leia a seção “Aplicativos” deste manual.
 
-![](../.gitbook/assets/16.png)
+<figure><img src="../.gitbook/assets/Captura de tela 2024-06-24 153854.png" alt=""><figcaption></figcaption></figure>
 
 ### **Consumo de Dados por Usuário**
 
