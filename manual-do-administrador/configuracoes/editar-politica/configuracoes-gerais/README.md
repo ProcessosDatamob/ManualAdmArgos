@@ -8,12 +8,13 @@ As configurações gerais são agrupadas nos tipos:
 * Restrições de Senha;
 * Segurança;
 * Sistema Operacional;
+* <mark style="color:red;">Tela;</mark>
 * Tela de Bloqueio;
 * Trabalho;
 * Usuário;
 * VPN;
 
-<figure><img src="../../../../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTA**

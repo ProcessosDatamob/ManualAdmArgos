@@ -35,6 +35,7 @@
       * [Restrições de Senha](manual-do-administrador/configuracoes/editar-politica/configuracoes-gerais/restricoes-de-senha.md)
       * [Segurança](manual-do-administrador/configuracoes/editar-politica/configuracoes-gerais/seguranca.md)
       * [Sistema Operacional](manual-do-administrador/configuracoes/editar-politica/configuracoes-gerais/sistema-operacional.md)
+      * [Tela](manual-do-administrador/configuracoes/editar-politica/configuracoes-gerais/tela.md)
       * [Tela de Bloqueio](manual-do-administrador/configuracoes/editar-politica/configuracoes-gerais/tela-de-bloqueio.md)
       * [Trabalho](manual-do-administrador/configuracoes/editar-politica/configuracoes-gerais/trabalho.md)
       * [Usuário](manual-do-administrador/configuracoes/editar-politica/configuracoes-gerais/usuario.md)
