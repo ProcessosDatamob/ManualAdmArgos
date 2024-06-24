@@ -84,16 +84,7 @@ As opções que estão em destaque na figura são detalhadas nas próximas subse
 
 <mark style="color:red;">CONTEUDO HISTÓRICO DE BATERIA REMOVIDO</mark>
 
-### **Histórico de Armazenamento**
-
-Para visualizar o histórico de memória livre no armazenamento interno do dispositivo, clique em “**Histórico de armazenamento**”.
-
-<figure><img src="../../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
-
-O sistema exibirá a tela do "**Histórico de Armazenamento**" com o histórico de memória livre do dispositivo.
-
-1. Selecione uma data, para visualizar os dados do histórico.
-2. Passe o mouse sobre o gráfico para visualizar os valores em horário específico.
+<mark style="color:red;">CONTEUDO HISTÓRICO DE  ARMAZENAMENTO REMOVIDO</mark>
 
 ### **Relatório de Não Conformidade**
 
@@ -186,13 +177,15 @@ Além de poder editar os dados, são exibidos mais abaixo duas listas com as inf
 
 <figure><img src="../../../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">Na aba "Aplicativos"</mark>
+<mark style="color:red;">Na aba "</mark><mark style="color:red;">**Aplicativos**</mark><mark style="color:red;">"</mark>
 
-<mark style="color:red;">Na aba "Bateria", você pode selecionar uma data para visualizar as informações desejadas. Ao escolher a data, o sistema buscará e exibirá os dados da bateria em formato de gráfico.</mark>
+<mark style="color:red;">Na aba "</mark><mark style="color:red;">**Bateria**</mark><mark style="color:red;">", é possível selecionar uma data para visualizar as informações desejadas. Ao escolher a data, o sistema buscará e exibirá os dados da bateria em formato de gráfico.</mark>
 
 <figure><img src="../../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">Na aba "Armazenamento Livre"</mark>
+<mark style="color:red;">Na aba "</mark><mark style="color:red;">**Armazenamento Livre**</mark><mark style="color:red;">" é possível visualizar a memória livre no armazenamento interno do dispositivo ao selecionar uma data para visualizar as informações desejadas. Ao escolher a data, o sistema buscará e exibirá os dados de armazenamento em formato de gráfico.</mark>
+
+<figure><img src="../../../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
 
 
 
