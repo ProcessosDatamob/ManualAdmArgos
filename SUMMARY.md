@@ -66,6 +66,20 @@
 
 ## Release notes
 
+* [Release Notes \<NomeProduto> V 11.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/README.md)
+  * [Customização de colunas para Exibição de Informações](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/customizacao-de-colunas-para-exibicao-de-informacoes.md)
+  * [Page 11](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/page-11.md)
+  * [Page 10](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/page-10.md)
+  * [Page 9](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/page-9.md)
+  * [Page 8](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/page-8.md)
+  * [Page 7](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/page-7.md)
+  * [Page 6](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/page-6.md)
+  * [Page 5](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/page-5.md)
+  * [Page 4](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/page-4.md)
+  * [Page 3](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/page-3.md)
+  * [Page 2](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/page-2.md)
+  * [Page 1](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/page-1.md)
+  * [Page](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/page.md)
 * [Release Notes \<NomeProduto> V 10.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v-10.0.0/README.md)
   * [Permitir Acesso Temporário ao Dispositivo no Modo Quiosque](release-notes/release-notes-less-than-nomeproduto-greater-than-v-10.0.0/permitir-acesso-temporario-ao-dispositivo-no-modo-quiosque.md)
   * [Manuais Online adicionados nos Materiais de Apoio](release-notes/release-notes-less-than-nomeproduto-greater-than-v-10.0.0/manuais-online-adicionados-nos-materiais-de-apoio.md)
