@@ -142,11 +142,11 @@ Esta operação envia um comando para remover o bloqueio de tela do dispositivo.
 Esta opção só ficará disponível para dispositivos ativados com política em modo de gerenciamento Android Block SIM.
 {% endhint %}
 
-### **Remover Bloqueio de Chip**
+### <mark style="color:red;">**Remover Bloqueio de Chip**</mark>
 
-<mark style="color:red;">escrever...</mark>
+<mark style="color:red;">Esta opção permite que o administrador envie um comando para remover o bloqueio de chip (SIM) de um dispositivo, liberando o acesso do usuário ao dispositivo.</mark>&#x20;
 
-
+<mark style="color:red;">Na tela "Lista de Dispositivos", selecione a política “Android - Block SIM” e a opção "Remover Bloqueio de Chip", o sistema exibirá uma mensagem de confirmação para o envio da remoção do bloqueio de chip, permitindo confirmar ou cancelar. Após enviar o comando de remoção, o dispositivo receberá um push com o comando, o aplicativo Companion capturará o comando e enviará para o Block SIM, completando a remoção do bloqueio.</mark>
 
 ### **Gerar nova senha do dispositivo**
 
