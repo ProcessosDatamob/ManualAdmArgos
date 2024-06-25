@@ -20,7 +20,9 @@ As configurações gerais são agrupadas nos tipos:
 * <mark style="color:red;">Tela</mark>
 * [Trabalho](configuracoes-gerais-android-work-profile.md#trabalho)
 
-<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ### **Restrições de Senha - Dispositivo**
 
@@ -32,7 +34,7 @@ As configurações gerais são agrupadas nos tipos:
 
 <mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Se a chave estiver habilitada permite ao usuário manter a mesma senha definida para o “**Dispositivo**” no “**Perfil de Trabalho**”.
 
