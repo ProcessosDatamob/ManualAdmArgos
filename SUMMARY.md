@@ -74,7 +74,7 @@
   * [Configuração de Senhas no Work Profile](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/configuracao-de-senhas-no-work-profile.md)
   * [Tela de Bloqueio Personalizada no Security Browser](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/tela-de-bloqueio-personalizada-no-security-browser.md)
   * [Gestão de Sites Favoritos do Security Browser](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/gestao-de-sites-favoritos-do-security-browser.md)
-  * [Page](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/page.md)
+  * [Envio de Troca de Senha do Bloqueio de Tela](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/envio-de-troca-de-senha-do-bloqueio-de-tela.md)
   * [Envio de Remoção do Bloqueio de Chip](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/envio-de-remocao-do-bloqueio-de-chip.md)
   * [Page 3](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/page-3.md)
   * [Page 2](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/page-2.md)
