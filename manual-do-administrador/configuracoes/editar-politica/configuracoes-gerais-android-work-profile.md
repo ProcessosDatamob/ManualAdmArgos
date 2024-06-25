@@ -32,7 +32,7 @@ As configurações gerais são agrupadas nos tipos:
 
 <mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Se a chave estiver habilitada permite ao usuário manter a mesma senha definida para o “**Dispositivo**” no “**Perfil de Trabalho**”.
 
@@ -44,7 +44,7 @@ Quando a opção estiver desativada, obriga ao usuário criar uma senha diferent
 
 <mark style="color:red;">Estando na guia de "</mark><mark style="color:red;">**Configurações**</mark><mark style="color:red;">" da tela de "</mark><mark style="color:red;">**Edição de Políticas**</mark><mark style="color:red;">", clique sobre a opção "</mark><mark style="color:red;">**Tela**</mark><mark style="color:red;">" para visualizar as opções de configuração de papel de parede e rotação de tela.</mark>&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">Na tabela a seguir, as configurações são descritas:</mark>
 

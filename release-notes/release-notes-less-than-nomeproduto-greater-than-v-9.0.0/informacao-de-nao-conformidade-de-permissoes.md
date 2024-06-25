@@ -4,6 +4,6 @@ Ao acessar o menu "Dispositivos", clicar em "Lista de Dispositivos" e no ícone 
 
 E quando uma das permissões das configurações gerenciadas que não está como opcional estiver com o status “desativada“ na lista recebida do dispositivo, o sistema exibirá o campo de "Em Conformidade" com o valor “Não".
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)
