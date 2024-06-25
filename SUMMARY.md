@@ -70,7 +70,6 @@
 * [Release Notes \<NomeProduto> V 11.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/README.md)
   * [Customização de colunas para Exibição de Informações](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/customizacao-de-colunas-para-exibicao-de-informacoes.md)
   * [Novo Layout da Opção Gerenciar Dispositivo](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/novo-layout-da-opcao-gerenciar-dispositivo.md)
-  * [Configuração de Rotação de Tela Fora do Modo Quiosque](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/configuracao-de-rotacao-de-tela-fora-do-modo-quiosque.md)
   * [Configuração do Papel de Parede Fora do Modo Quiosque](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/configuracao-do-papel-de-parede-fora-do-modo-quiosque.md)
   * [Configuração de Senhas no Work Profile](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/configuracao-de-senhas-no-work-profile.md)
   * [Tela de Bloqueio Personalizada no Security Browser](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/tela-de-bloqueio-personalizada-no-security-browser.md)
