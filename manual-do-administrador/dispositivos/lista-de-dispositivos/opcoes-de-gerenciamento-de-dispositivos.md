@@ -130,6 +130,8 @@ Esta operação envia um comando para reiniciar o dispositivo. Escolha a opção
 
 <mark style="color:red;">Esta opção permite ao administrador configurar a senha do bloqueio de tela do Block SIM para permitir a alteração remota da senha. Na Lista de Dispositivos, clique na opção “Gerar Nova Senha do Bloqueio de Tela", preencha e confirme a nova senha do Bloqueio de Tela, utilizando letras, números e símbolos. Confirme a alteração da senha, e ao confirmar, o comando será enviado via push ao Companion para aplicação no dispositivo.</mark>
 
+<mark style="color:red;background-color:orange;">COLOCAR PRINTA DA TELA DO DISPOSITIVO?</mark>
+
 ### **Remover Bloqueio de Tela**
 
 Esta operação envia um comando para remover o bloqueio de tela do dispositivo. Escolha a opção "**Remover Bloqueio de Tela**". Uma mensagem é exibida na tela do portal para confirmar o envio do comando.
