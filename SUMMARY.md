@@ -76,7 +76,7 @@
   * [Gestão de Sites Favoritos do Security Browser](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/gestao-de-sites-favoritos-do-security-browser.md)
   * [Envio de Troca de Senha do Bloqueio de Tela no Block SIM](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/envio-de-troca-de-senha-do-bloqueio-de-tela-no-block-sim.md)
   * [Envio de Remoção do Bloqueio de Chip no Block SIM](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/envio-de-remocao-do-bloqueio-de-chip-no-block-sim.md)
-  * [Page 3](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/page-3.md)
+  * [Dados de Conectividade do Dispositivo](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/dados-de-conectividade-do-dispositivo.md)
   * [Page 2](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/page-2.md)
   * [Page 1](release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/page-1.md)
 * [Release Notes \<NomeProduto> V 10.0.0](release-notes/release-notes-less-than-nomeproduto-greater-than-v-10.0.0/README.md)
