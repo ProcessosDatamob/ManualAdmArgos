@@ -18,7 +18,7 @@ A guia de configurações de aplicativos permite gerenciar configurações, perm
 
 A tela "**Editar política**" posicionada na guia "**Aplicativos**" é apresentada na sequência.
 
-<figure><img src="../../../.gitbook/assets/Captura de tela 2024-02-29 160922.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Captura de tela 2024-02-29 160922.png" alt=""><figcaption></figcaption></figure>
 
 As telas apresentam as seguintes partes, conforme numeração na figura:
 
@@ -47,9 +47,9 @@ Importante ressaltar que o tipo de instalação “Pré-Instalado” de um aplic
 Para que o aplicativo seja apresentado no dispositivo com o tipo de instalação “pré-instalado” é necessário realizar o comando “Remover Dispositivo (WIPE)” no portal ou factory reset através do dispositivo”.
 {% endhint %}
 
-5. Mais ações ("...") que podem ser realizadas com o aplicativo: [Configurações Gerenciadas](aplicativos.md#configuracoes-gerenciadas), [Permissões](aplicativos.md#permissoes), [Configurações Avançadas](aplicativos.md#configuracoes-avancadas) e [Remover Aplicativo](aplicativos.md#remover-aplicativo).
-6. **Adicionar Aplicativos -** permite adicionar aplicativos para gerenciamento, para mais informações acessar o conteúdo [Adicionar Aplicativos](aplicativos.md#adicionar-aplicativos) nesta página.
-7. **Restrições de funcionamento -** permite criar restrições de acesso aos apps por horário, para que seja possível definir os horários em que os apps não poderão ser acessados. Para mais informações acessar o conteúdo [Restrições de Funcionamento](aplicativos.md#restricoes-de-funcionamento) nesta página.
+5. Mais ações ("...") que podem ser realizadas com o aplicativo: [Configurações Gerenciadas](./#configuracoes-gerenciadas), [Permissões](./#permissoes), [Configurações Avançadas](./#configuracoes-avancadas) e [Remover Aplicativo](./#remover-aplicativo).
+6. **Adicionar Aplicativos -** permite adicionar aplicativos para gerenciamento, para mais informações acessar o conteúdo [Adicionar Aplicativos](./#adicionar-aplicativos) nesta página.
+7. **Restrições de funcionamento -** permite criar restrições de acesso aos apps por horário, para que seja possível definir os horários em que os apps não poderão ser acessados. Para mais informações acessar o conteúdo [Restrições de Funcionamento](./#restricoes-de-funcionamento) nesta página.
 
 ### **Configurações Gerenciadas**
 
@@ -59,11 +59,11 @@ Para acessar as configurações gerenciadas de um aplicativo é necessário esta
 
 1. Localize o aplicativo desejado e clique nos três pontinhos "...", localizados no final da linha e clique na opção "**Configurações Gerenciadas**".
 
-<figure><img src="../../../.gitbook/assets/Captura de tela 2024-04-29 150335.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Captura de tela 2024-04-29 150335.png" alt=""><figcaption></figcaption></figure>
 
 A tela a seguir será exibida:
 
-<figure><img src="../../../.gitbook/assets/Captura de tela 2024-04-29 150749.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Captura de tela 2024-04-29 150749.png" alt=""><figcaption></figcaption></figure>
 
 Nesta tela é possível ver a identificação do aplicativo selecionado e a tela de configuração que foi escolhida ("Configurações Gerenciadas");
 
@@ -81,7 +81,7 @@ Sendo assim, para acessar as “Permissões Opcionais",  clique nos três pontin
 
 Ao expandir as "Permissões Opcionais" serão exibidas várias opões e será possível ativar e desativar cada uma das configurações.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
 
 As "Permissões Opcionais" incluem os seguintes ajustes:
 
@@ -98,33 +98,33 @@ Ao clicar em "Salvar" o sistema enviará as configurações selecionadas para os
 
 <mark style="color:red;">Ao clicar na opção "Configurações Gerenciadas" do Security Browser.</mark>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">A seguinte tela será exibida:</mark>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">As Configurações Gerenciadas para o Security Browser são:</mark>&#x20;
 
 * <mark style="color:red;">Bloquear Todos os Sites - como administrador, é possível ativar o bloqueio total de acesso a todos os sites. Quando o bloqueio total está ativado, nenhum site pode ser acessado pelo dispositivo. Isso significa que qualquer tentativa de navegação será bloqueada, garantindo que os usuários não consigam visitar nenhuma página da web.</mark>
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:red;">Sites Favoritos - como administrador, é possível configurar sites favoritos no Security Browser para disponibilizá-los aos usuários. Adicione os sites favoritos com Nome e URL, e ao salvar a política, as configurações serão enviadas para os dispositivos.</mark>
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:red;">Página de Bloqueio - é possível personalizar o bloqueio de sites redirecionando para uma página definida. Informe a URL da página que será exibida ao bloquear o acesso a um site, e ao salvar a política, as configurações serão enviadas para os dispositivos.</mark>
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:red;">URLs e Palavas-Chave Bloqueadas e Liberadas - o administrador pode</mark> <mark style="color:red;">especificar URLs e palavras-chave para bloquear ou liberar o acesso no aplicativo. Permitindo um controle granular sobre o conteúdo acessado pelos usuários, garantindo que sites indesejados sejam bloqueados enquanto sites aprovados permaneçam acessíveis.</mark>
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 * <mark style="color:red;">Bloqueio de Sites por Categoria - pode-se bloquear o acesso a sites com base em categorias específicas. O administrador pode selecionar diferentes categorias de sites que deseja bloquear. Quando o bloqueio por categoria está ativado, qualquer site que pertença a uma dessas categorias selecionadas será automaticamente bloqueado.</mark>
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">Clique em "Salvar" para guardar as informações.</mark>
 
@@ -135,11 +135,11 @@ Para acessar as configurações de permissões de um aplicativo é necessário e
 1. Localize o aplicativo desejado e clique nos três pontinhos, localizados no final da linha, para exibir o menu com mais opções;
 2. Clique sobre "**Permissões**".
 
-![](<../../../.gitbook/assets/10 (2).png>)
+![](<../../../../.gitbook/assets/10 (2).png>)
 
 Após o passo 2 a tela a seguir será exibida. A lista de permissões, que podem ser configuradas no aplicativo selecionado, é exibida nesta tela.
 
-![](<../../../.gitbook/assets/11 (1).png>)
+![](<../../../../.gitbook/assets/11 (1).png>)
 
 As permissões podem ser configuradas como: Solicitar ao usuário, Ativada ou Negada.
 
@@ -150,7 +150,7 @@ Se a opção “Permissões" aparecer desabilitada no sistema, é para evitar qu
 
 Impede que os usuários finais acessem e modifiquem configurações críticas de permissões, reservando esse controle exclusivamente para administradores.&#x20;
 
-![](<../../../.gitbook/assets/image (182).png>)
+![](<../../../../.gitbook/assets/image (182).png>)
 {% endhint %}
 
 ### **Configurações Avançadas**
@@ -160,14 +160,14 @@ Para acessar as configurações avançadas de um aplicativo é necessário estar
 1. Localize o aplicativo desejado e clique nos três pontinhos, localizados no final da linha, para exibir o menu com mais opções;
 2. Clique sobre "**Configurações Avançadas**".
 
-![](<../../../.gitbook/assets/12 (1).png>)
+![](<../../../../.gitbook/assets/12 (1).png>)
 
 Após o passo 2 a tela a seguir será exibida. Nesta tela temos os seguintes itens:
 
 * **Prioridade de Atualização** - Defina a prioridade de atualização do aplicativo como pré-definida, postergada ou prioritária.
 * **Versão mínima -** permite definir uma versão mínima do aplicativo.
 
-![](<../../../.gitbook/assets/13 (1).png>)
+![](<../../../../.gitbook/assets/13 (1).png>)
 
 ### **Remover Aplicativo**
 
@@ -176,11 +176,11 @@ Para excluir um aplicativo da política é necessário estar na tela "**Editar P
 1. Localize o aplicativo desejado e clique nos três pontinhos, localizados no final da linha, para exibir o menu com mais opções;
 2. Clique sobre "**Remover Aplicativo**".
 
-![](<../../../.gitbook/assets/14 (1).png>)
+![](<../../../../.gitbook/assets/14 (1).png>)
 
 Após o passo 2 a tela a seguir será exibida para confirmação da exclusão. Clique no botão "Remover" para **remover** o aplicativo da lista.
 
-![](<../../../.gitbook/assets/15 (1).png>)
+![](<../../../../.gitbook/assets/15 (1).png>)
 
 {% hint style="info" %}
 **OBSERVAÇÃO**
@@ -192,13 +192,13 @@ O aplicativo será removido da listagem de aplicativos da política que está se
 
 A opção Adicionar aplicativos terá comportamentos diferentes quando o Modo Quiosque estiver ativado ou desativado.
 
-* **Modo Quiosque Desativado:** Ao clicar no botão "**Adicionar Aplicativos**", caso seja uma política com **Modo Quiosque Desativado**, serão exibidas duas opções, a **Playstore** que contempla a   listagem de aplicativos que foram adicionados usando a [**Google Play Gerenciada**](../../gerenciamento-de-aplicativos/google-play-gerenciada.md) e a opção **Manual**, que permite adicionar aplicativos de forma manual.
+* **Modo Quiosque Desativado:** Ao clicar no botão "**Adicionar Aplicativos**", caso seja uma política com **Modo Quiosque Desativado**, serão exibidas duas opções, a **Playstore** que contempla a   listagem de aplicativos que foram adicionados usando a [**Google Play Gerenciada**](../../../gerenciamento-de-aplicativos/google-play-gerenciada.md) e a opção **Manual**, que permite adicionar aplicativos de forma manual.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Modo Quiosque Ativado:** Caso a política que estiver sendo editada for uma política com o **Modo Quiosque** **Ativado**, ao clicar no botão **Adicionar aplicativos**, aparecerão 3 opções para adicionar os aplicativos.
 
-<figure><img src="../../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
 
 * **Sistema**
 
@@ -207,7 +207,7 @@ A opção Adicionar aplicativos terá comportamentos diferentes quando o Modo Qu
 3. Selecione um ou mais aplicativos clicando no checkbox
 4. Clique no botão "**Adicionar selecionados**"
 
-<figure><img src="../../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
 
 * **Playstore**&#x20;
 
@@ -215,7 +215,7 @@ A opção Adicionar aplicativos terá comportamentos diferentes quando o Modo Qu
 2. Selecione um ou mais aplicativos clicando no checkbox
 3. Clique no botão "**Adicionar selecionados**"
 
-<figure><img src="../../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **IMPORTANTE**
@@ -236,7 +236,7 @@ O tipo de instalação ficará como "Disponível", e permitirá alterar o tipo d
 Caso o aplicativo não esteja na Google Play, as opções "Pré-instalado" e "Instalação forçada" terão o mesmo efeito que a opção "Disponível". Ou seja, o aplicativo fica disponível para instalação, o usuário tem a opção de instalá-lo conforme sua conveniência. Não é instalado automaticamente no dispositivo.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (163).png" alt="" width="470"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (163).png" alt="" width="470"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **OBSERVAÇÃO**
@@ -246,7 +246,7 @@ Ao criar uma política com modo de gerenciamento Android Block SIM, automaticame
 
 * **Remota**
 
-Os aplicativos enviados via instalação remota, através do menu ["Instalação Remota de Aplicativos"](../../gerenciamento-de-aplicativos/instalacao-remota-de-aplicativos.md), serão exibidos na listagem de aplicativos com a Origem  = "Remota" e com o tipo de instalação 'Disponível' com a edição bloqueada.
+Os aplicativos enviados via instalação remota, através do menu ["Instalação Remota de Aplicativos"](../../../gerenciamento-de-aplicativos/instalacao-remota-de-aplicativos.md), serão exibidos na listagem de aplicativos com a Origem  = "Remota" e com o tipo de instalação 'Disponível' com a edição bloqueada.
 
 ### Restrições de Funcionamento
 
@@ -255,9 +255,9 @@ Para definir restrições de funcionamento de aplicativos por dias e horários, 
 1. Ícones para acessar a opção "Restrições de Funcionamento";&#x20;
 2. Botão seletor para ativar restrições.
 
-A opção de "Restrições de Funcionamento" está disponível para todos os aplicativos, exceto: aplicativo do sistema \<nome\_produto>, Kiosk Launcher, Block Sim e Remote View.  Quando o aplicativo já possui restrição de funcionamento, o seu ícone de restrição de funcionamento mudará para ![](<../../../.gitbook/assets/image (142).png>).
+A opção de "Restrições de Funcionamento" está disponível para todos os aplicativos, exceto: aplicativo do sistema \<nome\_produto>, Kiosk Launcher, Block Sim e Remote View.  Quando o aplicativo já possui restrição de funcionamento, o seu ícone de restrição de funcionamento mudará para ![](<../../../../.gitbook/assets/image (142).png>).
 
-<figure><img src="../../../.gitbook/assets/Captura de pantalla 2024-03-07 a la(s) 15.51.55.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Captura de pantalla 2024-03-07 a la(s) 15.51.55.png" alt=""><figcaption></figcaption></figure>
 
 Para ativar as restrições:
 

@@ -49,7 +49,7 @@ Ao ativar o Modo Quiosque, para o correto funcionamento do aparelho ou de alguma
 
 \- Transferência de arquivos quando conectado no PC: **com.android.systemui / com.samsung.android.MtpApplication**
 
-Para saber mais sobre como incluir aplicativos de forma manual na política , leia a sessão: [Aplicativos](aplicativos.md).
+Para saber mais sobre como incluir aplicativos de forma manual na política , leia a sessão: [Aplicativos](aplicativos/).
 {% endhint %}
 
 ### Opções de configuração do Quiosque
