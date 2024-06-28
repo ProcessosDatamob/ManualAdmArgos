@@ -106,6 +106,12 @@ Outra opção, para não precisar deixar o acesso as configurações liberado, �
 
 * **Acesso Temporário ao Dispositivo -** Configuração para permitir que o usuário realize acesso ao dispositivo durante um determinado tempo. Para ativar a permissão, arraste a chave para a direita de quem esta a frente da tela. Além disto, é possível definir o tempo de duração do acesso do usuário no dispositivo. Que pode ser de 5, 10, 15, 30 minutos ou 1 hora. Ao habilitar o acesso temporário, será gerada uma senha para que o usuário possa acessar o dispositivo, na sessão ["](../../dispositivos/lista-de-dispositivos/opcoes-de-gerenciamento-de-dispositivos.md)[Opções de Gerenciamento de Dispositivos" ](../../dispositivos/lista-de-dispositivos/opcoes-de-gerenciamento-de-dispositivos.md)detalharemos melhor como irá funcionar.
 
-Após encerrar o tempo definido, o Modo Quiosque é ativado novamente automaticamente.&#x20;
+<mark style="color:red;">Abaixo Listamos quais acessos o usuário terá no dispositivo ao informar a senha de acesso temporário:</mark>
+
+* <mark style="color:red;">Liberará acesso a todos os os aplicativos instalados (Google Play e Remotos);</mark>
+* <mark style="color:red;">Liberará acesso a todos os os aplicativos de sistema que existem na política (</mark>_<mark style="color:red;">independente se esta visível</mark>_<mark style="color:red;">);</mark>
+* <mark style="color:red;">Liberará acesso a todas as configurações do dispositivo;</mark>
+
+<mark style="color:red;">Após encerrar o tempo definido, o usuário perde os acessos mencionados acima novamente e o dispositivo retorna ao Modo Quiosque:</mark>
 
 <figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
