@@ -55,18 +55,26 @@ O bloqueio de sites possibilita que o dispositivo seja utilizado para navegaçã
 2. Escolha o "**Tipo de instalação**" do Security Browser como "**Instalação Forçada**" ou "**Pré-instalado**".
 3. Clique em "**Configurações Gerenciadas**" para abrir a tela de configurações gerenciadas do Security Browser.
 
-![](<../../../../.gitbook/assets/7 (3).png>)
+<mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
 
-4. Se desejar bloquear a navegação em todos os sites ative o seletor destacado na figura.
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../../../.gitbook/assets/8 (3).png>)
+<mark style="color:red;">A seguinte tela será exibida:</mark>
 
-5. Digite o site ou palavra-chave que deseja bloquear e clique no botão "**Adicionar**". As palavras ou sites adicionados vão sendo mostrados logo abaixo na tela.
-6. Use o seletor para bloquear ou desbloquear.
-7. Use a lixeira para excluir o site ou palavra-chave.
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../../../.gitbook/assets/9 (2).png>)
+<mark style="color:red;">As Configurações Gerenciadas para o Security Browser são:</mark>&#x20;
 
-8. Para realizar o bloqueio por categoria, clique sobre os seletores para ativar ou desativar o bloqueio da categoria desejada. Na tela abaixo estão bloqueadas as categorias: conteúdo adulto, conteúdo alcoólico, tabaco e compras.
+* <mark style="color:red;">Página de Bloqueio - é possível personalizar o bloqueio de sites redirecionando para uma página definida. Informe a URL da página que será exibida ao bloquear o acesso a um site, e ao salvar a política, as configurações serão enviadas para os dispositivos.</mark>
 
-![](<../../../../.gitbook/assets/10 (1).png>)
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+* <mark style="color:red;">URLs e Palavas-Chave Bloqueadas e Liberadas - o administrador pode</mark> <mark style="color:red;">especificar URLs e palavras-chave para bloquear ou liberar o acesso no aplicativo. Permitindo um controle granular sobre o conteúdo acessado pelos usuários, garantindo que sites indesejados sejam bloqueados enquanto sites aprovados permaneçam acessíveis.</mark>
+
+<figure><img src="../../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
+* <mark style="color:red;">Bloqueio de Sites por Categoria - pode-se bloquear o acesso a sites com base em categorias específicas. O administrador pode selecionar diferentes categorias de sites que deseja bloquear. Quando o bloqueio por categoria está ativado, qualquer site que pertença a uma dessas categorias selecionadas será automaticamente bloqueado.</mark>
+
+<figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:red;">Clique em "Salvar" para guardar as informações.</mark>

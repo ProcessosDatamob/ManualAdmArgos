@@ -73,61 +73,6 @@ Nesta tela é possível ver a identificação do aplicativo selecionado e a tela
 As configurações disponíveis, vão ser exibidas conforme o que estiver disponível para cada aplicativo, ou seja, irá variar as configurações disponíveis dependendo do aplicativo selecionado. Em alguns aplicativos por exemplo, vai exibir a mensagem: _Não existem configurações disponíveis para este aplicativo._
 {% endhint %}
 
-#### Permissões Opcionais do Companion
-
-Para o Companion, foi criada dentro das Configurações Gerenciadas as Permissões Opcionais, para possibilitar ativar o companion em dispositivos que não possuem as permissões solicitadas na ativação.
-
-Sendo assim, para acessar as “Permissões Opcionais",  clique nos três pontinhos "...", localizados no final da linha e clique na opção "**Configurações Gerenciadas**" do aplicativo Companion.
-
-Ao expandir as "Permissões Opcionais" serão exibidas várias opões e será possível ativar e desativar cada uma das configurações.&#x20;
-
-<figure><img src="../../../../.gitbook/assets/image (179).png" alt=""><figcaption></figcaption></figure>
-
-As "Permissões Opcionais" incluem os seguintes ajustes:
-
-* Estabelecer o Permissão "Acesso aos Dados de Uso" como Opcional: Permite ao usuário optar por não ativar este permissão durante a configuração. Sem esta permissão, a aplicação não capturará dados de uso e tempo de uso dos aplicativos, e essa informação não será exibida no Portal.
-* Estabelecer o Permissão "Ignorar Otimização de Bateria" como Opcional: Permite ao usuário optar por não ativar este permissão durante a configuração. Sem esta permissão, a aplicação pode ser afetada pela otimização de bateria, deixando de capturar localizações e enviar informações ao Portal.
-* Estabelecer o Permissão "Escrita de Configurações do Sistema" como Opcional: Permite ao usuário optar por não ativar este permissão durante a configuração. Sem esta permissão, a aplicação Kiosk Launcher Manager não poderá alterar certas configurações do sistema no modo quiosque.
-* Estabelecer o Permissão "Leitura de SMS" como Opcional: Permite ao usuário optar por não ativar este permissão durante a configuração. Sem esta permissão, a aplicação não capturará informações dos SMS enviados, e essa informação não será exibida no Portal.
-* Estabelecer o Permissão "Instalação de Apps de Fontes Desconhecidas" como Opcional: Permite ao usuário optar por não ativar este permissão durante a configuração. Sem esta permissão, a aplicação não poderá instalar aplicativos remotamente.
-* Estabelecer o Permissão "Sobreposição de Tela" como Opcional: Permite ao usuário optar por não ativar este permissão durante a configuração. Sem esta permissão, a aplicação não exibirá a mensagem de confirmação para instalação de aplicativos remotamente.
-
-Ao clicar em "Salvar" o sistema enviará as configurações selecionadas para os dispositivos.
-
-#### <mark style="color:red;">Configurações Gerenciadas aplicativo Security Browser</mark>
-
-<mark style="color:red;">Ao clicar na opção "Configurações Gerenciadas" do Security Browser.</mark>
-
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-<mark style="color:red;">A seguinte tela será exibida:</mark>
-
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-<mark style="color:red;">As Configurações Gerenciadas para o Security Browser são:</mark>&#x20;
-
-* <mark style="color:red;">Bloquear Todos os Sites - como administrador, é possível ativar o bloqueio total de acesso a todos os sites. Quando o bloqueio total está ativado, nenhum site pode ser acessado pelo dispositivo. Isso significa que qualquer tentativa de navegação será bloqueada, garantindo que os usuários não consigam visitar nenhuma página da web.</mark>
-
-<figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
-
-* <mark style="color:red;">Sites Favoritos - como administrador, é possível configurar sites favoritos no Security Browser para disponibilizá-los aos usuários. Adicione os sites favoritos com Nome e URL, e ao salvar a política, as configurações serão enviadas para os dispositivos.</mark>
-
-<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
-
-* <mark style="color:red;">Página de Bloqueio - é possível personalizar o bloqueio de sites redirecionando para uma página definida. Informe a URL da página que será exibida ao bloquear o acesso a um site, e ao salvar a política, as configurações serão enviadas para os dispositivos.</mark>
-
-<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
-
-* <mark style="color:red;">URLs e Palavas-Chave Bloqueadas e Liberadas - o administrador pode</mark> <mark style="color:red;">especificar URLs e palavras-chave para bloquear ou liberar o acesso no aplicativo. Permitindo um controle granular sobre o conteúdo acessado pelos usuários, garantindo que sites indesejados sejam bloqueados enquanto sites aprovados permaneçam acessíveis.</mark>
-
-<figure><img src="../../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
-
-* <mark style="color:red;">Bloqueio de Sites por Categoria - pode-se bloquear o acesso a sites com base em categorias específicas. O administrador pode selecionar diferentes categorias de sites que deseja bloquear. Quando o bloqueio por categoria está ativado, qualquer site que pertença a uma dessas categorias selecionadas será automaticamente bloqueado.</mark>
-
-<figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
-
-<mark style="color:red;">Clique em "Salvar" para guardar as informações.</mark>
-
 ### **Permissões**
 
 Para acessar as configurações de permissões de um aplicativo é necessário estar na tela "**Editar Política**" com a guia "**Aplicativos**" selecionada. Siga os seguintes passos:
@@ -194,7 +139,7 @@ A opção Adicionar aplicativos terá comportamentos diferentes quando o Modo Qu
 
 * **Modo Quiosque Desativado:** Ao clicar no botão "**Adicionar Aplicativos**", caso seja uma política com **Modo Quiosque Desativado**, serão exibidas duas opções, a **Playstore** que contempla a   listagem de aplicativos que foram adicionados usando a [**Google Play Gerenciada**](../../../gerenciamento-de-aplicativos/google-play-gerenciada.md) e a opção **Manual**, que permite adicionar aplicativos de forma manual.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Modo Quiosque Ativado:** Caso a política que estiver sendo editada for uma política com o **Modo Quiosque** **Ativado**, ao clicar no botão **Adicionar aplicativos**, aparecerão 3 opções para adicionar os aplicativos.
 
