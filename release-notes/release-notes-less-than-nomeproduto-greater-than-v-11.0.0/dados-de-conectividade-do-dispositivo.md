@@ -7,3 +7,5 @@
 <mark style="color:red;">E ao acessar a “Lista de Dispositivos” e a tela “Gerenciar Dispositivo” de um dispositivo Android, o sistema exibirá também a sessão “Conectividade”.</mark>
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-06-26 120244 (2).png" alt=""><figcaption></figcaption></figure>
+
+[**Voltar ao menu inicial**](./)

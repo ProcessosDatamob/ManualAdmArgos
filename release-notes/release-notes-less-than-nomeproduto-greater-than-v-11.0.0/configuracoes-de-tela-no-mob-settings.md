@@ -8,3 +8,7 @@ Na tela de configuração, o usuário poderá:
 * Diminuir e aumentar o brilho da tela.
 * Ativar e desativar a fixação da orientação atual da tela.
 * Selecionar o tempo de espera até o desligamento automático da tela do dispositivo, entre uma das seguintes opções: 15 segundos, 30 segundos, 1 minuto, 2 minutos, 5 minutos, 10 minutos, 30 minutos.
+
+<mark style="color:red;background-color:orange;">PRINT TELA DO DISPOSITIVO</mark>
+
+[**Voltar ao menu inicial**](./)

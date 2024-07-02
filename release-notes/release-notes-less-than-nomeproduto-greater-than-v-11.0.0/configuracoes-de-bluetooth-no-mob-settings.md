@@ -8,3 +8,7 @@ Na tela de configuração, o usuário poderá:
 * Ativar a visibilidade do dispositivo via Bluetooth para outros dispositivos, com a visibilidade sendo desativada automaticamente após acabar o tempo de visibilidade.
 * Exibir uma lista de todos os dispositivos Bluetooth disponíveis para conectar, com a lista sendo atualizada a cada 10 segundos enquanto a tela estiver acessada.
 * Emparelhar o dispositivo com um dispositivo Bluetooth disponível.
+
+<mark style="color:red;background-color:orange;">PRINT TELA DO DISPOSITIVO</mark>
+
+[**Voltar ao menu inicial**](./)
