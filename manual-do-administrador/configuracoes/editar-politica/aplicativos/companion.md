@@ -6,6 +6,8 @@
 
 <mark style="color:red;">Sendo assim, para acessar as “Permissões Opcionais",  clique nos três pontinhos "...", localizados no final da linha e clique na opção "</mark><mark style="color:red;">**Configurações Gerenciadas**</mark><mark style="color:red;">" do aplicativo Companion.</mark>
 
+<figure><img src="../../../../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
+
 <mark style="color:red;">Ao expandir as "Permissões Opcionais" serão exibidas várias opções e será possível ativar e desativar cada uma das configurações.</mark>&#x20;
 
 <figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
