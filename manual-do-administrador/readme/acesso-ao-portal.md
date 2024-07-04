@@ -55,15 +55,39 @@ Caso não tenha recebido o token por e-mail, o usuário pode solicitar que seja 
 
 <figure><img src="../../.gitbook/assets/image (75).png" alt="" width="542"><figcaption></figcaption></figure>
 
-Após esta confirmação, o sistema abrirá a tela da Google Play. Este é o passo final do primeiro acesso ao Portal. Nesta tela será realizada a configuração de uma conta Google Play para a empresa. Esta etapa é importante para que a empresa gerencie os aplicativos que estarão disponíveis em seus dispositivos. A tela é mostrada a seguir.
+Após esta confirmação, o sistema abrirá a tela para "Criar conta de administrador".
+
+<figure><img src="../../.gitbook/assets/Tela 1 (3).png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:red;">Ao tentar registrar uma conta de administrador para o Android Enterprise utilizando um endereço de e-mail pessoal, você será direcionado para esta tela,</mark>&#x20;
+
+<mark style="color:red;">**Inscreva-se com um e-mail de trabalho**</mark><mark style="color:red;">: o sistema detecta que o endereço de e-mail utilizado é pessoal (ex: @gmail.com) e não é adequado para a inscrição no Android Enterprise. É necessário utilizar um e-mail corporativo (ex: nome@empresa.com). Clique em "Tentar de novo com um e-mail de trabalho para retornar e inserir um endereço de e-mail corporativo válido.</mark>
+
+<mark style="color:red;">**Comprar domínio da empresa**</mark><mark style="color:red;">: caso a sua empresa ainda não possua um domínio próprio (ex: empresa.com) e um e-mail corporativo correspondente, você pode adquirir um novo domínio. Clique em "Comprar um domínio" para ser direcionado a um serviço de registro de domínios, onde você pode comprar um domínio para sua empresa e, em seguida, utilizar um e-mail associado a esse domínio para a inscrição.</mark>
+
+<mark style="color:red;">**Inscreva-se apenas para Android**</mark><mark style="color:red;">: se você está planejando gerenciar apenas dispositivos Android, pode criar um pacote de contas do Google Play gerenciado, mesmo utilizando um e-mail pessoal. Clique em "Inscreva-se" para prosseguir com a inscrição utilizando um e-mail pessoal, limitando a gestão apenas a dispositivos Android.</mark>
+
+#### <mark style="color:red;">Escolhendo a Melhor Opção</mark>
+
+* <mark style="color:red;">**Para Empresas Com Domínio**</mark><mark style="color:red;">: Utilize um e-mail corporativo para um gerenciamento mais completo.</mark>
+* <mark style="color:red;">**Para Empresas Sem Domínio**</mark><mark style="color:red;">: Considere comprar um domínio corporativo para uma gestão mais integrada.</mark>
+* <mark style="color:red;">**Para Gerenciamento Somente Android**</mark><mark style="color:red;">: Utilize um e-mail pessoal se a gestão se limitar a dispositivos Android, mas esteja ciente das limitações.</mark>
+
+<figure><img src="../../.gitbook/assets/Tela 2 (1).png" alt=""><figcaption></figcaption></figure>
+
+Nesta tela será realizada a configuração de uma conta Google Play para a empresa. Esta etapa é importante para que a empresa gerencie os aplicativos que estarão disponíveis em seus dispositivos.&#x20;
 
 Na tela Google Play use o botão “**Fazer Login**" para escolher uma conta ou cadastrar uma nova conta. Importante destacar que o Google não aceita contas GSuite e recomenda-se criar uma conta comum para a empresa (por exemplo, [nomedaempresa@google.com](mailto:nomedaempresa@google.com)).
+
+<figure><img src="../../.gitbook/assets/Tela 3.png" alt=""><figcaption></figcaption></figure>
 
 Durante a criação desta conta Google serão solicitadas mais informações na tela "**Detalhes do Contato**".
 
 Leia as informações de orientação do Google Play Gerenciado e preencha os dados da pessoa da empresa que será o contato oficial de proteção de dados e da pessoa que será o representante da União Europeia. Os dois campos podem ser preenchidos com o mesmo contato da empresa. Estas informações podem ser gerenciadas posteriormente no **\<NomeProduto>** no menu "Empresas", submenu "Informações da Empresa".
 
 A tela de "Detalhes do Contato" é apresentada na sequência.
+
+<figure><img src="../../.gitbook/assets/Tela 8_Português.png" alt=""><figcaption></figcaption></figure>
 
 Após confirmar os dados, será exibida a tela do **\<NomeProduto>** com a mensagem _**"Parabéns! Sua empresa foi registrada no Android Enterprise com sucesso."**_
 
