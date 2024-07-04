@@ -47,7 +47,9 @@ O E-mail de confirmação é uma mensagem automática e pode ser identificada em
 
 9. O token de confirmação deve ser inserido na tela para confirmar o cadastro da empresa. A tela de confirmação é mostrada a seguir:
 
-<figure><img src="../../.gitbook/assets/image (74).png" alt="" width="343"><figcaption></figcaption></figure>
+<mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
+
+<figure><img src="../../.gitbook/assets/image123.png" alt="" width="348"><figcaption></figcaption></figure>
 
 Caso não tenha recebido o token por e-mail, o usuário pode solicitar que seja enviado novamente clicando na opção “**Reenviar código**" que fica disponível logo acima do botão "**Confirmar**".
 
