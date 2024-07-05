@@ -20,7 +20,7 @@ Para ter acesso a senha acesse a **"Lista de Dispositivos"** e clique no ícone 
 
 Esta funcionalidade assegura que os dispositivos possam ser temporariamente desbloqueados para ações necessárias, enquanto mantém o controle e a segurança fornecidos pelo modo Quiosque.
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-06-03 180813 (1).png" alt=""><figcaption></figcaption></figure>
 

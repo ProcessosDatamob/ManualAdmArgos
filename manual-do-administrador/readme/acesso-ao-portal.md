@@ -57,9 +57,15 @@ Caso não tenha recebido o token por e-mail, o usuário pode solicitar que seja 
 
 Após esta confirmação, o sistema abrirá a tela para "Criar conta de administrador".
 
-<figure><img src="../../.gitbook/assets/Tela 1 (3).png" alt=""><figcaption></figcaption></figure>
+<mark style="color:red;">Nesta etapa é possível adicionar um e-mail com domínio corporativo, ou seja, será possível realizar a gestão a partir de um domínio corporativo. No domínio corporativo, uma companhia poderá criar várias empresas, a principal diferença é o gerenciamento de contas e autenticação de domínio.</mark>
 
-<mark style="color:red;">Ao tentar registrar uma conta de administrador para o Android Enterprise utilizando um endereço de e-mail pessoal, você será direcionado para esta tela,</mark>&#x20;
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+
+Caso não possua um e-mail com domínio de trabalho, ao informar outro e-mail e clicar em Próximo, serão exibidas as seguintes opções:
+
+
+
+<figure><img src="../../.gitbook/assets/Tela 2 (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">**Inscreva-se com um e-mail de trabalho**</mark><mark style="color:red;">: o sistema detecta que o endereço de e-mail utilizado é pessoal (ex: @gmail.com) e não é adequado para a inscrição no Android Enterprise. É necessário utilizar um e-mail corporativo (ex: nome@empresa.com). Clique em "Tentar de novo com um e-mail de trabalho para retornar e inserir um endereço de e-mail corporativo válido.</mark>
 
@@ -73,7 +79,7 @@ Após esta confirmação, o sistema abrirá a tela para "Criar conta de administ
 * <mark style="color:red;">**Para Empresas Sem Domínio**</mark><mark style="color:red;">: Considere comprar um domínio corporativo para uma gestão mais integrada.</mark>
 * <mark style="color:red;">**Para Gerenciamento Somente Android**</mark><mark style="color:red;">: Utilize um e-mail pessoal se a gestão se limitar a dispositivos Android, mas esteja ciente das limitações.</mark>
 
-<figure><img src="../../.gitbook/assets/Tela 2 (1).png" alt=""><figcaption></figcaption></figure>
+<mark style="color:red;">Para seguir nas telas seguintes, escolha a opção "</mark><mark style="color:red;">**Inscreva-se apenas para Android"**</mark> <mark style="color:red;"></mark><mark style="color:red;">e realize o registro no Android Enterprise.</mark>
 
 Nesta tela será realizada a configuração de uma conta Google Play para a empresa. Esta etapa é importante para que a empresa gerencie os aplicativos que estarão disponíveis em seus dispositivos.&#x20;
 
@@ -90,6 +96,10 @@ A tela de "Detalhes do Contato" é apresentada na sequência.
 <figure><img src="../../.gitbook/assets/Tela 8_Português.png" alt=""><figcaption></figcaption></figure>
 
 Após confirmar os dados, será exibida a tela do **\<NomeProduto>** com a mensagem _**"Parabéns! Sua empresa foi registrada no Android Enterprise com sucesso."**_
+
+_<mark style="color:red;background-color:orange;">**NOVA IMAGEM**</mark>_
+
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 Clique em "Ok" e poderá iniciar as configurações necessárias para gerenciar os dispositivos da sua empresa.
 
