@@ -38,7 +38,7 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 * **IMEI -** número interno e único em cada dispositivo. No Android 10 já não é possível capturar esta informação do dispositivo porque utilizamos outro método para receber esta informação com o Enriquecimento de URL;
 * **ICCID -** número do chip SIM;
 * **Número de série -** número de série do dispositivo;
-* **Telefone -** número de telefone;
+* <mark style="color:blue;">**Licença -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">número da Licença;</mark>
 * **Modelo -** modelo do dispositivo;
 * **Fabricante** - nome do fabricante do dispositivo;
 * **Sistema Operacional -** sistema operacional do dispositivo;
@@ -74,43 +74,43 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 
 ### Conectividade
 
-* <mark style="color:red;">**Tipo da rede conectada (Wi-Fi/Móvel)**</mark> <mark style="color:red;"></mark><mark style="color:red;">- indica se o dispositivo está conectado via Wi-Fi ou rede móvel.</mark>
-* <mark style="color:red;">**Largura de Banda (Móvel)**</mark> <mark style="color:red;"></mark><mark style="color:red;">- a largura de banda disponível para a rede móvel.</mark>
-* <mark style="color:red;">**Largura de Banda (WiFi)**</mark> <mark style="color:red;"></mark><mark style="color:red;">- a largura de banda disponível para a rede Wi-Fi.</mark>
-* <mark style="color:red;">**Latência -**</mark> <mark style="color:red;"></mark><mark style="color:red;">o tempo que leva para um pacote de dados viajar de sua origem até seu destino e voltar.</mark>
-* <mark style="color:red;">**Configuração de Banda**</mark> <mark style="color:red;"></mark><mark style="color:red;">- configuração específica da banda de frequência utilizada.</mark>
-* <mark style="color:red;">**Rede WiFi conectada**</mark> <mark style="color:red;"></mark><mark style="color:red;">- nome da rede Wi-Fi à qual o dispositivo está conectado.</mark>
-* <mark style="color:red;">**Força de sinal**</mark> <mark style="color:red;"></mark><mark style="color:red;">- a intensidade do sinal da rede conectada.</mark>
-* <mark style="color:red;">**WiFi Roaming -**</mark> <mark style="color:red;"></mark><mark style="color:red;">é a capacidade do dispositivo de se conectar automaticamente a diferentes pontos de acesso Wi-Fi dentro da mesma rede sem perder a conexão.</mark>
-* <mark style="color:red;">**Frequência da banda WiFi**</mark> <mark style="color:red;"></mark><mark style="color:red;">- frequência utilizada pela rede Wi-Fi (por exemplo, 2.4 GHz ou 5 GHz).</mark>
-* <mark style="color:red;">**Velocidade do Link WiFi**</mark> <mark style="color:red;"></mark><mark style="color:red;">- velocidade de conexão com a rede Wi-Fi.</mark>
-* <mark style="color:red;">**Endereço MAC WiFi**</mark> <mark style="color:red;"></mark><mark style="color:red;">- endereço MAC do adaptador Wi-Fi do dispositivo.</mark>
-* <mark style="color:red;">**IP (Wi-Fi Network)**</mark> <mark style="color:red;"></mark><mark style="color:red;">- endereço IP atribuído ao dispositivo na rede Wi-Fi.</mark>
-* <mark style="color:red;">**IPv6 (Wi-Fi Network)**</mark> <mark style="color:red;"></mark><mark style="color:red;">- endereço IPv6 atribuído ao dispositivo na rede Wi-Fi.</mark>
-* <mark style="color:red;">**Rede BSSID**</mark> <mark style="color:red;"></mark><mark style="color:red;">- identificador único da rede Wi-Fi.</mark>
-* <mark style="color:red;">**Operadora da Rede Conectada**</mark> <mark style="color:red;"></mark><mark style="color:red;">- nome da operadora da rede móvel conectada.</mark>
-* <mark style="color:red;">**Roaming Dados Móveis**</mark> <mark style="color:red;"></mark><mark style="color:red;">- indica se o dispositivo está em roaming de dados móveis.</mark>
-* <mark style="color:red;">**IP (Rede móvel)**</mark> <mark style="color:red;"></mark><mark style="color:red;">- endereço IP atribuído ao dispositivo na rede móvel.</mark>
-* <mark style="color:red;">**IPv6 (Rede móvel)**</mark> <mark style="color:red;"></mark><mark style="color:red;">- endereço IPv6 atribuído ao dispositivo na rede móvel.</mark>
-* <mark style="color:red;">**SIM Conectado**</mark> <mark style="color:red;"></mark><mark style="color:red;">- indica qual SIM está ativo e conectado.</mark>
-* <mark style="color:red;">**Operadora do SIM 1**</mark> <mark style="color:red;"></mark><mark style="color:red;">- nome da operadora do primeiro SIM.</mark>
-* <mark style="color:red;">**Número de Telefone SIM 1**</mark> <mark style="color:red;"></mark><mark style="color:red;">- número de telefone associado ao primeiro SIM.</mark>
-* <mark style="color:red;">**ICCID SIM 1**</mark> <mark style="color:red;"></mark><mark style="color:red;">- identificador exclusivo do cartão SIM 1.</mark>
-* <mark style="color:red;">**IMEI SIM 1**</mark> <mark style="color:red;"></mark><mark style="color:red;">- número de Identificação Internacional de Equipamento Móvel do SIM 1.</mark>
-* <mark style="color:red;">**Número do Assinante SIM 1**</mark> <mark style="color:red;"></mark><mark style="color:red;">- número do assinante associado ao SIM 1.</mark>
-* <mark style="color:red;">**MCC do SIM 1**</mark> <mark style="color:red;"></mark><mark style="color:red;">- código do país móvel do SIM 1.</mark>
-* <mark style="color:red;">**MNC do SIM 1**</mark> <mark style="color:red;"></mark><mark style="color:red;">- código da rede móvel do SIM 1.</mark>
-* <mark style="color:red;">**Operadora do SIM 2**</mark> <mark style="color:red;"></mark><mark style="color:red;">- nome da operadora do segundo SIM.</mark>
-* <mark style="color:red;">**Número de Telefone SIM 2**</mark> <mark style="color:red;"></mark><mark style="color:red;">- número de telefone associado ao segundo SIM.</mark>
-* <mark style="color:red;">**ICCID SIM 2**</mark> <mark style="color:red;"></mark><mark style="color:red;">- identificador exclusivo do cartão SIM 2.</mark>
-* <mark style="color:red;">**IMEI SIM 2**</mark> <mark style="color:red;"></mark><mark style="color:red;">- número de Identificação Internacional de Equipamento Móvel do SIM 2.</mark>
-* <mark style="color:red;">**Número do Assinante SIM 2**</mark> <mark style="color:red;"></mark><mark style="color:red;">- número do assinante associado ao SIM 2.</mark>
-* <mark style="color:red;">**MCC do SIM 2**</mark> <mark style="color:red;"></mark><mark style="color:red;">- código do país móvel do SIM 2.</mark>
-* <mark style="color:red;">**MNC do SIM 2**</mark> <mark style="color:red;"></mark><mark style="color:red;">- código da rede móvel do SIM 2.</mark>
-* <mark style="color:red;">**DBM (RSRP - Potencia da Antena)**</mark> <mark style="color:red;"></mark><mark style="color:red;">- medida da potência do sinal da antena.</mark>
-* <mark style="color:red;">**Cell ID**</mark> <mark style="color:red;"></mark><mark style="color:red;">- identificação da célula à qual o dispositivo está conectado.</mark>
-* <mark style="color:red;">**LAC**</mark> <mark style="color:red;"></mark><mark style="color:red;">- código de Área Local.</mark>
-* <mark style="color:red;">**Tecnologia da Antena**</mark> <mark style="color:red;"></mark><mark style="color:red;">- tipo de tecnologia de antena utilizada.</mark>
+* <mark style="color:blue;">**Tipo da rede conectada (Wi-Fi/Móvel)**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- indica se o dispositivo está conectado via Wi-Fi ou rede móvel.</mark>
+* <mark style="color:blue;">**Largura de Banda (Móvel)**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- a largura de banda disponível para a rede móvel.</mark>
+* <mark style="color:blue;">**Largura de Banda (WiFi)**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- a largura de banda disponível para a rede Wi-Fi.</mark>
+* <mark style="color:blue;">**Latência -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">o tempo que leva para um pacote de dados viajar de sua origem até seu destino e voltar.</mark>
+* <mark style="color:blue;">**Configuração de Banda**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- configuração específica da banda de frequência utilizada.</mark>
+* <mark style="color:blue;">**Rede WiFi conectada**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- nome da rede Wi-Fi à qual o dispositivo está conectado.</mark>
+* <mark style="color:blue;">**Força de sinal**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- a intensidade do sinal da rede conectada.</mark>
+* <mark style="color:blue;">**WiFi Roaming -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é a capacidade do dispositivo de se conectar automaticamente a diferentes pontos de acesso Wi-Fi dentro da mesma rede sem perder a conexão.</mark>
+* <mark style="color:blue;">**Frequência da banda WiFi**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- frequência utilizada pela rede Wi-Fi (por exemplo, 2.4 GHz ou 5 GHz).</mark>
+* <mark style="color:blue;">**Velocidade do Link WiFi**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- velocidade de conexão com a rede Wi-Fi.</mark>
+* <mark style="color:blue;">**Endereço MAC WiFi**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- endereço MAC do adaptador Wi-Fi do dispositivo.</mark>
+* <mark style="color:blue;">**IP (Wi-Fi Network)**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- endereço IP atribuído ao dispositivo na rede Wi-Fi.</mark>
+* <mark style="color:blue;">**IPv6 (Wi-Fi Network)**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- endereço IPv6 atribuído ao dispositivo na rede Wi-Fi.</mark>
+* <mark style="color:blue;">**Rede BSSID**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- identificador único da rede Wi-Fi.</mark>
+* <mark style="color:blue;">**Operadora da Rede Conectada**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- nome da operadora da rede móvel conectada.</mark>
+* <mark style="color:blue;">**Roaming Dados Móveis**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- indica se o dispositivo está em roaming de dados móveis.</mark>
+* <mark style="color:blue;">**IP (Rede móvel)**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- endereço IP atribuído ao dispositivo na rede móvel.</mark>
+* <mark style="color:blue;">**IPv6 (Rede móvel)**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- endereço IPv6 atribuído ao dispositivo na rede móvel.</mark>
+* <mark style="color:blue;">**SIM Conectado**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- indica qual SIM está ativo e conectado.</mark>
+* <mark style="color:blue;">**Operadora do SIM 1**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- nome da operadora do primeiro SIM.</mark>
+* <mark style="color:blue;">**Número de Telefone SIM 1**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- número de telefone associado ao primeiro SIM.</mark>
+* <mark style="color:blue;">**ICCID SIM 1**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- identificador exclusivo do cartão SIM 1.</mark>
+* <mark style="color:blue;">**IMEI SIM 1**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- número de Identificação Internacional de Equipamento Móvel do SIM 1.</mark>
+* <mark style="color:blue;">**Número do Assinante SIM 1**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- número do assinante associado ao SIM 1.</mark>
+* <mark style="color:blue;">**MCC do SIM 1**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- código do país móvel do SIM 1.</mark>
+* <mark style="color:blue;">**MNC do SIM 1**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- código da rede móvel do SIM 1.</mark>
+* <mark style="color:blue;">**Operadora do SIM 2**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- nome da operadora do segundo SIM.</mark>
+* <mark style="color:blue;">**Número de Telefone SIM 2**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- número de telefone associado ao segundo SIM.</mark>
+* <mark style="color:blue;">**ICCID SIM 2**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- identificador exclusivo do cartão SIM 2.</mark>
+* <mark style="color:blue;">**IMEI SIM 2**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- número de Identificação Internacional de Equipamento Móvel do SIM 2.</mark>
+* <mark style="color:blue;">**Número do Assinante SIM 2**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- número do assinante associado ao SIM 2.</mark>
+* <mark style="color:blue;">**MCC do SIM 2**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- código do país móvel do SIM 2.</mark>
+* <mark style="color:blue;">**MNC do SIM 2**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- código da rede móvel do SIM 2.</mark>
+* <mark style="color:blue;">**DBM (RSRP - Potencia da Antena)**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- medida da potência do sinal da antena.</mark>
+* <mark style="color:blue;">**Cell ID**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- identificação da célula à qual o dispositivo está conectado.</mark>
+* <mark style="color:blue;">**LAC**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- código de Área Local.</mark>
+* <mark style="color:blue;">**Tecnologia da Antena**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- tipo de tecnologia de antena utilizada.</mark>
 
 E clicando nos três pontinhos "**...**" à direita na listagem dos dispositivos, aparecem as opções de consulta e configurações do dispositivo, como ilustrado na imagem abaixo:
 
@@ -118,17 +118,17 @@ E clicando nos três pontinhos "**...**" à direita na listagem dos dispositivos
 
 As opções disponíveis variam de acordo com o Modo de Gerenciamento da política na qual o dispositivo estiver vinculado e estão em destaque na imagem a seguir:
 
-<mark style="color:red;">HISTORICO DE ARMAZENAMENTO REMOVIDO DA TABELA</mark>
+<mark style="color:blue;">HISTORICO DE ARMAZENAMENTO REMOVIDO DA TABELA</mark>
 
-<mark style="color:red;">HISTORICO E BATERIA REMOVIDO DA TABELA</mark>
+<mark style="color:blue;">HISTORICO E BATERIA REMOVIDO DA TABELA</mark>
 
 <table><thead><tr><th width="272.28506787330315">Modo de Gerenciamento</th><th>Opções disponíveis</th></tr></thead><tbody><tr><td>Android</td><td>Relatório de Não Conformidade<br>Alterar Política<br>Ativar/ Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Gerar Nova Senha do Dispositivo<br>Remover Dispositivo (WIPE)<br>Gerenciar Informações</td></tr><tr><td>Android Block SIM</td><td><p>Relatório de Não Conformidade<br>Alterar Política<br>Ativar/Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo</p><p>Gerar Nova Senha do Bloqueio de Tela<br>Remover Bloqueio de Tela</p><p><mark style="color:red;background-color:orange;">Remover Bloqueio de Chip</mark><br>Remover Dispositivo (WIPE)<br>Gerenciar </p></td></tr><tr><td>Android Work Profile</td><td>Relatório de Não Conformidade<br>Alterar Política<br>Remover Dispositivo (WIPE)<br>Gerenciar </td></tr></tbody></table>
 
 As opções que estão em destaque na figura são detalhadas nas próximas subseções:
 
-<mark style="color:red;">CONTEUDO HISTÓRICO DE BATERIA REMOVIDO</mark>
+<mark style="color:blue;">CONTEUDO HISTÓRICO DE BATERIA REMOVIDO</mark>
 
-<mark style="color:red;">CONTEUDO HISTÓRICO DE  ARMAZENAMENTO REMOVIDO</mark>
+<mark style="color:blue;">CONTEUDO HISTÓRICO DE  ARMAZENAMENTO REMOVIDO</mark>
 
 ### **Relatório de Não Conformidade**
 
