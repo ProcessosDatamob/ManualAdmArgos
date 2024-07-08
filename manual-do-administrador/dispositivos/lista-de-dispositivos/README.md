@@ -28,22 +28,22 @@ Para gerenciar os dispositivos ativos da empresa, siga os passos descritos abaix
 3. Use os filtros Grupos, Política, Modelo e Fabricante para encontrar os dispositivos se deseja listar
 4. Utilize os Filtros Avançados para buscar o Sistema Operacional, Modo de Gerenciamento, Data Inicial de Registro e Data Final de Registro (filtrará pela data de registro dos dispositivos que estão no período especificado) para acessar as informações desejadas
 5. Para localizar um dispositivo específico, digite o número do telefone, nome do usuário, IMEI, ICCID, <mark style="color:blue;">departamento ou telefone do usuário</mark> do dispositivo no campo “Pesquisar”
-6. Para exportar o relatório dos dispositivos, clique no botão “Excel”, <mark style="color:red;">o sistema exibirá no relatório apenas as informações das colunas exibidas na tela</mark>
-7. Para copiar as informações dos dispositivos, clique no botão “Copiar”, <mark style="color:red;">o sistema copiará para a área de transferência apenas as informações das colunas exibidas na tela</mark>
+6. Para exportar o relatório dos dispositivos, clique no botão “Excel”, <mark style="color:blue;">o sistema exibirá no relatório apenas as informações das colunas exibidas na tela</mark>
+7. Para copiar as informações dos dispositivos, clique no botão “Copiar”, <mark style="color:blue;">o sistema copiará para a área de transferência apenas as informações das colunas exibidas na tela</mark>
 8. Clique na opção de “Ações em lote" para aplicar uma ação em vários dispositivos de uma vez só. Para mais informações, acessar o conteúdo [Ações em lote](./#acoes-em-lote) nesta página
-9. A lista de dispositivos é mostrada na parte inferior da tela. <mark style="color:red;">Ao rolar a barra horizontalmente é possível visualizar todas as informaçõpes das colunas exibidas</mark>
+9. A lista de dispositivos é mostrada na parte inferior da tela. <mark style="color:blue;">Ao rolar a barra horizontalmente é possível visualizar todas as informações das colunas exibidas</mark>
 
 <mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-10. <mark style="color:red;">Clique no ícone de configurações para selecionar as colunas que ficarão visíveis, e depois clique em "Salvar" para definir a configuração como padrão da tela para o usuário logado</mark>
+10. <mark style="color:blue;">Clique no ícone de configurações para selecionar as colunas que ficarão visíveis, e depois clique em "Salvar" para definir a configuração como padrão da tela para o usuário logado</mark>
 
     <mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-10. <mark style="color:red;">Ordene as colunas: Usuário, Identificação, Licença, IMEI, Modelo, Data de Registro e Data da última comunicação com as setas "↑↓"</mark>&#x20;
+10. <mark style="color:blue;">Ordene as colunas: Usuário, Identificação, Licença, IMEI, Modelo, Data de Registro e Data da última comunicação com as setas "↑↓"</mark>&#x20;
 11. Use os três pontinhos "..." para exibir o menu de ações e aplicar a ação desejada ao dispositivo
 
 ### Ações em lote
