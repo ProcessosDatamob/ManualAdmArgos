@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Configurações Gerais - Android - Work Profile
 
 Profile é um modo de gerenciamento exclusivo para dispositivos pessoais, ele permite que um usuário com o seu dispositivo pessoal possa criar um ambiente seguro para utilizar aplicativos de trabalho, garantindo segurança necessária para as informações da empresa e a privacidade do usuário, uma vez que o dispositivo é pessoal.
@@ -17,12 +31,11 @@ As configurações gerais são agrupadas nos tipos:
 
 * [Restrições de Senha - Dispositivo](configuracoes-gerais-android-work-profile.md#restricoes-de-senha-dispositivo)
 * [Restrições de Senha - Perfil de Trabalho](configuracoes-gerais-android-work-profile.md#restricoes-de-senha-perfil-de-trabalho)
-* <mark style="color:red;">Tela</mark>
 * [Trabalho](configuracoes-gerais-android-work-profile.md#trabalho)
 
-<mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Restrições de Senha - Dispositivo**
 
@@ -34,29 +47,13 @@ As configurações gerais são agrupadas nos tipos:
 
 <mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Se a chave estiver habilitada permite ao usuário manter a mesma senha definida para o “**Dispositivo**” no “**Perfil de Trabalho**”.
 
 Quando a opção estiver desativada, obriga ao usuário criar uma senha diferente da senha pessoal, para acessar o perfil de trabalho. São exibidas as mesmas configurações descritas na tabela acima para definição de senha.
 
 <table data-header-hidden><thead><tr><th width="307.8854625550661"></th><th></th></tr></thead><tbody><tr><td><strong>Configuração</strong></td><td><strong>Descrição</strong></td></tr><tr><td>Qualidade da senha</td><td><p>Nesta configuração, temos as seguintes opções disponíveis:</p><p>- Biometria</p><p><mark style="color:red;background-color:orange;">- Alguma</mark></p><p>- Numérica</p><p>- Numérica Complexa</p><p>- Alfabética</p><p>- Alfanumérica</p><p>- Complexa</p></td></tr><tr><td>Comprimento de histórico de senhas</td><td>Define o número de senhas já usadas que não podem ser reutilizadas</td></tr><tr><td>Máximo de senhas incorretas antes de executar wipe</td><td>Define o máximo de tentativas incorretas antes de executar o Wipe</td></tr><tr><td>Tempo limite de expiração da senha (dias)</td><td>Define quantos dias a senha vai levar para expirar</td></tr><tr><td>Exigir desbloqueio de senha</td><td>Nesta configuração temos as opções: Padrão do dispositivo, ou seja, definida conforme configurado no dispositivo ou todo dia, neste caso a senha será solicitada todo dia</td></tr></tbody></table>
-
-### Tela
-
-<mark style="color:red;">Estando na guia de "</mark><mark style="color:red;">**Configurações**</mark><mark style="color:red;">" da tela de "</mark><mark style="color:red;">**Edição de Políticas**</mark><mark style="color:red;">", clique sobre a opção "</mark><mark style="color:red;">**Tela**</mark><mark style="color:red;">" para visualizar as opções de configuração de papel de parede e rotação de tela.</mark>&#x20;
-
-<figure><img src="../../../.gitbook/assets/image (218).png" alt=""><figcaption></figcaption></figure>
-
-<mark style="color:red;">Na tabela a seguir, as configurações são descritas:</mark>
-
-<table><thead><tr><th width="274">Configuração</th><th>Descrição</th></tr></thead><tbody><tr><td>Desabilitar mudança de papel de parede</td><td><mark style="color:red;">Permite que o usuário administrador desabilite a função de mudança de papel de parede do dispositivo. Estando habilitada, a alteração do plano de fundo está desativada.</mark></td></tr><tr><td>Definir Papel de Parede</td><td><mark style="color:red;">Permite realizar o upload de uma imagem de papel de parede que será enviada para o dispositivo.</mark></td></tr></tbody></table>
-
-{% hint style="info" %}
-<mark style="color:red;">**OBSERVAÇÃO**</mark>
-
-<mark style="color:red;">Quando um dispositivo for registrado na política com a configuração de papel de parede, será ajustado o papel de parede conforme a imagem recebida, tanto no modo quiosque quanto fora dele, mantendo o funcionamento atual.</mark>
-{% endhint %}
 
 ### Trabalho
 
