@@ -75,17 +75,17 @@ Após a inclusão do aplicativo na política, as configurações de bloqueios po
 
 <figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">As Configurações Gerenciadas para o Security Browser são:</mark>&#x20;
+<mark style="color:blue;">As Configurações Gerenciadas para o Security Browser são:</mark>&#x20;
 
 * <mark style="color:blue;">**Bloquear Todos os Sites -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">como administrador, é possível ativar o bloqueio total de acesso a todos os sites. Quando o bloqueio total está ativado, nenhum site pode ser acessado pelo dispositivo. Isso significa que qualquer tentativa de navegação será bloqueada, garantindo que os usuários não consigam visitar nenhuma página da web.</mark>
 
 <figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-* <mark style="color:blue;">**Sites Favoritos -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">como administrador, é possível configurar sites favoritos no Security Browser para disponibilizá-los aos usuários. Adicione os sites favoritos com Nome e URL, e ao salvar a política, as configurações serão enviadas para os dispositivos.</mark>
+* <mark style="color:blue;">**Sites Favoritos -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">como administrador, é possível configurar sites favoritos no Security Browser para disponibilizá-los aos usuários. Adicione os sites favoritos com Nome e URL, e ao salvar a política, as configurações serão enviadas para os dispositivos. No dispositivo ao abrir o menu Favoritos do</mark> <mark style="color:blue;">aplicativo Security Browser, será exibida as URLs cadastradas na lista de sites favoritos da configuração gerenciada.</mark>
 
 <figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-* <mark style="color:blue;">**Página de Bloqueio -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é possível personalizar o bloqueio de sites redirecionando para uma página definida. Informe a URL da página que será exibida ao bloquear o acesso a um site, e ao salvar a política, as configurações serão enviadas para os dispositivos.</mark>
+* <mark style="color:blue;">**Página de Bloqueio -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é possível personalizar o bloqueio de sites redirecionando para uma página definida como padrão. Ou seja, caso o usuário tente acessar um site que possui bloqueio de URL, palavra chave ou categoria, quando o app bloquear o site, ele redirecionará para a URL de bloqueio recebida na configuração gerenciada e não irá registrar a URL como site acessado.</mark>
 
 <figure><img src="../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
