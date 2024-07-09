@@ -172,7 +172,7 @@ Esta operação envia um comando para reiniciar o dispositivo. Escolha a opção
 
 ### **Gerar nova senha do Bloqueio de Tela**
 
-<mark style="color:red;">Esta opção permite ao administrador configurar a senha do bloqueio de tela do Block SIM para permitir a alteração remota da senha. Na Lista de Dispositivos, clique na opção “Gerar Nova Senha do Bloqueio de Tela", preencha e confirme a nova senha do Bloqueio de Tela, utilizando letras, números e símbolos. Confirme a alteração da senha, e ao confirmar, o comando será enviado via push ao Companion para aplicação no dispositivo.</mark>
+<mark style="color:blue;">Esta opção permite ao administrador configurar a senha do bloqueio de tela do Block SIM para permitir a alteração remota da senha. Na Lista de Dispositivos, clique na opção “Gerar Nova Senha do Bloqueio de Tela", preencha e confirme a nova senha do Bloqueio de Tela, utilizando letras, números e símbolos. Confirme a alteração da senha, e ao confirmar, o comando será enviado via push ao Companion para aplicação no dispositivo.</mark>
 
 <mark style="color:red;background-color:orange;">COLOCAR PRINTA DA TELA DO DISPOSITIVO?</mark>
 
@@ -186,11 +186,11 @@ Esta operação envia um comando para remover o bloqueio de tela do dispositivo.
 Esta opção só ficará disponível para dispositivos ativados com política em modo de gerenciamento Android Block SIM.
 {% endhint %}
 
-### <mark style="color:red;">**Remover Bloqueio de Chip**</mark>
+### <mark style="color:blue;">**Remover Bloqueio de Chip**</mark>
 
-<mark style="color:red;">Esta opção permite que o administrador envie um comando para remover o bloqueio de chip (SIM) de um dispositivo, liberando o acesso do usuário ao dispositivo.</mark>&#x20;
+<mark style="color:blue;">Esta opção permite que o administrador envie um comando para remover o bloqueio de chip (SIM) de um dispositivo, liberando o acesso do usuário ao dispositivo.</mark>&#x20;
 
-<mark style="color:red;">Na tela "Lista de Dispositivos", selecione a política “Android - Block SIM” e a opção "Remover Bloqueio de Chip", o sistema exibirá uma mensagem de confirmação para o envio da remoção do bloqueio de chip, permitindo confirmar ou cancelar. Após enviar o comando de remoção, o dispositivo receberá um push com o comando, o aplicativo Companion capturará o comando e enviará para o Block SIM, completando a remoção do bloqueio.</mark>
+<mark style="color:blue;">Na tela "Lista de Dispositivos", selecione a política “Android - Block SIM” e a opção "Remover Bloqueio de Chip", o sistema exibirá uma mensagem de confirmação para o envio da remoção do bloqueio de chip, permitindo confirmar ou cancelar. Após enviar o comando de remoção, o dispositivo receberá um push com o comando, o aplicativo Companion capturará o comando e enviará para o Block SIM, completando a remoção do bloqueio.</mark>
 
 ### **Gerar nova senha do dispositivo**
 
@@ -223,19 +223,23 @@ Esta operação permite excluir um dispositivo, ela limpa os dados e configuraç
 Uma mensagem é exibida na tela para informação e advertência. A operação não pode ser desfeita, portanto, confirme somente quando tiver certeza de que deseja eliminar o dispositivo.
 {% endhint %}
 
-### **Gerenciar**
+## **Gerenciar**
 
-<mark style="color:red;">Ao entrar na tela o sistema exibira a tela diretamente na aba "Detalhes", onde é possível</mark> editar dados do dispositivo, como: Usuário, Identificação, Grupo, Departamento e Telefone do Usuário.
+<mark style="color:blue;">Ao clicar na opção</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Gerenciar**</mark><mark style="color:blue;">, será exibida a tela "</mark><mark style="color:blue;">**Gerenciar Dispositivo**</mark><mark style="color:blue;">", onde teremos 4 abas com opções para edição e informações do dispositivo, são elas:</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Detalhes, Aplicativos, Bateria e Armazenamento Livre.**</mark>&#x20;
+
+## <mark style="color:blue;">**Detalhes**</mark>
+
+<mark style="color:blue;">Ao abrir a tela acima, a primeira aba "</mark><mark style="color:blue;">**Detalhes**</mark><mark style="color:blue;">" vira Pré selecionada, nesta tela, é possível editar dados do dispositivo, como: Usuário, Identificação, Grupo, Departamento e Telefone do Usuário.</mark>
 
 <figure><img src="../../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
 
-Além de poder editar os dados, são exibidos mais abaixo duas listas com as informações de Software, Hardware e <mark style="color:red;">Conectividade</mark> relacionados ao dispositivo gerenciado.
+Além de poder editar os dados, são exibidos mais abaixo duas listas com as informações de Software, Hardware e <mark style="color:blue;">Conectividade</mark> relacionados ao dispositivo gerenciado.
 
 <mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2024-06-26 120244 (3).png" alt=""><figcaption></figcaption></figure>
 
-### **Informações de Software**
+#### **Informações de Software**
 
 * **Modo de gerenciamento -** exibe o modo de gerenciamento utilizado
 * **Versão do app -** versão do companion instalado no dispositivo
@@ -249,58 +253,29 @@ Além de poder editar os dados, são exibidos mais abaixo duas listas com as inf
 * **Nome da Política no Portal** - nome da política atribuída ao dispositivo;
 * **Nome da Política no Dispositivo -** nome da política atribuída no dispositivo;
 
-### **Informações de Hardware**
+#### **Informações de Hardware**
 
 * **Armazenamento Interno -** quanto de armazenamento interno possui;
 * **Bateria -** Quantos % de bateria está no momento;
 
-### Conectividade
+#### <mark style="color:blue;">Conectividade</mark>
 
-* <mark style="color:red;">**Tipo da rede conectada (Wi-Fi/Móvel)**</mark> <mark style="color:red;"></mark><mark style="color:red;">- indica se o dispositivo está conectado via Wi-Fi ou rede móvel.</mark>
-* <mark style="color:red;">**Largura de Banda (Móvel)**</mark> <mark style="color:red;"></mark><mark style="color:red;">- a largura de banda disponível para a rede móvel.</mark>
-* <mark style="color:red;">**Largura de Banda (WiFi)**</mark> <mark style="color:red;"></mark><mark style="color:red;">- a largura de banda disponível para a rede Wi-Fi.</mark>
-* <mark style="color:red;">**Latência -**</mark> <mark style="color:red;"></mark><mark style="color:red;">o tempo que leva para um pacote de dados viajar de sua origem até seu destino e voltar.</mark>
-* <mark style="color:red;">**Configuração de Banda**</mark> <mark style="color:red;"></mark><mark style="color:red;">- configuração específica da banda de frequência utilizada.</mark>
-* <mark style="color:red;">**Rede WiFi conectada**</mark> <mark style="color:red;"></mark><mark style="color:red;">- nome da rede Wi-Fi à qual o dispositivo está conectado.</mark>
-* <mark style="color:red;">**Força de sinal**</mark> <mark style="color:red;"></mark><mark style="color:red;">- a intensidade do sinal da rede conectada.</mark>
-* <mark style="color:red;">**WiFi Roaming -**</mark> <mark style="color:red;"></mark><mark style="color:red;">é a capacidade do dispositivo de se conectar automaticamente a diferentes pontos de acesso Wi-Fi dentro da mesma rede sem perder a conexão.</mark>
-* <mark style="color:red;">**Frequência da banda WiFi**</mark> <mark style="color:red;"></mark><mark style="color:red;">- frequência utilizada pela rede Wi-Fi (por exemplo, 2.4 GHz ou 5 GHz).</mark>
-* <mark style="color:red;">**Endereço MAC WiFi**</mark> <mark style="color:red;"></mark><mark style="color:red;">- endereço MAC do adaptador Wi-Fi do dispositivo.</mark>
-* <mark style="color:red;">**IP (Wi-Fi Network)**</mark> <mark style="color:red;"></mark><mark style="color:red;">- endereço IP atribuído ao dispositivo na rede Wi-Fi.</mark>
-* <mark style="color:red;">**IPv6 (Wi-Fi Network)**</mark> <mark style="color:red;"></mark><mark style="color:red;">- endereço IPv6 atribuído ao dispositivo na rede Wi-Fi.</mark>
-* <mark style="color:red;">**Rede BSSID**</mark> <mark style="color:red;"></mark><mark style="color:red;">- identificador único da rede Wi-Fi.</mark>
-* <mark style="color:red;">**Operadora da Rede Conectada**</mark> <mark style="color:red;"></mark><mark style="color:red;">- nome da operadora da rede móvel conectada.</mark>
-* <mark style="color:red;">**Roaming Dados Móveis**</mark> <mark style="color:red;"></mark><mark style="color:red;">- indica se o dispositivo está em roaming de dados móveis.</mark>
-* <mark style="color:red;">**IP (Rede móvel)**</mark> <mark style="color:red;"></mark><mark style="color:red;">- endereço IP atribuído ao dispositivo na rede móvel.</mark>
-* <mark style="color:red;">**IPv6 (Rede móvel)**</mark> <mark style="color:red;"></mark><mark style="color:red;">- endereço IPv6 atribuído ao dispositivo na rede móvel.</mark>
-* <mark style="color:red;">**SIM Conectado**</mark> <mark style="color:red;"></mark><mark style="color:red;">- indica qual SIM está ativo e conectado.</mark>
-* <mark style="color:red;">**Operadora do SIM 1**</mark> <mark style="color:red;"></mark><mark style="color:red;">- nome da operadora do primeiro SIM.</mark>
-* <mark style="color:red;">**Número de Telefone SIM 1**</mark> <mark style="color:red;"></mark><mark style="color:red;">- número de telefone associado ao primeiro SIM.</mark>
-* <mark style="color:red;">**ICCID SIM 1**</mark> <mark style="color:red;"></mark><mark style="color:red;">- identificador exclusivo do cartão SIM 1.</mark>
-* <mark style="color:red;">**IMEI SIM 1**</mark> <mark style="color:red;"></mark><mark style="color:red;">- número de Identificação Internacional de Equipamento Móvel do SIM 1.</mark>
-* <mark style="color:red;">**Número do Assinante SIM 1**</mark> <mark style="color:red;"></mark><mark style="color:red;">- número do assinante associado ao SIM 1.</mark>
-* <mark style="color:red;">**MCC do SIM 1**</mark> <mark style="color:red;"></mark><mark style="color:red;">- código do país móvel do SIM 1.</mark>
-* <mark style="color:red;">**MNC do SIM 1**</mark> <mark style="color:red;"></mark><mark style="color:red;">- código da rede móvel do SIM 1.</mark>
-* <mark style="color:red;">**Operadora do SIM 2**</mark> <mark style="color:red;"></mark><mark style="color:red;">- nome da operadora do segundo SIM.</mark>
-* <mark style="color:red;">**Número de Telefone SIM 2**</mark> <mark style="color:red;"></mark><mark style="color:red;">- número de telefone associado ao segundo SIM.</mark>
-* <mark style="color:red;">**ICCID SIM 2**</mark> <mark style="color:red;"></mark><mark style="color:red;">- identificador exclusivo do cartão SIM 2.</mark>
-* <mark style="color:red;">**IMEI SIM 2**</mark> <mark style="color:red;"></mark><mark style="color:red;">- número de Identificação Internacional de Equipamento Móvel do SIM 2.</mark>
-* <mark style="color:red;">**Número do Assinante SIM 2**</mark> <mark style="color:red;"></mark><mark style="color:red;">- número do assinante associado ao SIM 2.</mark>
-* <mark style="color:red;">**MCC do SIM 2**</mark> <mark style="color:red;"></mark><mark style="color:red;">- código do país móvel do SIM 2.</mark>
-* <mark style="color:red;">**MNC do SIM 2**</mark> <mark style="color:red;"></mark><mark style="color:red;">- código da rede móvel do SIM 2.</mark>
-* <mark style="color:red;">**DBM (RSRP - Potencia da Antena)**</mark> <mark style="color:red;"></mark><mark style="color:red;">- medida da potência do sinal da antena.</mark>
-* <mark style="color:red;">**Cell ID**</mark> <mark style="color:red;"></mark><mark style="color:red;">- identificação da célula à qual o dispositivo está conectado.</mark>
-* <mark style="color:red;">**LAC**</mark> <mark style="color:red;"></mark><mark style="color:red;">- código de Área Local.</mark>
-* <mark style="color:red;">**Tecnologia da Antena**</mark> <mark style="color:red;"></mark><mark style="color:red;">- tipo de tecnologia de antena utilizada.</mark>
+<mark style="color:blue;">As informações de conectividade já foram detalhadas acima , na sessão "Informações do Dispositivo"</mark>
 
-<mark style="color:red;">Na aba "</mark><mark style="color:red;">**Aplicativos**</mark><mark style="color:red;">", é possível acessar a lista de todos os aplicativos instalados no dispositivo, contendo as seguintes informações: ícone, nome, consumo e tempo de uso. Os dados de consumo e tempo de uso são registrados dentro do ciclo. É possível pesquisar um aplicativo específico utilizando o campo de pesquisa, exportar relatórios completos ou da página, além de copiar as informações da lista. A aba também permite visualizar o gráfico de "Histórico de Consumo" do aplicativo durante o ciclo.</mark>
+## <mark style="color:blue;">**Aplicativos**</mark>
+
+<mark style="color:blue;">Na aba "</mark><mark style="color:blue;">**Aplicativos**</mark><mark style="color:blue;">", é possível acessar a lista de todos os aplicativos instalados no dispositivo, contendo as seguintes informações: ícone, nome, consumo e tempo de uso. Os dados de consumo e tempo de uso são registrados dentro do ciclo. É possível pesquisar um aplicativo específico utilizando o campo de pesquisa, exportar relatórios completos ou da página, além de copiar as informações da lista. A aba também permite visualizar o gráfico de "Histórico de Consumo" do aplicativo durante o ciclo.</mark>
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">Na aba "</mark><mark style="color:red;">**Bateria**</mark><mark style="color:red;">", é possível selecionar uma data para visualizar as informações desejadas. Ao escolher a data, o sistema buscará e exibirá os dados da bateria em formato de gráfico.</mark>
+## <mark style="color:blue;">**Bateria**</mark>
+
+<mark style="color:blue;">Na aba "</mark><mark style="color:blue;">**Bateria**</mark><mark style="color:blue;">", é possível selecionar uma data para visualizar as informações desejadas. Ao escolher a data, o sistema buscará e exibirá os dados da bateria em formato de gráfico.</mark>
 
 <figure><img src="../../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">Na aba "</mark><mark style="color:red;">**Armazenamento Livre**</mark><mark style="color:red;">" é possível visualizar a memória livre no armazenamento interno do dispositivo ao selecionar uma data para visualizar as informações desejadas. Ao escolher a data, o sistema buscará e exibirá os dados de armazenamento em formato de gráfico.</mark>
+## <mark style="color:blue;">**Armazenamento Livre**</mark>
+
+<mark style="color:blue;">Na aba "</mark><mark style="color:blue;">**Armazenamento Livre**</mark><mark style="color:blue;">" é possível visualizar a memória livre no armazenamento interno do dispositivo ao selecionar uma data para visualizar as informações desejadas. Ao escolher a data, o sistema buscará e exibirá os dados de armazenamento em formato de gráfico.</mark>
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
