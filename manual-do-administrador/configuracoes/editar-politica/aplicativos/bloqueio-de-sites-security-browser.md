@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Bloqueio de Sites Security Browser
 
 O Security Browser é um navegador seguro e fácil de usar. Projetado para o Android, o Security Browser permite que os administradores dos dispositivos realizem o controle e monitoramento dos sites acessados pelos usuários, para garantir uma utilização mais segura e o consumo de dados controlado.
@@ -45,11 +59,9 @@ Para realizar a instalação do aplicativo, acesse o menu "**Gerenciamento de Ap
 
 ![](<../../../../.gitbook/assets/6 (2).png>)
 
-Após a inclusão do aplicativo na política, as configurações de bloqueios podem ser definidas. A próxima subseção mostra como realizar o bloqueio de sites.
+Após a inclusão do aplicativo na política, as configurações de bloqueios podem ser definidas. A próxima subseção mostra como realizar <mark style="color:blue;">as configurações do Security Browser.</mark>
 
-### **Bloqueio de Sites**
-
-O bloqueio de sites possibilita que o dispositivo seja utilizado para navegação no âmbito do trabalho, e que sites e categorias indesejadas estejam inacessíveis. Para realizar o bloqueio de sites siga os passos abaixo:
+### **Configurações Gerenciadas do Security Browser**
 
 1. Na tela Editar Políticas clique na guia "**Aplicativos**".
 2. Escolha o "**Tipo de instalação**" do Security Browser como "**Instalação Forçada**" ou "**Pré-instalado**".
@@ -57,24 +69,32 @@ O bloqueio de sites possibilita que o dispositivo seja utilizado para navegaçã
 
 <mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">A seguinte tela será exibida:</mark>
+<mark style="color:blue;">Ao clicar em Configurações Gerenciadas a seguinte tela será exibida:</mark>
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">As Configurações Gerenciadas para o Security Browser são:</mark>&#x20;
 
-* <mark style="color:red;">Página de Bloqueio - é possível personalizar o bloqueio de sites redirecionando para uma página definida. Informe a URL da página que será exibida ao bloquear o acesso a um site, e ao salvar a política, as configurações serão enviadas para os dispositivos.</mark>
+* <mark style="color:blue;">**Bloquear Todos os Sites -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">como administrador, é possível ativar o bloqueio total de acesso a todos os sites. Quando o bloqueio total está ativado, nenhum site pode ser acessado pelo dispositivo. Isso significa que qualquer tentativa de navegação será bloqueada, garantindo que os usuários não consigam visitar nenhuma página da web.</mark>
+
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+* <mark style="color:blue;">**Sites Favoritos -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">como administrador, é possível configurar sites favoritos no Security Browser para disponibilizá-los aos usuários. Adicione os sites favoritos com Nome e URL, e ao salvar a política, as configurações serão enviadas para os dispositivos.</mark>
+
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+* <mark style="color:blue;">**Página de Bloqueio -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é possível personalizar o bloqueio de sites redirecionando para uma página definida. Informe a URL da página que será exibida ao bloquear o acesso a um site, e ao salvar a política, as configurações serão enviadas para os dispositivos.</mark>
 
 <figure><img src="../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-* <mark style="color:red;">URLs e Palavas-Chave Bloqueadas e Liberadas - o administrador pode</mark> <mark style="color:red;">especificar URLs e palavras-chave para bloquear ou liberar o acesso no aplicativo. Permitindo um controle granular sobre o conteúdo acessado pelos usuários, garantindo que sites indesejados sejam bloqueados enquanto sites aprovados permaneçam acessíveis.</mark>
+* <mark style="color:blue;">**URLs e Palavas-Chave Bloqueadas e Liberadas -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">o administrador pode especificar URLs e palavras-chave para bloquear ou liberar o acesso no aplicativo. Permitindo um controle granular sobre o conteúdo acessado pelos usuários, garantindo que sites indesejados sejam bloqueados enquanto sites aprovados permaneçam acessíveis.</mark>
 
 <figure><img src="../../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
-* <mark style="color:red;">Bloqueio de Sites por Categoria - pode-se bloquear o acesso a sites com base em categorias específicas. O administrador pode selecionar diferentes categorias de sites que deseja bloquear. Quando o bloqueio por categoria está ativado, qualquer site que pertença a uma dessas categorias selecionadas será automaticamente bloqueado.</mark>
+* <mark style="color:blue;">**Bloqueio de Sites por Categoria -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">pode-se bloquear o acesso a sites com base em categorias específicas. O administrador pode selecionar diferentes categorias de sites que deseja bloquear. Quando o bloqueio por categoria está ativado, qualquer site que pertença a uma dessas categorias selecionadas será automaticamente bloqueado.</mark>
 
 <figure><img src="../../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">Clique em "Salvar" para guardar as informações.</mark>
+<mark style="color:blue;">Clique em "Salvar" para guardar as informações.</mark>
