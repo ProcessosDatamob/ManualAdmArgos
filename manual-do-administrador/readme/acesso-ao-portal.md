@@ -57,7 +57,7 @@ Após esta confirmação, o sistema abrirá a tela para "Criar conta de administ
 
 Nesta etapa é possível adicionar um e-mail com domínio corporativo, ou seja, será possível realizar a gestão a partir de um domínio corporativo. No domínio corporativo, uma companhia poderá criar várias empresas, a principal diferença é o gerenciamento de contas e autenticação de domínio.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Caso não possua um e-mail com domínio de trabalho, ao informar outro e-mail e clicar em Próximo, serão exibidas as seguintes opções:
 
