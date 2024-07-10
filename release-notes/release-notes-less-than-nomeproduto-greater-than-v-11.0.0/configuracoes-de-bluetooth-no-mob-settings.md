@@ -23,7 +23,7 @@ layout:
 * <mark style="color:blue;">Exibir uma lista de todos os dispositivos Bluetooth disponíveis para conectar, com a lista sendo atualizada a cada 10 segundos enquanto a tela estiver acessada.</mark>
 * <mark style="color:blue;">Emparelhar o dispositivo com um dispositivo Bluetooth disponível.</mark>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
 
