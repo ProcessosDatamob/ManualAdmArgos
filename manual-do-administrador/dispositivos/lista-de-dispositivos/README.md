@@ -20,7 +20,7 @@ Para gerenciar os dispositivos ativos da empresa, siga os passos descritos abaix
 
 <figure><img src="../../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Na parte superior da tela o sistema exibe a distribuição dos dispositivos, separados por fabricantes.
 3. Use os filtros Grupos, Política, Modelo e Fabricante para encontrar os dispositivos se deseja listar.
@@ -31,7 +31,7 @@ Para gerenciar os dispositivos ativos da empresa, siga os passos descritos abaix
 8. Clique na opção de “Ações em lote" para aplicar uma ação em vários dispositivos de uma vez só. Para mais informações, acessar o conteúdo [Ações em lote](./#acoes-em-lote) nesta página.
 9. A lista de dispositivos é mostrada na parte inferior da tela. Ao rolar a barra horizontalmente é possível visualizar todas as informações das colunas exibidas.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 10. Clique no ícone de configurações para selecionar as colunas que ficarão visíveis, e depois clique em "Salvar" para definir a configuração como padrão da tela para o usuário logado.
 
