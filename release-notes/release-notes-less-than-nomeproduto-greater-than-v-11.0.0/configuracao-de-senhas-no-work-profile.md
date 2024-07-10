@@ -14,7 +14,7 @@ layout:
 
 # Configuração de Senhas no Work Profile
 
-<mark style="color:blue;">Para evitar conflitos com as configurações de senhas do dispositivo, foi realizada uma atualização nas opções de senha do Work Profile. Ao acessar o portal e editar uma política Android - Work Profile, na seção "Restrições de Senha - Perfil de Trabalho", quando a opção “Permitir o usuário manter a mesma senha definida para o 'Dispositivo' no 'Perfil de Trabalho' ou escolher uma nova senha para o 'Perfil de Trabalho” estiver desativada, o sistema não exibirá mais a opção “Nenhuma” no campo "Qualidade da senha". Em vez disso, a opção “Alguma” será exibida e selecionada por padrão.</mark>
+Para evitar conflitos com as configurações de senhas do dispositivo, foi realizada uma atualização nas opções de senha do Work Profile. Ao acessar o portal e editar uma política Android - Work Profile, na seção "Restrições de Senha - Perfil de Trabalho", quando a opção “Permitir o usuário manter a mesma senha definida para o 'Dispositivo' no 'Perfil de Trabalho' ou escolher uma nova senha para o 'Perfil de Trabalho” estiver desativada, o sistema não exibirá mais a opção “Nenhuma” no campo "Qualidade da senha". Em vez disso, a opção “Alguma” será exibida e selecionada por padrão.
 
 <figure><img src="../../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
 

@@ -14,9 +14,9 @@ layout:
 
 # Gestão de Sites Favoritos do Security Browser
 
-<mark style="color:blue;">Foi implementada a funcionalidade de gestão de sites favoritos no Security Browser, permitindo que administradores configurem e disponibilizem sites favoritos para os usuários.</mark>
+Foi implementada a funcionalidade de gestão de sites favoritos no Security Browser, permitindo que administradores configurem e disponibilizem sites favoritos para os usuários.
 
-<mark style="color:blue;">No aplicativo Security Browser ao acessar os Favoritos, será apresentada a lista de sites que foram configuradas no portal.</mark>
+No aplicativo Security Browser ao acessar os Favoritos, será apresentada a lista de sites que foram configuradas no portal.
 
 <figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 

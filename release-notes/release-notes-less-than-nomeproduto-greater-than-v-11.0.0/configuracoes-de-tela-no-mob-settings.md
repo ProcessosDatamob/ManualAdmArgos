@@ -14,14 +14,14 @@ layout:
 
 # Configurações de Tela no Mob Settings
 
-<mark style="color:blue;">O Mob Settings agora permite que os administradores configurem a tela dos dispositivos sem precisar acessar todas as configurações do dispositivo. Após instalar o Mob Settings e ativar a configuração gerenciada de tela, ao abrir o aplicativo, o sistema exibirá o botão de acesso às configurações de tela. Ao clicar no botão, será exibida a tela de configuração de tela, onde o aplicativo solicitará as permissões necessárias para utilizar a configuração.</mark>
+O Mob Settings agora permite que os administradores configurem a tela dos dispositivos sem precisar acessar todas as configurações do dispositivo. Após instalar o Mob Settings e ativar a configuração gerenciada de tela, ao abrir o aplicativo, o sistema exibirá o botão de acesso às configurações de tela. Ao clicar no botão, será exibida a tela de configuração de tela, onde o aplicativo solicitará as permissões necessárias para utilizar a configuração.
 
-<mark style="color:blue;">Na tela de configuração, o usuário poderá:</mark>
+Na tela de configuração, o usuário poderá:
 
-* <mark style="color:blue;">Ativar e desativar o brilho adaptável da tela.</mark>
-* <mark style="color:blue;">Diminuir e aumentar o brilho da tela.</mark>
-* <mark style="color:blue;">Ativar e desativar a fixação da orientação atual da tela.</mark>
-* <mark style="color:blue;">Selecionar o tempo de espera até o desligamento automático da tela do dispositivo, entre uma das seguintes opções: 15 segundos, 30 segundos, 1 minuto, 2 minutos, 5 minutos, 10 minutos, 30 minutos.</mark>
+* Ativar e desativar o brilho adaptável da tela.
+* Diminuir e aumentar o brilho da tela.
+* Ativar e desativar a fixação da orientação atual da tela.
+* Selecionar o tempo de espera até o desligamento automático da tela do dispositivo, entre uma das seguintes opções: 15 segundos, 30 segundos, 1 minuto, 2 minutos, 5 minutos, 10 minutos, 30 minutos.
 
 <figure><img src="../../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
 

@@ -108,9 +108,9 @@ Outra opção, para não precisar deixar o acesso as configurações liberado, �
 
 Abaixo Listamos quais acessos o usuário terá no dispositivo ao informar a senha de acesso temporário:
 
-* Liberará acesso a todos os os aplicativos instalados que estiverem na política, <mark style="color:blue;">mesmo que não estejam visíveis no Modo Quiosque</mark> (Google Play e Remotos);
+* Liberará acesso a todos os os aplicativos instalados que estiverem na política, mesmo que não estejam visíveis no Modo Quiosque (Google Play e Remotos);
 * Liberará acesso a todos os os aplicativos de sistema que existem na política (_independente se esta visível_);
-* Liberará acesso a todas as configurações do dispositivo, <mark style="color:blue;">mas para isto, é necessário que o aplicativo de sistema "</mark><mark style="color:blue;">**Configurações**</mark><mark style="color:blue;">" esteja incluso na política.</mark>
+* Liberará acesso a todas as configurações do dispositivo, mas para isto, é necessário que o aplicativo de sistema "**Configurações**" esteja incluso na política.
 
 <mark style="color:orange;background-color:orange;">NOVA IMAGEM</mark>
 
