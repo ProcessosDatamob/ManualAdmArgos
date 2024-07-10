@@ -57,7 +57,7 @@ Caso não tenha recebido o token por e-mail, o usuário pode solicitar que seja 
 
 Após esta confirmação, o sistema abrirá a tela para "Criar conta de administrador".
 
-<mark style="color:red;">Nesta etapa é possível adicionar um e-mail com domínio corporativo, ou seja, será possível realizar a gestão a partir de um domínio corporativo. No domínio corporativo, uma companhia poderá criar várias empresas, a principal diferença é o gerenciamento de contas e autenticação de domínio.</mark>
+<mark style="color:blue;">Nesta etapa é possível adicionar um e-mail com domínio corporativo, ou seja, será possível realizar a gestão a partir de um domínio corporativo. No domínio corporativo, uma companhia poderá criar várias empresas, a principal diferença é o gerenciamento de contas e autenticação de domínio.</mark>
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -67,19 +67,19 @@ Caso não possua um e-mail com domínio de trabalho, ao informar outro e-mail e 
 
 <figure><img src="../../.gitbook/assets/Tela 2 (1).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">**Inscreva-se com um e-mail de trabalho**</mark><mark style="color:red;">: o sistema detecta que o endereço de e-mail utilizado é pessoal (ex: @gmail.com) e não é adequado para a inscrição no Android Enterprise. É necessário utilizar um e-mail corporativo (ex: nome@empresa.com). Clique em "Tentar de novo com um e-mail de trabalho para retornar e inserir um endereço de e-mail corporativo válido.</mark>
+<mark style="color:blue;">**Inscreva-se com um e-mail de trabalho**</mark><mark style="color:blue;">: o sistema detecta que o endereço de e-mail utilizado é pessoal (ex: @gmail.com) e não é adequado para a inscrição no Android Enterprise. É necessário utilizar um e-mail corporativo (ex: nome@empresa.com). Clique em "Tentar de novo com um e-mail de trabalho para retornar e inserir um endereço de e-mail corporativo válido.</mark>
 
-<mark style="color:red;">**Comprar domínio da empresa**</mark><mark style="color:red;">: caso a sua empresa ainda não possua um domínio próprio (ex: empresa.com) e um e-mail corporativo correspondente, você pode adquirir um novo domínio. Clique em "Comprar um domínio" para ser direcionado a um serviço de registro de domínios, onde você pode comprar um domínio para sua empresa e, em seguida, utilizar um e-mail associado a esse domínio para a inscrição.</mark>
+<mark style="color:blue;">**Comprar domínio da empresa**</mark><mark style="color:blue;">: caso a sua empresa ainda não possua um domínio próprio (ex: empresa.com) e um e-mail corporativo correspondente, você pode adquirir um novo domínio. Clique em "Comprar um domínio" para ser direcionado a um serviço de registro de domínios, onde você pode comprar um domínio para sua empresa e, em seguida, utilizar um e-mail associado a esse domínio para a inscrição.</mark>
 
-<mark style="color:red;">**Inscreva-se apenas para Android**</mark><mark style="color:red;">: se você está planejando gerenciar apenas dispositivos Android, pode criar um pacote de contas do Google Play gerenciado, mesmo utilizando um e-mail pessoal. Clique em "Inscreva-se" para prosseguir com a inscrição utilizando um e-mail pessoal, limitando a gestão apenas a dispositivos Android.</mark>
+<mark style="color:blue;">**Inscreva-se apenas para Android**</mark><mark style="color:blue;">: se você está planejando gerenciar apenas dispositivos Android, pode criar um pacote de contas do Google Play gerenciado, mesmo utilizando um e-mail pessoal. Clique em "Inscreva-se" para prosseguir com a inscrição utilizando um e-mail pessoal, limitando a gestão apenas a dispositivos Android.</mark>
 
-#### <mark style="color:red;">Escolhendo a Melhor Opção</mark>
+#### <mark style="color:blue;">Escolhendo a Melhor Opção</mark>
 
-* <mark style="color:red;">**Para Empresas Com Domínio**</mark><mark style="color:red;">: Utilize um e-mail corporativo para um gerenciamento mais completo.</mark>
-* <mark style="color:red;">**Para Empresas Sem Domínio**</mark><mark style="color:red;">: Considere comprar um domínio corporativo para uma gestão mais integrada.</mark>
-* <mark style="color:red;">**Para Gerenciamento Somente Android**</mark><mark style="color:red;">: Utilize um e-mail pessoal se a gestão se limitar a dispositivos Android, mas esteja ciente das limitações.</mark>
+* <mark style="color:blue;">**Para Empresas Com Domínio**</mark><mark style="color:blue;">: Utilize um e-mail corporativo para um gerenciamento mais completo.</mark>
+* <mark style="color:blue;">**Para Empresas Sem Domínio**</mark><mark style="color:blue;">: Considere comprar um domínio corporativo para uma gestão mais integrada.</mark>
+* <mark style="color:blue;">**Para Gerenciamento Somente Android**</mark><mark style="color:blue;">: Utilize um e-mail pessoal se a gestão se limitar a dispositivos Android, mas esteja ciente das limitações.</mark>
 
-<mark style="color:red;">Para seguir nas telas seguintes, escolha a opção "</mark><mark style="color:red;">**Inscreva-se apenas para Android"**</mark> <mark style="color:red;"></mark><mark style="color:red;">e realize o registro no Android Enterprise.</mark>
+<mark style="color:blue;">Para seguir nas telas seguintes, escolha a opção "</mark><mark style="color:blue;">**Inscreva-se apenas para Android"**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">e realize o registro no Android Enterprise.</mark>
 
 Nesta tela será realizada a configuração de uma conta Google Play para a empresa. Esta etapa é importante para que a empresa gerencie os aplicativos que estarão disponíveis em seus dispositivos.&#x20;
 
