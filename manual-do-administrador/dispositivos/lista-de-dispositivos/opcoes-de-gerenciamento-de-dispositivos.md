@@ -278,4 +278,4 @@ Além de poder editar os dados, são exibidos mais abaixo duas listas com as inf
 
 <mark style="color:blue;">Na aba "</mark><mark style="color:blue;">**Armazenamento Livre**</mark><mark style="color:blue;">" é possível visualizar a memória livre no armazenamento interno do dispositivo ao selecionar uma data para visualizar as informações desejadas. Ao escolher a data, o sistema buscará e exibirá os dados de armazenamento em formato de gráfico.</mark>
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

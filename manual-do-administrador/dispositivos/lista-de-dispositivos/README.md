@@ -41,7 +41,7 @@ Para gerenciar os dispositivos ativos da empresa, siga os passos descritos abaix
 
     <mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 10. <mark style="color:blue;">Ordene as colunas: Usuário, Identificação, Licença, IMEI, Modelo, Data de Registro e Data da última comunicação com as setas "↑↓"</mark>&#x20;
 11. Use os três pontinhos "..." para exibir o menu de ações e aplicar a ação desejada ao dispositivo
