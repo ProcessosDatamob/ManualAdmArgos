@@ -112,8 +112,6 @@ Abaixo Listamos quais acessos o usuário terá no dispositivo ao informar a senh
 * Liberará acesso a todos os os aplicativos de sistema que existem na política (_independente se esta visível_);
 * Liberará acesso a todas as configurações do dispositivo, mas para isto, é necessário que o aplicativo de sistema "**Configurações**" esteja incluso na política e que a permissão **Acesso à Configurações** esteja como **Liberado** no Modo Quiosque.
 
-<mark style="color:orange;background-color:orange;">NOVAS IMAGENS</mark>
-
 <figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
