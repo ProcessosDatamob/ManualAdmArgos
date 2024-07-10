@@ -29,6 +29,10 @@ layout:
 3. <mark style="color:blue;">O aplicativo solicitará as permissões necessárias para gerenciar o Bluetooth.</mark>
 4. <mark style="color:blue;">Na tela de configuração, é possível ativar/desativar o Bluetooth, ativar a visibilidade do dispositivo, visualizar dispositivos disponíveis, atualizar a lista de dispositivos a cada 10 segundos, e emparelhar com dispositivos Bluetooth.</mark>
 
+<figure><img src="../../../../.gitbook/assets/image (225).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
+
 <mark style="color:blue;">**Configurações de Tela**</mark>
 
 <mark style="color:blue;">Com o Mob Settings, os administradores podem ajustar várias configurações de tela dos dispositivos, como brilho, orientação e tempo de espera da tela.</mark>
