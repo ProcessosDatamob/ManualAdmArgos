@@ -59,7 +59,7 @@ Para realizar a instalação do aplicativo, acesse o menu "**Gerenciamento de Ap
 
 ![](<../../../../.gitbook/assets/6 (2).png>)
 
-Após a inclusão do aplicativo na política, as configurações de bloqueios podem ser definidas. A próxima subseção mostra como realizar <mark style="color:blue;">as configurações do Security Browser.</mark>
+Após a inclusão do aplicativo na política, as configurações de bloqueios podem ser definidas. A próxima subseção mostra como realizar as configurações do Security Browser.
 
 ### **Configurações Gerenciadas do Security Browser**
 
@@ -67,34 +67,32 @@ Após a inclusão do aplicativo na política, as configurações de bloqueios po
 2. Escolha o "**Tipo de instalação**" do Security Browser como "**Instalação Forçada**" ou "**Pré-instalado**".
 3. Clique em "**Configurações Gerenciadas**" para abrir a tela de configurações gerenciadas do Security Browser.
 
-<mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
-
 <figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">Ao clicar em Configurações Gerenciadas a seguinte tela será exibida:</mark>
+Ao clicar em Configurações Gerenciadas a seguinte tela será exibida:
 
 <figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">As Configurações Gerenciadas para o Security Browser são:</mark>&#x20;
+As Configurações Gerenciadas para o Security Browser são:&#x20;
 
-* <mark style="color:blue;">**Bloquear Todos os Sites -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">como administrador, é possível ativar o bloqueio total de acesso a todos os sites. Quando o bloqueio total está ativado, nenhum site pode ser acessado pelo dispositivo. Isso significa que qualquer tentativa de navegação será bloqueada, garantindo que os usuários não consigam visitar nenhuma página da web.</mark>
+* **Bloquear Todos os Sites -** como administrador, é possível ativar o bloqueio total de acesso a todos os sites. Quando o bloqueio total está ativado, nenhum site pode ser acessado pelo dispositivo. Isso significa que qualquer tentativa de navegação será bloqueada, garantindo que os usuários não consigam visitar nenhuma página da web.
 
 <figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-* <mark style="color:blue;">**Sites Favoritos -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">como administrador, é possível configurar sites favoritos no Security Browser para disponibilizá-los aos usuários. Adicione os sites favoritos com Nome e URL, e ao salvar a política, as configurações serão enviadas para os dispositivos. No dispositivo ao abrir o menu Favoritos do</mark> <mark style="color:blue;">aplicativo Security Browser, será exibida as URLs cadastradas na lista de sites favoritos da configuração gerenciada.</mark>
+* **Sites Favoritos -** como administrador, é possível configurar sites favoritos no Security Browser para disponibilizá-los aos usuários. Adicione os sites favoritos com Nome e URL, e ao salvar a política, as configurações serão enviadas para os dispositivos. No dispositivo ao abrir o menu Favoritos do aplicativo Security Browser, será exibida as URLs cadastradas na lista de sites favoritos da configuração gerenciada.
 
 <figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-* <mark style="color:blue;">**Página de Bloqueio -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é possível personalizar o bloqueio de sites redirecionando para uma página definida como padrão. Ou seja, caso o usuário tente acessar um site que possui bloqueio de URL, palavra chave ou categoria, quando o app bloquear o site, ele redirecionará para a URL de bloqueio recebida na configuração gerenciada e não irá registrar a URL como site acessado.</mark>
+* **Página de Bloqueio -** é possível personalizar o bloqueio de sites redirecionando para uma página definida como padrão. Ou seja, caso o usuário tente acessar um site que possui bloqueio de URL, palavra chave ou categoria, quando o app bloquear o site, ele redirecionará para a URL de bloqueio recebida na configuração gerenciada e não irá registrar a URL como site acessado.
 
 <figure><img src="../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-* <mark style="color:blue;">**URLs e Palavas-Chave Bloqueadas e Liberadas -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">o administrador pode especificar URLs e palavras-chave para bloquear ou liberar o acesso no aplicativo. Permitindo um controle granular sobre o conteúdo acessado pelos usuários, garantindo que sites indesejados sejam bloqueados enquanto sites aprovados permaneçam acessíveis.</mark>
+* **URLs e Palavas-Chave Bloqueadas e Liberadas -** o administrador pode especificar URLs e palavras-chave para bloquear ou liberar o acesso no aplicativo. Permitindo um controle granular sobre o conteúdo acessado pelos usuários, garantindo que sites indesejados sejam bloqueados enquanto sites aprovados permaneçam acessíveis.
 
 <figure><img src="../../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
-* <mark style="color:blue;">**Bloqueio de Sites por Categoria -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">pode-se bloquear o acesso a sites com base em categorias específicas. O administrador pode selecionar diferentes categorias de sites que deseja bloquear. Quando o bloqueio por categoria está ativado, qualquer site que pertença a uma dessas categorias selecionadas será automaticamente bloqueado.</mark>
+* **Bloqueio de Sites por Categoria -** pode-se bloquear o acesso a sites com base em categorias específicas. O administrador pode selecionar diferentes categorias de sites que deseja bloquear. Quando o bloqueio por categoria está ativado, qualquer site que pertença a uma dessas categorias selecionadas será automaticamente bloqueado.
 
 <figure><img src="../../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">Clique em "Salvar" para guardar as informações.</mark>
+Clique em "Salvar" para guardar as informações.

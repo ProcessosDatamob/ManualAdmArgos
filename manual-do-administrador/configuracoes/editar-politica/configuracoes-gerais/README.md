@@ -22,7 +22,7 @@ As configurações gerais são agrupadas nos tipos:
 * Restrições de Senha;
 * Segurança;
 * Sistema Operacional;
-* <mark style="color:red;">Tela;</mark>
+* Tela;
 * Tela de Bloqueio;
 * Trabalho;
 * Usuário;

@@ -47,8 +47,6 @@ O E-mail de confirmação é uma mensagem automática e pode ser identificada em
 
 9. O token de confirmação deve ser inserido na tela para confirmar o cadastro da empresa. A tela de confirmação é mostrada a seguir:
 
-<mark style="color:red;background-color:orange;">NOVA IMAGEM</mark>
-
 <figure><img src="../../.gitbook/assets/image123.png" alt="" width="348"><figcaption></figcaption></figure>
 
 Caso não tenha recebido o token por e-mail, o usuário pode solicitar que seja enviado novamente clicando na opção “**Reenviar código**" que fica disponível logo acima do botão "**Confirmar**".
@@ -57,7 +55,7 @@ Caso não tenha recebido o token por e-mail, o usuário pode solicitar que seja 
 
 Após esta confirmação, o sistema abrirá a tela para "Criar conta de administrador".
 
-<mark style="color:blue;">Nesta etapa é possível adicionar um e-mail com domínio corporativo, ou seja, será possível realizar a gestão a partir de um domínio corporativo. No domínio corporativo, uma companhia poderá criar várias empresas, a principal diferença é o gerenciamento de contas e autenticação de domínio.</mark>
+Nesta etapa é possível adicionar um e-mail com domínio corporativo, ou seja, será possível realizar a gestão a partir de um domínio corporativo. No domínio corporativo, uma companhia poderá criar várias empresas, a principal diferença é o gerenciamento de contas e autenticação de domínio.
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -67,19 +65,19 @@ Caso não possua um e-mail com domínio de trabalho, ao informar outro e-mail e 
 
 <figure><img src="../../.gitbook/assets/Tela 2 (1).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">**Inscreva-se com um e-mail de trabalho**</mark><mark style="color:blue;">: o sistema detecta que o endereço de e-mail utilizado é pessoal (ex: @gmail.com) e não é adequado para a inscrição no Android Enterprise. É necessário utilizar um e-mail corporativo (ex: nome@empresa.com). Clique em "Tentar de novo com um e-mail de trabalho para retornar e inserir um endereço de e-mail corporativo válido.</mark>
+**Inscreva-se com um e-mail de trabalho**: o sistema detecta que o endereço de e-mail utilizado é pessoal (ex: @gmail.com) e não é adequado para a inscrição no Android Enterprise. É necessário utilizar um e-mail corporativo (ex: nome@empresa.com). Clique em "Tentar de novo com um e-mail de trabalho para retornar e inserir um endereço de e-mail corporativo válido.
 
-<mark style="color:blue;">**Comprar domínio da empresa**</mark><mark style="color:blue;">: caso a sua empresa ainda não possua um domínio próprio (ex: empresa.com) e um e-mail corporativo correspondente, você pode adquirir um novo domínio. Clique em "Comprar um domínio" para ser direcionado a um serviço de registro de domínios, onde você pode comprar um domínio para sua empresa e, em seguida, utilizar um e-mail associado a esse domínio para a inscrição.</mark>
+**Comprar domínio da empresa**: caso a sua empresa ainda não possua um domínio próprio (ex: empresa.com) e um e-mail corporativo correspondente, você pode adquirir um novo domínio. Clique em "Comprar um domínio" para ser direcionado a um serviço de registro de domínios, onde você pode comprar um domínio para sua empresa e, em seguida, utilizar um e-mail associado a esse domínio para a inscrição.
 
-<mark style="color:blue;">**Inscreva-se apenas para Android**</mark><mark style="color:blue;">: se você está planejando gerenciar apenas dispositivos Android, pode criar um pacote de contas do Google Play gerenciado, mesmo utilizando um e-mail pessoal. Clique em "Inscreva-se" para prosseguir com a inscrição utilizando um e-mail pessoal, limitando a gestão apenas a dispositivos Android.</mark>
+**Inscreva-se apenas para Android**: se você está planejando gerenciar apenas dispositivos Android, pode criar um pacote de contas do Google Play gerenciado, mesmo utilizando um e-mail pessoal. Clique em "Inscreva-se" para prosseguir com a inscrição utilizando um e-mail pessoal, limitando a gestão apenas a dispositivos Android.
 
-#### <mark style="color:blue;">Escolhendo a Melhor Opção</mark>
+#### Escolhendo a Melhor Opção
 
-* <mark style="color:blue;">**Para Empresas Com Domínio**</mark><mark style="color:blue;">: Utilize um e-mail corporativo para um gerenciamento mais completo.</mark>
-* <mark style="color:blue;">**Para Empresas Sem Domínio**</mark><mark style="color:blue;">: Considere comprar um domínio corporativo para uma gestão mais integrada.</mark>
-* <mark style="color:blue;">**Para Gerenciamento Somente Android**</mark><mark style="color:blue;">: Utilize um e-mail pessoal se a gestão se limitar a dispositivos Android, mas esteja ciente das limitações.</mark>
+* **Para Empresas Com Domínio**: Utilize um e-mail corporativo para um gerenciamento mais completo.
+* **Para Empresas Sem Domínio**: Considere comprar um domínio corporativo para uma gestão mais integrada.
+* **Para Gerenciamento Somente Android**: Utilize um e-mail pessoal se a gestão se limitar a dispositivos Android, mas esteja ciente das limitações.
 
-<mark style="color:blue;">Para seguir nas telas seguintes, escolha a opção "</mark><mark style="color:blue;">**Inscreva-se apenas para Android"**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">e realize o registro no Android Enterprise.</mark>
+Para seguir nas telas seguintes, escolha a opção "**Inscreva-se apenas para Android"** e realize o registro no Android Enterprise.
 
 Nesta tela será realizada a configuração de uma conta Google Play para a empresa. Esta etapa é importante para que a empresa gerencie os aplicativos que estarão disponíveis em seus dispositivos.&#x20;
 
@@ -96,8 +94,6 @@ A tela de "Detalhes do Contato" é apresentada na sequência.
 <figure><img src="../../.gitbook/assets/Tela 8_Português.png" alt=""><figcaption></figcaption></figure>
 
 Após confirmar os dados, será exibida a tela do **\<NomeProduto>** com a mensagem _**"Parabéns! Sua empresa foi registrada no Android Enterprise com sucesso."**_
-
-_<mark style="color:red;background-color:orange;">**NOVA IMAGEM**</mark>_
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 

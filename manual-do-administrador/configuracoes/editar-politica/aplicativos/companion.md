@@ -1,14 +1,14 @@
 # Companion
 
-#### <mark style="color:red;">Permissões Opcionais do Companion</mark>
+#### Permissões Opcionais do Companion
 
-<mark style="color:red;">Para o Companion, foi criada dentro das Configurações Gerenciadas as Permissões Opcionais, para possibilitar ativar o companion em dispositivos que não possuem as permissões solicitadas na ativação.</mark>
+Para o Companion, foi criada dentro das Configurações Gerenciadas as Permissões Opcionais, para possibilitar ativar o companion em dispositivos que não possuem as permissões solicitadas na ativação.
 
-<mark style="color:red;">Sendo assim, para acessar as “Permissões Opcionais",  clique nos três pontinhos "...", localizados no final da linha e clique na opção "</mark><mark style="color:red;">**Configurações Gerenciadas**</mark><mark style="color:red;">" do aplicativo Companion.</mark>
+Sendo assim, para acessar as “Permissões Opcionais",  clique nos três pontinhos "...", localizados no final da linha e clique na opção "**Configurações Gerenciadas**" do aplicativo Companion.
 
 <figure><img src="../../../../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">Ao expandir as "Permissões Opcionais" serão exibidas várias opções e será possível ativar e desativar cada uma das configurações.</mark>&#x20;
+Ao expandir as "Permissões Opcionais" serão exibidas várias opções e será possível ativar e desativar cada uma das configurações.&#x20;
 
 <figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
