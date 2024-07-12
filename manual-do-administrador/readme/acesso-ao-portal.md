@@ -61,29 +61,25 @@ Nesta etapa , será solicitada uma conta de domínio próprio da empresa , para 
 
 <figure><img src="../../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
 
-Caso não possua um e-mail com domínio de trabalho, ao informar outro e-mail e clicar em Próximo, serão exibidas as seguintes opções:
+Caso seja informada esta conta de e-mail coorporativo contendo o Cloud Identity o sistema seguira o processo normal do fluxo. Caso o usuário não possuir a conta ou informar uma conta que não tenha o Cloud Identity configurado, será apresentada a seguinte tela:
 
 
 
 <figure><img src="../../.gitbook/assets/Tela 2 (1).png" alt=""><figcaption></figcaption></figure>
 
-**Inscreva-se com um e-mail de trabalho**: o sistema detecta que o endereço de e-mail utilizado é pessoal (ex: @gmail.com) e não é adequado para a inscrição no Android Enterprise. É necessário utilizar um e-mail corporativo (ex: nome@empresa.com). Clique em "Tentar de novo com um e-mail de trabalho para retornar e inserir um endereço de e-mail corporativo válido.
+**Inscreva-se com um e-mail de trabalho**: Nesta opção, é possível realizar nova tentativa de informar um e-mail corporativo (ex: nome@empresa.com) que possua o Cloud Identity da Google configurado.  Então, clique em "Tentar de novo com um e-mail de trabalho para retornar e inserir um endereço de e-mail corporativo válido.
 
-**Comprar domínio da empresa**: caso a sua empresa ainda não possua um domínio próprio (ex: empresa.com) e um e-mail corporativo correspondente, você pode adquirir um novo domínio. Clique em "Comprar um domínio" para ser direcionado a um serviço de registro de domínios, onde você pode comprar um domínio para sua empresa e, em seguida, utilizar um e-mail associado a esse domínio para a inscrição.
+**Comprar domínio da empresa**: Nesta opção, caso a sua empresa ainda não possua um domínio próprio (ex: empresa.com) e um e-mail corporativo correspondente, você pode adquirir um novo domínio. Clique em "Comprar um domínio" para ser direcionado a um serviço de registro de domínios, onde você pode comprar um domínio para sua empresa e, em seguida, utilizar um e-mail associado a esse domínio para a inscrição.
 
-**Inscreva-se apenas para Android**: se você está planejando gerenciar apenas dispositivos Android, pode criar um pacote de contas do Google Play gerenciado, mesmo utilizando um e-mail pessoal. Clique em "Inscreva-se" para prosseguir com a inscrição utilizando um e-mail pessoal, limitando a gestão apenas a dispositivos Android.
+**Inscreva-se apenas para Android**: Agora se você está planejando gerenciar apenas dispositivos Android, pode criar um pacote de contas do Google Play gerenciado, mesmo utilizando um e-mail pessoal. Clique em "Inscreva-se" para prosseguir com a inscrição utilizando um e-mail pessoal, limitando a gestão apenas a dispositivos Android.
 
-#### Escolhendo a Melhor Opção
+{% hint style="warning" %}
+**OBSERVAÇÃO:** Importante destacar que o Google não aceita contas GSuite e recomenda-se criar uma conta comum para a empresa (por exemplo, [nomedaempresa@google.com](mailto:nomedaempresa@google.com)).
+{% endhint %}
 
-* **Para Empresas Com Domínio**: Utilize um e-mail corporativo para um gerenciamento mais completo.
-* **Para Empresas Sem Domínio**: Considere comprar um domínio corporativo para uma gestão mais integrada.
-* **Para Gerenciamento Somente Android**: Utilize um e-mail pessoal se a gestão se limitar a dispositivos Android, mas esteja ciente das limitações.
+Após escolher uma das três opções acima, siga os próximos passos para finalizar o processo de vínculo no Android Enterprise.
 
-Para seguir nas telas seguintes, escolha a opção "**Inscreva-se apenas para Android"** e realize o registro no Android Enterprise.
-
-Nesta tela será realizada a configuração de uma conta Google Play para a empresa. Esta etapa é importante para que a empresa gerencie os aplicativos que estarão disponíveis em seus dispositivos.&#x20;
-
-Na tela Google Play use o botão “**Fazer Login**" para escolher uma conta ou cadastrar uma nova conta. Importante destacar que o Google não aceita contas GSuite e recomenda-se criar uma conta comum para a empresa (por exemplo, [nomedaempresa@google.com](mailto:nomedaempresa@google.com)).
+Na tela Google Play use o botão “**Fazer Login**" para logar na conta ou caso não tenha a conta, poderá criar uma nova conta.&#x20;
 
 <figure><img src="../../.gitbook/assets/Tela 3.png" alt=""><figcaption></figcaption></figure>
 
