@@ -77,11 +77,11 @@ Esta falta de comunicação pode ocorrer quando o dispositivo se encontrar nas s
 
 O cálculo de tempo para considerar o dispositivo sem comunicação é o tempo de sincronismo configurado na empresa + 10 minutos.
 
-Caso o dispositivo esteja acima do tempo definido Envio de consumos gerais/informações do dispositivo;
+Caso o dispositivo fique sem enviar consumos gerais/informações do dispositivo, por um tempo acima do tempo de sincronismo definido + 10 minutos, ele altera o status para **Sem Comunicação.**
 
-Caso passe mais de 10 minutos e o Portal não receba uma destas informações, o dispositivo é considerado como “Sem comunicação” e envia um comando para o dispositivo tentar restabelecer a comunicação. Dependendo da situação do dispositivo, o restabelecimento da comunicação poderá ocorrer ou não.
+Para que o dispositivo volte a comunicar, o administrador pode enviar uma mensagem com o comando \*Startservice\* através do menu [Mensagens ](mensagens-e-comandos/)do portal.
 
-Ao clicar nesse indicador o sistema exibirá uma tela contendo o relatório com as informações dos dispositivos que estão sem comunicação.
+Ao clicar no indicador **Sem comunicação ,**o sistema exibirá uma tela contendo o relatório com as informações dos dispositivos que estão sem comunicação.
 
 ### **Consumo de Dados no Ciclo**
 
