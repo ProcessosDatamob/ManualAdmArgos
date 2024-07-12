@@ -75,13 +75,13 @@ Esta falta de comunicação pode ocorrer quando o dispositivo se encontrar nas s
 * Sem conexão de internet;
 * Aplicativo desinstalado;
 
-O cálculo de tempo para considerar o dispositivo sem comunicação é o tempo de sincronismo configurado na empresa + 10 minutos.
+<mark style="color:blue;">O cálculo de tempo para considerar o dispositivo sem comunicação é o tempo de sincronismo configurado na empresa + 10 minutos.</mark>
 
-Caso o dispositivo fique sem enviar consumos gerais/informações do dispositivo, por um tempo acima do tempo de sincronismo definido + 10 minutos, ele altera o status para **Sem Comunicação.**
+<mark style="color:blue;">Caso o dispositivo fique sem enviar consumos gerais/informações do dispositivo, por um tempo acima do tempo de sincronismo definido + 10 minutos, ele altera o status para</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Sem Comunicação.**</mark>
 
-Para que o dispositivo volte a comunicar, o administrador pode enviar uma mensagem com o comando \*Startservice\* através do menu [Mensagens ](mensagens-e-comandos/)do portal.
+<mark style="color:blue;">Para que o dispositivo volte a comunicar, o administrador pode enviar uma mensagem com o comando \*Startservice\* através do menu</mark> [<mark style="color:blue;">Mensagens</mark> ](mensagens-e-comandos/)<mark style="color:blue;">do portal.</mark>
 
-Ao clicar no indicador **Sem comunicação ,**o sistema exibirá uma tela contendo o relatório com as informações dos dispositivos que estão sem comunicação.
+<mark style="color:blue;">Ao clicar no indicador</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Sem comunicação ,**</mark><mark style="color:blue;">o sistema exibirá uma tela contendo o relatório com as informações dos dispositivos que estão sem comunicação.</mark>
 
 ### **Consumo de Dados no Ciclo**
 
