@@ -73,12 +73,11 @@ Esta falta de comunicação pode ocorrer quando o dispositivo se encontrar nas s
 
 * Desligado;
 * Sem conexão de internet;
-* Aplicativo desinstalado.
+* Aplicativo desinstalado;
 
-O cálculo de tempo para considerar o dispositivo sem comunicação é baseado em duas informações enviadas pelo dispositivo:
+O cálculo de tempo para considerar o dispositivo sem comunicação é o tempo de sincronismo configurado na empresa + 10 minutos.
 
-* Envio de consumos gerais/informações do dispositivo;
-* Envio periódico de status “Ativo”.
+Caso o dispositivo esteja acima do tempo definido Envio de consumos gerais/informações do dispositivo;
 
 Caso passe mais de 10 minutos e o Portal não receba uma destas informações, o dispositivo é considerado como “Sem comunicação” e envia um comando para o dispositivo tentar restabelecer a comunicação. Dependendo da situação do dispositivo, o restabelecimento da comunicação poderá ocorrer ou não.
 
