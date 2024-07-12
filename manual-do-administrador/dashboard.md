@@ -79,7 +79,7 @@ Esta falta de comunicação pode ocorrer quando o dispositivo se encontrar nas s
 
 <mark style="color:blue;">Caso o dispositivo fique sem enviar consumos gerais/informações do dispositivo, por um tempo acima do tempo de sincronismo definido + 10 minutos, ele altera o status para</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Sem Comunicação.**</mark>
 
-<mark style="color:blue;">Para que o dispositivo volte a comunicar, o administrador pode enviar uma mensagem com o comando \*Startservice\* através do menu</mark> [<mark style="color:blue;">Mensagens</mark> ](mensagens-e-comandos/)<mark style="color:blue;">do portal.</mark>
+<mark style="color:blue;">Para que o dispositivo volte a comunicar, o administrador pode enviar uma mensagem com o comando</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**START\_SERVICES**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">através do menu</mark> [<mark style="color:blue;">Mensagens</mark> ](mensagens-e-comandos/)<mark style="color:blue;">do portal.</mark>
 
 <mark style="color:blue;">Ao clicar no indicador</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Sem comunicação ,**</mark><mark style="color:blue;">o sistema exibirá uma tela contendo o relatório com as informações dos dispositivos que estão sem comunicação.</mark>
 
