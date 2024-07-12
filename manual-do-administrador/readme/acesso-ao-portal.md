@@ -61,7 +61,7 @@ Nesta etapa , será solicitada uma conta de domínio próprio da empresa , para 
 
 <figure><img src="../../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
 
-Caso seja informada esta conta de e-mail coorporativo contendo o Cloud Identity o sistema seguira o processo normal do fluxo. Caso o usuário não possuir a conta ou informar uma conta que não tenha o Cloud Identity configurado, será apresentada a seguinte tela:
+Caso o usuário informar seja informada esta conta de e-mail coorporativo contendo o Cloud Identity o sistema seguira o processo normal do fluxo. Caso o usuário  informar uma conta que não tenha o Cloud Identity configurado, será apresentada a seguinte tela:
 
 
 
