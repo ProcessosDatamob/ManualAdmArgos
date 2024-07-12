@@ -83,7 +83,7 @@ Na tela Google Play use o botão “**Fazer Login**" para logar na conta ou caso
 
 <figure><img src="../../.gitbook/assets/Tela 3.png" alt=""><figcaption></figcaption></figure>
 
-Durante a criação desta conta Google serão solicitadas mais informações na tela "**Detalhes do Contato**".
+Caso precise criara uma conta Google serão solicitadas mais informações na tela "**Detalhes do Contato**".
 
 Leia as informações de orientação do Google Play Gerenciado e preencha os dados da pessoa da empresa que será o contato oficial de proteção de dados e da pessoa que será o representante da União Europeia. Os dois campos podem ser preenchidos com o mesmo contato da empresa. Estas informações podem ser gerenciadas posteriormente no **\<NomeProduto>** no menu "Empresas", submenu "Informações da Empresa".
 
