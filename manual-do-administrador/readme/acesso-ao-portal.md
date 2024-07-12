@@ -55,9 +55,11 @@ Caso não tenha recebido o token por e-mail, o usuário pode solicitar que seja 
 
 Após esta confirmação, o sistema abrirá a tela para "Criar conta de administrador".
 
-Nesta etapa é possível adicionar um e-mail com domínio corporativo, ou seja, será possível realizar a gestão a partir de um domínio corporativo. No domínio corporativo, uma companhia poderá criar várias empresas, a principal diferença é o gerenciamento de contas e autenticação de domínio.
+Nesta etapa , será solicitada uma conta de domínio próprio da empresa , para realizar o vínculo no Android Enterprise. Ao utilizar um domínio próprio, a empresa terá acesso a funcionalidades avançadas do em versões futuras do programa Better Togheter da Google. Para isso é necessário informar uma conta de domínio próprio, que possua o Cloud Identity da Google configurado.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+**Exemplo:** @empresa.com
+
+<figure><img src="../../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
 
 Caso não possua um e-mail com domínio de trabalho, ao informar outro e-mail e clicar em Próximo, serão exibidas as seguintes opções:
 
