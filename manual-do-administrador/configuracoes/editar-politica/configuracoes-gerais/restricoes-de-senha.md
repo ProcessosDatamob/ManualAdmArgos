@@ -28,5 +28,5 @@ Quando uma política de segurança de senha é aplicada a um dispositivo, ele de
 
 <figure><img src="../../../../.gitbook/assets/23.png" alt="" width="375"><figcaption></figcaption></figure>
 
-* Se após 24 horas a senha ainda não tiver sido alterada para atender às exigências da política, o dispositivo será bloqueado em 48 horas, o dispositivo se tornará inacessível até que uma senha compatível seja configurada.
+* Se após 24 horas a senha ainda não tiver sido alterada para atender às exigências da política, o dispositivo será bloqueado e formatado em 48 horas.
 * Essa medida é uma exigência do Google para garantir que os dispositivos mantenham um nível mínimo de segurança. A senha do dispositivo deve ser, no mínimo, igual ou mais segura do que a definida pela política.
