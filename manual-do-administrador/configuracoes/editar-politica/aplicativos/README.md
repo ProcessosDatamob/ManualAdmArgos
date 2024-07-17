@@ -70,7 +70,7 @@ Nesta tela é possível ver a identificação do aplicativo selecionado e a tela
 {% hint style="info" %}
 **NOTA**
 
-As configurações disponíveis, vão ser exibidas conforme o que estiver disponível para cada aplicativo, ou seja, irá variar as configurações disponíveis dependendo do aplicativo selecionado. Em alguns aplicativos por exemplo, vai exibir a mensagem: _Não existem configurações disponíveis para este aplicativo._
+As configurações disponíveis, vão ser exibidas conforme o que estiver disponível para cada aplicativo, ou seja, irá variar as configurações disponíveis dependendo do aplicativo selecionado. Em alguns aplicativos por exemplo, vai exibir a mensagem: _Não existem configurações disponíveis para este aplicativo._ <mark style="color:blue;">Estas configurações de trabalho dependem da empresa que criou a aplicação.</mark>
 {% endhint %}
 
 ### **Permissões**
