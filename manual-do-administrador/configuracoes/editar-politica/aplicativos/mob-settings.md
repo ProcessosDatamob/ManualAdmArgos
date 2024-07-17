@@ -20,9 +20,7 @@ O Mob Settings é um aplicativo projetado para facilitar a administração de co
 
 O Mob Settings permite que os administradores configurem e gerenciem o Bluetooth dos dispositivos de forma simplificada. Isso inclui ativar ou desativar o Bluetooth, tornar o dispositivo visível para outros dispositivos, e emparelhar com dispositivos Bluetooth disponíveis.
 
-Quando um dispositivo é provisionado em uma política com o Mob Settings, a configuração gerenciada de Bluetooth é enviada automaticamente para o portal de administração.
-
-&#x20;Por padrão, a configuração de Bluetooth está ativada (valor "true"), permitindo que os administradores possam ativar ou desativar essa funcionalidade conforme necessário.
+Por padrão, a configuração de Bluetooth está ativada (valor "true"), permitindo que os administradores possam ativar ou desativar essa funcionalidade conforme necessário.
 
 1. Após instalar o aplicativo Mob Settings no dispositivo, verifique se a configuração de Bluetooth está ativa.
 2. Abra o Mob Settings e clique no botão de configurações de Bluetooth para acessar a tela específica.

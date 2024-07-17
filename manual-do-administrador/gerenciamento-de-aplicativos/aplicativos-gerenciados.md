@@ -16,7 +16,7 @@ A tela possui elementos padrão que são semelhantes a outras telas do sistema. 
 2. A listagem dos aplicativos é exibida na tela, sendo cada linha referente a um dispositivo.
 3. Para ordenar as informações exibidas, clique nas setas para cima e para baixo que ficam ao lado de cada título (Nome do Aplicativo, Origem e Nome do Pacote).
 4. Clicando em "..." o sistema exibe a opção de comando para o aplicativo.
-5.  <mark style="color:blue;">A</mark>o selecionar a opção “Remover aplicativo" e clicar em "Remover", o sistema realiza uma verificação automática para determinar se o aplicativo está vinculado a alguma política ativa, se o aplicativo estiver vinculado a uma ou mais políticas, o sistema exibirá a seguinte mensagem de bloqueio: _"Não é possível remover o aplicativo nome\_do\_app, pois existem políticas vinculadas! Remova o vínculo das seguintes políticas para poder remover o aplicativo: lista\_de\_nomes\_das\_politicas."_
+5.  Ao selecionar a opção “Remover aplicativo" e clicar em "Remover", o sistema realiza uma verificação automática para determinar se o aplicativo está vinculado a alguma política ativa, se o aplicativo estiver vinculado a uma ou mais políticas, o sistema exibirá a seguinte mensagem de bloqueio: _"Não é possível remover o aplicativo nome\_do\_app, pois existem políticas vinculadas! Remova o vínculo das seguintes políticas para poder remover o aplicativo: lista\_de\_nomes\_das\_politicas."_
 
     Antes de remover o aplicativo, é necessário desvinculá-lo de todas as políticas listadas na mensagem de bloqueio. Isso significa que o administrador deve acessar cada política mencionada e remover o aplicativo das suas configurações.
 
