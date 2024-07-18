@@ -54,7 +54,15 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 * **Versão da política Aplicada -** versão da política;
 * **Data de sincronização da Política -** exibirá a data da sincronização da política;
 * **Em conformidade -** é a aderência do dispositivo a todas as configurações de políticas atribuídas a ele. Se alguma configuração não foi aplicada, o valor desta opção será "Não".&#x20;
-* **Data da Última Comunicação -** exibirá a data em que o dispositivo se comunicou a última vez com o portal;
+*   **Data da Última Comunicação -** exibirá a data em que o dispositivo se comunicou a última vez com o portal.&#x20;
+
+    <mark style="color:blue;">Os dados que são atualizados no portal quando a</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Data da Última Comunicação**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é atualizada são:</mark>
+
+    <mark style="color:blue;">**Tela Informações Dispositivo:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Os dados que são atualizados no portal, serão exatamente o que estiver no dispositivo na hora da última comunicação.</mark>
+
+    * <mark style="color:blue;">Hardware - Bateria e armazenamento</mark>
+    * <mark style="color:blue;">Permissões - Todas</mark>
+    * <mark style="color:blue;">Conectividade - Todos os dados listados em Conectividade</mark>
 
 ### Hardware
 
@@ -230,7 +238,7 @@ Além de poder editar os dados, são exibidos mais abaixo duas listas com as inf
 * **Número de Série -** número de série do dispositivo;
 * **Em Conformidade -** é a aderência do dispositivo a todas as configurações de políticas atribuídas a ele. Se alguma configuração não foi aplicada, o valor desta opção será "Não".&#x20;
 * **Status Aplicado -** status do registro do dispositivo, se o dispositivo está totalmente registrado, o status será "Ativo";
-* **Data da última atualização -** data e hora em que as informações do dispositivo foram sincronizadas com o portal. Esta data vem da AMAPI (API da Google), ou seja, são as informações coletadas pela API da Google no dispositivo;
+* **Data da última atualização -** data e hora em que as informações do dispositivo foram sincronizadas com o portal. Esta data vem da AMAPI (API da Google), ou seja, são as informações coletadas pela API da Google no dispositivo. <mark style="color:blue;">As informações atualizadas pela AMAPI que compõem a Última Atualização são:</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Detalhes, Instalação (Informações que aparecem ao acessar o menu Informações do Dispositivo) e Relatório de Não conformidade.**</mark>    &#x20;
 * **Data de Sincronização da Política -**exibirá a data da sincronização da política;
 * **Versão do Android -** versão do Android do dispositivo;
 * **Versão da Política Aplicada** - versão da política;
