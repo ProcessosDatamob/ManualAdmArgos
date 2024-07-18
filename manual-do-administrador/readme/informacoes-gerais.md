@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Informações gerais
 
 O **\<NomeProduto>** é uma solução de Gerenciamento de Mobilidade Corporativa composta por:
@@ -5,7 +19,8 @@ O **\<NomeProduto>** é uma solução de Gerenciamento de Mobilidade Corporativa
 * **Portal de Administração \<NomeProduto>** - sistema web que realiza toda a gestão dos dispositivos móveis da empresa.
 * **Aplicativo \<NomeProduto>** - aplicativo Android que coleta todas as informações de uso e consumos do dispositivo móvel. Este aplicativo é instalado por padrão estando presente em todos os dispositivos que registrados no sistema.
 * **Aplicativo Security Browser** - Aplicativo Android de navegação web responsável por realizar os bloqueios de sites, bem como monitorar a navegação do usuário do dispositivo.
-* **Aplicação Block SIM -** é responsável pelo bloqueio do chip SIM, impedindo a sua utilização noutro dispositivo.
+* **Aplicativo Block SIM -** é responsável pelo bloqueio do chip SIM, impedindo a sua utilização noutro dispositivo.
+* <mark style="color:orange;">Aplicativo Mob Settings -</mark>&#x20;
 
 {% hint style="warning" %}
 **IMPORTANTE**
@@ -30,21 +45,15 @@ Caso ocorra alguma indisponibilidade nos servidores, o aplicativo manterá as in
 
 Todos os dados enviados pelo portal e recebidos pelo dispositivo permanecem armazenados, garantindo que as políticas permaneçam ativas, mesmo quando não possuir acesso à Internet e independente da disponibilidade dos servidores. A conexão será necessária apenas para receber novas políticas ou mensagens e para enviar os dados para o Portal.
 
-### **Nível de Acesso ao Portal**
 
-O Portal de Administração possui dois níveis de acesso:
-
-* **Administrador do portal**: esse nível dá acesso total às informações e permite definir políticas de bloqueio para os dispositivos;
-* **Administrador de grupo**: este nível dá acesso aos dados do seu grupo e permite enviar mensagens ao grupo;
-
-Para saber como criar um administrador de portal ou grupo, leia a seção “**Configurações Iniciais e Níveis'**'.
 
 ### Compatibilidade de dispositivos
 
-O produto **\<NomeProduto>** foi criado em parceria com a Google no programa Android Enterprise. A Google mantém uma lista de dispositivos homologados e recomendados para uso com o Android Enterprise em seu Diretório de Soluções Enterprise. Para acessar aos dispositivos recomendados no âmbito do programa Android Enterprise, contacte o Directório de Soluções do Google através do link https://androidenterprisepartners.withgoogle.com/devices/.&#x20;
+O produto **\<NomeProduto>** foi criado em parceria com a Google no programa Android Enterprise. A Google mantém uma lista de dispositivos homologados e recomendados para uso com o Android Enterprise em seu Diretório de Soluções Enterprise. Para acessar aos dispositivos recomendados no âmbito do programa Android Enterprise, acesse o Diretório de Soluções do Google através do link https://androidenterprisepartners.withgoogle.com/devices/.&#x20;
 
 O selo Android Enterprise Recommended identifica dispositivos Android que atendem a certos padrões de segurança, desempenho e gestão adequados para uso em ambientes empresariais. Quando um dispositivo recebe a certificação "Android Enterprise Recommended", isso significa que ele passou por testes rigorosos e cumpre requisitos específicos estabelecidos pelo Google.&#x20;
 
 O fato de um dispositivo não estar na lista de dispositivos recomendados do Google não significa que não funcionará. Atualmente, Android Enterprise é compatível com todas as versões do Android 6.0. No entanto, alguns recursos podem não estar disponíveis em versões anteriores do sistema operacional. Recomenda-se usar as versões mais recentes do Android para aproveitar todas as características e benefícios que a plataforma oferece.
 
 Importante notar que foi desenvolvido com o Google Android Enterprise e outras tecnologias adicionais, o que significa que algumas funções, como localização, consumo de bateria e armazenamento, podem ter um comportamento diferente do esperado, dependendo das configurações do sistema operativo do dispositivo.
+
