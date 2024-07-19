@@ -1,27 +1,4 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
-# Acesso ao portal
-
-### <mark style="color:blue;">**Nível de Acesso ao Portal**</mark>
-
-<mark style="color:blue;">O Portal de Administração possui dois níveis de acesso:</mark>
-
-* <mark style="color:blue;">**Administrador do portal**</mark><mark style="color:blue;">: esse nível dá acesso total às informações e permite definir políticas de bloqueio para os dispositivos;</mark>
-* <mark style="color:blue;">**Administrador de grupo**</mark><mark style="color:blue;">: este nível dá acesso aos dados do seu grupo e permite enviar mensagens ao grupo;</mark>
-
-Para saber como criar um administrador de portal ou grupo, leia a seção [“**Configurações Iniciais e Níveis'**'.](configuracoes-iniciais-e-niveis.md)
+# Primeiro Acesso e Vinculo ao Enterprise
 
 Quando o **\<NomeProduto>** é ativado para uma empresa, as seguintes tarefas são executadas pelo sistema, para possibilitar o acesso do usuário administrador da empresa ao Portal:
 
@@ -34,11 +11,11 @@ Para acessar o Portal de Administração, siga os passos descritos nesta seção
 2. Preencha os campos de “**E-mail**” e “**Senha**” com as credenciais de acesso, recebidas no E-mail de boas-vindas.
 3. Clique em “**Iniciar Seção**” para confirmar as informações e acessar o Portal.
 
-<figure><img src="../../.gitbook/assets/image (72).png" alt="" width="229"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (72).png" alt="" width="229"><figcaption></figcaption></figure>
 
 > Em seu primeiro acesso, após clicar em "**Iniciar Sessão**”, o usuário deverá confirmar os dados da empresa. A tela de confirmação dos dados da empresa aparecerá somente no primeiro acesso e é mostrada na figura a seguir.
 
-<figure><img src="../../.gitbook/assets/image (73).png" alt="" width="266"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (73).png" alt="" width="266"><figcaption></figcaption></figure>
 
 4. Confirmar o Nome da Empresa e E-mail;
 5. Criar uma senha;
@@ -56,11 +33,11 @@ O E-mail de confirmação é uma mensagem automática e pode ser identificada em
 
 9. O token de confirmação deve ser inserido na tela para confirmar o cadastro da empresa. A tela de confirmação é mostrada a seguir:
 
-<figure><img src="../../.gitbook/assets/image123.png" alt="" width="348"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image123.png" alt="" width="348"><figcaption></figcaption></figure>
 
 Caso não tenha recebido o token por e-mail, o usuário pode solicitar que seja enviado novamente clicando na opção “**Reenviar código**" que fica disponível logo acima do botão "**Confirmar**".
 
-<figure><img src="../../.gitbook/assets/image (75).png" alt="" width="542"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (75).png" alt="" width="542"><figcaption></figcaption></figure>
 
 Após esta confirmação, o sistema abrirá a tela para "Criar conta de administrador".
 
@@ -68,13 +45,13 @@ Nesta etapa , será solicitada uma conta de domínio próprio da empresa , para 
 
 **Exemplo:** @empresa.com
 
-<figure><img src="../../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
 
 Caso o usuário informar seja informada esta conta de e-mail coorporativo contendo o Cloud Identity o sistema seguira o processo normal do fluxo. Caso o usuário  informar uma conta que não tenha o Cloud Identity configurado, será apresentada a seguinte tela:
 
 
 
-<figure><img src="../../.gitbook/assets/Tela 2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Tela 2 (1).png" alt=""><figcaption></figcaption></figure>
 
 **Inscreva-se com um e-mail de trabalho**: Nesta opção, é possível realizar nova tentativa de informar um e-mail corporativo (ex: nome@empresa.com) que possua o Cloud Identity da Google configurado.  Então, clique em "Tentar de novo com um e-mail de trabalho para retornar e inserir um endereço de e-mail corporativo válido.
 
@@ -90,7 +67,7 @@ Após escolher uma das três opções acima, siga os próximos passos para final
 
 Na tela Google Play use o botão “**Fazer Login**" para logar na conta ou caso não tenha a conta, poderá criar uma nova conta.&#x20;
 
-<figure><img src="../../.gitbook/assets/Tela 3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Tela 3.png" alt=""><figcaption></figcaption></figure>
 
 Caso precise criara uma conta Google serão solicitadas mais informações na tela "**Detalhes do Contato**".
 
@@ -98,24 +75,10 @@ Leia as informações de orientação do Google Play Gerenciado e preencha os da
 
 A tela de "Detalhes do Contato" é apresentada na sequência.
 
-<figure><img src="../../.gitbook/assets/Tela 8_Português.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Tela 8_Português.png" alt=""><figcaption></figcaption></figure>
 
 Após confirmar os dados, será exibida a tela do **\<NomeProduto>** com a mensagem _**"Parabéns! Sua empresa foi registrada no Android Enterprise com sucesso."**_
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 Clique em "Ok" e poderá iniciar as configurações necessárias para gerenciar os dispositivos da sua empresa.
-
-### **Recuperar Senha**
-
-Caso não lembre a senha de acesso ao portal, realize os seguintes passos para recuperá-la.
-
-1. Clique em “Esqueceu a senha?” logo abaixo do campo Senha. O sistema exibirá a tela de recuperação de senha.
-
-<figure><img src="../../.gitbook/assets/image (77).png" alt="" width="230"><figcaption></figcaption></figure>
-
-2. Preencha o seu E-mail de usuário e confirme.
-
-<figure><img src="../../.gitbook/assets/image (78).png" alt="" width="230"><figcaption></figcaption></figure>
-
-Ao clicar em “**Confirmar**” o sistema enviará uma mensagem ao seu endereço de E-mail com instruções para troca de senha.
