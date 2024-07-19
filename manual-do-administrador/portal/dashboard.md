@@ -1,4 +1,18 @@
-# DASHBOARD
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# Dashboard
 
 Esta tela do sistema tem como objetivo possibilitar ao usuário a visualização e análise dos diversos dados de consumos e usos coletados dos dispositivos. Para saber como acessar e analisar os dados exibidos no Dashboard, siga os passos descritos nesta seção.
 
@@ -149,9 +163,22 @@ Para realizar a análise individual dos usuários de dispositivos, clique em "**
 
 O mapa exibe a última localização dos dispositivos. Para que a localização seja exibida e atualizada, o dispositivo deve estar conectado à internet, deve haver sinal de GPS e a configuração de "**Modo de Localização**" deve estar "**Ativa**" em Localização na política aplicada ao dispositivo.
 
-Caso o sistema não carregar as localizações no mapa, clique no botão "Exibir localizações”,  então elas serão exibidas.
-
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+<mark style="background-color:orange;">**NOVA IMAGEM**</mark>
+
+<mark style="color:blue;">Caso o sistema não carregar as localizações no mapa, clique no botão "Exibir localizações”,  então elas serão exibidas conforme tela abaixo:</mark>
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:blue;">A regra de agrupamento dos dispositivos é a seguinte:</mark>
+
+* <mark style="color:blue;">Azul: maior igual 5</mark>
+* <mark style="color:blue;">Amarelo: maior igual 10</mark>
+* <mark style="color:blue;">Vermelho: maior igual 100</mark>
+* <mark style="color:blue;">Abaixo de 5 mostra os pinos normalmente</mark>
+
+<mark style="color:blue;">O símbolo de gota laranja com um número dentro significa os pontos que o usuário passou em ordem numérica no dia.</mark>
 
 Leia a seção “**Gerenciar Políticas**” deste manual para saber como ativar o "**Modo de Localização**" dos dispositivos.
 
