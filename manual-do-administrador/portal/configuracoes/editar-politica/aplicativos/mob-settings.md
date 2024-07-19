@@ -20,7 +20,7 @@ O Mob Settings é um aplicativo projetado para facilitar a administração de co
 
 O Mob Settings permite que os administradores configurem e gerenciem o Bluetooth dos dispositivos de forma simplificada. Isso inclui ativar ou desativar o Bluetooth, tornar o dispositivo visível para outros dispositivos, e emparelhar com dispositivos Bluetooth disponíveis.
 
-Por padrão, a configuração de Bluetooth está ativada (valor "true"), permitindo que os administradores possam ativar ou desativar essa funcionalidade conforme necessário.
+<mark style="color:blue;">Quando o aplicativo Mob Settings é adicionado a uma política, a configuração gerenciada de Bluetooth está ativada por padrão (valor "true"), permitindo que os administradores ativem ou desativem essa funcionalidade conforme necessário.</mark>
 
 1. Após instalar o aplicativo Mob Settings no dispositivo, verifique se a configuração de Bluetooth está ativa.
 2. Abra o Mob Settings e clique no botão de configurações de Bluetooth para acessar a tela específica.
@@ -35,7 +35,7 @@ Por padrão, a configuração de Bluetooth está ativada (valor "true"), permiti
 
 Com o Mob Settings, os administradores podem ajustar várias configurações de tela dos dispositivos, como brilho, orientação e tempo de espera da tela.
 
-Assim como com o Bluetooth, a configuração gerenciada de tela é enviada ao portal quando o dispositivo é provisionado. A configuração de tela estará ativada por padrão (valor "true"), permitindo que os administradores façam ajustes conforme necessário.
+<mark style="color:blue;">Assim como com o Bluetooth, a configuração gerenciada de tela é disponibilizada ao portal quando o aplicativo Mob Settings é adicionado a política.  A configuração de tela estará ativada por padrão (valor "true"), permitindo que os administradores façam ajustes conforme necessário.</mark>
 
 1. Certifique-se de que a configuração de tela está ativa após instalar o aplicativo.
 2. Abra o Mob Settings e clique no botão de configurações de tela.
@@ -48,7 +48,7 @@ Assim como com o Bluetooth, a configuração gerenciada de tela é enviada ao po
 
 O Mob Settings também permite que os administradores controlem as configurações de Wi-Fi, facilitando o acesso e o gerenciamento das conexões sem fio nos dispositivos.
 
-Quando o dispositivo é provisionado, a configuração gerenciada de Wi-Fi é enviada ao portal. A configuração de Wi-Fi está ativada por padrão (valor "true"), permitindo que os administradores ativem ou desativem essa funcionalidade conforme necessário.
+<mark style="color:blue;">Quando o aplicativo Mob Settings é adicionado a uma política, a configuração gerenciada de Wi-Fi está ativada por padrão (valor "true"), permitindo que os administradores ativem ou desativem essa funcionalidade conforme necessário.</mark>
 
 1. Verifique se a configuração de Wi-Fi está ativa após a instalação.
 2. Abra o Mob Settings e clique no botão de configurações de Wi-Fi.
