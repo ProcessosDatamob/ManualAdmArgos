@@ -78,7 +78,7 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 
 ### Conectividade
 
-* <mark style="color:blue;">**T**</mark>**ipo da rede conectada (Wi-Fi/Móvel)** - indica se o dispositivo está conectado via Wi-Fi ou rede móvel.
+* **Tipo da rede conectada (Wi-Fi/Móvel)** - indica se o dispositivo está conectado via Wi-Fi ou rede móvel.
 * **Largura de Banda (Móvel)** - a largura de banda disponível para a rede móvel.
 * **Largura de Banda (WiFi)** - a largura de banda disponível para a rede Wi-Fi.
 * **Latência -** o tempo que leva para um pacote de dados viajar de sua origem até seu destino e voltar.
