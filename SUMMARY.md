@@ -7,7 +7,7 @@
   * [Requisitos da Solução](manual-do-administrador/readme/requisitos-da-solucao.md)
 * [PORTAL](manual-do-administrador/portal/README.md)
   * [Acesso ao portal](manual-do-administrador/portal/acesso-ao-portal/README.md)
-    * [Primeiro Acesso e Vinculo ao Enterprise](manual-do-administrador/portal/acesso-ao-portal/primeiro-acesso-e-vinculo-ao-enterprise.md)
+    * [Primeiro Acesso e Vínculo ao Enterprise](manual-do-administrador/portal/acesso-ao-portal/primeiro-acesso-e-vinculo-ao-enterprise.md)
     * [Recuperação de Senha](manual-do-administrador/portal/acesso-ao-portal/recuperacao-de-senha.md)
   * [Configurações iniciais e níveis](manual-do-administrador/portal/configuracoes-iniciais-e-niveis.md)
   * [Dashboard](manual-do-administrador/portal/dashboard.md)

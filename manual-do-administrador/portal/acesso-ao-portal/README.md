@@ -14,7 +14,7 @@ layout:
 
 # Acesso ao portal
 
-### <mark style="color:blue;">**Nível de Acesso ao Portal**</mark>
+### <mark style="color:blue;">**Niveis de Acesso ao Portal**</mark>
 
 <mark style="color:blue;">O Portal de Administração possui dois níveis de acesso:</mark>
 

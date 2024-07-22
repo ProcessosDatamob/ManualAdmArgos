@@ -1,7 +1,5 @@
 # Recuperação de Senha
 
-### **Recuperar Senha**
-
 Caso não lembre a senha de acesso ao portal, realize os seguintes passos para recuperá-la.
 
 1. Clique em “Esqueceu a senha?” logo abaixo do campo Senha. O sistema exibirá a tela de recuperação de senha.
