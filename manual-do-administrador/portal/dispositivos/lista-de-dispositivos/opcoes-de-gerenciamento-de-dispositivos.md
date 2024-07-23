@@ -34,7 +34,7 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 * **IMEI -** número interno e único em cada dispositivo. No Android 10 já não é possível capturar esta informação do dispositivo porque utilizamos outro método para receber esta informação com o Enriquecimento de URL;
 * **ICCID -** número do chip SIM;
 * **Número de série -** número de série do dispositivo;
-* <mark style="color:blue;">**L**</mark>**icença -** número da Licença;
+* **Licença -** número da Licença;
 * **Modelo -** modelo do dispositivo;
 * **Fabricante** - nome do fabricante do dispositivo;
 * **Sistema Operacional -** sistema operacional do dispositivo;
@@ -81,7 +81,7 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 * **Tipo da rede conectada (Wi-Fi/Móvel)** - indica se o dispositivo está conectado via Wi-Fi ou rede móvel.
 * **Largura de Banda (Móvel)** - a largura de banda disponível para a rede móvel.
 * **Largura de Banda (WiFi)** - a largura de banda disponível para a rede Wi-Fi.
-* **Latência -** o tempo que leva para um pacote de dados viajar de sua origem até seu destino e voltar.
+* <mark style="color:blue;">**Latência -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é o tempo que um pacote de dados leva para viajar de sua origem ao destino e retornar. Medimos isso enviando pacotes para google.com, um servidor confiável, para avaliar o desempenho da rede.</mark>
 * **Configuração de Banda** - configuração específica da banda de frequência utilizada.
 * **Rede WiFi conectada** - nome da rede Wi-Fi à qual o dispositivo está conectado.
 * **Força de sinal** - a intensidade do sinal da rede conectada.
