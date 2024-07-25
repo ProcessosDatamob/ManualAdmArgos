@@ -8,7 +8,7 @@
 4. [Configuração de Senhas no Work Profile](configuracao-do-papel-de-parede-fora-do-modo-quiosque.md)
 5. [Tela de Bloqueio Personalizada no Security Browser](tela-de-bloqueio-personalizada-no-security-browser.md)
 6. [Gestão de Sites Favoritos do Security Browser](gestao-de-sites-favoritos-do-security-browser.md)
-7. [Envio de Troca de Senha do Bloqueio de Tela no Block SIM](gerar-nova-senha-de-bloqueio-de-tela-em-dispositivos-com-block-sim.md)
+7. [Gerar nova Senha de Bloqueio de Tela em Dispositivos com Block SIM](gerar-nova-senha-de-bloqueio-de-tela-em-dispositivos-com-block-sim.md)
 8. [Envio de Remoção do Bloqueio de Chip no Block SIM](envio-de-remocao-do-bloqueio-de-chip-no-block-sim.md)
 9. [Dados de Conectividade do Dispositivo](dados-de-conectividade-do-dispositivo.md)
 10. [Configurações de Bluetooth no Mob Settings](configuracoes-de-bluetooth-no-mob-settings.md)
