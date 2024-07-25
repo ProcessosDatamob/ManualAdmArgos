@@ -10,7 +10,7 @@ Sendo assim, para acessar as “Permissões Opcionais",  clique nos três pontin
 
 Ao expandir as "Permissões Opcionais" serão exibidas várias opções e será possível ativar e desativar cada uma das configurações.&#x20;
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 As "Permissões Opcionais" incluem os seguintes ajustes:
 

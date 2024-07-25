@@ -16,6 +16,8 @@ layout:
 
 Foi implementada a funcionalidade de redirecionamento de bloqueio para uma página definida no Security Browser. Esta funcionalidade permite personalizar a página exibida quando um site é bloqueado, proporcionando uma experiência mais controlada e informativa aos usuários.
 
+Mais informações na seção [Bloqueio de Sites Security Browser](../../portal/configuracoes/editar-politica/aplicativos/bloqueio-de-sites-security-browser.md).
+
 <figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)

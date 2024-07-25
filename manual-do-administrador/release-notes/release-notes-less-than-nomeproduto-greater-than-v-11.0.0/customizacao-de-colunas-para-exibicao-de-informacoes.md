@@ -18,6 +18,8 @@ A partir desta versão é possível personalizar as colunas da tela Lista de Dis
 
 O sistema permite configurar e adicionar colunas, salvar configurações como padrão para o usuário, visualizar colunas horizontalmente e ordenar por colunas específicas. As opções de "Copiar" e "Excel" foram atualizadas para refletir apenas as colunas exibidas na tela. Além disso, foi removida a seção expansível de informações, mantendo um acesso mais direto e simplificado ao menu.
 
+Mais informações na seção [Lista de dispositivos](../../portal/dispositivos/lista-de-dispositivos/).
+
 <figure><img src="../../../.gitbook/assets/Captura de tela 2024-06-24 111834.png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)

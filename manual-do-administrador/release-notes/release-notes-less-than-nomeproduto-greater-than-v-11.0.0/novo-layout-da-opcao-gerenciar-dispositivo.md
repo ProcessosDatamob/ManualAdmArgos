@@ -21,6 +21,8 @@ Ao acessar a tela "Lista de Dispositivos" do Portal e clicar na opção "Gerenci
 * Aba "Bateria" - o sistema permitirá selecionar a data das informações que serão exibidas. A exibição das informações da bateria será em formato de gráfico, conforme já estava na tela "Histórico de Bateria" do dispositivo. Com essas mudanças, a opção "Histórico de Bateria" foi removida do menu agrupado do dispositivo na tela "Lista de Dispositivos".
 * Aba "Armazenamento Livre" - o sistema permitirá selecionar a data das informações que serão exibidas. A busca será realizada automaticamente ao selecionar a data, e as informações de armazenamento livre serão exibidas em formato de gráfico, conforme era na tela "Histórico de Armazenamento" do dispositivo. Com essa mudança, a opção "Histórico de Armazenamento" foi removida do menu agrupado do dispositivo na tela "Lista de Dispositivos".
 
+Mais informações na seção [Opções de gerenciamento de dispositivos](../../portal/dispositivos/lista-de-dispositivos/opcoes-de-gerenciamento-de-dispositivos.md).
+
 <figure><img src="../../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)

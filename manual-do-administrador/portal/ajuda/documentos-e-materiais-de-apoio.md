@@ -27,4 +27,4 @@ Nesta tela é possível acessar:
 * **Manual do Block SIM**: informações para o usuário realizar a instalação e ativação da funcionalidade de Bloqueio de Chip nos dispositivos.
 * **Release Notes**: detalhes das atualizações e novas funcionalidades adicionadas ao sistema.
 
-<figure><img src="../../../.gitbook/assets/Captura de tela 2024-06-03 175145.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
