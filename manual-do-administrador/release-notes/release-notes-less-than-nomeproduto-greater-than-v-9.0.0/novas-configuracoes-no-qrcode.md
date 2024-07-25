@@ -6,6 +6,8 @@ Na tela de "Token de Registro" de uma política foram adicionados novos campos p
 * **Pular Criptografia -** Ao ativar essa opção, o sistema incluirá a seguinte informação no QRCode: "android.app.extra.PROVISIONING\_SKIP\_ENCRYPTION": (true/false - padrão “false"). Ao realizar o enroll com o QRCode, o dispositivo irá ignorar a criptografia do dispositivo durante o processo de configuração inicial.
 * **Usar Dados Móveis** - Ao ativar essa opção, o sistema incluirá a seguinte informação no QRCode: _“android.app.extra.PROVISIONING\_USE\_MOBILE\_DATA": (true/false - padrão “false"). A_o realizar o enroll com o QRCode, o dispositivo irá utilizar os dados móveis durante o processo de configuração inicial.
 
+Mais informações na seção [Token de Registro](../../portal/configuracoes/gerenciar-politicas/token-de-registro.md).
+
 <figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)

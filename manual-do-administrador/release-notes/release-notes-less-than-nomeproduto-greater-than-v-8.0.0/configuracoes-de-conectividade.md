@@ -17,3 +17,7 @@ Na tela de configurações de políticas, "Editar Políticas" e guia "Configura�
 4. **Configurações de Wi-Fi Direct** (grupo de configurações "Hardware") - a partir desta versão temos a nova configuração de Wi-Fi Direct com as opções: "Permitir usar Wi-fi Direct" e "Não Permitir usar Wi-Fi Direct".&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
+
+Mais informações na seção [Configurações Gerais - Android e Android Block SIM](../../portal/configuracoes/editar-politica/configuracoes-gerais/).
+
+[**Voltar ao menu inicial.**](./)
