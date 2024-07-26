@@ -2,11 +2,11 @@
 
 ### Novidades da Versão
 
-1. [Instalação Remota de Aplicativos](instalacao-remota-de-apk.md)
-2. [Configurar Permissões Opcionais do Companion](configuracao-de-permissoes-opcionais-do-companion.md)
-3. [Informar Não Conformidade de Permissões](informacao-de-nao-conformidade-de-permissoes.md)
-4. [Ocultar Permissões do Companion](ocultando-permissoes-do-companion.md)
-5. [Start Service no Companion](start-service-no-companion.md)
-6. [Remoção de Aplicativos Gerenciados](remocao-de-aplicativos-gerenciados.md)
-7. [Novas Configurações no QRCode](novas-configuracoes-no-qrcode.md)
-8. [Remoção da Localização Automática no Dashboard](desativando-localizacao-automatica-no-dashboard.md)
+1. [Instalação Remota de Aplicativos Corporativos](instalacao-de-aplicativos-corporativos.md)
+2. [Permissões durante o registro do dispositivo ](permissoes-durante-o-registro-do-dispositivo.md)
+3. [Dispositivos com permissões fora de conformidade](dispositivos-com-permissoes-fora-de-conformidade.md)
+4. [Menu de permissões do Android ocultas para o aplicativo de gestão](menu-de-permissoes-do-android-ocultas-para-o-aplicativo-de-gestao.md)
+5. [Comando para sincronizar dados do aparelho imediatamente](comando-para-sincronizar-dados-do-aparelho-imediatamente.md)
+6. [Aviso ao remover aplicativos do catálogo de aplicativos](aviso-ao-remover-aplicativos-do-catalogo-de-aplicativos.md)
+7. [Novas opções ao gerar um QR Code de registro](novas-opcoes-ao-gerar-um-qr-code-de-registro.md)
+8. [Atualização do menu de Geolocalização no Dashboard inicial](atualizacao-do-menu-de-geolocalizacao-no-dashboard-inicial.md)

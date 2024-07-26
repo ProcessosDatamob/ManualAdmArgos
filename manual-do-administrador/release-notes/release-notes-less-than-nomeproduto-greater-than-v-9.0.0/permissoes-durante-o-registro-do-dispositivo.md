@@ -1,6 +1,6 @@
-# Configuração de Permissões Opcionais do Companion
+# Permissões durante o registro do dispositivo
 
-Na tela de edição de uma política Android ao entrar na aba "Aplicativos", clicar nos três pontinhos "..." e na opção “Configurações Gerenciadas”, foi adicionado a opção “Permissões Opcionais” com um grupo de configurações que altera os requisitos de permissão para execução do aplicativo.
+<mark style="color:blue;">Para evitar casos em que a permissão não está disponível no dispositivo, ou até mesmo otimizar o processo de ativação dos aparelhos, agora no portal é possível definir quais permissões são obrigatórias ou opcionais durante a ativação de um dispositivo no MDM.</mark>
 
 Mais informações na seção [Companion](../../portal/configuracoes/editar-politica/aplicativos/companion.md).
 
