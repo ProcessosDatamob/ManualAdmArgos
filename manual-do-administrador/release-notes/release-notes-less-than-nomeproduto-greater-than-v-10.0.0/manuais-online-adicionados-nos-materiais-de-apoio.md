@@ -14,7 +14,7 @@ layout:
 
 # Manuais Online adicionados nos Materiais de Apoio
 
-No menu **"Ajuda",** na sessão **"Documentos e Materiais de Apoio",** foram adicionados links que permitem acessar os manuais atualizados do produto diretamente online. Esta funcionalidade garante que os usuários possam acessar sempre a versão mais recente dos manuais.
+<mark style="color:blue;">Foram adicionados os manuais de apoio no menu de "Ajuda", na seção "Documentos e Materiais de Apoio".</mark>
 
 Mais informações na seção [Documentos e Materiais de Apoio](../../portal/ajuda/documentos-e-materiais-de-apoio.md).
 

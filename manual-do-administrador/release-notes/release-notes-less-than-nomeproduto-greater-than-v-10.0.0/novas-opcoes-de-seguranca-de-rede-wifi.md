@@ -12,9 +12,9 @@ layout:
     visible: true
 ---
 
-# Novos Tipos de Segurança de Rede WiFi
+# Novas Opções de Segurança de Rede WiFi
 
-Nesta versão ao acessar o menu **"Configurações"**, e clicar em **"Gerenciar Redes Wi-Fi",** na tela de criação ou edição de uma configuração de WiFi foram adicionados novos tipos de segurança WiFi (WEP-8021X e WPA3-Enterprise\_192), possibilita configurar redes ocultas e definir o modo do endereço MAC, e introduz novos campos para configurações de segurança avançada, proporcionando maior flexibilidade e segurança na conexão a redes WiFi diversas.
+<mark style="color:blue;">Adicionamos dois tipos novos de segurança de rede, com foco em redes corporativas, sendo elas:</mark>\ <mark style="color:blue;">- WEP-802.1X</mark> \ <mark style="color:blue;">- WPA3 ENTERPRISE</mark>\ <mark style="color:blue;">Também introduzimos novos campos para indicar o usuário e senha do usuário, se a rede é oculta, e o modo de captura do endereço MAC, proporcionando maior flexibilidade e segurança na conexão a redes WiFi diversas.</mark>
 
 Mais informações na seção [Gerenciar Redes Wi-Fi](../../portal/configuracoes/gerenciar-redes-wi-fi.md).
 
