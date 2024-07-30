@@ -16,4 +16,4 @@
 12. [Configurações de Tela no Mob Settings](configuracoes-de-tela-no-mob-settings.md)
 13. [Configurações de Wi-Fi no Mob Settings](configuracoes-de-wi-fi-no-mob-settings.md)
 14. [Dashboard de Consumo Total de Dados e SMS](dashboard-de-consumo-total-de-dados-e-sms.md)
-15. [Dashboard de Consumo de Dados e Tempo de Uso dos Aplicativos](dashboard-de-consumo-de-dados-e-tempo-de-uso-dos-aplicativos-no-companion.md)
+15. [Dashboard de Consumo de Dados e Tempo de Uso dos Aplicativos](dashboard-de-consumo-de-dados-e-tempo-de-uso-dos-aplicativos.md)
