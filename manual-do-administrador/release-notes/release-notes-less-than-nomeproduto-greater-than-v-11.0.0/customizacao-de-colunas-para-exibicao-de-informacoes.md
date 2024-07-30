@@ -14,9 +14,7 @@ layout:
 
 # Customização de colunas para Exibição de Informações
 
-A partir desta versão é possível personalizar as colunas da tela Lista de Dispositivos, definindo quais informações serão exibidas conforme suas necessidades. Ao acessar a "Lista de Dispositivos", o sistema mostrará todas as colunas, como Usuário, Identificação, Licença, IMEI, Modelo, e outras.
-
-O sistema permite configurar e adicionar colunas, salvar configurações como padrão para o usuário, visualizar colunas horizontalmente e ordenar por colunas específicas. As opções de "Copiar" e "Excel" foram atualizadas para refletir apenas as colunas exibidas na tela. Além disso, foi removida a seção expansível de informações, mantendo um acesso mais direto e simplificado ao menu.
+Agora no menu dos dispositivos, é possível personalizar quais colunas com informações do usuário e aparelho serão exibidas na tela, ou extraídas no relatório conforme suas necessidades.
 
 Mais informações na seção [Lista de dispositivos](../../portal/dispositivos/lista-de-dispositivos/).
 

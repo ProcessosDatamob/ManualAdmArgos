@@ -12,9 +12,9 @@ layout:
     visible: true
 ---
 
-# Dados de Conectividade do Dispositivo
+# Novas Informações de Conectividade do Dispositivo
 
-Foi implementada a funcionalidade de exibição de informações de conectividade do dispositivo, permitindo que administradores analisem informações mais completas dos dispositivos. Na “Lista de Dispositivos” ao clicar no ícone de “Informações do Dispositivo” de um dispositivo Android, o sistema exibirá as informações do dispositivo, incluindo uma sessão “Conectividade”.&#x20;
+Ao acessar um aparelho pelo portal, o administrador agora terá visão de um novo campo chamado “conectividade”, nele ficarão armazenadas informações de telefonia e conectividade do aparelho, como número de telefone, IMEI, e até mesmo a rede WiFi que o dispositivo está conectado.
 
 Mais informações na seção [Opções de gerenciamento de dispositivos](../../portal/dispositivos/lista-de-dispositivos/opcoes-de-gerenciamento-de-dispositivos.md).
 

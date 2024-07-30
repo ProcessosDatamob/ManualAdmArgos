@@ -12,9 +12,9 @@ layout:
     visible: true
 ---
 
-# Tela de Bloqueio Personalizada no Security Browser
+# Nova Função de Bloqueio no Security Browser
 
-Foi implementada a funcionalidade de redirecionamento de bloqueio para uma página definida no Security Browser. Esta funcionalidade permite personalizar a página exibida quando um site é bloqueado, proporcionando uma experiência mais controlada e informativa aos usuários.
+Agora os administradores de um ambiente podem redirecionar o usuário para uma página na internet sempre que o mesmo tentar acessar uma página que está restrita, um exemplo seria uma página com política de termos da empresa. Proporcionando uma experiência mais controlada e informativa aos usuários.
 
 Mais informações na seção [Bloqueio de Sites Security Browser](../../portal/configuracoes/editar-politica/aplicativos/bloqueio-de-sites-security-browser.md).
 

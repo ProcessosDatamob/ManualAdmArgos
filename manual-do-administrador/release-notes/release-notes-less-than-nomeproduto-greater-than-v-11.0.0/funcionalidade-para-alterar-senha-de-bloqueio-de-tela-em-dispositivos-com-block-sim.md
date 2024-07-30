@@ -12,13 +12,11 @@ layout:
     visible: true
 ---
 
-# Gerar nova senha de Bloqueio de Tela em dispositivos com Block SIM
+# Funcionalidade para Alterar Senha de Bloqueio de Tela em dispositivos com Block SIM
 
-Foi implementada a funcionalidade de configuração e envio de troca de senha do Bloqueio de Tela do Block SIM, permitindo que administradores alterem remotamente a senha do Bloqueio de Tela dos dispositivos.
+Foi implementada a funcionalidade de configuração e envio de troca de senha do Bloqueio de Tela do Block SIM, permitindo que administradores alterem remotamente a senha do Bloqueio de Tela dos dispositivos. Lembrando que antes isso só era possível dentro do próprio aparelho
 
 Mais informações na seção [Opções de gerenciamento de dispositivos](../../portal/dispositivos/lista-de-dispositivos/opcoes-de-gerenciamento-de-dispositivos.md).
-
-<mark style="color:blue;">NOVA IMAGEM</mark>
 
 <figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
