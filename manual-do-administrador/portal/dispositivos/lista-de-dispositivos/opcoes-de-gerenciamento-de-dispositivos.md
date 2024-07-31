@@ -16,7 +16,9 @@ layout:
 
 Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível ter acesso as informações do dispositivo, clicando no botão de **Mais informações**:
 
-<figure><img src="../../../../.gitbook/assets/Captura de tela 2024-06-24 114339.png" alt=""><figcaption></figcaption></figure>
+<mark style="color:red;">NOVA IMAGEM</mark>
+
+<figure><img src="../../../../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
 
 Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso as Informações do dispositivo:
 
@@ -88,7 +90,7 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 * **Ignorar Otimização de Bateria -** status sim ou não, caso o usuário não ative esta permissão, o aplicativo poderá ser afetado pelas configurações de otimização de bateria, parar de capturar as localizações do dispositivos e parar de enviar as informações para o Portal.
 * **Escrita de Configurações do Sistema -** status sim ou não, caso o usuário não ative esta permissão, o aplicativo Kiosk Launcher Manage**r** não permitirá que o usuário alterar algumas configurações do sistema quando estiver no modo Quiosque.
 * **Leitura de SMS -** status sim ou não, caso o usuário não ative esta permissão, o aplicativo não irá capturar as informações dos SMS enviados.
-* <mark style="color:red;">**Agendar Alarmes**</mark> <mark style="color:red;"></mark><mark style="color:red;">- status sim ou não, caso o usuário não ative esta permissão,</mark> <mark style="color:red;"></mark><mark style="color:red;">o aplicativo não executará as seguintes funcionalidades: notificação de mensagens e documentos recebidos, instalação remota de aplicativos, registro de geolocalização do dispositivo, remoção de bloqueio de CHIP.</mark>
+* <mark style="color:red;">**Agendar Alarmes**</mark> <mark style="color:red;"></mark><mark style="color:red;">- status sim ou não, caso o usuário não ative esta permissão, o aplicativo não executará as seguintes funcionalidades: notificação de mensagens e documentos recebidos, instalação remota de aplicativos, registro de geolocalização do dispositivo, remoção de bloqueio de CHIP.</mark>
 
 ### Conectividade
 
@@ -254,6 +256,14 @@ Ao abrir a tela acima, a primeira aba "<mark style="color:red;">**Informações*
 <figure><img src="../../../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:red;">**As seções estão detalhadas no início da página:**</mark> <mark style="color:red;"></mark><mark style="color:red;">"</mark>[<mark style="color:red;">Detalhes</mark>](opcoes-de-gerenciamento-de-dispositivos.md#detalhes)<mark style="color:red;">", "</mark>[<mark style="color:red;">Instalação</mark>](opcoes-de-gerenciamento-de-dispositivos.md#instalacao)<mark style="color:red;">", "</mark>[<mark style="color:red;">Hardware"</mark>](opcoes-de-gerenciamento-de-dispositivos.md#hardware)<mark style="color:red;">, "</mark>[<mark style="color:red;">Permissões</mark>](opcoes-de-gerenciamento-de-dispositivos.md#permissoes)<mark style="color:red;">", "</mark>[<mark style="color:red;">Conectividade</mark>](opcoes-de-gerenciamento-de-dispositivos.md#conectividade)<mark style="color:red;">" e "</mark>[<mark style="color:red;">SIM</mark>](opcoes-de-gerenciamento-de-dispositivos.md#sim)<mark style="color:red;">".</mark>
+
+{% hint style="info" %}
+<mark style="color:red;">**OBSERVAÇÃO**</mark>
+
+<mark style="color:red;">É possível acessar rapidamente a tela de edição de uma política no dispositivo clicando no nome da política, que funciona como um link.</mark>
+
+![](<../../../../.gitbook/assets/image (245).png>)
+{% endhint %}
 
 ### **Aplicativos**
 

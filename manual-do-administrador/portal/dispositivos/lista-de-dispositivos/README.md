@@ -31,7 +31,7 @@ Para gerenciar os dispositivos ativos da empresa, siga os passos descritos abaix
 8. Clique na opção de “Ações em lote" para aplicar uma ação em vários dispositivos de uma vez só. Para mais informações, acessar o conteúdo [Ações em lote](./#acoes-em-lote) nesta página.
 9. A lista de dispositivos é mostrada na parte inferior da tela. Ao rolar a barra horizontalmente é possível visualizar todas as informações das colunas exibidas.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
 
 10. Clique no ícone de configurações para selecionar as colunas que ficarão visíveis, e depois clique em "Salvar" para definir a configuração como padrão da tela para o usuário logado.
 
@@ -39,6 +39,14 @@ Para gerenciar os dispositivos ativos da empresa, siga os passos descritos abaix
 
 10. Ordene as colunas: Usuário, Identificação, Licença, IMEI, Modelo, Data de Registro e Data da última comunicação com as setas "↑↓".
 11. Use os três pontinhos "..." para exibir o menu de ações e aplicar a ação desejada ao dispositivo.
+
+{% hint style="info" %}
+<mark style="color:red;">**OBSERVAÇÃO**</mark>
+
+<mark style="color:red;">É possível acessar rapidamente a tela de edição de uma política no dispositivo clicando no nome da política, que funciona como um link.</mark>
+
+![](<../../../../.gitbook/assets/image (248).png>)
+{% endhint %}
 
 ### Ações em lote
 
