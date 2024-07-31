@@ -20,9 +20,13 @@ Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível
 
 Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso as Informações do dispositivo:
 
-<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<mark style="color:red;">NOVAS IMAGENS</mark>
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/image (240).png" alt=""><figcaption></figcaption></figure>
 
 ### Detalhes
 
@@ -66,8 +70,17 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 
 ### Hardware
 
-* **Armazenamento Interno -** quanto de armazenamento interno possui;
-* **Bateria -** Quantos % de bateria está no momento;
+* <mark style="color:red;">**Número de série -**</mark> <mark style="color:red;"></mark><mark style="color:red;">número de série do dispositivo;</mark>
+* <mark style="color:red;">**Endereço MAC -**</mark> <mark style="color:red;"></mark><mark style="color:red;">endereço físico único do dispositivo para comunicação em redes locais (Media Access Control address).</mark>
+* <mark style="color:red;">**Memória Total**</mark> <mark style="color:red;">**-**</mark> <mark style="color:red;"></mark><mark style="color:red;">quantidade total de memória RAM disponível no dispositivo.</mark>
+* <mark style="color:red;">**Memória Disponível**</mark> <mark style="color:red;">**-**</mark> <mark style="color:red;"></mark><mark style="color:red;">quantidade de memória RAM atualmente livre e disponível para uso no dispositivo.</mark>
+* <mark style="color:red;">**Armazenamento Interno Total -**</mark> <mark style="color:red;"></mark><mark style="color:red;">quantidade total de armazenamento interno que o dispositivo possui.</mark>
+* <mark style="color:red;">**Armazenamento Interno Disponível -**</mark> <mark style="color:red;"></mark><mark style="color:red;">quantidade de armazenamento interno atualmente livre e disponível para uso no dispositivo.</mark>
+* <mark style="color:red;">**Armazenamento Total no Cartão SD**</mark> <mark style="color:red;"></mark><mark style="color:red;">- quantidade total de armazenamento disponível no cartão SD inserido no dispositivo.</mark>
+* <mark style="color:red;">**Armazenamento Disponível no Cartão SD**</mark> <mark style="color:red;"></mark><mark style="color:red;">- quantidade de armazenamento atualmente livre e disponível no cartão SD inserido no dispositivo.</mark>
+* <mark style="color:red;">**Processador**</mark> <mark style="color:red;"></mark><mark style="color:red;">- informações sobre o processador do dispositivo, incluindo o modelo e a velocidade.</mark>
+* <mark style="color:red;">**Saúde da Bateria**</mark> <mark style="color:red;"></mark><mark style="color:red;">- estado geral da bateria do dispositivo, indicando sua capacidade e condição.</mark>
+* <mark style="color:red;">**Ciclo de Carga da Bateria**</mark> <mark style="color:red;"></mark><mark style="color:red;">- número de ciclos completos de carga e descarga que a bateria do dispositivo já passou.</mark>
 
 ### Permissões
 
@@ -75,6 +88,7 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 * **Ignorar Otimização de Bateria -** status sim ou não, caso o usuário não ative esta permissão, o aplicativo poderá ser afetado pelas configurações de otimização de bateria, parar de capturar as localizações do dispositivos e parar de enviar as informações para o Portal.
 * **Escrita de Configurações do Sistema -** status sim ou não, caso o usuário não ative esta permissão, o aplicativo Kiosk Launcher Manage**r** não permitirá que o usuário alterar algumas configurações do sistema quando estiver no modo Quiosque.
 * **Leitura de SMS -** status sim ou não, caso o usuário não ative esta permissão, o aplicativo não irá capturar as informações dos SMS enviados.
+* <mark style="color:red;">**Agendar Alarmes**</mark> <mark style="color:red;"></mark><mark style="color:red;">- status sim ou não, caso o usuário não ative esta permissão,</mark> <mark style="color:red;"></mark><mark style="color:red;">o aplicativo não executará as seguintes funcionalidades: notificação de mensagens e documentos recebidos, instalação remota de aplicativos, registro de geolocalização do dispositivo, remoção de bloqueio de CHIP.</mark>
 
 ### Conectividade
 
@@ -91,12 +105,14 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 * **Endereço MAC WiFi** - endereço MAC do adaptador Wi-Fi do dispositivo.
 * **IP (Wi-Fi Network)** - endereço IP atribuído ao dispositivo na rede Wi-Fi.
 * **IPv6 (Wi-Fi Network)** - endereço IPv6 atribuído ao dispositivo na rede Wi-Fi.
-* **Rede BSSID** - identificador único da rede Wi-Fi.
-* **Operadora da Rede Conectada** - nome da operadora da rede móvel conectada.
-* **Roaming Dados Móveis** - indica se o dispositivo está em roaming de dados móveis.
-* **IP (Rede móvel)** - endereço IP atribuído ao dispositivo na rede móvel.
-* **IPv6 (Rede móvel)** - endereço IPv6 atribuído ao dispositivo na rede móvel.
-* **SIM Conectado** - indica qual SIM está ativo e conectado.
+* <mark style="color:red;">**DBM (RSRP - Potencia da Antena)**</mark> <mark style="color:red;"></mark><mark style="color:red;">- medida da potência do sinal da antena.</mark>
+* <mark style="color:red;">**Cell ID**</mark> <mark style="color:red;"></mark><mark style="color:red;">- identificação da célula à qual o dispositivo está conectado.</mark>
+* <mark style="color:red;">**LAC**</mark> <mark style="color:red;"></mark><mark style="color:red;">- código de Área Local.</mark>
+* <mark style="color:red;">**Tecnologia da Antena**</mark> <mark style="color:red;"></mark><mark style="color:red;">- tipo de tecnologia de antena utilizada.</mark>
+
+### <mark style="color:red;">SIM</mark>
+
+* <mark style="color:red;">**SIM Conectado -**</mark> <mark style="color:red;"></mark><mark style="color:red;">indica qual dos SIMs está atualmente conectado à rede móvel.</mark>
 * **Operadora do SIM 1** - nome da operadora do primeiro SIM.
 * **Número de Telefone SIM 1** - número de telefone associado ao primeiro SIM.
 * **ICCID SIM 1** - identificador exclusivo do cartão SIM 1.
@@ -111,10 +127,10 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 * **Número do Assinante SIM 2** - número do assinante associado ao SIM 2.
 * **MCC do SIM 2** - código do país móvel do SIM 2.
 * **MNC do SIM 2** - código da rede móvel do SIM 2.
-* **DBM (RSRP - Potencia da Antena)** - medida da potência do sinal da antena.
-* **Cell ID** - identificação da célula à qual o dispositivo está conectado.
-* **LAC** - código de Área Local.
-* **Tecnologia da Antena** - tipo de tecnologia de antena utilizada.
+* <mark style="color:red;">**Operadora do eSIM -**</mark> <mark style="color:red;"></mark><mark style="color:red;">nome da operadora associada ao eSIM.</mark>
+* <mark style="color:red;">**Número de telefone do eSIM -**</mark> <mark style="color:red;"></mark><mark style="color:red;">número de telefone associado ao eSIM.</mark>
+* <mark style="color:red;">**ICCID do eSIM -**</mark> <mark style="color:red;"></mark><mark style="color:red;">identificador exclusivo do eSIM.</mark>
+* <mark style="color:red;">**ID de assinatura do eSIM -**</mark> <mark style="color:red;"></mark><mark style="color:red;">identificador da assinatura associada ao eSIM.</mark>
 
 E clicando nos três pontinhos "**...**" à direita na listagem dos dispositivos, aparecem as opções de consulta e configurações do dispositivo, como ilustrado na imagem abaixo:
 
@@ -221,53 +237,54 @@ Uma mensagem é exibida na tela para informação e advertência. A operação n
 
 Ao clicar na opção **Gerenciar**, será exibida a tela "**Gerenciar Dispositivo**", onde teremos 4 abas com opções para edição e informações do dispositivo, são elas: **Detalhes, Aplicativos, Bateria e Armazenamento Livre.**&#x20;
 
-## **Detalhes**
+### <mark style="color:red;">**Informações**</mark>
 
-Ao abrir a tela acima, a primeira aba "**Detalhes**" vira Pré selecionada, nesta tela, é possível editar dados do dispositivo, como: Usuário, Identificação, Grupo, Departamento e Telefone do Usuário.
+Ao abrir a tela acima, a primeira aba "<mark style="color:red;">**Informações**</mark>" vira pré selecionada, nesta tela, é possível editar dados do dispositivo: Usuário, Identificação, Grupo, Departamento e Telefone do Usuário.
 
-<figure><img src="../../../../.gitbook/assets/image (205).png" alt=""><figcaption></figcaption></figure>
+<mark style="color:red;">NOVA IMAGEM</mark>
 
-Além de poder editar os dados, são exibidos mais abaixo duas listas com as informações de Software, Hardware e Conectividade relacionados ao dispositivo gerenciado.
+<figure><img src="../../../../.gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/Captura de tela 2024-06-26 120244 (3).png" alt=""><figcaption></figcaption></figure>
+<mark style="color:red;">Além de poder editar os dados, são exibidos mais abaixo listas com Detalhes, Instalação, Hardware, Permissões, Conectividade e SIM, relacionados ao dispositivo gerenciado.</mark>
 
-#### **Informações de Software**
+<figure><img src="../../../../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
 
-* **Modo de gerenciamento -** exibe o modo de gerenciamento utilizado
-* **Versão do app -** versão do companion instalado no dispositivo
-* **Número de Série -** número de série do dispositivo;
-* **Em Conformidade -** é a aderência do dispositivo a todas as configurações de políticas atribuídas a ele. Se alguma configuração não foi aplicada, o valor desta opção será "Não".&#x20;
-* **Status Aplicado -** status do registro do dispositivo, se o dispositivo está totalmente registrado, o status será "Ativo";
-* **Data da última atualização -** data e hora em que as informações do dispositivo foram sincronizadas com o portal. Esta data vem da AMAPI (API da Google), ou seja, são as informações coletadas pela API da Google no dispositivo. <mark style="color:blue;">As informações atualizadas pela AMAPI que compõem a Última Atualização são:</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Detalhes, Instalação (Informações que aparecem ao acessar o menu Informações do Dispositivo) e Relatório de Não conformidade.**</mark>    &#x20;
-* **Data de Sincronização da Política -**exibirá a data da sincronização da política;
-* **Versão do Android -** versão do Android do dispositivo;
-* **Versão da Política Aplicada** - versão da política;
-* **Nome da Política no Portal** - nome da política atribuída ao dispositivo;
-* **Nome da Política no Dispositivo -** nome da política atribuída no dispositivo;
+<figure><img src="../../../../.gitbook/assets/image (237).png" alt=""><figcaption></figcaption></figure>
 
-#### **Informações de Hardware**
+<figure><img src="../../../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
 
-* **Armazenamento Interno -** quanto de armazenamento interno possui;
-* **Bateria -** Quantos % de bateria está no momento;
+<mark style="color:red;">**As seções estão detalhadas no início da página:**</mark> <mark style="color:red;"></mark><mark style="color:red;">"</mark>[<mark style="color:red;">Detalhes</mark>](opcoes-de-gerenciamento-de-dispositivos.md#detalhes)<mark style="color:red;">", "</mark>[<mark style="color:red;">Instalação</mark>](opcoes-de-gerenciamento-de-dispositivos.md#instalacao)<mark style="color:red;">", "</mark>[<mark style="color:red;">Hardware"</mark>](opcoes-de-gerenciamento-de-dispositivos.md#hardware)<mark style="color:red;">, "</mark>[<mark style="color:red;">Permissões</mark>](opcoes-de-gerenciamento-de-dispositivos.md#permissoes)<mark style="color:red;">", "</mark>[<mark style="color:red;">Conectividade</mark>](opcoes-de-gerenciamento-de-dispositivos.md#conectividade)<mark style="color:red;">" e "</mark>[<mark style="color:red;">SIM</mark>](opcoes-de-gerenciamento-de-dispositivos.md#sim)<mark style="color:red;">".</mark>
 
-#### Conectividade
+### **Aplicativos**
 
-As informações de conectividade já foram detalhadas acima , na sessão "Informações do Dispositivo"
+Na aba "**Aplicativos**", é possível acessar a lista de todos os aplicativos instalados no dispositivo, contendo as seguintes informações: ícone, nome, consumo e tempo de uso. Os dados de consumo e tempo de uso são registrados dentro do ciclo. É possível pesquisar um aplicativo específico utilizando o campo de pesquisa, exportar relatórios completos ou da página, além de copiar as informações da lista. <mark style="color:red;">Ao clicar nos três pontinhos é possível visualizar o gráfico de "Histórico de Consumo" do aplicativo durante o ciclo.</mark>
 
-## **Aplicativos**
+<mark style="color:red;">NOVA IMAGEM</mark>
 
-Na aba "**Aplicativos**", é possível acessar a lista de todos os aplicativos instalados no dispositivo, contendo as seguintes informações: ícone, nome, consumo e tempo de uso. Os dados de consumo e tempo de uso são registrados dentro do ciclo. É possível pesquisar um aplicativo específico utilizando o campo de pesquisa, exportar relatórios completos ou da página, além de copiar as informações da lista. A aba também permite visualizar o gráfico de "Histórico de Consumo" do aplicativo durante o ciclo.
+<figure><img src="../../../../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-## **Bateria**
+### **Bateria**
 
 Na aba "**Bateria**", é possível selecionar uma data para visualizar as informações desejadas. Ao escolher a data, o sistema buscará e exibirá os dados da bateria em formato de gráfico.
 
-<figure><img src="../../../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+<mark style="color:red;">NOVA IMAGEM</mark>
 
-## **Armazenamento Livre**
+<figure><img src="../../../../.gitbook/assets/image (242).png" alt=""><figcaption></figcaption></figure>
+
+### **Armazenamento Livre**
 
 Na aba "**Armazenamento Livre**" é possível visualizar a memória livre no armazenamento interno do dispositivo ao selecionar uma data para visualizar as informações desejadas. Ao escolher a data, o sistema buscará e exibirá os dados de armazenamento em formato de gráfico.
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<mark style="color:red;">NOVA IMAGEM</mark>
+
+<figure><img src="../../../../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
+
+### <mark style="color:red;">Geolocalização</mark>
+
+<mark style="color:red;">descrever...</mark>
+
+<figure><img src="../../../../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
+
+### <mark style="color:red;">Não Conformidades</mark>
+
+<mark style="color:red;">descrever...</mark>
