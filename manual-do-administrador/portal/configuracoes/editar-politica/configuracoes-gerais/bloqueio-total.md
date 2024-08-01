@@ -16,7 +16,7 @@ Para realizar o bloqueio de dispositivos fora do horário de trabalho, siga os p
 2. Preencha o campo "Dias de trabalho", com os dias trabalhados na semana dia de início e dia fim.
 3. Preencha o campo "Horário de trabalho", com horário de trabalho inicial e final.
 
-<figure><img src="../../../../../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
+<mark style="color:red;">ADICIONAR IMAGEM</mark>
 
 {% hint style="info" %}
 **OBSERVAÇÃO**

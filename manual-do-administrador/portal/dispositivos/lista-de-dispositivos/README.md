@@ -20,7 +20,7 @@ Para gerenciar os dispositivos ativos da empresa, siga os passos descritos abaix
 
 <figure><img src="../../../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Na parte superior da tela o sistema exibe a distribuição dos dispositivos, separados por fabricantes.
 3. Use os filtros Grupos, Política, Modelo e Fabricante para encontrar os dispositivos se deseja listar.
