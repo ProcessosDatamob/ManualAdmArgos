@@ -38,9 +38,13 @@ Clique no menu “**Dispositivos**” opção "**Lista de Dispositivos**" para a
 
 7 - Clique na opção de “Ações em lote" para aplicar uma ação em vários dispositivos de uma vez só. Para mais informações, acessar o conteúdo [Ações em lote](./#acoes-em-lote) nesta página.
 
-8 - A lista de dispositivos é mostrada na parte inferior da tela. Ao rolar a barra horizontalmente é possível visualizar todas as informações das colunas exibidas. <mark style="color:red;">E ao clicar no nome da política</mark> <mark style="color:red;">é possível acessar rapidamente a tela de edição da política no dispositivo.</mark>
+8 - A lista de dispositivos é mostrada na parte inferior da tela. Ao rolar a barra horizontalmente é possível visualizar todas as informações das colunas exibidas.&#x20;
 
 <figure><img src="../../../../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:red;">E ao clicar no nome da política</mark> <mark style="color:red;">é possível acessar rapidamente a tela de edição da política no dispositivo.</mark>
+
+<figure><img src="../../../../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>
 
 9 - Ordene as colunas: Usuário, Identificação, Licença, IMEI, Modelo, Data de Registro e Data da última comunicação com as setas "↑↓".
 
