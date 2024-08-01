@@ -54,6 +54,7 @@
     * [Gerenciar Redes Wi-Fi](manual-do-administrador/portal/configuracoes/gerenciar-redes-wi-fi.md)
   * [Dispositivos](manual-do-administrador/portal/dispositivos/README.md)
     * [Lista de dispositivos](manual-do-administrador/portal/dispositivos/lista-de-dispositivos/README.md)
+      * [Informações do dispositivo](manual-do-administrador/portal/dispositivos/lista-de-dispositivos/informacoes-do-dispositivo.md)
       * [Opções de gerenciamento de dispositivos](manual-do-administrador/portal/dispositivos/lista-de-dispositivos/opcoes-de-gerenciamento-de-dispositivos.md)
     * [Informações dos Aplicativos](manual-do-administrador/portal/dispositivos/informacoes-dos-aplicativos.md)
   * [Zero Touch](manual-do-administrador/portal/zero-touch.md)
