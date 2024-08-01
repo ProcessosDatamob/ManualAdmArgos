@@ -1,4 +1,4 @@
-# Primeiro Acesso e Vinculo ao Enterprise
+# Primeiro Acesso e Vínculo ao Enterprise
 
 Quando o **\<NomeProduto>** é ativado para uma empresa, as seguintes tarefas são executadas pelo sistema, para possibilitar o acesso do usuário administrador da empresa ao Portal:
 
@@ -18,7 +18,7 @@ Para acessar o Portal de Administração, siga os passos descritos nesta seção
 <figure><img src="../../../.gitbook/assets/image (73).png" alt="" width="266"><figcaption></figcaption></figure>
 
 4. Confirmar o Nome da Empresa e E-mail;
-5. Criar uma senha;
+5. Criar uma senha; <mark style="color:red;">(Adicionar informações sobre a complexidade da senha)</mark>
 6. Repetir a digitação da senha para confirmá-la;
 7. Marcar que concorda com a Política de Privacidade e com o Termos de uso;
 8. Clicar no botão "Próximo''.

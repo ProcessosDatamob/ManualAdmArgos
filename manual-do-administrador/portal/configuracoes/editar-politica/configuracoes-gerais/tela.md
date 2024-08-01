@@ -14,9 +14,13 @@ layout:
 
 # Tela
 
+
+
+
+
 Selecionando a guia de "**Configurações**" da tela de "**Edição de Políticas**", clique sobre a opção "**Tela**" para visualizar as opções de configuração de papel de parede e rotação de tela. Na tabela a seguir, as configurações são descritas:
 
-<table><thead><tr><th width="274">Configuração</th><th>Descrição</th></tr></thead><tbody><tr><td>Desabilitar mudança de papel de parede</td><td><p>Permite que o usuário administrador configure a função de mudança de papel de parede do dispositivo. </p><p>Sendo assim: </p><p>- Com a chave habilitada, a alteração do plano de fundo está DESATIVADA. </p><p>- Com a chave desabilitada, a alteração de plano de fundo está ATIVADA.</p></td></tr><tr><td>Definir Papel de Parede</td><td>Permite realizar o upload de uma imagem de papel de parede que será enviada para o dispositivo.</td></tr></tbody></table>
+<table><thead><tr><th width="274">Configuração</th><th>Descrição</th></tr></thead><tbody><tr><td>Desabilitar mudança de papel de parede</td><td><p>Permite que o usuário administrador configure a função de mudança de papel de parede do dispositivo. Sendo assim: </p><p>- Com a chave ATIVADA, a alteração do plano de fundo está DESATIVADA. </p><p><mark style="color:red;">Quando ativada, essa configuração desabilita os campos de definição de papel de parede na política e garante que nenhuma configuração relacionada a isso seja enviada para os dispositivos, embora essas configurações sejam mantidas no banco de dados para uso futuro, caso a opção seja desativada.</mark></p><p><mark style="color:red;">(verificar se essa explicação atende)</mark><br>- Com a chave DESATIVADA, a alteração de plano de fundo está ATIVADA. </p></td></tr><tr><td>Definir Papel de Parede</td><td>Permite realizar o upload de uma imagem de papel de parede que será enviada para o dispositivo.</td></tr></tbody></table>
 
 É possível realizar a configuração de 3 formas:
 

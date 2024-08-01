@@ -16,5 +16,13 @@ Ao acessar a tela, o sistema não permitirá alterar as informações do campo �
 3. Para ordenar as informações exibidas, clique no título da informação que desejar.
 4. Para exportar as informações dos usuários, clique no botão “Excel”.
 5. Para copiar as informações dos usuários, clique no botão “Copiar”.
-6. Clique em “Editar Administrador” nos três pontinhos à direita na linha do usuário, para acessar a tela de alteração dos dados do usuário.
+6. Clique em “Editar Administrador” nos três pontinhos à direita na linha do usuário, para acessar a tela de alteração dos dados do usuário. <mark style="color:red;">Nesta tela é possível gerenciar as informações de cadastro, de privilégio, de grupos e das permissões deste usuário. Também é possível alterar a senha de acesso ao portal que o usuário administra.</mark>&#x20;
+
+{% hint style="info" %}
+<mark style="color:red;">OBSERVAÇÃO</mark>
+
+<mark style="color:red;">Para que seja possível alterar a senha, a senha cadastrada deve atender todos os requisitos exigidos, para que o acesso tenha a segurança necessária.</mark>\
+![](<../../../.gitbook/assets/image (259).png>)
+{% endhint %}
+
 7. Para criar um usuário administrador, clique em Cadastrar Novo.

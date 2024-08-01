@@ -16,9 +16,11 @@ layout:
 
 ### Comandos e Ações do Dispositivo
 
-Aoclicar nos três pontinhos "**...**" à direita na listagem dos dispositivos, aparecem as opções de consulta e configurações do dispositivo, como ilustrado na imagem abaixo:
+Ao clicar nos três pontinhos "**...**" à direita na listagem dos dispositivos, aparecem as opções de consulta e configurações do dispositivo, como ilustrado na imagem abaixo:
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<mark style="color:red;">NOVA IMAGEM</mark>
+
+<figure><img src="../../../../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
 
 As opções disponíveis variam de acordo com o Modo de Gerenciamento da política na qual o dispositivo estiver vinculado e estão em destaque na imagem a seguir:
 
@@ -113,16 +115,15 @@ Uma mensagem é exibida na tela para informação e advertência. A operação n
 
 ## **Gerenciar**
 
-<mark style="color:red;">Ao clicar na opção</mark> <mark style="color:red;"></mark><mark style="color:red;">**Gerenciar**</mark><mark style="color:red;">, será exibida a tela</mark> <mark style="color:red;"></mark><mark style="color:red;">**Gerenciar Dispositivo**</mark><mark style="color:red;">, que contém 6 abas com opções para edição e informações do dispositivo. As abas são:</mark>
+<mark style="color:red;">Ao clicar na opção</mark> <mark style="color:red;"></mark><mark style="color:red;">**Gerenciar**</mark><mark style="color:red;">, será exibida a tela</mark> <mark style="color:red;"></mark><mark style="color:red;">**Gerenciar Dispositivo.**</mark>
 
-* [<mark style="color:red;">Informações</mark>](opcoes-de-gerenciamento-de-dispositivos.md#informacoes)&#x20;
-* [<mark style="color:red;">Aplicativos</mark>](opcoes-de-gerenciamento-de-dispositivos.md#aplicativos)&#x20;
-* [<mark style="color:red;">Bateria</mark>](opcoes-de-gerenciamento-de-dispositivos.md#bateria)&#x20;
-* [<mark style="color:red;">Armazenamento Livre</mark>](opcoes-de-gerenciamento-de-dispositivos.md#armazenamento-livre)&#x20;
-* [<mark style="color:red;">Geolocalização</mark> ](opcoes-de-gerenciamento-de-dispositivos.md#geolocalizacao)
-* [<mark style="color:red;">Não Conformidades</mark>](opcoes-de-gerenciamento-de-dispositivos.md#nao-conformidades)
+<figure><img src="../../../../.gitbook/assets/Captura de tela 2024-08-01 140102.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">Abaixo a explicação de cada uma delas:</mark>
+<mark style="color:red;">1 - Nesta tela estão agrupadas os Comandos e Ações do dispositivo de acordo com o Modo de Gerenciamento.</mark>
+
+<mark style="color:red;">2 - A opção de voltar e atualizar as informações.</mark>
+
+<mark style="color:red;">3 - As abas com opções para edição e informações do dispositivo. As abas são:</mark>\ <mark style="color:red;">-</mark> [<mark style="color:red;">Informações</mark>](opcoes-de-gerenciamento-de-dispositivos.md#informacoes) \ <mark style="color:red;">-</mark> [<mark style="color:red;">Aplicativos</mark>](opcoes-de-gerenciamento-de-dispositivos.md#aplicativos) \ <mark style="color:red;">-</mark> [<mark style="color:red;">Bateria</mark>](opcoes-de-gerenciamento-de-dispositivos.md#bateria) \ <mark style="color:red;">-</mark> [<mark style="color:red;">Armazenamento Livre</mark>](opcoes-de-gerenciamento-de-dispositivos.md#armazenamento-livre) \ <mark style="color:red;">-</mark> [<mark style="color:red;">Geolocalização</mark> ](opcoes-de-gerenciamento-de-dispositivos.md#geolocalizacao) \ <mark style="color:red;">-</mark> [<mark style="color:red;">Não Conformidades</mark>](opcoes-de-gerenciamento-de-dispositivos.md#nao-conformidades)\ <mark style="color:red;">Abaixo a explicação de cada uma delas:</mark>
 
 ### <mark style="color:red;">**Informações**</mark>
 
@@ -140,7 +141,7 @@ Ao abrir a tela acima, a primeira aba "<mark style="color:red;">**Informações*
 
 <figure><img src="../../../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">**As seções estão detalhadas no início da página:**</mark> <mark style="color:red;"></mark><mark style="color:red;">"</mark>[<mark style="color:red;">Detalhes</mark>](opcoes-de-gerenciamento-de-dispositivos.md#detalhes)<mark style="color:red;">", "</mark>[<mark style="color:red;">Instalação</mark>](opcoes-de-gerenciamento-de-dispositivos.md#instalacao)<mark style="color:red;">", "</mark>[<mark style="color:red;">Hardware"</mark>](opcoes-de-gerenciamento-de-dispositivos.md#hardware)<mark style="color:red;">, "</mark>[<mark style="color:red;">Permissões</mark>](opcoes-de-gerenciamento-de-dispositivos.md#permissoes)<mark style="color:red;">", "</mark>[<mark style="color:red;">Conectividade</mark>](opcoes-de-gerenciamento-de-dispositivos.md#conectividade)<mark style="color:red;">" e "</mark>[<mark style="color:red;">SIM</mark>](opcoes-de-gerenciamento-de-dispositivos.md#sim)<mark style="color:red;">".</mark>
+<mark style="color:red;">**As seções estão detalhadas na página de**</mark> [<mark style="color:red;">**Informações do Dispositivo**</mark>](informacoes-do-dispositivo.md)<mark style="color:red;">**:**</mark> <mark style="color:red;"></mark><mark style="color:red;">"Detalhes", "Instalação", "Hardware", "Permissões", "Conectividade" e "SIM".</mark>
 
 {% hint style="info" %}
 <mark style="color:red;">**OBSERVAÇÃO**</mark>

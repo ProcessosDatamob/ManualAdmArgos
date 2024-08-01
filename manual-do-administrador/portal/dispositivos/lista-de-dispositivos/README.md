@@ -16,37 +16,39 @@ layout:
 
 Para gerenciar os dispositivos ativos da empresa, siga os passos descritos abaixo.
 
-1. Clique no menu “**Dispositivos**” opção "**Lista de Dispositivos**" para acessar a tela.
+Clique no menu “**Dispositivos**” opção "**Lista de Dispositivos**" para acessar a tela.
 
 <figure><img src="../../../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<mark style="color:red;">A tela a seguir será exibida:</mark>
 
-2. Na parte superior da tela o sistema exibe a distribuição dos dispositivos, separados por fabricantes.
-3. Use os filtros Grupos, Política, Modelo e Fabricante para encontrar os dispositivos se deseja listar.
-4. Utilize os Filtros Avançados para buscar o Sistema Operacional, Modo de Gerenciamento, Data Inicial de Registro e Data Final de Registro (filtrará pela data de registro dos dispositivos que estão no período especificado) para acessar as informações desejadas.
-5. Para localizar um dispositivo específico, digite o número do telefone, nome do usuário, IMEI, ICCID, departamento ou telefone do usuário do dispositivo no campo “Pesquisar”.
-6. Para exportar o relatório dos dispositivos, clique no botão “Excel”, o sistema exibirá no relatório apenas as informações das colunas exibidas na tela.
-7. Para copiar as informações dos dispositivos, clique no botão “Copiar”, o sistema copiará para a área de transferência apenas as informações das colunas exibidas na tela.
-8. Clique na opção de “Ações em lote" para aplicar uma ação em vários dispositivos de uma vez só. Para mais informações, acessar o conteúdo [Ações em lote](./#acoes-em-lote) nesta página.
-9. A lista de dispositivos é mostrada na parte inferior da tela. Ao rolar a barra horizontalmente é possível visualizar todas as informações das colunas exibidas.
+<figure><img src="../../../../.gitbook/assets/Captura de tela 2024-08-01 144803.png" alt=""><figcaption></figcaption></figure>
+
+1 - Na parte superior da tela o sistema exibe a distribuição dos dispositivos, separados por fabricantes.
+
+2 - Use os filtros Grupos, Política, Modelo e Fabricante para encontrar os dispositivos se deseja listar.
+
+3 - Utilize os Filtros Avançados para buscar o Sistema Operacional, Modo de Gerenciamento, Data Inicial de Registro e Data Final de Registro (filtrará pela data de registro dos dispositivos que estão no período especificado) para acessar as informações desejadas.
+
+4 - Para localizar um dispositivo específico, digite o número do telefone, nome do usuário, IMEI, ICCID, departamento ou telefone do usuário do dispositivo no campo “Pesquisar”.
+
+5 - Para exportar o relatório dos dispositivos, clique no botão “Excel”, o sistema exibirá no relatório apenas as informações das colunas exibidas na tela.
+
+6 - Para copiar as informações dos dispositivos, clique no botão “Copiar”, o sistema copiará para a área de transferência apenas as informações das colunas exibidas na tela.
+
+7 - Clique na opção de “Ações em lote" para aplicar uma ação em vários dispositivos de uma vez só. Para mais informações, acessar o conteúdo [Ações em lote](./#acoes-em-lote) nesta página.
+
+8 - A lista de dispositivos é mostrada na parte inferior da tela. Ao rolar a barra horizontalmente é possível visualizar todas as informações das colunas exibidas. <mark style="color:red;">E ao clicar no nome da política</mark> <mark style="color:red;">é possível acessar rapidamente a tela de edição da política no dispositivo.</mark>
 
 <figure><img src="../../../../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
 
-10. Clique no ícone de configurações para selecionar as colunas que ficarão visíveis, e depois clique em "Salvar" para definir a configuração como padrão da tela para o usuário logado.
+9 - Ordene as colunas: Usuário, Identificação, Licença, IMEI, Modelo, Data de Registro e Data da última comunicação com as setas "↑↓".
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+10 - Use os três pontinhos "..." para exibir o menu de ações e aplicar a ação desejada ao dispositivo.
 
-10. Ordene as colunas: Usuário, Identificação, Licença, IMEI, Modelo, Data de Registro e Data da última comunicação com as setas "↑↓".
-11. Use os três pontinhos "..." para exibir o menu de ações e aplicar a ação desejada ao dispositivo.
+11 - Clique no ícone de <mark style="color:red;">filtro</mark> para selecionar as colunas que ficarão visíveis, <mark style="color:red;">utilize o campo de pesquisa para pesquisar as colunas por texto e realizar o filtro,</mark> e depois clique em "Salvar" para definir a configuração como padrão da tela para o usuário logado.&#x20;
 
-{% hint style="info" %}
-<mark style="color:red;">**OBSERVAÇÃO**</mark>
-
-<mark style="color:red;">É possível acessar rapidamente a tela de edição de uma política no dispositivo clicando no nome da política, que funciona como um link.</mark>
-
-![](<../../../../.gitbook/assets/image (248).png>)
-{% endhint %}
+<figure><img src="../../../../.gitbook/assets/image (260).png" alt=""><figcaption></figcaption></figure>
 
 ### Ações em lote
 
