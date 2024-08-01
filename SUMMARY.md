@@ -64,7 +64,6 @@
     * [Ativação de Apps de Sistemas via Comando](manual-do-administrador/portal/mensagens-e-comandos/ativacao-de-apps-de-sistemas-via-comando.md)
   * [Compartilhar Documentos](manual-do-administrador/portal/compartilhar-documentos.md)
   * [Localização](manual-do-administrador/portal/localizacao/README.md)
-    * [Geolocalização](manual-do-administrador/portal/localizacao/geolocalizacao.md)
     * [Localização de dispositivos](manual-do-administrador/portal/localizacao/localizacao-de-dispositivos.md)
     * [Histórico de localização](manual-do-administrador/portal/localizacao/historico-de-localizacao.md)
   * [Ajuda](manual-do-administrador/portal/ajuda/README.md)

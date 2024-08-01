@@ -140,17 +140,11 @@ E clicando nos três pontinhos "**...**" à direita na listagem dos dispositivos
 
 As opções disponíveis variam de acordo com o Modo de Gerenciamento da política na qual o dispositivo estiver vinculado e estão em destaque na imagem a seguir:
 
-<table><thead><tr><th width="272.28506787330315">Modo de Gerenciamento</th><th>Opções disponíveis</th></tr></thead><tbody><tr><td><strong>Android</strong></td><td>Relatório de Não Conformidade<br>Alterar Política<br>Ativar/ Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Gerar Nova Senha do Dispositivo<br>Remover Dispositivo (WIPE)<br>Gerenciar Informações</td></tr><tr><td><strong>Android Block SIM</strong></td><td><p>Relatório de Não Conformidade<br>Alterar Política<br>Ativar/Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo</p><p>Gerar Nova Senha do Bloqueio de Tela<br>Remover Bloqueio de Tela</p><p>Remover Bloqueio de Chip<br>Remover Dispositivo (WIPE)<br>Gerenciar </p></td></tr><tr><td><strong>Android Work Profile</strong></td><td>Relatório de Não Conformidade<br>Alterar Política<br>Remover Dispositivo (WIPE)<br>Gerenciar </td></tr></tbody></table>
+<mark style="color:red;">REMOVIDA A OPÇÃO Relatório de Não Conformidade</mark>
+
+<table><thead><tr><th width="272.28506787330315">Modo de Gerenciamento</th><th>Opções disponíveis</th></tr></thead><tbody><tr><td><strong>Android</strong></td><td>Alterar Política<br>Ativar/ Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Gerar Nova Senha do Dispositivo<br>Remover Dispositivo (WIPE)<br>Gerenciar Informações</td></tr><tr><td><strong>Android Block SIM</strong></td><td><p>Alterar Política<br>Ativar/Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo</p><p>Gerar Nova Senha do Bloqueio de Tela<br>Remover Bloqueio de Tela</p><p>Remover Bloqueio de Chip<br>Remover Dispositivo (WIPE)<br>Gerenciar </p></td></tr><tr><td><strong>Android Work Profile</strong></td><td>Alterar Política<br>Remover Dispositivo (WIPE)<br>Gerenciar </td></tr></tbody></table>
 
 As opções que estão em destaque na figura são detalhadas nas próximas subseções:
-
-### **Relatório de Não Conformidade**
-
-Para exibir as inconsistências em configurações atribuídas ao dispositivo utilize a opção "**Relatório de Não conformidade**".
-
-<figure><img src="../../../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
-No “Relatório de Não Conformidade" é possível "Exportar" e "Copiar", permitindo exportar as informações do relatório para um arquivo Excel ou copiar as informações para uma área de transferência.
 
 ### **Alterar Política**
 
@@ -237,7 +231,16 @@ Uma mensagem é exibida na tela para informação e advertência. A operação n
 
 ## **Gerenciar**
 
-Ao clicar na opção **Gerenciar**, será exibida a tela "**Gerenciar Dispositivo**", onde teremos 4 abas com opções para edição e informações do dispositivo, são elas: **Detalhes, Aplicativos, Bateria e Armazenamento Livre.**&#x20;
+<mark style="color:red;">Ao clicar na opção</mark> <mark style="color:red;"></mark><mark style="color:red;">**Gerenciar**</mark><mark style="color:red;">, será exibida a tela</mark> <mark style="color:red;"></mark><mark style="color:red;">**Gerenciar Dispositivo**</mark><mark style="color:red;">, que contém 6 abas com opções para edição e informações do dispositivo. As abas são:</mark>
+
+* [<mark style="color:red;">Informações</mark>](opcoes-de-gerenciamento-de-dispositivos.md#informacoes)&#x20;
+* [<mark style="color:red;">Aplicativos</mark>](opcoes-de-gerenciamento-de-dispositivos.md#aplicativos)&#x20;
+* [<mark style="color:red;">Bateria</mark>](opcoes-de-gerenciamento-de-dispositivos.md#bateria)&#x20;
+* [<mark style="color:red;">Armazenamento Livre</mark>](opcoes-de-gerenciamento-de-dispositivos.md#armazenamento-livre)&#x20;
+* [<mark style="color:red;">Geolocalização</mark> ](opcoes-de-gerenciamento-de-dispositivos.md#geolocalizacao)
+* [<mark style="color:red;">Não Conformidades</mark>](opcoes-de-gerenciamento-de-dispositivos.md#nao-conformidades)
+
+<mark style="color:red;">Abaixo a explicação de cada uma delas:</mark>
 
 ### <mark style="color:red;">**Informações**</mark>
 
@@ -291,10 +294,38 @@ Na aba "**Armazenamento Livre**" é possível visualizar a memória livre no arm
 
 ### <mark style="color:red;">Geolocalização</mark>
 
-<mark style="color:red;">descrever...</mark>
+<mark style="color:red;">Ao acessar a aba "Geolocalização", será possível filtrar as localizações utilizando os filtros: Localizar, Data, Fuso horário e Precisão. Ao clicar em "Buscar", um mapa será exibido, mostrando as geolocalizações registradas, se houver.</mark>
+
+<mark style="color:red;">Para visualizar as localizações geográficas de um dispositivo, siga os passos descritos:</mark>
+
+1. <mark style="color:red;">Selecione a opção Localizar: Por Data ou Agora</mark>\ <mark style="color:red;">Se selecionar a opção de "Localizar Por Data", siga os passos a seguir:</mark>
+2. <mark style="color:red;">Selecione a data em que as localizações foram registradas;</mark>
+3. <mark style="color:red;">Especifique o fuso horário em que deseja visualizar as localizações;</mark>
+4. <mark style="color:red;">Selecione o limite de precisão das localizações;</mark>
+5. <mark style="color:red;">Clique no botão “Buscar” para exibir as localizações no mapa, de acordo com filtro especificado;</mark>
+6. <mark style="color:red;">O sistema exibirá as localizações com marcadores formando o percurso realizado pelo usuário do dispositivo. Os marcadores possuem cores diferentes, que indicam o tipo da localização. Utilize a legenda do para identificar o tipo:</mark>
+
+* <mark style="color:red;">**Posição inicial da leitura do GPS**</mark> <mark style="color:red;"></mark><mark style="color:red;">– primeira localização do dispositivo registrada no dia;</mark>
+* <mark style="color:red;">**Posição atual ou última posição coletada no dia**</mark> <mark style="color:red;"></mark><mark style="color:red;">– última localização do dispositivo registrada no dia;</mark>
+* <mark style="color:red;">**Lugar onde o usuário passou**</mark> <mark style="color:red;"></mark><mark style="color:red;">– localizações registradas no dia, entre a primeira e a última.</mark>
+
+9. <mark style="color:red;">Clique no marcador para visualizar as informações da localização.</mark>
+10. <mark style="color:red;">Utilize os recursos do mapa para otimizar a visualização.</mark>
 
 <figure><img src="../../../../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:red;">Não Conformidades</mark>
 
-<mark style="color:red;">descrever...</mark>
+<mark style="color:red;">Nesta aba, serão listadas todas as não conformidades do dispositivo com informações detalhadas da Configuração, Motivo da Não Conformidade e Detalhe da Não Conformidade.</mark>&#x20;
+
+{% hint style="info" %}
+<mark style="color:red;">**OBSERVAÇÃO**</mark>
+
+<mark style="color:red;">A aba "Não Conformidades" ficará desabilitada se o dispositivo não possuir nenhuma inconformidade.</mark>
+{% endhint %}
+
+<mark style="color:red;">E em cada item de não conformidade listado será exibida a informação de Nome do Pacote, Caminho do Campo, Valor Atual, Motivo da Falha na Instalação, Contexto de Wi-Fi e Contexto de senha da política.</mark>
+
+<figure><img src="../../../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:red;">É possível "Exportar" e "Copiar", permitindo exportar as informações do relatório para um arquivo Excel ou copiar as informações para uma área de transferência.</mark>
