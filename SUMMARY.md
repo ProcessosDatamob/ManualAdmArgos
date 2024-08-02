@@ -84,6 +84,8 @@
     * [Nova Sessão "SIM" e Informações do eSIM no Dispositivo](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-12.0.0/nova-sessao-sim-e-informacoes-do-esim-no-dispositivo.md)
     * [Melhorias na Lista de Dispositivos](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-12.0.0/melhorias-na-lista-de-dispositivos.md)
     * [Informações Mais Completas de Hardware](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-12.0.0/informacoes-mais-completas-de-hardware.md)
+    * [Desbloqueio do CHIP Antes da Remoção do Dispositivo](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-12.0.0/desbloqueio-do-chip-antes-da-remocao-do-dispositivo.md)
+    * [Reiniciar Bloqueio de CHIP](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-12.0.0/reiniciar-bloqueio-de-chip.md)
     * [Page 1](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-12.0.0/page-1.md)
     * [Page](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-12.0.0/page.md)
   * [Release Notes \<NomeProduto> V 11.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/README.md)
