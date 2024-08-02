@@ -4,7 +4,6 @@
 
 * [INTRODUÇÃO](README.md)
   * [Informações gerais](manual-do-administrador/readme/informacoes-gerais.md)
-  * [Requisitos da Solução](manual-do-administrador/readme/requisitos-da-solucao.md)
 * [PORTAL](manual-do-administrador/portal/README.md)
   * [Acesso ao portal](manual-do-administrador/portal/acesso-ao-portal/README.md)
     * [Primeiro Acesso e Vínculo ao Enterprise](manual-do-administrador/portal/acesso-ao-portal/primeiro-acesso-e-vinculo-ao-enterprise.md)
