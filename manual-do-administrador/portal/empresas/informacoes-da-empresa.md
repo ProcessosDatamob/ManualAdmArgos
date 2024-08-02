@@ -10,7 +10,7 @@ Para visualizar ou alterar os dados da empresa, siga os passos descritos abaixo:
 3. As informações de todos os outros campos podem ser alteradas.
 4. Após finalizar, clique em “**Atualizar**” para salvar as alterações.
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Excluir Empresa**
 

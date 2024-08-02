@@ -25,6 +25,6 @@
 
 <mark style="color:blue;">Nos Relatórios Gerados o campo que era "Telefone" agora também será exibido como “Licença”.</mark>
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)
