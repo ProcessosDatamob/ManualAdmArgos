@@ -49,7 +49,7 @@ Para instalar um aplicativo remotamente siga os passos a seguir:
    * Nome do pacote: deve incluir o identificador único do pacote do aplicativo, geralmente, é um nome de pacote específico que identifica o aplicativo na loja de aplicativos
    * URL para download: é o campo onde deve-se inserir o endereço web (link, HTTPS) que aponta diretamente para o arquivo de instalação do aplicativo
 3. Clique em "Enviar".&#x20;
-4. O Companion fara download do app recebido.
+4. O Aplicativo de Gestão fara download do app recebido.
 5. E solicitará a confirmação do usuário para realizar instalação do app baixado.
 6.  E exibirá uma notificação informando que possui um app disponível para a instalação:
 

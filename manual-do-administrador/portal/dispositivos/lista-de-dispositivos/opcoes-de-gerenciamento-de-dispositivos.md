@@ -64,7 +64,7 @@ Esta operação envia um comando para reiniciar o dispositivo. Escolha a opção
 
 ### **Gerar nova senha do Bloqueio de Tela**
 
-<mark style="color:blue;">Esta opção permite ao administrador configurar a senha do bloqueio de tela do Block SIM para permitir a alteração remota da senha. Na Lista de Dispositivos, clique na opção “Gerar Nova Senha do Bloqueio de Tela", preencha e confirme a nova senha do Bloqueio de Tela, utilizando letras, números e símbolos. Confirme a alteração da senha, e ao confirmar, o comando será enviado via push ao Companion para aplicação no dispositivo.</mark>
+<mark style="color:blue;">Esta opção permite ao administrador configurar a senha do bloqueio de tela do Block SIM para permitir a alteração remota da senha. Na Lista de Dispositivos, clique na opção “Gerar Nova Senha do Bloqueio de Tela", preencha e confirme a nova senha do Bloqueio de Tela, utilizando letras, números e símbolos. Confirme a alteração da senha, e ao confirmar, o comando será enviado via push ao</mark> Aplicativo de Gestão <mark style="color:blue;">para aplicação no dispositivo.</mark>
 
 ### **Remover Bloqueio de Tela**
 
@@ -101,7 +101,7 @@ Ao selecionar a opção "Não pedir credenciais de usuário na inicialização d
 
 Esta opção permite que o administrador envie um comando para remover o bloqueio de chip (SIM) de um dispositivo, liberando o acesso do usuário ao dispositivo.&#x20;
 
-Na tela "Lista de Dispositivos", selecione a política “Android - Block SIM” e a opção "Remover Bloqueio de Chip", o sistema exibirá uma mensagem de confirmação para o envio da remoção do bloqueio de chip, permitindo confirmar ou cancelar. Após enviar o comando de remoção, o dispositivo receberá um push com o comando, o aplicativo Companion capturará o comando e enviará para o Block SIM, completando a remoção do bloqueio.
+Na tela "Lista de Dispositivos", selecione a política “Android - Block SIM” e a opção "Remover Bloqueio de Chip", o sistema exibirá uma mensagem de confirmação para o envio da remoção do bloqueio de chip, permitindo confirmar ou cancelar. Após enviar o comando de remoção, o dispositivo receberá um push com o comando, o Aplicativo de Gestão capturará o comando e enviará para o Block SIM, completando a remoção do bloqueio.
 
 #### Reinicio de Bloqueio de CHIP
 

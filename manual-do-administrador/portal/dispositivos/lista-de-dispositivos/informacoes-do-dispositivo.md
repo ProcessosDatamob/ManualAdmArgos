@@ -1,4 +1,4 @@
-# Informações do dispositivo
+# Informações do Dispositivo
 
 Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível ter acesso as informações do dispositivo, clicando no botão de **Mais informações**:
 
@@ -40,7 +40,7 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 * **Status Aplicado -** status do registro do dispositivo, se o dispositivo está totalmente registrado, o status será "Ativo";
 * **Data de Registro -** data de registro dos dispositivos;
 * **Modo de gerenciamento -** exibe o modo de gerenciamento utilizado;
-* **Versão do app -** versão do companion instalado no dispositivo;
+* **Versão do app -** versão do Aplicativo de Gestão instalado no dispositivo;
 * **Nome da Política no Portal** **-** nome da política atribuída ao dispositivo;
 * **Nome da Política no Dispositivo -** nome da política atribuída no dispositivo;
 * **Versão da política Aplicada -** versão da política;
