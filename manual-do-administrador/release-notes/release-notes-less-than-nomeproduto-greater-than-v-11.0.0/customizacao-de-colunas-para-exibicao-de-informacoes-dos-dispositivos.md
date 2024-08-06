@@ -12,9 +12,9 @@ layout:
     visible: true
 ---
 
-# Customização de colunas para Exibição de Informações
+# Customização de colunas para Exibição de Informações dos Dispositivos
 
-Agora no menu dos dispositivos, é possível personalizar quais colunas com informações do usuário e aparelho serão exibidas na tela, ou extraídas no relatório conforme suas necessidades.
+Agora no menu dos dispositivos, é possível personalizar quais colunas com informações do usuário e aparelho serão exibidas na tela, e também exportadas ao extrair um relatório.
 
 Mais informações na seção [Lista de dispositivos](../../portal/dispositivos/lista-de-dispositivos/).
 

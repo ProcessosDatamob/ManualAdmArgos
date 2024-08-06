@@ -12,9 +12,9 @@ layout:
     visible: true
 ---
 
-# Adicionada Função para Alterar Papel de Parede
+# Adicionada Função para Alterar Papel de Parede na Tela do Dispositivo
 
-Nas configurações de uma política, adicionamos uma nova função que permite definir um papel de parede no aparelho, mesmo quando ele se encontra fora do quiosque.
+Nas configurações da política, adicionamos uma nova função que permite definir o papel de parede para a tela do aparelho, antes essa funcionalidade estava presente apenas em dispositivos com o modo de quiosque.
 
 Mais informações na seção [Tela](../../portal/configuracoes/editar-politica/configuracoes-gerais/tela.md).
 
