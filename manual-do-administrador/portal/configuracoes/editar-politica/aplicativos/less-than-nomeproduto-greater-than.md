@@ -1,10 +1,10 @@
-# Aplicativo de Gestão
+# \<NomeProduto>
 
-#### Permissões Opcionais do Aplicativo de Gestão
+#### Permissões Opcionais do \<NomeProduto>
 
-Para o Aplicativo de Gestão, foi criada dentro das Configurações Gerenciadas as Permissões Opcionais, para possibilitar ativar o Aplicativo de Gestão em dispositivos que não possuem as permissões solicitadas na ativação.
+Para o **\<NomeProduto>**, foi criada dentro das Configurações Gerenciadas as Permissões Opcionais, para possibilitar ativar o **\<NomeProduto>** em dispositivos que não possuem as permissões solicitadas na ativação.
 
-Sendo assim, para acessar as “Permissões Opcionais",  clique nos três pontinhos "...", localizados no final da linha e clique na opção "**Configurações Gerenciadas**" do aplicativo Aplicativo de Gestão.
+Sendo assim, para acessar as “Permissões Opcionais",  clique nos três pontinhos "...", localizados no final da linha e clique na opção "**Configurações Gerenciadas**" do **\<NomeProduto>**.
 
 <figure><img src="../../../../../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
 

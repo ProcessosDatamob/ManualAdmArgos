@@ -1,6 +1,6 @@
-# Mais Informações no Aplicativo de Gestão
+# Mais Informações no \<NomeProduto>
 
-No Aplicativo de Gestão" foi incluída uma nova opção “Sobre“ que dá acesso a uma tela contendo as seguintes informações:&#x20;
+No **\<NomeProduto>** foi incluída uma nova opção “Sobre“ que dá acesso a uma tela contendo as seguintes informações:&#x20;
 
 * Fabricante
 * Modelo

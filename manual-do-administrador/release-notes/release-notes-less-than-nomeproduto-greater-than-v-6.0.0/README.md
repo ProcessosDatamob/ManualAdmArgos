@@ -19,9 +19,9 @@
 15. [Nova Coluna com Informação do "Nome do Pacote" ](nova-coluna-com-informacao-do-nome-do-pacote.md)
 16. [Configuração do Tamanho de Fontes e Ícones ](configuracao-do-tamanho-de-fontes-e-icones.md)
 17. [Inclusão Manual de Aplicativos de Sistema ](inclusao-manual-de-aplicativos-de-sistema.md)
-18. [Mais Informações no Aplicativo de Gestão ](mais-informacoes-no-app-companion.md)
+18. [Mais Informações no \<NomeProduto> ](mais-informacoes-no-less-than-nomeproduto-greater-than.md)
 19. [Solicitação de Duplo Fator de Autenticação (MFA)](solicitacao-de-duplo-fator-de-autenticacao-mfa-estara-oculto-nesta-versao.md) _(Estará oculto nesta versão)_&#x20;
-20. [Informação da Versão do Aplicativo de Gestão ](informacao-da-versao-do-companion.md)
+20. [Informação da Versão do \<NomeProduto> ](informacao-da-versao-do-less-than-nomeproduto-greater-than.md)
 21. [Expiração de Sessão do Usuário do Portal (MFA) ](expiracao-de-sessao-do-usuario-do-portal-mfa.md)
 22. [Novo Filtro e Coluna de "Modo de Gerenciamento" ](novo-filtro-e-coluna-de-modo-de-gerenciamento.md)
 23. [Alteração do Bloqueio de Contas por Domínio ](alteracao-do-bloqueio-de-contas-por-dominio.md)
