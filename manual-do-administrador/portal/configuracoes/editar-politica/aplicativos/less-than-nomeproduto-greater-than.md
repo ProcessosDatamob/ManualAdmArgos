@@ -12,7 +12,7 @@ Ao expandir as "Permissões Opcionais" serão exibidas várias opções e será 
 
 <mark style="color:red;">NOVA IMAGEM</mark>
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 As "Permissões Opcionais" incluem os seguintes ajustes:
 

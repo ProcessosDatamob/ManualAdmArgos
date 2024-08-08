@@ -4,4 +4,4 @@
 
 <mark style="color:red;">Mais informações na seção</mark> [<mark style="color:red;">Segurança</mark>](../../portal/configuracoes/editar-politica/configuracoes-gerais/seguranca.md)<mark style="color:red;">.</mark>
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>

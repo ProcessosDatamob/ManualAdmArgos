@@ -16,6 +16,57 @@ layout:
 
 O Mob Settings é um aplicativo projetado para facilitar a administração de configurações essenciais de dispositivos móveis sem a necessidade de acessar diretamente o menu de configurações do dispositivo. Ele permite que os administradores gerenciem configurações de Bluetooth, Tela e Wi-Fi de maneira centralizada e eficiente. A seguir, detalharemos como cada uma dessas funcionalidades pode ser configurada e utilizada dentro do Mob Settings.
 
+### **Processo de Inclusão do Mob Settings na Lista de Aplicativos Gerenciados**&#x20;
+
+O processo de inclusão do Mob Settings é simples e transparente para o usuário final. Desta forma, será possível que o usuário final tenha acesso as configurações essenciais do seu dispositivo sem precisar acessar diretamente o menu de configurações.
+
+Para realizar a inclusão do aplicativo na lista de Aplicativos Gerenciados da empresa, acesse o menu "**Gerenciamento de Aplicativo**s" e a opção "**Google Play Gerenciada"**. Na tela da Google Play Gerenciada realize os seguintes passos:
+
+1. Utilize o campo de pesquisa para buscar "**Mob Settings**".
+2. Selecione o aplicativo "**Mob Settings**".
+
+<figure><img src="../../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+3. Abrirá a tela com mais informações do aplicativo. Clique no botão "**Selecionar**", conforme em destaque na próxima imagem.
+
+<figure><img src="../../../../../.gitbook/assets/image (2).png" alt="" width="546"><figcaption></figcaption></figure>
+
+4. Clique no botão confirmar para efetivar a inclusão.
+
+<figure><img src="../../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+5. O aplicativo **Mob Settings** aparecerá na lista de "**Aplicativos Gerenciados**", conforme pode ser visualizado na tela a seguir.
+
+<figure><img src="../../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+5. Acesse a tela "**Gerenciar Políticas**" no menu "**Configurações**".
+6. Clique no botão "**Nova Política**", para criar uma política para incluir o **Mob Settings**.
+7. Ou edite uma política existente caso já tenha uma política criada. Para isso acesse os "..." no final da linha da política e escolha "**Editar Política**".
+
+![](<../../../../../.gitbook/assets/4 (4).png>)
+
+9. Na tela "**Editar Política**" selecione a guia "**Aplicativos**".
+10. Clique no botão "**Adicionar Aplicativos**''.
+
+<figure><img src="../../../../../.gitbook/assets/image (42).png" alt="" width="563"><figcaption></figcaption></figure>
+
+11. Marque o checkbox ao final da linha onde está o aplicativo **Mob Settings.**
+12. Clique no botão "**Adicionar selecionados**".
+
+<figure><img src="../../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+
+Após a inclusão do aplicativo na política, as configurações de bloqueios podem ser definidas. A próxima subseção mostra como realizar as configurações do **Mob Settings**.
+
+### **Configurações Gerenciadas do Security Browser**
+
+1. Na tela Editar Políticas clique na guia "**Aplicativos**".
+2. Escolha o "**Tipo de instalação**" do **Mob Settings** como "**Instalação Forçada**" ou "**Pré-instalado**".
+3. Clique em "**Configurações Gerenciadas**" para abrir a tela de configurações gerenciadas do Security Browser.
+
+<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+Ao clicar em Configurações Gerenciadas a seguinte tela será exibida:
+
 ### **Configurações de Bluetooth**
 
 O Mob Settings permite que os administradores configurem e gerenciem o Bluetooth dos dispositivos de forma simplificada. Isso inclui ativar ou desativar o Bluetooth, tornar o dispositivo visível para outros dispositivos, e emparelhar com dispositivos Bluetooth disponíveis.
