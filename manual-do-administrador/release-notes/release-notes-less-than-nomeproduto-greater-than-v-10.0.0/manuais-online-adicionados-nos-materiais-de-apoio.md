@@ -20,6 +20,6 @@ Mais informações na seção [Documentos e Materiais de Apoio](../../portal/aju
 
 <mark style="color:blue;">NOVA IMAGEM</mark>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)

@@ -4,4 +4,4 @@
 
 Mais informações na seção [Lista de dispositivos](../../portal/dispositivos/lista-de-dispositivos/).
 
-<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
