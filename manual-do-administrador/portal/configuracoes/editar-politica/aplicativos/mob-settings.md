@@ -29,7 +29,7 @@ Para realizar a inclusão do aplicativo na lista de Aplicativos Gerenciados da e
 
 3. Abrirá a tela com mais informações do aplicativo. Clique no botão "**Selecionar**", conforme em destaque na próxima imagem.
 
-<figure><img src="../../../../../.gitbook/assets/image (2) (1).png" alt="" width="546"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="546"><figcaption></figcaption></figure>
 
 4. Clique no botão confirmar para efetivar a inclusão.
 
@@ -63,11 +63,11 @@ Após a inclusão do aplicativo na política, as configurações do app podem se
 2. Escolha o "**Tipo de instalação**" do **Mob Settings** como "**Instalação Forçada**" ou "**Pré-instalado**".
 3. Clique em "**Configurações Gerenciadas**" para abrir a tela de configurações gerenciadas do **Mob Settings.**
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ao clicar em Configurações Gerenciadas a seguinte tela será exibida:
 
-<figure><img src="../../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 As Configurações Gerenciadas para o **Mob Settings** são:&#x20;
 
@@ -75,7 +75,7 @@ As Configurações Gerenciadas para o **Mob Settings** são:&#x20;
 
 Ao ativar a chave, é bloqueado o esquecimento de senha de rede, ou seja, não permite que o usuário realize o esquecimento da senha.
 
-<figure><img src="../../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Configurações de Bluetooth**
 
@@ -83,7 +83,7 @@ O Mob Settings permite que os administradores configurem e gerenciem o Bluetooth
 
 <mark style="color:blue;">Quando o aplicativo Mob Settings é adicionado a uma política, a configuração gerenciada de Bluetooth está ativada por padrão , permitindo que os administradores ativem ou desativem essa funcionalidade conforme necessário.</mark>
 
-<figure><img src="../../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Após instalar o aplicativo Mob Settings no dispositivo, verifique se a configuração de Bluetooth está ativa.
 2. Abra o Mob Settings e clique no botão de configurações de Bluetooth para acessar a tela específica.

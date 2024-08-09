@@ -13,7 +13,7 @@ Para acessar o Portal de Administração, siga os passos descritos nesta seção
 
 <figure><img src="../../../.gitbook/assets/image (72).png" alt="" width="229"><figcaption></figcaption></figure>
 
-> Em seu primeiro acesso, após clicar em "**Iniciar Sessão**”, o usuário deverá confirmar os dados da empresa. A tela de confirmação dos dados da empresa aparecerá somente no primeiro acesso e é mostrada na figura a seguir.
+Em seu primeiro acesso, após clicar em "**Iniciar Sessão**”, o usuário deverá confirmar os dados da empresa. A tela de confirmação dos dados da empresa aparecerá somente no primeiro acesso e é mostrada na figura a seguir.
 
 <figure><img src="../../../.gitbook/assets/image (73).png" alt="" width="266"><figcaption></figcaption></figure>
 
