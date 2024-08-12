@@ -1,6 +1,6 @@
 # Comando para sincronizar dados do aparelho imediatamente
 
-<mark style="color:blue;">Adicionamos um novo comando para que seja possível iniciar uma sincronia dos dados do dispositivos com o portal de gestão. Agora, quando o administrador enviar o comando “start\_services”, o dispositivo irá reiniciar os serviços de comunicação com a ferramenta e iniciar o processo de sincronização dos dados coletados no aparelho.</mark>
+Adicionamos um novo comando para iniciar a sincronia dos dados do dispositivo com o portal do \<NomeProduto>. Agora, quando o administrador enviar o comando “start\_services”, o dispositivo irá reiniciar os serviços de comunicação com a ferramenta e iniciar o processo de sincronização dos dados coletados no aparelho.
 
 <mark style="color:blue;">Mais informações na seção</mark> [Mensagens e Comandos](../../portal/mensagens-e-comandos/).
 

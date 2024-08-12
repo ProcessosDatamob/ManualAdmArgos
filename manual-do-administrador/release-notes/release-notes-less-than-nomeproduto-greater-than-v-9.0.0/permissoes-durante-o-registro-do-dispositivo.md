@@ -1,6 +1,6 @@
 # Permissões durante o registro do dispositivo
 
-<mark style="color:blue;">Para evitar casos em que a permissão não está disponível no dispositivo, ou até mesmo otimizar o processo de ativação dos aparelhos, agora no portal é possível definir quais permissões são obrigatórias ou opcionais durante a ativação de um dispositivo no MDM.</mark>
+Para evitar casos em que uma permissão não está disponível no dispositivo, e também como meio para otimizar o processo de ativação, agora é possível definir nas configurações gerenciadas do \<NomeProduto> quais permissões são obrigatórias ou opcionais durante a ativação de um dispositivo.
 
 Mais informações na seção [Aplicativo de Gestão](../../portal/configuracoes/editar-politica/aplicativos/less-than-nomeproduto-greater-than.md).
 

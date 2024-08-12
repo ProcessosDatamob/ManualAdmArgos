@@ -2,7 +2,7 @@
 
 ### Novidades da Versão
 
-1. [Instalação Remota de Aplicativos Corporativos](instalacao-de-aplicativos-corporativos.md)
+1. [Instalação de Aplicativos Corporativos](instalacao-de-aplicativos-corporativos.md)
 2. [Permissões durante o registro do dispositivo ](permissoes-durante-o-registro-do-dispositivo.md)
 3. [Dispositivos com permissões fora de conformidade](dispositivos-com-permissoes-fora-de-conformidade.md)
 4. [Menu de permissões do Android ocultas para o \<Nome Produto> ](menu-de-permissoes-do-android-ocultas-para-o-less-than-nomeproduto-greater-than.md)
