@@ -20,7 +20,7 @@ O **\<NomeProduto>** é uma solução de Gerenciamento de Mobilidade Corporativa
 * **Aplicativo \<NomeProduto>** - aplicativo Android que coleta todas as informações de uso e consumos do dispositivo móvel. Este aplicativo é instalado por padrão estando presente em todos os dispositivos que registrados no sistema.
 * **Aplicativo Security Browser** - Aplicativo Android de navegação web responsável por realizar os bloqueios de sites, bem como monitorar a navegação do usuário do dispositivo.&#x20;
 * **Aplicativo Block SIM -** é responsável pelo bloqueio do chip SIM, impedindo a sua utilização em outro dispositivo.
-* Aplicativo Mob Settings - <mark style="color:blue;">é um aplicativo projetado para facilitar a administração de configurações essenciais de dispositivos móveis, como Bluetooth, Tela e Wi-fi, sem a necessidade de acessar diretamente o menu de configurações do dispositivo.</mark>&#x20;
+* <mark style="color:blue;">**Aplicativo Mob Settings -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é um aplicativo projetado para facilitar a administração de configurações essenciais de dispositivos móveis, como Bluetooth, Tela e Wi-fi, sem a necessidade de acessar diretamente o menu de configurações do dispositivo.</mark>&#x20;
 
 {% hint style="warning" %}
 **IMPORTANTE**
