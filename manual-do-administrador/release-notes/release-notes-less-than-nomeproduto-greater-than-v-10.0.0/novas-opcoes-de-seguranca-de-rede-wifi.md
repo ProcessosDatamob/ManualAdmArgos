@@ -14,9 +14,23 @@ layout:
 
 # Novas Opções de Segurança de Rede WiFi
 
-<mark style="color:blue;">Adicionamos dois tipos novos de segurança de rede, com foco em redes corporativas, sendo elas:</mark>\ <mark style="color:blue;">- WEP-802.1X</mark> \ <mark style="color:blue;">- WPA3 ENTERPRISE</mark>\ <mark style="color:blue;">Também introduzimos novos campos para indicar o usuário e senha do usuário, se a rede é oculta, e o modo de captura do endereço MAC, proporcionando maior flexibilidade e segurança na conexão a redes WiFi diversas.</mark>
+Adicionamos dois novos tipos de segurança de rede, focados em redes corporativas:
 
-Mais informações na seção [Gerenciar Redes Wi-Fi](../../portal/configuracoes/gerenciar-redes-wi-fi.md).
+* WEP-802.1X
+* WPA3 ENTERPRISE
+
+**Campos Adicionais para Redes Wi-Fi:**&#x20;
+
+Com esses novos tipos de segurança, agora é possível configurar campos adicionais, incluindo:
+
+* Usuário e senha
+* Indicação de rede oculta
+* Modo de captura do endereço MAC
+
+Essas melhorias proporcionam maior flexibilidade e segurança na conexão a diversas redes Wi-Fi.
+
+\
+Para mais informações, acesse a seção "[Gerenciar Redes Wi-Fi](https://datamob.gitbook.io/manual-administrador-datamob-enterprise/manual-do-administrador/portal/configuracoes/gerenciar-redes-wi-fi)" no portal Datamob Enterprise.
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
