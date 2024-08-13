@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Cadastrar novo usuário administrador
 
 Essa tela do sistema tem como objetivo possibilitar a criação de um usuário do tipo Administrador de Empresa ou Administrador de Grupo.

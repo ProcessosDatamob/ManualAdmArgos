@@ -1,4 +1,18 @@
-# CONFIGURAÇÕES
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# Configurações
 
 O menu de configurações permite o acesso às configurações de perfis de consumo e de políticas de gestão de dispositivos.
 

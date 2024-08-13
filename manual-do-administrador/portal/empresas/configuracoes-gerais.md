@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Configurações Gerais
 
 Esta tela do sistema tem como objetivo possibilitar ao usuário configurar informações importantes da empresa.

@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Google Play Gerenciada
 
 A Google Play Gerenciada permite que sejam selecionados os aplicativos que estarão disponíveis para download nos dispositivos da empresa.

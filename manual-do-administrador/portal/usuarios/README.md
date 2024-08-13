@@ -1,4 +1,18 @@
-# USUÁRIOS
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# Usuários
 
 Todos os usuários do sistema podem ser classificados em três tipos: **Administrador de Empresa, Administrador de Grupo e Usuário de Dispositivo.** Para saber como gerenciar cada um deles basta acessar as sessões “**Gerenciar usuários administradores**”, “**Cadastrar novo usuário administrador**” e “**Lista de dispositivos**” neste manual.
 

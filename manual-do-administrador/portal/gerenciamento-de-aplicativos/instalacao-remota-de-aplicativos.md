@@ -39,7 +39,7 @@ O sistema exibirá uma lista com os aplicativos instalados nos dispositivos da e
 
 <figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-#### Instalar Aplicativo
+## Instalar Aplicativo
 
 Para instalar um aplicativo remotamente siga os passos a seguir:
 

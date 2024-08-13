@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Licenças Contratadas
 
 Essa tela do sistema tem como objetivo, possibilitar ao usuário visualizar todas as licenças contratadas da empresa. Para ter acesso a essa tela o usuário precisa ser Administrador do Portal.

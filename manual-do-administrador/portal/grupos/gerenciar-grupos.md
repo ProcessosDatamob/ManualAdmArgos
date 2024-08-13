@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Gerenciar Grupos
 
 Essa tela do sistema tem como objetivo possibilitar ao usuário administrar os grupos de usuários de dispositivos.
