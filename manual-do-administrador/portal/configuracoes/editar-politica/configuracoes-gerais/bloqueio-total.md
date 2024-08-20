@@ -18,6 +18,14 @@ Para realizar o bloqueio de dispositivos fora do horário de trabalho, siga os p
 
 <mark style="color:red;">ADICIONAR IMAGEM</mark>
 
+<mark style="color:red;">Quando o dispositivo estiver fora horário de trabalho configurado, o Claro Monitor 2.0 ocultará todos aplicativos do dispositivo, exceto o "</mark>_<mark style="color:red;">**Telefone**</mark>_<mark style="color:red;">", o “</mark>_<mark style="color:red;">**\<NomeProduto>**</mark>_<mark style="color:red;">" e a</mark> <mark style="color:red;"></mark>_<mark style="color:red;">“</mark><mark style="color:red;">**Play Store**</mark><mark style="color:red;">"</mark>_<mark style="color:red;">:</mark>
+
+<mark style="color:red;">Porém manterá os apps instalados no dispositivo e exibirá uma notificação fixa no dispositivo com a seguinte mensagem: “Acesso aos apps bloqueado pelo administrador“</mark>
+
+<mark style="color:red;">Sendo assim, quando o dispositivo estiver fora do horário de trabalho configurado, não será permitido acessar os aplicativos ocultados, porém, permitirá acessar as configurações do dispositivo e será permitido desligar ou reiniciar o dispositivo.</mark>
+
+<mark style="color:red;">Quando o dispositivo estiver dentro do horário de trabalho configurado, todos os aplicativos voltam a ser exibidos, sem a necessidade de instalar novamente.</mark>
+
 {% hint style="info" %}
 **OBSERVAÇÃO**
 
