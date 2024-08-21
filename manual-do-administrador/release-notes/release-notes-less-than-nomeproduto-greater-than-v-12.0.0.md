@@ -1,3 +1,19 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Release Notes \<NomeProduto> V 12.0.0
 
-<mark style="color:red;">Nesta versão, não houve alterações visíveis para os clientes. As atualizações realizadas foram correções internas e melhorias de desempenho, focadas em otimizar o funcionamento do sistema e corrigir pequenos erros identificados.</mark>
+Nesta versão, foram realizadas correções dos bugs listados na próxima seção:
+
+[Ajustes e Correções da Versão - V 12.0.0](ajustes-e-correcoes-da-versao.md)
