@@ -25,7 +25,7 @@ Isso permite que os dispositivos possam ser temporariamente desbloqueados para a
 Mais informações nas seções[ Opções de gerenciamento de dispositivos](https://datamob.gitbook.io/manual-administrador-datamob-enterprise/manual-do-administrador/portal/dispositivos/lista-de-dispositivos/opcoes-de-gerenciamento-de-dispositivos) e[ Modo Quiosque](https://datamob.gitbook.io/manual-administrador-datamob-enterprise/manual-do-administrador/portal/configuracoes/editar-politica/modo-quiosque).\
 
 
-<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2024-06-03 180813 (1).png" alt=""><figcaption></figcaption></figure>
 

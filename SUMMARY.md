@@ -12,7 +12,7 @@
   * [Dashboard](manual-do-administrador/portal/dashboard.md)
   * [Empresas](manual-do-administrador/portal/empresas/README.md)
     * [Informações da Empresa](manual-do-administrador/portal/empresas/informacoes-da-empresa.md)
-    * [Consumo da empresa](manual-do-administrador/portal/empresas/consumo-da-empresa.md)
+    * [Consumos](manual-do-administrador/portal/empresas/consumo-da-empresa.md)
     * [Licenças Contratadas](manual-do-administrador/portal/empresas/licencas-contratadas.md)
     * [Configurações Gerais](manual-do-administrador/portal/empresas/configuracoes-gerais.md)
     * [Auditoria](manual-do-administrador/portal/empresas/auditoria.md)

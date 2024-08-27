@@ -79,6 +79,6 @@ A tela de "Detalhes do Contato" é apresentada na sequência.
 
 Após confirmar os dados, será exibida a tela do **\<NomeProduto>** com a mensagem _**"Parabéns! Sua empresa foi registrada no Android Enterprise com sucesso."**_
 
-<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 Clique em "Ok" e poderá iniciar as configurações necessárias para gerenciar os dispositivos da sua empresa.

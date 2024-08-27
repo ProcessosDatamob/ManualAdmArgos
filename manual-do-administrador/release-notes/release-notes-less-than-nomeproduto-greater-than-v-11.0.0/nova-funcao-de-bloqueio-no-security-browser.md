@@ -18,6 +18,6 @@ Agora os administradores de um ambiente podem redirecionar o usuário para uma p
 
 Mais informações na seção [Bloqueio de Sites Security Browser](../../portal/configuracoes/editar-politica/aplicativos/bloqueio-de-sites-security-browser.md).
 
-<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)

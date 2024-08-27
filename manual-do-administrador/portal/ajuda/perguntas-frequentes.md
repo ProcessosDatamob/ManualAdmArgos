@@ -14,4 +14,4 @@ Para visualizar as perguntas frequentes, clique no menu “**Ajuda**”, selecio
 
 Ao rolar até o final da página, temos acesso aos Manuais clicando em "Saiba mais":
 
-<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

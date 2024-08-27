@@ -18,7 +18,9 @@ Esta tela do sistema tem como objetivo possibilitar ao usuário a visualização
 
 A tela de Dashboard pode ser considerada a “**Tela Inicial**” do sistema, pois é exibida assim que acessa o Portal, mas também pode ser acessada clicando no menu “**Dashboard**”. Em um primeiro acesso, os indicadores de usuários, dispositivos e consumos não terão ainda informações, por isso estarão zerados.
 
-![](<../../.gitbook/assets/0 (11).png>)
+<mark style="color:blue;background-color:orange;">NOVA IMAGEM</mark>
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Ao acessar a tela, todas as informações serão exibidas separadas por seções. Cada seção corresponde a um dado diferente, coletado do dispositivo e todas as informações são exibidas de acordo com as opções selecionadas no filtro (Empresa, Grupo ou Usuário).
 
@@ -53,17 +55,17 @@ A barra de status do Dashboard mostra a situação atual de todos os usuários e
 
 ![](<../../.gitbook/assets/8 (1).png>)
 
-### **Total de Usuários**
+#### **Total de Usuários**
 
 Este indicador exibe o número total de usuários de dispositivos que utilizam o aplicativo **\<NomeProduto>.**
 
-### **Total de Licenças**
+#### **Total de Licenças**
 
 Este indicador exibe o número total de licenças disponíveis no **\<NomeProduto>**.
 
 ![](../../.gitbook/assets/10.png)
 
-### **Licenças não instaladas no portal**
+#### **Licenças não instaladas no portal**
 
 Este indicador exibe o número total de licenças que não possuem dispositivo registrado no portal. Ou seja, são as licenças disponíveis.
 
@@ -71,7 +73,7 @@ Ao clicar nesse indicador, o sistema exibirá a tela de "**Licenças Contratadas
 
 ![](../../.gitbook/assets/11.png)
 
-### **Dispositivos**
+#### **Dispositivos**
 
 Este indicador exibe o número total de dispositivos que estão ativos no sistema e os dispositivos sem comunicação. Além disso, possibilita ao administrador ter a visibilidade dos dispositivos que estão em Modo Quiosque.
 
@@ -81,7 +83,7 @@ Este indicador exibe o número total de dispositivos que estão ativos no sistem
   Ao clicar em "**Total**” o indicador exibirá a tela “**Lista de Dispositivos**” contendo o relatório com as principais informações dos dispositivos ativos.
 * **Sem Comunicação -** Este indicador exibe o número total de dispositivos que não estão enviando dados aos servidores a um período prolongado. Ao clicar em "**Sem Comunicação**” o sistema exibe a tela de dispositivos sem comunicação.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Esta falta de comunicação pode ocorrer quando o dispositivo se encontrar nas seguintes situações:
 
@@ -97,31 +99,45 @@ Esta falta de comunicação pode ocorrer quando o dispositivo se encontrar nas s
 
 <mark style="color:blue;">Ao clicar no indicador</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Sem comunicação ,**</mark><mark style="color:blue;">o sistema exibirá uma tela contendo o relatório com as informações dos dispositivos que estão sem comunicação.</mark>
 
-### **Consumo de Dados no Ciclo**
+#### **Consumo de Dados no Ciclo**
 
 Este indicador exibe o percentual de consumo de dados móveis dos dispositivos durante o ciclo em relação ao limite total configurado no Perfil de Consumo. Caso não seja configurado um limite no Perfil de Consumo, o gráfico não exibirá o percentual, e o sistema exibirá apenas o valor total de dados em MB utilizados.
 
-### **Consumo de SMS no Ciclo**
+#### **Consumo de SMS no Ciclo**
 
 Este indicador exibe o percentual de consumo de SMS enviados pelos dispositivos durante o ciclo em relação ao limite total configurado no Perfil de Consumo. Caso não seja configurado um limite no Perfil de Consumo, o gráfico não exibirá o percentual, e exibirá apenas o valor total de SMS utilizados.
 
-### **Consumo de Dados por Aplicativo**
+#### <mark style="color:red;">Consumo total de dados</mark>
 
-Este gráfico exibe nome e valor da porcentagem dos 5 aplicativos que mais consumiram dados móveis durante o ciclo. Os dados exibidos, são ordenados em percentual.
+<mark style="color:red;">Este gráfico de "Consumo de Dados Totais" apresenta uma visualização detalhada do uso de dados pelos dispositivos. O gráfico exibe a porcentagem de consumo para cada tipo de dado em relação ao total consumido, oferecendo uma visão clara do uso de dados durante um ciclo específico. A legenda do gráfico fornece o total de dados consumidos e a divisão específica entre os tipos de dados, facilitando a análise do consumo de dados móveis e WiFi.</mark>
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+#### **Consumo de Dados por Aplicativo**
+
+<mark style="color:red;">Este gráfico exibe nome e valor da porcentagem dos 5 aplicativos que mais consumiram dados móveis e os 5 aplicativos que mais consumiram dados em WiFi durante o ciclo, basta clicar na opção de visualização desejada (Dados móveis ou WiFi). Os dados exibidos, são ordenados em percentual.</mark>
 
 O valor percentual de cada um dos 5 aplicativos é calculado em relação à soma total de consumo de todos os aplicativos durante o ciclo, os dados são atualizados sempre que acessar a tela.
 
-Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as informações de todos os aplicativos. Para saber como utilizar essa tela, leia a seção “Aplicativos” deste manual.
+Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as informações de todos os aplicativos. Para saber como utilizar essa tela, leia a seção [Aplicativos](configuracoes/editar-politica/aplicativos/) deste manual.
 
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-06-24 153854.png" alt=""><figcaption></figcaption></figure>
+Isso oferece aos usuários uma visão mais detalhada e específica do consumo de dados, permitindo uma análise mais precisa e segmentada, tanto em redes móveis quanto em WiFi.
+
+<mark style="color:blue;background-color:orange;">NOVA IMAGEM</mark>
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 ### **Consumo de Dados por Usuário**
 
-Este gráfico exibe os 5 usuários que mais consumiram dados móveis durante o ciclo. Os dados exibidos são ordenados em percentual.
+<mark style="color:red;">Este gráfico exibe os 5 usuários que mais consumiram dados móveis e os que mais consumiram dados em WiFi durante o ciclo, basta clicar na opção de visualização desejada (Dados móveis ou WiFi). Os dados exibidos, são ordenados em percentual.</mark>
 
 O valor percentual de cada um dos 5 usuários é calculado em relação à soma total de consumo de todos os usuários durante o ciclo.
 
-Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as informações de consumos da empresa. Para saber como utilizar essa tela, leia a seção “Consumo da Empresa” deste manual.
+Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as informações de consumos da empresa. Para saber como utilizar essa tela, leia a seção [Consumos](empresas/consumo-da-empresa.md) deste manual.
+
+<mark style="color:blue;background-color:orange;">NOVA IMAGEM</mark>
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### **Tempo de Uso por Aplicativo**
 
@@ -163,13 +179,13 @@ Para realizar a análise individual dos usuários de dispositivos, clique em "**
 
 O mapa exibe a última localização dos dispositivos. Para que a localização seja exibida e atualizada, o dispositivo deve estar conectado à internet, deve haver sinal de GPS e a configuração de "**Modo de Localização**" deve estar "**Ativa**" em Localização na política aplicada ao dispositivo.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="background-color:orange;">**NOVA IMAGEM**</mark>
 
 <mark style="color:blue;">Caso o sistema não carregar as localizações no mapa, clique no botão "Exibir localizações”,  então elas serão exibidas conforme tela abaixo:</mark>
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">A regra de agrupamento dos dispositivos é a seguinte:</mark>
 

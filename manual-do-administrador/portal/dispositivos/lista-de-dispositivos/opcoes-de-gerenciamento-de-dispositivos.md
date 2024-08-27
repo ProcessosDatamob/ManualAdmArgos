@@ -183,11 +183,11 @@ Ao abrir a tela acima, a primeira aba "<mark style="color:red;">**Informações*
 
 ### **Aplicativos**
 
-Na aba "**Aplicativos**", é possível acessar a lista de todos os aplicativos instalados no dispositivo, contendo as seguintes informações: ícone, nome, consumo e tempo de uso. Os dados de consumo e tempo de uso são registrados dentro do ciclo. É possível pesquisar um aplicativo específico utilizando o campo de pesquisa, exportar relatórios completos ou da página, além de copiar as informações da lista. <mark style="color:red;">Ao clicar nos três pontinhos é possível visualizar o gráfico de "Histórico de Consumo" do aplicativo durante o ciclo.</mark>
+Na aba "**Aplicativos**", é possível acessar a lista de todos os aplicativos instalados no dispositivo, contendo as seguintes informações: ícone, nome, <mark style="color:red;">consumo de dados móveis, consumo de dados em WiFi e tempo de uso</mark>. Os dados de consumo e tempo de uso são registrados dentro do ciclo. É possível pesquisar um aplicativo específico utilizando o campo de pesquisa, exportar relatórios completos ou da página, além de copiar as informações da lista. <mark style="color:red;">Ao clicar nos três pontinhos é possível visualizar o gráfico de "Histórico de Consumo" do aplicativo durante o ciclo.</mark>
 
 <mark style="color:red;">NOVA IMAGEM</mark>
 
-<figure><img src="../../../../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ### **Bateria**
 

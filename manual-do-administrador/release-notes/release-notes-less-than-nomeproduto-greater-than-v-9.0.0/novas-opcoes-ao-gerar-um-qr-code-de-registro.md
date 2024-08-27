@@ -8,6 +8,6 @@ Agora, ao gerar um token de registro, o administrador poderá incluir as seguint
 
 Mais informações na seção [Token de Registro](../../portal/configuracoes/gerenciar-politicas/token-de-registro.md).
 
-<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)
