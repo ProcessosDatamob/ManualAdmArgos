@@ -109,7 +109,9 @@ Este indicador exibe o percentual de consumo de SMS enviados pelos dispositivos 
 
 #### <mark style="color:red;">Consumo total de dados</mark>
 
-<mark style="color:red;">Este gráfico de "Consumo de Dados Totais" apresenta uma visualização detalhada do uso de dados pelos dispositivos. O gráfico exibe a porcentagem de consumo para cada tipo de dado em relação ao total consumido, oferecendo uma visão clara do uso de dados durante um ciclo específico. A legenda do gráfico fornece o total de dados consumidos e a divisão específica entre os tipos de dados, facilitando a análise do consumo de dados móveis e WiFi.</mark>
+<mark style="color:red;">Este gráfico de "Consumo de Dados Totais" apresenta uma visualização detalhada do uso de dados pelos dispositivos. O gráfico exibe a porcentagem de consumo para cada tipo de dado em relação ao total consumido, oferecendo uma visão clara do uso de dados durante um ciclo específico. Ao passar o mouse sobre o gráfico é exibida a legenda que informa o total de dados consumidos e a divisão específica entre os tipos de dados, facilitando a análise do consumo de dados móveis e WiFi.</mark>
+
+<mark style="color:red;">Quando em modo Roaming, o gráfico também inclui dados móveis em roaming, permitindo visualizar a distribuição entre dados móveis locais, dados em roaming e WiFi.</mark>&#x20;
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 

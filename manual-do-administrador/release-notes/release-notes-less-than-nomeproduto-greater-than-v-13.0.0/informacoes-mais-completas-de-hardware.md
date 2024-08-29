@@ -4,3 +4,4 @@
 
 <mark style="color:red;">Mais informações na seção</mark> [<mark style="color:red;">Informações do Dispositivo</mark>](../../portal/dispositivos/lista-de-dispositivos/informacoes-do-dispositivo.md)<mark style="color:red;">.</mark>
 
+[**Voltar ao menu inicial**](./)

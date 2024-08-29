@@ -6,3 +6,4 @@
 
 <mark style="color:red;">Mais informações na seção</mark> [Opções de gerenciamento de dispositivos](../../portal/dispositivos/lista-de-dispositivos/opcoes-de-gerenciamento-de-dispositivos.md).
 
+[**Voltar ao menu inicial**](./)

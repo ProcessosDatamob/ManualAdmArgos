@@ -1,5 +1,7 @@
 # RELEASE NOTES
 
+[Release Notes V 13.0.0](release-notes-less-than-nomeproduto-greater-than-v-13.0.0/)
+
 [Release Notes V 12.0.0](release-notes-less-than-nomeproduto-greater-than-v-13.0.0/)
 
 [Release Notes V 11.0.0](release-notes-less-than-nomeproduto-greater-than-v-11.0.0/)

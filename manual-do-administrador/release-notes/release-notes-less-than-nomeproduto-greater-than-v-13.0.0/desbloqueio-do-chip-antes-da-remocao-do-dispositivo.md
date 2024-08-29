@@ -5,3 +5,5 @@
 <mark style="color:red;">Mais informações na seção</mark> [Opções de gerenciamento de dispositivos](../../portal/dispositivos/lista-de-dispositivos/opcoes-de-gerenciamento-de-dispositivos.md).
 
 <figure><img src="../../../.gitbook/assets/Tela Remover Dispositivo - WIPE - Caminha NÃO Block SIM (1).png" alt=""><figcaption></figcaption></figure>
+
+[**Voltar ao menu inicial**](./)

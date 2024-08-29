@@ -5,3 +5,5 @@
 <mark style="color:red;">Mais informações na seção</mark> [<mark style="color:red;">Bloqueio Tota</mark>](../../portal/configuracoes/editar-politica/configuracoes-gerais/bloqueio-total.md)<mark style="color:red;">l.</mark>
 
 <figure><img src="../../../.gitbook/assets/image (265).png" alt=""><figcaption></figcaption></figure>
+
+[**Voltar ao menu inicial**](./)

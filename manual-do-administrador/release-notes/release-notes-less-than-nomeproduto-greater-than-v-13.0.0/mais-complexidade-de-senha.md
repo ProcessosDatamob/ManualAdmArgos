@@ -5,3 +5,5 @@
 <mark style="color:red;">Mais informações na seção</mark> [<mark style="color:red;">Gerenciar Usuários Administradores.</mark>](../../portal/usuarios/gerenciar-usuarios-administradores.md)
 
 <figure><img src="../../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
+
+[**Voltar ao menu inicial**](./)

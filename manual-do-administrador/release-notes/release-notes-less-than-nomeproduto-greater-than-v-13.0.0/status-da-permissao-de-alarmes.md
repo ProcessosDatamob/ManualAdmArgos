@@ -5,3 +5,5 @@
 <mark style="color:red;">Mais informações na seção</mark> [Informações do Dispositivo](../../portal/dispositivos/lista-de-dispositivos/informacoes-do-dispositivo.md).
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+[**Voltar ao menu inicial**](./)
