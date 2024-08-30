@@ -90,7 +90,7 @@
     * [Gráfico de Consumo de Usuário em WiFi](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/grafico-de-consumo-de-usuario-em-wifi.md)
     * [Relatório de Consumo de Dados em WiFi](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/relatorio-de-consumo-de-dados-em-wifi.md)
     * [Relatório de Consumo de Aplicativos em WiFi](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/relatorio-de-consumo-de-aplicativos-em-wifi.md)
-    * [Page](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/page.md)
+    * [Ajustes e Correções da Versão - V 13.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/ajustes-e-correcoes-da-versao-v-13.0.0.md)
   * [Release Notes \<NomeProduto> V 12.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-12.0.0/README.md)
     * [Ajustes e Correções da Versão - V 12.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-12.0.0/ajustes-e-correcoes-da-versao-v-12.0.0.md)
   * [Release Notes \<NomeProduto> V 11.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/README.md)
