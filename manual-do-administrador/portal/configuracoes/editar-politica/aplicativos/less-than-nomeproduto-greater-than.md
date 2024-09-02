@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # \<NomeProduto>
 
 #### Permissões Opcionais do \<NomeProduto>
@@ -14,8 +28,6 @@ Ao expandir as "Permissões Opcionais" serão exibidas várias opções e será 
 
 <figure><img src="../../../../../.gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
-
 As "Permissões Opcionais" incluem os seguintes ajustes:
 
 * Estabelecer o Permissão "Acesso aos Dados de Uso" como Opcional: Permite ao usuário optar por não ativar este permissão durante a configuração. Sem esta permissão, a aplicação não capturará dados de uso e tempo de uso dos aplicativos, e essa informação não será exibida no Portal.
@@ -25,7 +37,5 @@ As "Permissões Opcionais" incluem os seguintes ajustes:
 * Estabelecer o Permissão "Instalação de Apps de Fontes Desconhecidas" como Opcional: Permite ao usuário optar por não ativar este permissão durante a configuração. Sem esta permissão, a aplicação não poderá instalar aplicativos remotamente.
 * Estabelecer o Permissão "Sobreposição de Tela" como Opcional: Permite ao usuário optar por não ativar este permissão durante a configuração. Sem esta permissão, a aplicação não exibirá a mensagem de confirmação para instalação de aplicativos remotamente.
 * <mark style="color:red;">Estabelecer o Permissão "Agendar Alarmes" como Opcional: Permite que o usuário escolha ativar essa permissão durante a ativação do aplicativo. Se não ativada, algumas funções como instalação remota, registro de geolocalização e remoção de bloqueio de CHIP não serão executadas. A configuração só se aplica a dispositivos com Android 13 ou superior e não funciona se a permissão "Ignorar Otimização de Bateria" estiver ativada, pois esta ativa automaticamente a permissão de "Agendar Alarmes".</mark>
-
-<mark style="color:red;">Os critérios 2 e 3 se referem ao aplicativo.</mark>
 
 Ao clicar em "Salvar" o sistema enviará as configurações selecionadas para os dispositivos.
