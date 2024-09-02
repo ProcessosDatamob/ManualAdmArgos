@@ -22,7 +22,7 @@ Ao clicar nos três pontinhos "**...**" à direita na listagem dos dispositivos,
 
 <figure><img src="../../../../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
 
-As opções disponíveis variam de acordo com o Modo de Gerenciamento da política na qual o dispositivo estiver vinculado e estão em destaque na imagem a seguir:
+As opções disponíveis variam de acordo com o Modo de Gerenciamento da política na qual o dispositivo estiver vinculado e estão em destaque na imagem a seguir:x'
 
 <mark style="color:red;">REMOVIDA A OPÇÃO Relatório de Não Conformidade</mark>
 
@@ -103,7 +103,7 @@ Esta opção permite que o administrador envie um comando para remover o bloquei
 
 Na tela "Lista de Dispositivos", selecione a política “Android - Block SIM” e a opção "Remover Bloqueio de Chip", o sistema exibirá uma mensagem de confirmação para o envio da remoção do bloqueio de chip, permitindo confirmar ou cancelar. Após enviar o comando de remoção, o dispositivo receberá um push com o comando, o Aplicativo de Gestão capturará o comando e enviará para o Block SIM, completando a remoção do bloqueio.
 
-#### Reinicio de Bloqueio de CHIP
+### Reinicio de Bloqueio de CHIP
 
 A funcionalidade de "Reinício de Bloqueio de CHIP" permite que, após a remoção do bloqueio do CHIP SIM em um dispositivo, o administrador possa bloquear o CHIP novamente.&#x20;
 
@@ -112,9 +112,9 @@ Quando o administrador envia um comando de remoção de bloqueio do CHIP atravé
 Isso possibilita que, após a remoção do bloqueio, o administrador possa trocar o CHIP do dispositivo e aplicar um novo bloqueio, garantindo a flexibilidade de gestão e segurança dos dispositivos gerenciados.
 
 {% hint style="info" %}
-<mark style="color:red;">**OBSERVAÇÃO**</mark>
+<mark style="color:blue;">**OBSERVAÇÃO**</mark>
 
-<mark style="color:red;">Após a remoção do bloqueio, é possível reiniciar um bloqueio sem resetar o dispositivo, antes precisava formatar para bloquear o chip.</mark>&#x20;
+<mark style="color:blue;">Após a remoção do bloqueio, é possível reiniciar um bloqueio sem resetar o dispositivo, sem a necessidade de formatar o dispositivo.</mark>
 {% endhint %}
 
 ### **Remover Dispositivo (WIPE)**
@@ -127,63 +127,75 @@ Esta operação permite excluir um dispositivo, ela limpa os dados e configuraç
 Uma mensagem é exibida na tela para informação e advertência. A operação não pode ser desfeita, portanto, confirme somente quando tiver certeza de que deseja eliminar o dispositivo.
 {% endhint %}
 
-#### <mark style="color:red;">Desbloqueio do Chip no Wipe (Block SIM)</mark>
+### <mark style="color:blue;">Desbloqueio do Chip no Wipe (Block SIM)</mark>
 
-<mark style="color:red;">A nova funcionalidade de "Desbloqueio do Chip no Wipe" garante que o administrador do sistema seja alertado para remover o bloqueio do CHIP SIM antes de remover um dispositivo.</mark>&#x20;
+<mark style="color:blue;">A nova funcionalidade de "</mark><mark style="color:blue;">**Desbloqueio do Chip no Wipe**</mark><mark style="color:blue;">" garante que o administrador do sistema seja alertado para remover o bloqueio do CHIP SIM antes de remover um dispositivo.</mark>&#x20;
 
 <figure><img src="../../../../.gitbook/assets/Tela Remover Dispositivo - WIPE - Block SIM.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">Quando um dispositivo com a política "Android - Block SIM" é configurado para ser removido, o sistema verifica se o bloqueio do CHIP já foi removido. Caso contrário, ele solicita ao administrador que envie um comando de remoção do bloqueio.</mark>&#x20;
+<mark style="color:blue;">Quando um dispositivo com a política "Android - Block SIM" é configurado para ser removido, o sistema verifica se o bloqueio do CHIP já foi removido. Caso contrário, ele solicita ao administrador que envie um comando de remoção do bloqueio.</mark>&#x20;
 
-<mark style="color:red;">Se o comando de remoção for enviado, o sistema aguarda a confirmação antes de permitir a remoção do dispositivo. Se o administrador optar por não enviar o comando, ele será avisado que a remoção do dispositivo poderá resultar no bloqueio do uso dos dados móveis do CHIP SIM.</mark>&#x20;
+<mark style="color:blue;">Ao clicar na opção SIM , o comando de remoção do bloqueio de CHIP é enviado e é exibida a mensagem:</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">Comando enviado com sucesso! Aguarde para tentar remover o dispositivo novamente.</mark>_ <mark style="color:blue;"></mark><mark style="color:blue;">Então o sistema aguarda a confirmação antes de permitir a remoção do dispositivo. Se o administrador optar por não enviar o comando, ele será avisado que a remoção do dispositivo poderá resultar no bloqueio do uso dos dados móveis do CHIP SIM.</mark>&#x20;
 
 <figure><img src="../../../../.gitbook/assets/Tela Remover Dispositivo - WIPE - Caminha NÃO Block SIM.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">Dessa forma, essa funcionalidade ajuda a evitar problemas de bloqueio de CHIP que possam surgir ao remover dispositivos da gestão.</mark>
+<mark style="color:blue;">Quando o portal já tiver recebido a confirmação da remoção do Bloqueio do CHIP no dispositivo, então  o sistema exibirá a seguinte mensagem:</mark>
+
+_<mark style="color:blue;">Você deseja mesmo remover este dispositivo? Essa ação não pode ser desfeita</mark>_
+
+<mark style="color:blue;">E serão exibidas as opções “Remover" e "Cancelar"</mark>
+
+<mark style="color:blue;">Dessa forma, essa funcionalidade ajuda a evitar problemas de bloqueio de CHIP que possam surgir ao remover dispositivos da gestão.</mark>
 
 <figure><img src="../../../../.gitbook/assets/Tela Dispositivo Remover Bloqueio de CHIP.png" alt="" width="205"><figcaption></figcaption></figure>
 
 ## **Gerenciar**
 
-<mark style="color:red;">Ao clicar na opção</mark> <mark style="color:red;"></mark><mark style="color:red;">**Gerenciar**</mark><mark style="color:red;">, será exibida a tela</mark> <mark style="color:red;"></mark><mark style="color:red;">**Gerenciar Dispositivo.**</mark>
+<mark style="color:blue;">Ao clicar na opção</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Gerenciar**</mark><mark style="color:blue;">, será exibida a tela</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Gerenciar Dispositivo.**</mark>
 
 <figure><img src="../../../../.gitbook/assets/Captura de tela 2024-08-01 140102.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">1 - Nesta tela estão agrupadas os Comandos e Ações do dispositivo de acordo com o Modo de Gerenciamento.</mark>
+<mark style="color:blue;">1 - Nesta tela estão agrupadas os Comandos e Ações do dispositivo que já detalhamos anteriormente, de acordo com o Modo de Gerenciamento ou Sistema Operacional.</mark>
 
-<mark style="color:red;">2 - A opção de voltar e atualizar as informações.</mark>
+<mark style="color:blue;">2 - A opção de voltar e atualizar as informações.</mark>
 
-<mark style="color:red;">3 - As abas com opções para edição e informações do dispositivo. As abas são:</mark>\ <mark style="color:red;">-</mark> [<mark style="color:red;">Informações</mark>](opcoes-de-gerenciamento-de-dispositivos.md#informacoes) \ <mark style="color:red;">-</mark> [<mark style="color:red;">Aplicativos</mark>](opcoes-de-gerenciamento-de-dispositivos.md#aplicativos) \ <mark style="color:red;">-</mark> [<mark style="color:red;">Bateria</mark>](opcoes-de-gerenciamento-de-dispositivos.md#bateria) \ <mark style="color:red;">-</mark> [<mark style="color:red;">Armazenamento Livre</mark>](opcoes-de-gerenciamento-de-dispositivos.md#armazenamento-livre) \ <mark style="color:red;">-</mark> [<mark style="color:red;">Geolocalização</mark> ](opcoes-de-gerenciamento-de-dispositivos.md#geolocalizacao) \ <mark style="color:red;">-</mark> [<mark style="color:red;">Não Conformidades</mark>](opcoes-de-gerenciamento-de-dispositivos.md#nao-conformidades)\ <mark style="color:red;">Abaixo a explicação de cada uma delas:</mark>
+<mark style="color:blue;">3 - As abas com opções para edição e informações do dispositivo. As abas são:</mark>\ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Informações</mark>](opcoes-de-gerenciamento-de-dispositivos.md#informacoes) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Aplicativos</mark>](opcoes-de-gerenciamento-de-dispositivos.md#aplicativos) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Bateria</mark>](opcoes-de-gerenciamento-de-dispositivos.md#bateria) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Armazenamento Livre</mark>](opcoes-de-gerenciamento-de-dispositivos.md#armazenamento-livre) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Geolocalização</mark> ](opcoes-de-gerenciamento-de-dispositivos.md#geolocalizacao) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Não Conformidades</mark>](opcoes-de-gerenciamento-de-dispositivos.md#nao-conformidades)
 
-### <mark style="color:red;">**Informações**</mark>
+\ <mark style="color:blue;">Abaixo segue a explicação de cada uma delas:</mark>
 
-Ao abrir a tela acima, a primeira aba "<mark style="color:red;">**Informações**</mark>" vira pré selecionada, nesta tela, é possível editar dados do dispositivo: Usuário, Identificação, Grupo, Departamento e Telefone do Usuário.
+### <mark style="color:blue;">**Informações**</mark>
+
+Ao abrir a tela Gerenciar Dispositivo , a primeira aba "<mark style="color:blue;">**Informações**</mark>" vira Pré selecionada, nesta aba, é possível editar dados do dispositivo: Usuário, Identificação, Grupo, Departamento e Telefone do Usuário.
 
 <mark style="color:red;">NOVA IMAGEM</mark>
 
 <figure><img src="../../../../.gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">Além de poder editar os dados, são exibidos mais abaixo listas com Detalhes, Instalação, Hardware, Permissões, Conectividade e SIM, relacionados ao dispositivo gerenciado.</mark>
+<mark style="color:blue;">Além de poder editar os dados, são exibidas mais abaixo listas com Detalhes, Instalação, Hardware, Permissões, Conectividade e SIM, relacionados ao dispositivo gerenciado.</mark>
 
 <figure><img src="../../../../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (237).png" alt=""><figcaption></figcaption></figure>
+<mark style="color:blue;">NOVA IMAGEM</mark>&#x20;
+
+<figure><img src="../../../../.gitbook/assets/image (275).png" alt=""><figcaption></figcaption></figure>
+
+
 
 <figure><img src="../../../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">**As seções estão detalhadas na página de**</mark> [<mark style="color:red;">**Informações do Dispositivo**</mark>](informacoes-do-dispositivo.md)<mark style="color:red;">**:**</mark> <mark style="color:red;"></mark><mark style="color:red;">"Detalhes", "Instalação", "Hardware", "Permissões", "Conectividade" e "SIM".</mark>
+<mark style="color:blue;">**As seções estão detalhadas na página de**</mark> [<mark style="color:blue;">**Informações do Dispositivo**</mark>](informacoes-do-dispositivo.md)<mark style="color:blue;">**:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">"Detalhes", "Instalação", "Hardware", "Permissões", "Conectividade" e "SIM".</mark>
 
 {% hint style="info" %}
-<mark style="color:red;">**OBSERVAÇÃO**</mark>
+<mark style="color:blue;">**OBSERVAÇÃO**</mark>
 
-<mark style="color:red;">É possível acessar rapidamente a tela de edição de uma política no dispositivo clicando no nome da política, que funciona como um link.</mark>
+<mark style="color:blue;">É possível acessar rapidamente a tela de edição de uma política no dispositivo clicando no nome da política, que funciona como um link.</mark>
 
 ![](<../../../../.gitbook/assets/image (245).png>)
 {% endhint %}
 
 ### **Aplicativos**
 
-Na aba "**Aplicativos**", é possível acessar a lista de todos os aplicativos instalados no dispositivo, contendo as seguintes informações: ícone, nome, <mark style="color:red;">consumo de dados móveis, consumo de dados em WiFi e tempo de uso</mark>. Os dados de consumo e tempo de uso são registrados dentro do ciclo. É possível pesquisar um aplicativo específico utilizando o campo de pesquisa, exportar relatórios completos ou da página, além de copiar as informações da lista. <mark style="color:red;">Ao clicar nos três pontinhos é possível visualizar o gráfico de "Histórico de Consumo" do aplicativo durante o ciclo.</mark>
+Na aba "**Aplicativos**", é possível acessar a lista de todos os aplicativos instalados no dispositivo, contendo as seguintes informações: ícone, nome, <mark style="color:blue;">consumo de dados móveis, consumo de dados em WiFi e tempo de uso.</mark> Os dados de consumo e tempo de uso são registrados dentro do ciclo. É possível pesquisar um aplicativo específico utilizando o campo de pesquisa, exportar relatórios completos ou da página, além de copiar as informações da lista. <mark style="color:blue;">Ao clicar nos três pontinhos é possível visualizar o gráfico de "Histórico de Consumo" do aplicativo durante o ciclo.</mark>
 
 <mark style="color:red;">NOVA IMAGEM</mark>
 
@@ -205,25 +217,25 @@ Na aba "**Armazenamento Livre**" é possível visualizar a memória livre no arm
 
 <figure><img src="../../../../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:red;">Geolocalização</mark>
+### <mark style="color:blue;">Geolocalização</mark>
 
-<mark style="color:red;">Ao acessar a aba "Geolocalização", será possível filtrar as localizações utilizando os filtros: Localizar, Data, Fuso horário e Precisão. Ao clicar em "Buscar", um mapa será exibido, mostrando as geolocalizações registradas, se houver.</mark>
+<mark style="color:blue;">Ao acessar a aba "Geolocalização", será possível filtrar as localizações utilizando os filtros: Localizar, Data, Fuso horário e Precisão. Ao clicar em "Buscar", um mapa será exibido, mostrando as geolocalizações registradas, se houver.</mark>
 
-<mark style="color:red;">Para visualizar as localizações geográficas de um dispositivo, siga os passos descritos:</mark>
+<mark style="color:blue;">Para visualizar as localizações geográficas de um dispositivo, siga os passos descritos:</mark>
 
-1. <mark style="color:red;">Selecione a opção Localizar: Por Data ou Agora</mark>\ <mark style="color:red;">Se selecionar a opção de "Localizar Por Data", siga os passos a seguir:</mark>
-2. <mark style="color:red;">Selecione a data em que as localizações foram registradas;</mark>
-3. <mark style="color:red;">Especifique o fuso horário em que deseja visualizar as localizações;</mark>
-4. <mark style="color:red;">Selecione o limite de precisão das localizações;</mark>
-5. <mark style="color:red;">Clique no botão “Buscar” para exibir as localizações no mapa, de acordo com filtro especificado;</mark>
-6. <mark style="color:red;">O sistema exibirá as localizações com marcadores formando o percurso realizado pelo usuário do dispositivo. Os marcadores possuem cores diferentes, que indicam o tipo da localização. Utilize a legenda do para identificar o tipo:</mark>
+1. <mark style="color:blue;">Selecione a opção Localizar: Por Data ou Agora</mark>\ <mark style="color:blue;">Se selecionar a opção de "Localizar Por Data", siga os passos a seguir:</mark>
+2. <mark style="color:blue;">Selecione a data em que as localizações foram registradas;</mark>
+3. <mark style="color:blue;">Especifique o fuso horário em que deseja visualizar as localizações;</mark>
+4. <mark style="color:blue;">Selecione o limite de precisão das localizações;</mark>
+5. <mark style="color:blue;">Clique no botão “Buscar” para exibir as localizações no mapa, de acordo com filtro especificado;</mark>
+6. <mark style="color:blue;">O sistema exibirá as localizações com marcadores formando o percurso realizado pelo usuário do dispositivo. Os marcadores possuem cores diferentes, que indicam o tipo da localização. Utilize a legenda do para identificar o tipo:</mark>
 
-* <mark style="color:red;">**Posição inicial da leitura do GPS**</mark> <mark style="color:red;"></mark><mark style="color:red;">– primeira localização do dispositivo registrada no dia;</mark>
-* <mark style="color:red;">**Posição atual ou última posição coletada no dia**</mark> <mark style="color:red;"></mark><mark style="color:red;">– última localização do dispositivo registrada no dia;</mark>
-* <mark style="color:red;">**Lugar onde o usuário passou**</mark> <mark style="color:red;"></mark><mark style="color:red;">– localizações registradas no dia, entre a primeira e a última.</mark>
+* <mark style="color:blue;">**Posição inicial da leitura do GPS**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">– primeira localização do dispositivo registrada no dia;</mark>
+* <mark style="color:blue;">**Posição atual ou última posição coletada no dia**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">– última localização do dispositivo registrada no dia;</mark>
+* <mark style="color:blue;">**Lugar onde o usuário passou**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">– localizações registradas no dia, entre a primeira e a última.</mark>
 
-9. <mark style="color:red;">Clique no marcador para visualizar as informações da localização.</mark>
-10. <mark style="color:red;">Utilize os recursos do mapa para otimizar a visualização.</mark>
+9. <mark style="color:blue;">Clique no marcador para visualizar as informações da localização.</mark>
+10. <mark style="color:blue;">Utilize os recursos do mapa para otimizar a visualização.</mark>
 
 <figure><img src="../../../../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
 

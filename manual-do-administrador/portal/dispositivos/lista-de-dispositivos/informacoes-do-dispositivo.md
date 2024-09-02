@@ -12,7 +12,7 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 
 <figure><img src="../../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (276).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/image (240).png" alt=""><figcaption></figcaption></figure>
 
@@ -58,8 +58,6 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 
 ### Hardware
 
-* <mark style="color:red;">**Número de série -**</mark> <mark style="color:red;"></mark><mark style="color:red;">número de série do dispositivo;</mark>
-* <mark style="color:red;">**Endereço MAC -**</mark> <mark style="color:red;"></mark><mark style="color:red;">endereço físico único do dispositivo para comunicação em redes locais (Media Access Control address).</mark>
 * <mark style="color:red;">**Memória Total**</mark> <mark style="color:red;">**-**</mark> <mark style="color:red;"></mark><mark style="color:red;">quantidade total de memória RAM disponível no dispositivo.</mark>
 * <mark style="color:red;">**Memória Disponível**</mark> <mark style="color:red;">**-**</mark> <mark style="color:red;"></mark><mark style="color:red;">quantidade de memória RAM atualmente livre e disponível para uso no dispositivo.</mark>
 * <mark style="color:red;">**Armazenamento Interno Total -**</mark> <mark style="color:red;"></mark><mark style="color:red;">quantidade total de armazenamento interno que o dispositivo possui.</mark>
@@ -77,6 +75,8 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 * **Escrita de Configurações do Sistema -** status sim ou não, caso o usuário não ative esta permissão, o aplicativo Kiosk Launcher Manage**r** não permitirá que o usuário alterar algumas configurações do sistema quando estiver no modo Quiosque.
 * **Leitura de SMS -** status sim ou não, caso o usuário não ative esta permissão, o aplicativo não irá capturar as informações dos SMS enviados.
 * <mark style="color:red;">**Agendar Alarmes**</mark> <mark style="color:red;"></mark><mark style="color:red;">- status sim ou não, caso o usuário não ative esta permissão, o aplicativo não executará as seguintes funcionalidades: notificação de mensagens e documentos recebidos, instalação remota de aplicativos, registro de geolocalização do dispositivo, remoção de bloqueio de CHIP.</mark>
+* <mark style="color:red;">**Instalação de Apps de Fontes Desconhecidas:**</mark>
+* <mark style="color:red;">**Sobreposição de Tela:**</mark>
 
 ### Conectividade
 
@@ -93,6 +93,11 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 * **Endereço MAC WiFi** - endereço MAC do adaptador Wi-Fi do dispositivo.
 * **IP (Wi-Fi Network)** - endereço IP atribuído ao dispositivo na rede Wi-Fi.
 * **IPv6 (Wi-Fi Network)** - endereço IPv6 atribuído ao dispositivo na rede Wi-Fi.
+* <mark style="color:red;">**Rede BSSID:**</mark>
+* <mark style="color:red;">**Operadora da Rede Conectada:**</mark>
+* <mark style="color:red;">**Roaming Dados Móveis:**</mark>
+* <mark style="color:red;">**IP (Rede móvel):**</mark>
+* <mark style="color:red;">**IPv6 (Rede móvel):**</mark>
 * <mark style="color:red;">**DBM (RSRP - Potencia da Antena)**</mark> <mark style="color:red;"></mark><mark style="color:red;">- medida da potência do sinal da antena.</mark>
 * <mark style="color:red;">**Cell ID**</mark> <mark style="color:red;"></mark><mark style="color:red;">- identificação da célula à qual o dispositivo está conectado.</mark>
 * <mark style="color:red;">**LAC**</mark> <mark style="color:red;"></mark><mark style="color:red;">- código de Área Local.</mark>
