@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Informações do Dispositivo
 
 Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível ter acesso as informações do dispositivo, clicando no botão de **Mais informações**:
@@ -74,9 +88,9 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 * **Ignorar Otimização de Bateria -** status sim ou não, caso o usuário não ative esta permissão, o aplicativo poderá ser afetado pelas configurações de otimização de bateria, parar de capturar as localizações do dispositivos e parar de enviar as informações para o Portal.
 * **Escrita de Configurações do Sistema -** status sim ou não, caso o usuário não ative esta permissão, o aplicativo Kiosk Launcher Manage**r** não permitirá que o usuário alterar algumas configurações do sistema quando estiver no modo Quiosque.
 * **Leitura de SMS -** status sim ou não, caso o usuário não ative esta permissão, o aplicativo não irá capturar as informações dos SMS enviados.
-* <mark style="color:red;">**Agendar Alarmes**</mark> <mark style="color:red;"></mark><mark style="color:red;">- status sim ou não, caso o usuário não ative esta permissão, o aplicativo não executará as seguintes funcionalidades: notificação de mensagens e documentos recebidos, instalação remota de aplicativos, registro de geolocalização do dispositivo, remoção de bloqueio de CHIP.</mark>
-* <mark style="color:red;">**Instalação de Apps de Fontes Desconhecidas -**</mark> <mark style="color:red;"></mark><mark style="color:red;">essa permissão é opcional e pode ser ativada durante a configuração inicial. Se o usuário optar por não ativá-la, o aplicativo não poderá realizar a instalação de aplicativos de forma remota.</mark>
-* <mark style="color:red;">**Sobreposição de Tela -**</mark> <mark style="color:red;"></mark><mark style="color:red;">esta permissão também é opcional durante a ativação. Se não for ativada, o aplicativo não poderá exibir mensagens de confirmação ao realizar a instalação de aplicativos remotamente.</mark>
+* <mark style="color:blue;">**Agendar Alarmes**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- status sim ou não, caso o usuário não ative esta permissão, o aplicativo não executará as seguintes funcionalidades: notificação de mensagens e documentos recebidos, instalação remota de aplicativos, registro de geolocalização do dispositivo, remoção de bloqueio de CHIP.</mark>
+* <mark style="color:blue;">**Instalação de Apps de Fontes Desconhecidas -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">essa permissão é opcional e pode ser ativada durante a configuração inicial. Se o usuário optar por não ativá-la, o aplicativo não poderá realizar a instalação de aplicativos de forma remota.</mark>
+* <mark style="color:blue;">**Sobreposição de Tela -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">esta permissão também é opcional durante a ativação. Se não for ativada, o aplicativo não poderá exibir mensagens de confirmação ao realizar a instalação de aplicativos remotamente.</mark>
 
 ### Conectividade
 
@@ -93,15 +107,15 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 * **Endereço MAC WiFi** - endereço MAC do adaptador Wi-Fi do dispositivo.
 * **IP (Wi-Fi Network)** - endereço IP atribuído ao dispositivo na rede Wi-Fi.
 * **IPv6 (Wi-Fi Network)** - endereço IPv6 atribuído ao dispositivo na rede Wi-Fi.
-* <mark style="color:red;">**Rede BSSID**</mark> <mark style="color:red;"></mark><mark style="color:red;">- identificador único da rede Wi-Fi.</mark>
-* <mark style="color:red;">**Operadora da Rede Conectada**</mark> <mark style="color:red;"></mark><mark style="color:red;">- nome da operadora da rede móvel conectada.</mark>
-* <mark style="color:red;">**Roaming Dados Móveis**</mark> <mark style="color:red;"></mark><mark style="color:red;">- indica se o dispositivo está em roaming de dados móveis.</mark>
-* <mark style="color:red;">**IP (Rede móvel) -**</mark> <mark style="color:red;"></mark><mark style="color:red;">endereço IP atribuído ao dispositivo na rede móvel.</mark>
-* <mark style="color:red;">**IPv6 (Rede móvel) -**</mark> <mark style="color:red;"></mark><mark style="color:red;">endereço IPv6 atribuído ao dispositivo na rede móvel.</mark>
-* <mark style="color:red;">**DBM (RSRP - Potencia da Antena)**</mark> <mark style="color:red;"></mark><mark style="color:red;">- medida da potência do sinal da antena.</mark>
-* <mark style="color:red;">**Cell ID**</mark> <mark style="color:red;"></mark><mark style="color:red;">- identificação da célula à qual o dispositivo está conectado.</mark>
-* <mark style="color:red;">**LAC**</mark> <mark style="color:red;"></mark><mark style="color:red;">- código de Área Local.</mark>
-* <mark style="color:red;">**Tecnologia da Antena**</mark> <mark style="color:red;"></mark><mark style="color:red;">- tipo de tecnologia de antena utilizada.</mark>
+* <mark style="color:blue;">**Rede BSSID**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- identificador único da rede Wi-Fi.</mark>
+* <mark style="color:blue;">**Operadora da Rede Conectada**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- nome da operadora da rede móvel conectada.</mark>
+* <mark style="color:blue;">**Roaming Dados Móveis**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- indica se o dispositivo está em roaming de dados móveis.</mark>
+* <mark style="color:blue;">**IP (Rede móvel) -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">endereço IP atribuído ao dispositivo na rede móvel.</mark>
+* <mark style="color:blue;">**IPv6 (Rede móvel) -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">endereço IPv6 atribuído ao dispositivo na rede móvel.</mark>
+* <mark style="color:blue;">**DBM (RSRP - Potencia da Antena)**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- medida da potência do sinal da antena.</mark>
+* <mark style="color:blue;">**Cell ID**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- identificação da célula à qual o dispositivo está conectado.</mark>
+* <mark style="color:blue;">**LAC**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- código de Área Local.</mark>
+* <mark style="color:blue;">**Tecnologia da Antena**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- tipo de tecnologia de antena utilizada.</mark>
 
 ### <mark style="color:blue;">SIM</mark>
 
