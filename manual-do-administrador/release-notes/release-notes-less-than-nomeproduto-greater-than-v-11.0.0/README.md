@@ -8,7 +8,7 @@
 4. [Atualização nas Opções de Senhas no Work Profile](atualizacao-nas-opcoes-de-senhas-no-work-profile.md)
 5. [Nova Função de Bloqueio no Security Browser](nova-funcao-de-bloqueio-no-security-browser.md)
 6. [Nova Função para Gerenciar Sites Favoritos do Security Browser](nova-funcao-para-gerenciar-sites-favoritos-do-security-browser.md)
-7. [Funcionalidade para Alterar de Tela em Dispositivos com Block SIM](funcionalidade-para-alterar-senha-de-bloqueio-de-tela-em-dispositivos-com-block-sim.md)
+7. [Envio de Troca de Senha do Bloqueio de Tela no Block SIM](envio-de-troca-de-senha-do-bloqueio-de-tela-no-block-sim.md)
 8. [Nova Funcionalidade para Remoção do Bloqueio de Chip em Dispositivos com Block SIM ](nova-funcionalidade-para-remocao-do-bloqueio-de-chip-em-dispositivos-com-block-sim.md)
 9. [Novas Informações de Conectividade do Dispositivo](novas-informacoes-de-conectividade-do-dispositivo.md)
 10. [Novo Aplicativo para o Quiosque - Mob Settings](novo-aplicativo-para-o-quiosque-mob-settings.md)
