@@ -58,15 +58,15 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 
 ### Hardware
 
-* <mark style="color:red;">**Memória Total**</mark> <mark style="color:red;">**-**</mark> <mark style="color:red;"></mark><mark style="color:red;">quantidade total de memória RAM disponível no dispositivo.</mark>
-* <mark style="color:red;">**Memória Disponível**</mark> <mark style="color:red;">**-**</mark> <mark style="color:red;"></mark><mark style="color:red;">quantidade de memória RAM atualmente livre e disponível para uso no dispositivo.</mark>
-* <mark style="color:red;">**Armazenamento Interno Total -**</mark> <mark style="color:red;"></mark><mark style="color:red;">quantidade total de armazenamento interno que o dispositivo possui.</mark>
-* <mark style="color:red;">**Armazenamento Interno Disponível -**</mark> <mark style="color:red;"></mark><mark style="color:red;">quantidade de armazenamento interno atualmente livre e disponível para uso no dispositivo.</mark>
-* <mark style="color:red;">**Armazenamento Total no Cartão SD**</mark> <mark style="color:red;"></mark><mark style="color:red;">- quantidade total de armazenamento disponível no cartão SD inserido no dispositivo.</mark>
-* <mark style="color:red;">**Armazenamento Disponível no Cartão SD**</mark> <mark style="color:red;"></mark><mark style="color:red;">- quantidade de armazenamento atualmente livre e disponível no cartão SD inserido no dispositivo.</mark>
-* <mark style="color:red;">**Processador**</mark> <mark style="color:red;"></mark><mark style="color:red;">- informações sobre o processador do dispositivo, incluindo o modelo e a velocidade.</mark>
-* <mark style="color:red;">**Saúde da Bateria**</mark> <mark style="color:red;"></mark><mark style="color:red;">- estado geral da bateria do dispositivo, indicando sua capacidade e condição.</mark>
-* <mark style="color:red;">**Ciclo de Carga da Bateria**</mark> <mark style="color:red;"></mark><mark style="color:red;">- número de ciclos completos de carga e descarga que a bateria do dispositivo já passou.</mark>
+* <mark style="color:blue;">**Memória Total**</mark> <mark style="color:blue;">**-**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">quantidade total de memória RAM disponível no dispositivo.</mark>
+* <mark style="color:blue;">**Memória Disponível**</mark> <mark style="color:blue;">**-**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">quantidade de memória RAM atualmente livre e disponível para uso no dispositivo.</mark>
+* <mark style="color:blue;">**Armazenamento Interno Total -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">quantidade total de armazenamento interno que o dispositivo possui.</mark>
+* <mark style="color:blue;">**Armazenamento Interno Disponível -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">quantidade de armazenamento interno atualmente livre e disponível para uso no dispositivo.</mark>
+* <mark style="color:blue;">**Armazenamento Total no Cartão SD**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- quantidade total de armazenamento disponível no cartão SD inserido no dispositivo.</mark>
+* <mark style="color:blue;">**Armazenamento Disponível no Cartão SD**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- quantidade de armazenamento atualmente livre e disponível no cartão SD inserido no dispositivo.</mark>
+* <mark style="color:blue;">**Processador**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- informações sobre o processador do dispositivo, incluindo o modelo e a velocidade.</mark>
+* <mark style="color:blue;">**Saúde da Bateria**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- estado geral da bateria do dispositivo, indicando sua capacidade e condição.</mark>
+* <mark style="color:blue;">**Ciclo de Carga da Bateria**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- número de ciclos completos de carga e descarga que a bateria do dispositivo já passou.</mark>
 
 ### Permissões
 
@@ -74,7 +74,7 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 * **Ignorar Otimização de Bateria -** status sim ou não, caso o usuário não ative esta permissão, o aplicativo poderá ser afetado pelas configurações de otimização de bateria, parar de capturar as localizações do dispositivos e parar de enviar as informações para o Portal.
 * **Escrita de Configurações do Sistema -** status sim ou não, caso o usuário não ative esta permissão, o aplicativo Kiosk Launcher Manage**r** não permitirá que o usuário alterar algumas configurações do sistema quando estiver no modo Quiosque.
 * **Leitura de SMS -** status sim ou não, caso o usuário não ative esta permissão, o aplicativo não irá capturar as informações dos SMS enviados.
-* <mark style="color:red;">**Agendar Alarmes**</mark> <mark style="color:red;"></mark><mark style="color:red;">- status sim ou não, caso o usuário não ative esta permissão, o aplicativo não executará as seguintes funcionalidades: notificação de mensagens e documentos recebidos, instalação remota de aplicativos, registro de geolocalização do dispositivo, remoção de bloqueio de CHIP.</mark>
+* <mark style="color:blue;">**Agendar Alarmes**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- status sim ou não, caso o usuário não ative esta permissão, o aplicativo não executará as seguintes funcionalidades: notificação de mensagens e documentos recebidos, instalação remota de aplicativos, registro de geolocalização do dispositivo, remoção de bloqueio de CHIP.</mark>
 * <mark style="color:red;">**Instalação de Apps de Fontes Desconhecidas:**</mark>
 * <mark style="color:red;">**Sobreposição de Tela:**</mark>
 
@@ -98,14 +98,14 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 * <mark style="color:red;">**Roaming Dados Móveis:**</mark>
 * <mark style="color:red;">**IP (Rede móvel):**</mark>
 * <mark style="color:red;">**IPv6 (Rede móvel):**</mark>
-* <mark style="color:red;">**DBM (RSRP - Potencia da Antena)**</mark> <mark style="color:red;"></mark><mark style="color:red;">- medida da potência do sinal da antena.</mark>
-* <mark style="color:red;">**Cell ID**</mark> <mark style="color:red;"></mark><mark style="color:red;">- identificação da célula à qual o dispositivo está conectado.</mark>
-* <mark style="color:red;">**LAC**</mark> <mark style="color:red;"></mark><mark style="color:red;">- código de Área Local.</mark>
-* <mark style="color:red;">**Tecnologia da Antena**</mark> <mark style="color:red;"></mark><mark style="color:red;">- tipo de tecnologia de antena utilizada.</mark>
+* <mark style="color:blue;">**DBM (RSRP - Potencia da Antena)**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- medida da potência do sinal da antena.</mark>
+* <mark style="color:blue;">**Cell ID**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- identificação da célula à qual o dispositivo está conectado.</mark>
+* <mark style="color:blue;">**LAC**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- código de Área Local.</mark>
+* <mark style="color:blue;">**Tecnologia da Antena**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- tipo de tecnologia de antena utilizada.</mark>
 
-### <mark style="color:red;">SIM</mark>
+### <mark style="color:blue;">SIM</mark>
 
-* <mark style="color:red;">**SIM Conectado -**</mark> <mark style="color:red;"></mark><mark style="color:red;">indica qual dos SIMs está atualmente conectado à rede móvel.</mark>
+* <mark style="color:blue;">**SIM Conectado -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">indica qual dos SIMs está atualmente conectado à rede móvel.</mark>
 * **Operadora do SIM 1** - nome da operadora do primeiro SIM.
 * **Número de Telefone SIM 1** - número de telefone associado ao primeiro SIM.
 * **ICCID SIM 1** - identificador exclusivo do cartão SIM 1.
@@ -120,7 +120,7 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 * **Número do Assinante SIM 2** - número do assinante associado ao SIM 2.
 * **MCC do SIM 2** - código do país móvel do SIM 2.
 * **MNC do SIM 2** - código da rede móvel do SIM 2.
-* <mark style="color:red;">**Operadora do eSIM -**</mark> <mark style="color:red;"></mark><mark style="color:red;">nome da operadora associada ao eSIM.</mark>
-* <mark style="color:red;">**Número de telefone do eSIM -**</mark> <mark style="color:red;"></mark><mark style="color:red;">número de telefone associado ao eSIM.</mark>
-* <mark style="color:red;">**ICCID do eSIM -**</mark> <mark style="color:red;"></mark><mark style="color:red;">identificador exclusivo do eSIM.</mark>
-* <mark style="color:red;">**ID de assinatura do eSIM -**</mark> <mark style="color:red;"></mark><mark style="color:red;">identificador da assinatura associada ao eSIM.</mark>
+* <mark style="color:blue;">**Operadora do eSIM -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">nome da operadora associada ao eSIM.</mark>
+* <mark style="color:blue;">**Número de telefone do eSIM -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">número de telefone associado ao eSIM.</mark>
+* <mark style="color:blue;">**ICCID do eSIM -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">identificador exclusivo do eSIM.</mark>
+* <mark style="color:blue;">**ID de assinatura do eSIM -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">identificador da assinatura associada ao eSIM.</mark>
