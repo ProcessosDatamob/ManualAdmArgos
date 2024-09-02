@@ -93,11 +93,11 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 * **Endereço MAC WiFi** - endereço MAC do adaptador Wi-Fi do dispositivo.
 * **IP (Wi-Fi Network)** - endereço IP atribuído ao dispositivo na rede Wi-Fi.
 * **IPv6 (Wi-Fi Network)** - endereço IPv6 atribuído ao dispositivo na rede Wi-Fi.
-* <mark style="color:red;">**Rede BSSID**</mark> - identificador único da rede Wi-Fi.
-* <mark style="color:red;">**Operadora da Rede Conectada**</mark> - nome da operadora da rede móvel conectada.
-* <mark style="color:red;">**Roaming Dados Móveis**</mark> - indica se o dispositivo está em roaming de dados móveis.
-* <mark style="color:red;">**IP (Rede móvel) -**</mark> endereço IP atribuído ao dispositivo na rede móvel.
-* <mark style="color:red;">**IPv6 (Rede móvel) -**</mark> endereço IPv6 atribuído ao dispositivo na rede móvel.
+* <mark style="color:red;">**Rede BSSID**</mark> <mark style="color:red;"></mark><mark style="color:red;">- identificador único da rede Wi-Fi.</mark>
+* <mark style="color:red;">**Operadora da Rede Conectada**</mark> <mark style="color:red;"></mark><mark style="color:red;">- nome da operadora da rede móvel conectada.</mark>
+* <mark style="color:red;">**Roaming Dados Móveis**</mark> <mark style="color:red;"></mark><mark style="color:red;">- indica se o dispositivo está em roaming de dados móveis.</mark>
+* <mark style="color:red;">**IP (Rede móvel) -**</mark> <mark style="color:red;"></mark><mark style="color:red;">endereço IP atribuído ao dispositivo na rede móvel.</mark>
+* <mark style="color:red;">**IPv6 (Rede móvel) -**</mark> <mark style="color:red;"></mark><mark style="color:red;">endereço IPv6 atribuído ao dispositivo na rede móvel.</mark>
 * <mark style="color:red;">**DBM (RSRP - Potencia da Antena)**</mark> <mark style="color:red;"></mark><mark style="color:red;">- medida da potência do sinal da antena.</mark>
 * <mark style="color:red;">**Cell ID**</mark> <mark style="color:red;"></mark><mark style="color:red;">- identificação da célula à qual o dispositivo está conectado.</mark>
 * <mark style="color:red;">**LAC**</mark> <mark style="color:red;"></mark><mark style="color:red;">- código de Área Local.</mark>
