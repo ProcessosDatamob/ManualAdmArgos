@@ -26,9 +26,21 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 
 <figure><img src="../../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+<mark style="color:blue;">A data que aparece em</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Última Atualização**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">no canto superior direto a tela de Informações do dispositivo, é a data de atualização do dispositivo no Google, ou seja, se refere a comunicação da AMAPI  com o portal. Os dados que são atualizados são:</mark>
+
+* <mark style="color:blue;">Detalhes</mark>
+* <mark style="color:blue;">Instalação</mark>
+* <mark style="color:blue;">Relatório de Não conformidade</mark>
+{% endhint %}
+
+
+
 <figure><img src="../../../../.gitbook/assets/image (276).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../../.gitbook/assets/image (240).png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:blue;">Abaixo detalharemos as informações que contém em cada um dos campos das imagens acima:</mark>
 
 ### Detalhes
 

@@ -183,7 +183,7 @@ Ao abrir a tela Gerenciar Dispositivo , a primeira aba "<mark style="color:blue;
 
 <figure><img src="../../../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">**As seções estão detalhadas na página de**</mark> [<mark style="color:blue;">**Informações do Dispositivo**</mark>](informacoes-do-dispositivo.md)<mark style="color:blue;">**:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">"Detalhes", "Instalação", "Hardware", "Permissões", "Conectividade" e "SIM".</mark>
+<mark style="color:blue;">As seções estão detalhadas na página de</mark> [<mark style="color:blue;">Informações do Dispositivo</mark>](informacoes-do-dispositivo.md)<mark style="color:blue;">: "Detalhes", "Instalação", "Hardware", "Permissões", "Conectividade" e "SIM".</mark>
 
 {% hint style="info" %}
 <mark style="color:blue;">**OBSERVAÇÃO**</mark>
@@ -239,18 +239,18 @@ Na aba "**Armazenamento Livre**" é possível visualizar a memória livre no arm
 
 <figure><img src="../../../../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:red;">Não Conformidades</mark>
+### <mark style="color:blue;">Não Conformidades</mark>
 
-<mark style="color:red;">Nesta aba, serão listadas todas as não conformidades do dispositivo com informações detalhadas da Configuração, Motivo da Não Conformidade e Detalhe da Não Conformidade.</mark>&#x20;
+<mark style="color:blue;">Nesta aba, serão listadas todas as não conformidades do dispositivo com informações detalhadas da Configuração, Motivo da Não Conformidade e Detalhe da Não Conformidade.</mark>&#x20;
 
 {% hint style="info" %}
-<mark style="color:red;">**OBSERVAÇÃO**</mark>
+<mark style="color:blue;">**OBSERVAÇÃO**</mark>
 
-<mark style="color:red;">A aba "Não Conformidades" ficará desabilitada se o dispositivo não possuir nenhuma inconformidade.</mark>
+<mark style="color:blue;">A aba "Não Conformidades" ficará desabilitada se o dispositivo não possuir nenhuma inconformidade.</mark>
 {% endhint %}
 
-<mark style="color:red;">E em cada item de não conformidade listado será exibida a informação de Nome do Pacote, Caminho do Campo, Valor Atual, Motivo da Falha na Instalação, Contexto de Wi-Fi e Contexto de senha da política.</mark>
+<mark style="color:blue;">E em cada item de não conformidade listado será exibida a informação de Nome do Pacote, Caminho do Campo, Valor Atual, Motivo da Falha na Instalação, Contexto de Wi-Fi e Contexto de senha da política.</mark>
 
 <figure><img src="../../../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">É possível "Exportar" e "Copiar", permitindo exportar as informações do relatório para um arquivo Excel ou copiar as informações para uma área de transferência.</mark>
+<mark style="color:blue;">É possível "Exportar" e "Copiar", permitindo exportar as informações do relatório para um arquivo Excel ou copiar as informações para uma área de transferência.</mark>
