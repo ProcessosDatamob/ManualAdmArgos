@@ -16,7 +16,7 @@ layout:
 
 ### Comandos e Ações do Dispositivo
 
-Ao clicar nos três pontinhos "**...**" à direita na listagem dos dispositivos, aparecem as opções de consulta e configurações do dispositivo, como ilustrado na imagem abaixo:
+Ao clicar nos três pontinhos "**...**" à direita na listagem dos dispositivos, são exibidas aparecem as opções de consulta e configurações do dispositivo, como ilustrado na imagem abaixo:
 
 <mark style="color:red;">NOVA IMAGEM</mark>
 
@@ -155,11 +155,11 @@ _<mark style="color:blue;">Você deseja mesmo remover este dispositivo? Essa aç
 
 <figure><img src="../../../../.gitbook/assets/Captura de tela 2024-08-01 140102.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">1 - Nesta tela estão agrupadas os Comandos e Ações do dispositivo que já detalhamos anteriormente, de acordo com o Modo de Gerenciamento ou Sistema Operacional.</mark>
+1. <mark style="color:blue;">Nesta tela estão agrupadas os Comandos e Ações do dispositivo que já detalhamos anteriormente, de acordo com o Modo de Gerenciamento ou Sistema Operacional. O comportamento de cada funcionalidade , será igual na tela "Lista de Dispositivos"</mark>
+2.  <mark style="color:blue;">Serão exibidas as opções de Voltar e Atualizar, sendo que ao clicar sobre Atualizar, serão atualizadas as informações e será exibida a data de atualização das informações ao passar o mouse sobre o botão atualizar.</mark>
 
-<mark style="color:blue;">2 - A opção de voltar e atualizar as informações.</mark>
-
-<mark style="color:blue;">3 - As abas com opções para edição e informações do dispositivo. As abas são:</mark>\ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Informações</mark>](opcoes-de-gerenciamento-de-dispositivos.md#informacoes) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Aplicativos</mark>](opcoes-de-gerenciamento-de-dispositivos.md#aplicativos) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Bateria</mark>](opcoes-de-gerenciamento-de-dispositivos.md#bateria) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Armazenamento Livre</mark>](opcoes-de-gerenciamento-de-dispositivos.md#armazenamento-livre) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Geolocalização</mark> ](opcoes-de-gerenciamento-de-dispositivos.md#geolocalizacao) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Não Conformidades</mark>](opcoes-de-gerenciamento-de-dispositivos.md#nao-conformidades)
+    &#x20;
+3. <mark style="color:blue;">3 - As abas com opções para edição e informações do dispositivo. As abas são:</mark>\ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Informações</mark>](opcoes-de-gerenciamento-de-dispositivos.md#informacoes) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Aplicativos</mark>](opcoes-de-gerenciamento-de-dispositivos.md#aplicativos) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Bateria</mark>](opcoes-de-gerenciamento-de-dispositivos.md#bateria) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Armazenamento Livre</mark>](opcoes-de-gerenciamento-de-dispositivos.md#armazenamento-livre) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Geolocalização</mark> ](opcoes-de-gerenciamento-de-dispositivos.md#geolocalizacao) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Não Conformidades</mark>](opcoes-de-gerenciamento-de-dispositivos.md#nao-conformidades)
 
 \ <mark style="color:blue;">Abaixo segue a explicação de cada uma delas:</mark>
 

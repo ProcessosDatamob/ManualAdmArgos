@@ -73,7 +73,7 @@
   * [Release Notes \<NomeProduto> V 13.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/README.md)
     * [Nova Configuração Gerenciada para tornar a Permissão Agendar Alarmes Opcional](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/nova-configuracao-gerenciada-para-tornar-a-permissao-agendar-alarmes-opcional.md)
     * [Status da Permissão de Agendar Alarmes](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/status-da-permissao-de-agendar-alarmes.md)
-    * [Novos Menus e Informações em Gerenciar Dispositivo](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/novos-menus-e-informacoes-em-gerenciar-dispositivo.md)
+    * [Inclusos Comandos e Ações em "Gerenciar Dispositivo"](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/inclusos-comandos-e-acoes-em-gerenciar-dispositivo.md)
     * [Funcionalidades Agrupadas em Gerenciar Dispositivo](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/funcionalidades-agrupadas-em-gerenciar-dispositivo.md)
     * [Adicionado Link de Edição da Política](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/adicionado-link-de-edicao-da-politica.md)
     * [Bloqueio de Dispositivo por Limite de Dados](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/bloqueio-de-dispositivo-por-limite-de-dados.md)
