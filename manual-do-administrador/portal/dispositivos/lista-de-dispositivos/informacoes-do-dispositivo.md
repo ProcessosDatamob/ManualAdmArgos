@@ -84,11 +84,11 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 
 ### Permissões
 
-* **Acesso ao Dados de Uso -** status sim ou não, caso o usuário não ative esta permissão, o aplicativo não irá capturar as consumos de dados e tempo de uso dos aplicativos.
-* **Ignorar Otimização de Bateria -** status sim ou não, caso o usuário não ative esta permissão, o aplicativo poderá ser afetado pelas configurações de otimização de bateria, parar de capturar as localizações do dispositivos e parar de enviar as informações para o Portal.
-* **Escrita de Configurações do Sistema -** status sim ou não, caso o usuário não ative esta permissão, o aplicativo Kiosk Launcher Manage**r** não permitirá que o usuário alterar algumas configurações do sistema quando estiver no modo Quiosque.
-* **Leitura de SMS -** status sim ou não, caso o usuário não ative esta permissão, o aplicativo não irá capturar as informações dos SMS enviados.
-* <mark style="color:blue;">**Agendar Alarmes**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- status sim ou não, caso o usuário não ative esta permissão, o aplicativo não executará as seguintes funcionalidades: notificação de mensagens e documentos recebidos, instalação remota de aplicativos, registro de geolocalização do dispositivo, remoção de bloqueio de CHIP.</mark>
+* **Acesso ao Dados de Uso -**  Os status podem ser sim ou não, caso o usuário não ative esta permissão, o aplicativo não irá capturar as consumos de dados e tempo de uso dos aplicativos.
+* **Ignorar Otimização de Bateria -** Os status podem ser sim ou não, caso o usuário não ative esta permissão, o aplicativo poderá ser afetado pelas configurações de otimização de bateria, parar de capturar as localizações do dispositivos e parar de enviar as informações para o Portal.
+* **Escrita de Configurações do Sistema -** Os status podem ser sim ou não, caso o usuário não ative esta permissão, o aplicativo Kiosk Launcher Manage**r** não permitirá que o usuário alterar algumas configurações do sistema quando estiver no modo Quiosque.
+* **Leitura de SMS -** Os status podem ser sim ou não, caso o usuário não ative esta permissão, o aplicativo não irá capturar as informações dos SMS enviados.
+* <mark style="color:blue;">**Agendar Alarmes**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- Os status podem ser sim ou não, caso o usuário não ative esta permissão, o aplicativo não executará as seguintes funcionalidades: notificação de mensagens e documentos recebidos, instalação remota de aplicativos, registro de geolocalização do dispositivo, remoção de bloqueio de CHIP.</mark>&#x20;
 * <mark style="color:blue;">**Instalação de Apps de Fontes Desconhecidas -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">essa permissão é opcional e pode ser ativada durante a configuração inicial. Se o usuário optar por não ativá-la, o aplicativo não poderá realizar a instalação de aplicativos de forma remota.</mark>
 * <mark style="color:blue;">**Sobreposição de Tela -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">esta permissão também é opcional durante a ativação. Se não for ativada, o aplicativo não poderá exibir mensagens de confirmação ao realizar a instalação de aplicativos remotamente.</mark>
 
