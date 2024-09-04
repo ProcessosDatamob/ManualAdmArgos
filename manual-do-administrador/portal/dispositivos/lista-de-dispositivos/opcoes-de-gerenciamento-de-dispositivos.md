@@ -105,17 +105,15 @@ Na tela "Lista de Dispositivos", selecione a política “Android - Block SIM”
 
 <mark style="color:blue;">NOVA IMAGEM</mark>
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt="" width="205"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (279).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-### Reinicio de Bloqueio de CHIP
+### <mark style="color:blue;">Reinicio de Bloqueio de CHIP</mark>
 
-A funcionalidade de "Reinício de Bloqueio de CHIP" permite que, após a remoção do bloqueio do CHIP SIM em um dispositivo, o administrador possa bloquear o CHIP novamente.&#x20;
+<mark style="color:blue;">A funcionalidade de "Reinício de Bloqueio de CHIP" permite que, após a remoção do bloqueio do CHIP SIM em um dispositivo, o administrador possa bloquear o CHIP novamente.</mark>&#x20;
 
-Quando o administrador envia um comando de remoção de bloqueio do CHIP através do portal e o aplicativo Block SIM recebe e processa essa remoção, o app limpa a variável interna que indica que o CHIP estava bloqueado.&#x20;
-
-Isso possibilita que, após a remoção do bloqueio, o administrador possa trocar o CHIP do dispositivo e aplicar um novo bloqueio, garantindo a flexibilidade de gestão e segurança dos dispositivos gerenciados.
+<mark style="color:blue;">Isso possibilita que, após a remoção do bloqueio, o administrador possa trocar o CHIP do dispositivo e aplicar um novo bloqueio, garantindo a flexibilidade de gestão e segurança dos dispositivos gerenciados.</mark>
 
 {% hint style="info" %}
 <mark style="color:blue;">**OBSERVAÇÃO**</mark>
