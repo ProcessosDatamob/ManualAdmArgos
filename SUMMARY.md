@@ -77,7 +77,7 @@
     * [Alterado Layout das Informações dos Dispositivos](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/alterado-layout-das-informacoes-dos-dispositivos.md)
     * [Adicionada Aba  de Geolocalização no Gerenciar do Dispositivo](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/adicionada-aba-de-geolocalizacao-no-gerenciar-do-dispositivo.md)
     * [Movido Relatório de Não Conformidade para Opção "Gerenciar"](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/movido-relatorio-de-nao-conformidade-para-opcao-gerenciar.md)
-    * [Alerta de desbloqueio do CHIP antes da Remoção do Dispositivo (WIPE)](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/alerta-de-desbloqueio-do-chip-antes-da-remocao-do-dispositivo-wipe.md)
+    * [Alerta ao enviar Comando para Remover Dispositivo com CHIP Bloqueado](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/alerta-ao-enviar-comando-para-remover-dispositivo-com-chip-bloqueado.md)
     * [Adicionado Link de Edição da Política](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/adicionado-link-de-edicao-da-politica.md)
     * [Bloqueio de Dispositivo por Limite de Dados](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/bloqueio-de-dispositivo-por-limite-de-dados.md)
     * [Mais Complexidade de Senha](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/mais-complexidade-de-senha.md)

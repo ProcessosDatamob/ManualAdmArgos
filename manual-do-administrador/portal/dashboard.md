@@ -20,7 +20,7 @@ A tela de Dashboard pode ser considerada a “**Tela Inicial**” do sistema, po
 
 <mark style="color:blue;background-color:orange;">NOVA IMAGEM</mark>
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ao acessar a tela, todas as informações serão exibidas separadas por seções. Cada seção corresponde a um dado diferente, coletado do dispositivo e todas as informações são exibidas de acordo com as opções selecionadas no filtro (Empresa, Grupo ou Usuário).
 
