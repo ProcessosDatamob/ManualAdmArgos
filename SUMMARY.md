@@ -83,7 +83,7 @@
     * [Nova Sessão "SIM" e Informações do eSIM no Dispositivo](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/nova-sessao-sim-e-informacoes-do-esim-no-dispositivo.md)
     * [Filtro de Colunas para personalizar a Lista de Dispositivos](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/filtro-de-colunas-para-personalizar-a-lista-de-dispositivos.md)
     * [Informações Mais Completas de Hardware](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/informacoes-mais-completas-de-hardware.md)
-    * [Bloqueio de Dispositivo por Limite de Dados](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/bloqueio-de-dispositivo-por-limite-de-dados.md)
+    * [Bloqueio de Dispositivo por Limite de Dados Móveis](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/bloqueio-de-dispositivo-por-limite-de-dados-moveis.md)
     * [Mais Complexidade de Senha](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/mais-complexidade-de-senha.md)
     * [Configuração de Verificação do Play Protect](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/configuracao-de-verificacao-do-play-protect.md)
     * [Bloqueio de Mudança de Papel de Parede Ajustado](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/bloqueio-de-mudanca-de-papel-de-parede-ajustado.md)
