@@ -24,21 +24,14 @@ Clique no menu “**Dispositivos**” opção "**Lista de Dispositivos**" para a
 
 <figure><img src="../../../../.gitbook/assets/Captura de tela 2024-08-01 144803.png" alt=""><figcaption></figcaption></figure>
 
-1 - Na parte superior da tela o sistema exibe a distribuição dos dispositivos, separados por fabricantes.
-
-2 - Use os filtros Grupos, Política, Modelo e Fabricante para encontrar os dispositivos se deseja listar.
-
-3 - Utilize os Filtros Avançados para buscar o Sistema Operacional, Modo de Gerenciamento, Data Inicial de Registro e Data Final de Registro (filtrará pela data de registro dos dispositivos que estão no período especificado) para acessar as informações desejadas.
-
-4 - Para localizar um dispositivo específico, digite o número do telefone, nome do usuário, IMEI, ICCID, departamento ou telefone do usuário do dispositivo no campo “Pesquisar”.
-
-5 - Para exportar o relatório dos dispositivos, clique no botão “Excel”, o sistema exibirá no relatório apenas as informações das colunas exibidas na tela.
-
-6 - Para copiar as informações dos dispositivos, clique no botão “Copiar”, o sistema copiará para a área de transferência apenas as informações das colunas exibidas na tela.
-
-7 - Clique na opção de “Ações em lote" para aplicar uma ação em vários dispositivos de uma vez só. Para mais informações, acessar o conteúdo [Ações em lote](./#acoes-em-lote) nesta página.
-
-8 - A lista de dispositivos é mostrada na parte inferior da tela. Ao rolar a barra horizontalmente é possível visualizar todas as informações das colunas exibidas.&#x20;
+1. Na parte superior da tela o sistema exibe a distribuição dos dispositivos, separados por fabricantes.
+2. Use os filtros Grupos, Política, Modelo e Fabricante para encontrar os dispositivos se deseja listar.
+3. Utilize os Filtros Avançados para buscar o Sistema Operacional, Modo de Gerenciamento, Data Inicial de Registro e Data Final de Registro (filtrará pela data de registro dos dispositivos que estão no período especificado) para acessar as informações desejadas.
+4. Para localizar um dispositivo específico, digite o número do telefone, nome do usuário, IMEI, ICCID, departamento ou telefone do usuário do dispositivo no campo “Pesquisar”.
+5. Para exportar o relatório dos dispositivos, clique no botão “Excel”, o sistema exibirá no relatório apenas as informações das colunas exibidas na tela.
+6. Para copiar as informações dos dispositivos, clique no botão “Copiar”, o sistema copiará para a área de transferência apenas as informações das colunas exibidas na tela.
+7. Clique na opção de “Ações em lote" para aplicar uma ação em vários dispositivos de uma vez só. Para mais informações, acessar o conteúdo [Ações em lote](./#acoes-em-lote) nesta página.
+8. A lista de dispositivos é mostrada na parte inferior da tela. Ao rolar a barra horizontalmente é possível visualizar todas as informações das colunas exibidas.&#x20;
 
 <figure><img src="../../../../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
 
@@ -48,11 +41,9 @@ Clique no menu “**Dispositivos**” opção "**Lista de Dispositivos**" para a
 
 <figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-9 - Ordene as colunas: Usuário, Identificação, Licença, IMEI, Modelo, Data de Registro e Data da última comunicação com as setas "↑↓".
-
-10 - Use os três pontinhos "..." para exibir o menu de ações e aplicar a ação desejada ao dispositivo.
-
-11 - Clique no ícone de <mark style="color:red;">filtro</mark> para selecionar as colunas que ficarão visíveis, <mark style="color:red;">utilize o campo de pesquisa para pesquisar as colunas por texto e realizar o filtro,</mark> e depois clique em "Salvar" para definir a configuração como padrão da tela para o usuário logado.&#x20;
+9. Ordene as colunas: Usuário, Identificação, Licença, IMEI, Modelo, Data de Registro e Data da última comunicação com as setas "↑↓".
+10. Use os três pontinhos "..." para exibir o menu de ações e aplicar a ação desejada ao dispositivo.
+11. <mark style="color:blue;">Clique no ícone de filtro para selecionar as colunas que ficarão visíveis, utilize o campo de pesquisa para pesquisar as colunas por texto e realizar o filtro, e depois clique em "Salvar" para definir a configuração como padrão da tela para o usuário logado.</mark>&#x20;
 
 <figure><img src="../../../../.gitbook/assets/image (260).png" alt=""><figcaption></figcaption></figure>
 
