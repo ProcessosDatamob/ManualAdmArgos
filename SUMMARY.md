@@ -85,7 +85,7 @@
     * [Informações Mais Completas de Hardware](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/informacoes-mais-completas-de-hardware.md)
     * [Bloqueio de Dispositivo por Limite de Dados Móveis](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/bloqueio-de-dispositivo-por-limite-de-dados-moveis.md)
     * [Aprimoramento da Segurança: Regras de Complexidade de Senha](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/aprimoramento-da-seguranca-regras-de-complexidade-de-senha.md)
-    * [Configuração de Verificação do Play Protect](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/configuracao-de-verificacao-do-play-protect.md)
+    * [Nova Funcionalidade: Configuração de Verificação do Google Play Protect](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/nova-funcionalidade-configuracao-de-verificacao-do-google-play-protect.md)
     * [Bloqueio de Mudança de Papel de Parede Ajustado](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/bloqueio-de-mudanca-de-papel-de-parede-ajustado.md)
     * [Novo Gráfico de Consumo Total de Dados](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/novo-grafico-de-consumo-total-de-dados.md)
     * [Gráfico de Consumo de Dados por Aplicativos em WiFi](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/grafico-de-consumo-de-dados-por-aplicativos-em-wifi.md)
