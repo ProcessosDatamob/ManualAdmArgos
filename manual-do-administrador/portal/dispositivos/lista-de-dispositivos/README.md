@@ -20,7 +20,7 @@ Clique no menu “**Dispositivos**” opção "**Lista de Dispositivos**" para a
 
 <figure><img src="../../../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">A tela a seguir será exibida:</mark>
+<mark style="color:blue;">A tela a seguir será exibida:</mark>
 
 <figure><img src="../../../../.gitbook/assets/Captura de tela 2024-08-01 144803.png" alt=""><figcaption></figcaption></figure>
 
@@ -42,9 +42,11 @@ Clique no menu “**Dispositivos**” opção "**Lista de Dispositivos**" para a
 
 <figure><img src="../../../../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">E ao clicar no nome da política</mark> <mark style="color:red;">é possível acessar rapidamente a tela de edição da política no dispositivo.</mark>
+<mark style="color:blue;">E ao clicar no nome da política é possível acessar rapidamente a tela de edição da política no dispositivo.</mark>
 
-<figure><img src="../../../../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>
+<mark style="color:blue;">NOVA IMAGEM</mark>
+
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 9 - Ordene as colunas: Usuário, Identificação, Licença, IMEI, Modelo, Data de Registro e Data da última comunicação com as setas "↑↓".
 
