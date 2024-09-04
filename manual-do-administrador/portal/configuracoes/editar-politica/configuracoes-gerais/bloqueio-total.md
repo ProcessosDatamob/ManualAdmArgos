@@ -18,7 +18,7 @@ Para realizar o bloqueio de dispositivos fora do horário de trabalho, siga os p
 
 <mark style="color:red;">NOVA IMAGEM</mark>
 
-<figure><img src="../../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **OBSERVAÇÃO**

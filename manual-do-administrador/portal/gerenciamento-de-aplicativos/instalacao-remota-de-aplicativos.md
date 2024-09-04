@@ -37,7 +37,7 @@ O sistema exibirá uma lista com os aplicativos instalados nos dispositivos da e
 7. Ordene a listagem de aplicativos pelas colunas nas setas "↑↓".
 8. Ao clicar nos três pontinhos "...",  e clicar em  “Visualizar instalação", é possível acessar a tela “Detalhes de Envio do Aplicativo".
 
-<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Instalar Aplicativo
 
