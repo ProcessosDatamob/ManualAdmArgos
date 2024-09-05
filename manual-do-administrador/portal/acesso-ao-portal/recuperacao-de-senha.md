@@ -27,7 +27,7 @@ Caso não lembre a senha de acesso ao portal, realize os seguintes passos para r
 
 <mark style="color:blue;">Cada regra será mostrada em</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**verde**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">assim que for cumprida.</mark>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="257"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="257"><figcaption></figcaption></figure>
 
 6. <mark style="color:blue;">Após clicar em Continuar a senha será alterada e a tela abaixo será exibida:</mark>
 

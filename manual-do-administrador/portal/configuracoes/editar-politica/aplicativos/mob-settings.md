@@ -63,7 +63,7 @@ Após a inclusão do aplicativo na política, as configurações do app podem se
 2. Escolha o "**Tipo de instalação**" do **Mob Settings** como "**Instalação Forçada**" ou "**Pré-instalado**".
 3. Clique em "**Configurações Gerenciadas**" para abrir a tela de configurações gerenciadas do **Mob Settings.**
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ao clicar em Configurações Gerenciadas a seguinte tela será exibida:
 
@@ -75,7 +75,7 @@ As Configurações Gerenciadas para o **Mob Settings** são:&#x20;
 
 Ao ativar a chave, é bloqueado o esquecimento de senha de rede, ou seja, não permite que o usuário realize o esquecimento da senha.
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Configurações de Bluetooth**
 
