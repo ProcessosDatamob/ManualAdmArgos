@@ -13,7 +13,7 @@ Caso não lembre a senha de acesso ao portal, realize os seguintes passos para r
 3. <mark style="color:blue;">Ao clicar em “</mark><mark style="color:blue;">**Confirmar**</mark><mark style="color:blue;">” o sistema enviará uma mensagem ao seu endereço de E-mail com instruções para troca de senha.</mark>
 4. <mark style="color:blue;">Clicando no link do e-mail o você será direcionado para a tela abaixo, onde deve cadastrar uma senha:</mark>
 
-<figure><img src="../../../.gitbook/assets/image.png" alt="" width="318"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="318"><figcaption></figcaption></figure>
 
 5. <mark style="color:blue;">**Digite a nova senha**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">no campo indicado.</mark>
 
@@ -27,8 +27,8 @@ Caso não lembre a senha de acesso ao portal, realize os seguintes passos para r
 
 <mark style="color:blue;">Cada regra será mostrada em</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**verde**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">assim que for cumprida.</mark>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="257"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="257"><figcaption></figcaption></figure>
 
 6. <mark style="color:blue;">Após clicar em Continuar a senha será alterada e a tela abaixo será exibida:</mark>
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>

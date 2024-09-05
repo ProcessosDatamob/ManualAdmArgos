@@ -20,11 +20,11 @@ A tela de Dashboard pode ser considerada a “**Tela Inicial**” do sistema, po
 
 <mark style="color:blue;background-color:orange;">NOVA IMAGEM</mark>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ao acessar a tela, todas as informações serão exibidas separadas por seções. Cada seção corresponde a um dado diferente, coletado do dispositivo e todas as informações são exibidas de acordo com as opções selecionadas no filtro (Empresa, Grupo ou Usuário).
 
-Ao habilitar a opção do filtro “**Roaming internacional**”, no canto superior direito da tela, o sistema exibirá somente as informações coletadas quando os dispositivos estiverem utilizando uma conexão em Roaming.
+Ao habilitar a opção do filtro “**Roaming internacional**”, no canto superior direito da tela, o sistema exibirá <mark style="color:blue;">também</mark> as informações coletadas quando os dispositivos estiverem utilizando uma conexão em Roaming.
 
 ![](<../../.gitbook/assets/1 (10).png>)
 
@@ -53,19 +53,23 @@ No canto superior direito da tela, temos alguns ícones que tem as seguintes fun
 
 A barra de status do Dashboard mostra a situação atual de todos os usuários e licenças da empresa.
 
-![](<../../.gitbook/assets/8 (1).png>)
+<mark style="color:orange;">NOVA IMAGEM</mark>
 
-#### **Total de Usuários**
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+### **Total de Usuários**
 
 Este indicador exibe o número total de usuários de dispositivos que utilizam o aplicativo **\<NomeProduto>.**
 
-#### **Total de Licenças**
+#### **Total de Licenças **<mark style="color:blue;">**Contratadas**</mark>
 
 Este indicador exibe o número total de licenças disponíveis no **\<NomeProduto>**.
 
-![](../../.gitbook/assets/10.png)
+<mark style="color:orange;">NOVA IMAGEM</mark>
 
-#### **Licenças não instaladas no portal**
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="420"><figcaption></figcaption></figure>
+
+### **Licenças não instaladas no portal**
 
 Este indicador exibe o número total de licenças que não possuem dispositivo registrado no portal. Ou seja, são as licenças disponíveis.
 
@@ -73,7 +77,7 @@ Ao clicar nesse indicador, o sistema exibirá a tela de "**Licenças Contratadas
 
 ![](../../.gitbook/assets/11.png)
 
-#### **Dispositivos**
+### **Dispositivos**
 
 Este indicador exibe o número total de dispositivos que estão ativos no sistema e os dispositivos sem comunicação. Além disso, possibilita ao administrador ter a visibilidade dos dispositivos que estão em Modo Quiosque.
 
@@ -83,7 +87,7 @@ Este indicador exibe o número total de dispositivos que estão ativos no sistem
   Ao clicar em "**Total**” o indicador exibirá a tela “**Lista de Dispositivos**” contendo o relatório com as principais informações dos dispositivos ativos.
 * **Sem Comunicação -** Este indicador exibe o número total de dispositivos que não estão enviando dados aos servidores a um período prolongado. Ao clicar em "**Sem Comunicação**” o sistema exibe a tela de dispositivos sem comunicação.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Esta falta de comunicação pode ocorrer quando o dispositivo se encontrar nas seguintes situações:
 
@@ -99,23 +103,61 @@ Esta falta de comunicação pode ocorrer quando o dispositivo se encontrar nas s
 
 <mark style="color:blue;">Ao clicar no indicador</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Sem comunicação ,**</mark><mark style="color:blue;">o sistema exibirá uma tela contendo o relatório com as informações dos dispositivos que estão sem comunicação.</mark>
 
-#### **Consumo de Dados no Ciclo**
+### <mark style="color:blue;">**Consumo de Dados Móveis**</mark>
 
 Este indicador exibe o percentual de consumo de dados móveis dos dispositivos durante o ciclo em relação ao limite total configurado no Perfil de Consumo. Caso não seja configurado um limite no Perfil de Consumo, o gráfico não exibirá o percentual, e o sistema exibirá apenas o valor total de dados em MB utilizados.
 
-#### **Consumo de SMS no Ciclo**
+### <mark style="color:blue;">**Consumo de SMS**</mark>
 
 Este indicador exibe o percentual de consumo de SMS enviados pelos dispositivos durante o ciclo em relação ao limite total configurado no Perfil de Consumo. Caso não seja configurado um limite no Perfil de Consumo, o gráfico não exibirá o percentual, e exibirá apenas o valor total de SMS utilizados.
 
-#### <mark style="color:red;">Consumo total de dados</mark>
+### <mark style="color:blue;">Consumo total de dados</mark>
 
-<mark style="color:red;">Este gráfico de "Consumo de Dados Totais" apresenta uma visualização detalhada do uso de dados pelos dispositivos. O gráfico exibe a porcentagem de consumo para cada tipo de dado em relação ao total consumido, oferecendo uma visão clara do uso de dados durante um ciclo específico. Ao passar o mouse sobre o gráfico é exibida a legenda que informa o total de dados consumidos e a divisão específica entre os tipos de dados, facilitando a análise do consumo de dados móveis e WiFi.</mark>
+<mark style="color:blue;">Este gráfico, possibilita visualizar o consumo de dados, incluindo dados móveis, Wi-Fi e dados em roaming, no</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Dashboard**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">do portal. A funcionalidade permite uma análise detalhada do uso de dados nos dispositivos.</mark>
 
-<mark style="color:red;">Quando em modo Roaming, o gráfico também inclui dados móveis em roaming, permitindo visualizar a distribuição entre dados móveis locais, dados em roaming e WiFi.</mark>&#x20;
+<mark style="color:blue;">O gráfico exibirá:</mark>
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+* <mark style="color:blue;">**Porcentagem do consumo de dados móveis locais**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">em relação ao total de dados (móveis + Wi-Fi).</mark>
+* <mark style="color:blue;">**Porcentagem do consumo de dados via Wi-Fi**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">em relação ao total de dados (móveis + Wi-Fi).</mark>
 
-#### **Consumo de Dados por Aplicativo**
+<mark style="color:orange;">NOVA IMAGEM</mark>
+
+<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="272"><figcaption></figcaption></figure>
+
+<mark style="color:blue;">**Legenda Exibida:**</mark>
+
+* <mark style="color:blue;">**Total:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Soma de dados móveis e Wi-Fi.</mark>
+* <mark style="color:blue;">**Dados móveis locais:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Consumo de dados móveis em redes locais.</mark>
+* <mark style="color:blue;">**Wi-Fi:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Consumo total de dados via Wi-Fi.</mark>
+
+<mark style="color:blue;">Ao ativar a opção</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Roaming**</mark><mark style="color:blue;">. O gráfico exibido será atualizado para incluir o</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**consumo de dados em roaming**</mark><mark style="color:blue;">.</mark>
+
+<mark style="color:blue;">O gráfico exibirá:</mark>
+
+* <mark style="color:blue;">**Porcentagem de dados móveis locais**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(móveis + roaming + Wi-Fi).</mark>
+* <mark style="color:blue;">**Porcentagem de dados móveis em roaming**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(móveis + roaming + Wi-Fi).</mark>
+* <mark style="color:blue;">**Porcentagem de Wi-Fi**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(móveis + roaming + Wi-Fi).</mark>
+
+<mark style="color:orange;">NOVA IMAGEM</mark>
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="281"><figcaption></figcaption></figure>
+
+<mark style="color:blue;">**Legenda Exibida:**</mark>
+
+* <mark style="color:blue;">**Total:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Soma de dados móveis, Wi-Fi e roaming.</mark>
+* <mark style="color:blue;">**Dados móveis locais:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Consumo de dados móveis em redes locais.</mark>
+* <mark style="color:blue;">**Dados móveis em roaming:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Consumo de dados móveis em roaming.</mark>
+* <mark style="color:blue;">**Wi-Fi:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Consumo total de dados via Wi-Fi.</mark>
+
+<mark style="color:blue;">Ao passar o mouse sobre o gráfico ou legenda no</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Dashboard**</mark><mark style="color:blue;">, o sistema exibirá uma caixa de texto.</mark>
+
+<mark style="color:blue;">A caixa de texto exibirá:</mark>
+
+* <mark style="color:blue;">O</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**tipo de dado**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(móvel, Wi-Fi ou roaming).</mark>
+* <mark style="color:blue;">A</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**porcentagem**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">em relação ao total de dados.</mark>
+* <mark style="color:blue;">O</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**valor exato**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">do consumo de dados.</mark>
+
+### **Consumo de Dados por Aplicativo**
 
 <mark style="color:red;">Este gráfico exibe nome e valor da porcentagem dos 5 aplicativos que mais consumiram dados móveis e os 5 aplicativos que mais consumiram dados em WiFi durante o ciclo, basta clicar na opção de visualização desejada (Dados móveis ou WiFi). Os dados exibidos, são ordenados em percentual.</mark>
 
@@ -127,7 +169,7 @@ Isso oferece aos usuários uma visão mais detalhada e específica do consumo de
 
 <mark style="color:blue;background-color:orange;">NOVA IMAGEM</mark>
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Consumo de Dados por Usuário**
 
@@ -139,7 +181,7 @@ Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as in
 
 <mark style="color:blue;background-color:orange;">NOVA IMAGEM</mark>
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Tempo de Uso por Aplicativo**
 
@@ -181,13 +223,13 @@ Para realizar a análise individual dos usuários de dispositivos, clique em "**
 
 O mapa exibe a última localização dos dispositivos. Para que a localização seja exibida e atualizada, o dispositivo deve estar conectado à internet, deve haver sinal de GPS e a configuração de "**Modo de Localização**" deve estar "**Ativa**" em Localização na política aplicada ao dispositivo.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="background-color:orange;">**NOVA IMAGEM**</mark>
 
 <mark style="color:blue;">Caso o sistema não carregar as localizações no mapa, clique no botão "Exibir localizações”,  então elas serão exibidas conforme tela abaixo:</mark>
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:blue;">A regra de agrupamento dos dispositivos é a seguinte:</mark>
 

@@ -10,7 +10,7 @@
 1. <mark style="color:blue;">Acesse o Link para criação da senha que será enviado no e-mail de Boas Vindas para visualizar a tela de acesso do Portal. De preferência utilize um navegador Google Chrome, com a versão mais atualizada.</mark>
 2. <mark style="color:blue;">Ao clicar no link do e-mail o você será direcionado para a tela abaixo, onde deve cadastrar uma senha:</mark>
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="318"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="" width="318"><figcaption></figcaption></figure>
 
 3. <mark style="color:blue;">**Digite a nova senha**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">no campo indicado.</mark>
 
@@ -24,21 +24,21 @@
 
 <mark style="color:blue;">Cada regra será mostrada em</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**verde**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">assim que for cumprida.</mark>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="257"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="257"><figcaption></figcaption></figure>
 
 4. <mark style="color:blue;">Clique em “</mark><mark style="color:blue;">**Continuar**</mark><mark style="color:blue;">” para confirmar as informações e acessar o Portal.</mark>
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 5. <mark style="color:blue;">Após clicar em</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Continuar**</mark><mark style="color:blue;">, você será direcionado para a tela abaixo, onde deve informar o e-mail e a senha configurada no passo anterior:</mark>
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="" width="477"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt="" width="477"><figcaption></figcaption></figure>
 
 
 
 6. <mark style="color:blue;">No próximo passo o usuário deverá confirmar os dados da empresa. A tela de confirmação dos dados da empresa aparecerá somente no primeiro acesso e é mostrada na figura a seguir.</mark>
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="523"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="" width="523"><figcaption></figcaption></figure>
 
 7. <mark style="color:blue;">Confirmar o Nome da Empresa e E-mail;</mark>
 8. <mark style="color:blue;">Criar uma senha; (Adicionar informações sobre a complexidade da senha)</mark>
