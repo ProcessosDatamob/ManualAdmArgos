@@ -173,7 +173,7 @@ Isso oferece aos usuários uma visão mais detalhada e específica do consumo de
 
 ### **Consumo de Dados por Usuário**
 
-<mark style="color:red;">Este gráfico exibe os 5 usuários que mais consumiram dados móveis e os que mais consumiram dados em WiFi durante o ciclo, basta clicar na opção de visualização desejada (Dados móveis ou WiFi). Os dados exibidos, são ordenados em percentual.</mark>
+<mark style="color:blue;">Este gráfico exibe os 5 usuários que mais consumiram dados móveis e os que mais consumiram dados em WiFi durante o ciclo, basta clicar na opção de visualização desejada (Dados móveis ou WiFi). Os dados exibidos, são ordenados em percentual.</mark>
 
 O valor percentual de cada um dos 5 usuários é calculado em relação à soma total de consumo de todos os usuários durante o ciclo.
 

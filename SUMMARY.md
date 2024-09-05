@@ -89,7 +89,7 @@
     * [Controle de Alteração de Papel de Parede](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/controle-de-alteracao-de-papel-de-parede.md)
     * [Novo Gráfico de Consumo Total de Dados](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/novo-grafico-de-consumo-total-de-dados.md)
     * [Dados de Consumo WiFi Adicionados ao Gráfico de Aplicativos](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/dados-de-consumo-wifi-adicionados-ao-grafico-de-aplicativos.md)
-    * [Gráfico de Consumo de Usuário em WiFi](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/grafico-de-consumo-de-usuario-em-wifi.md)
+    * [Dados de Consumo WiFi Adicionados ao Gráfico de Usuário](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/dados-de-consumo-wifi-adicionados-ao-grafico-de-usuario.md)
     * [Relatório de Consumo de Dados em WiFi](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/relatorio-de-consumo-de-dados-em-wifi.md)
     * [Relatório de Consumo de Aplicativos em WiFi](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/relatorio-de-consumo-de-aplicativos-em-wifi.md)
     * [Ajustes e Correções da Versão - V 13.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/ajustes-e-correcoes-da-versao-v-13.0.0.md)
