@@ -43,7 +43,7 @@ Estando na aba "**Configurações**" da tela "**Editar Políticas**", clique em 
 
 <figure><img src="../../../../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
 
-### Bloqueio fora do Horário de Trabalho
+#### Bloqueio fora do Horário de Trabalho
 
 Para realizar o bloqueio de dispositivos fora do horário de trabalho, siga os passos a seguir:
 
@@ -67,7 +67,7 @@ Sendo assim, quando o dispositivo estiver fora do horário de trabalho configura
 
 Quando o dispositivo estiver dentro do horário de trabalho configurado, todos os aplicativos voltam a ser exibidos, sem a necessidade de instalar novamente.
 
-### Bloqueio Limite de Dados
+#### Bloqueio Limite de Dados
 
 Para ativar o bloqueio do dispositivo por limite de uso dos dados móveis, habilite a opção "Bloquear dispositivo por limite de uso dos dados móveis".
 
