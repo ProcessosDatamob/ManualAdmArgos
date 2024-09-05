@@ -6,6 +6,8 @@
 
 <mark style="color:blue;">Importante: as informações de consumo de WiFi não estarão disponíveis em versões anteriores do aplicativo</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**\<NomeProduto>**</mark><mark style="color:blue;">.</mark>
 
+<mark style="color:blue;">Mais informações na seção</mark> [<mark style="color:blue;">Informações dos Aplicativos</mark>](../../portal/dispositivos/informacoes-dos-aplicativos.md)
+
 <figure><img src="../../../.gitbook/assets/image (273).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)
