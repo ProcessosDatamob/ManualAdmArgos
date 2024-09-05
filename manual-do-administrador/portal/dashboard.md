@@ -159,7 +159,7 @@ Este indicador exibe o percentual de consumo de SMS enviados pelos dispositivos 
 
 ### **Consumo de Dados por Aplicativo**
 
-<mark style="color:red;">Este gráfico exibe nome e valor da porcentagem dos 5 aplicativos que mais consumiram dados móveis e os 5 aplicativos que mais consumiram dados em WiFi durante o ciclo, basta clicar na opção de visualização desejada (Dados móveis ou WiFi). Os dados exibidos, são ordenados em percentual.</mark>
+<mark style="color:blue;">Este gráfico exibe nome e valor da porcentagem dos 5 aplicativos que mais consumiram dados móveis e os 5 aplicativos que mais consumiram dados em WiFi durante o ciclo, basta clicar na opção de visualização desejada (Dados móveis ou WiFi). Os dados exibidos, são ordenados conforme o percentual.</mark>
 
 O valor percentual de cada um dos 5 aplicativos é calculado em relação à soma total de consumo de todos os aplicativos durante o ciclo, os dados são atualizados sempre que acessar a tela.
 
