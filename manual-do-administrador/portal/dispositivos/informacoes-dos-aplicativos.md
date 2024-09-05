@@ -6,17 +6,17 @@ O submenu Informações dos aplicativos mostra as informações dos aplicativos 
 
 ![](<../../../.gitbook/assets/18 (2).png>)
 
+<mark style="color:blue;background-color:orange;">NOVA IMAGEM</mark>
+
+<figure><img src="../../../.gitbook/assets/Captura de tela 2024-08-27 164733.png" alt=""><figcaption></figcaption></figure>
+
 2. Na parte superior, pode ser filtrado por Grupo ou Usuários, de modo que a lista de aplicações é mostrada abaixo de acordo com o filtro selecionado;
 3. A lista de dispositivos é exibida na parte inferior da tela;
 4. Para buscar um aplicativo específico, escreva o nome do aplicativo no campo de Busca;
 5. Para exportar o relatório dos dispositivos, clique no botão "Excel";
 6. Para copiar as informações dos dispositivos, clique no botão "Copiar";
-7. Ordene a lista de aplicativos nas colunas clicando nas setas “![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/U%2B21C5.svg/22px-U%2B21C5.svg.png)”
+7. Ordene a lista de aplicativos nas colunas clicando nas setas “![](https://datamob.gitbook.io/\~gitbook/image?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fe%2Feb%2FU%252B21C5.svg%2F22px-U%252B21C5.svg.png\&width=300\&dpr=4\&quality=100\&sign=b73b2481\&sv=1)”
 8. Utilize os três pontos "..." para mostrar o menu de ações e ver os detalhes dos aplicativos;
-
-<mark style="color:blue;background-color:orange;">NOVA IMAGEM</mark>
-
-<figure><img src="../../../.gitbook/assets/Captura de tela 2024-08-27 164733.png" alt=""><figcaption></figcaption></figure>
 
 ### **Histórico de Consumo**
 

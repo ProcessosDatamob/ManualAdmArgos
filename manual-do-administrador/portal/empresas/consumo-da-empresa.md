@@ -12,8 +12,8 @@ Para visualizar os consumos, siga os passos descritos abaixo.
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2024-08-27 161617.png" alt=""><figcaption></figcaption></figure>
 
-2. Clique na aba Dados, SMS <mark style="color:red;">ou WiFi</mark> para escolher o tipo de consumo que deseja visualizar.
-3. Preencha as datas do intervalo em que os Dados, SMS <mark style="color:red;">ou WiFi</mark> que deseja visualizar foram consumidos. Ao clicar em "Buscar" serão exibidos os históricos de consumo, por usuário, no período especificado.
+2. Clique na aba Dados, SMS <mark style="color:blue;">ou WiFi</mark> para escolher o tipo de consumo que deseja visualizar.
+3. Preencha as datas do intervalo em que os Dados, SMS <mark style="color:blue;">ou WiFi</mark> que deseja visualizar foram consumidos. Ao clicar em "Buscar" serão exibidos os históricos de consumo, por usuário, no período especificado.
 4. Caso queira visualizar os consumos de um dispositivo específico, digite o número do dispositivo no campo “Pesquisar”.
 5. Para ordenar as informações exibidas, clique no título da informação que desejar (Data, Usuário, Telefone, Empresa...).
 6. Para exportar as informações dos consumos, clique no botão “Excel”.
