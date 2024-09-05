@@ -24,11 +24,11 @@
 
 <mark style="color:blue;">Cada regra será mostrada em</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**verde**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">assim que for cumprida.</mark>
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="257"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="257"><figcaption></figcaption></figure>
 
 4. <mark style="color:blue;">Clique em “</mark><mark style="color:blue;">**Continuar**</mark><mark style="color:blue;">” para confirmar as informações e acessar o Portal.</mark>
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 5. <mark style="color:blue;">Após clicar em</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Continuar**</mark><mark style="color:blue;">, você será direcionado para a tela abaixo, onde deve informar o e-mail e a senha configurada no passo anterior:</mark>
 

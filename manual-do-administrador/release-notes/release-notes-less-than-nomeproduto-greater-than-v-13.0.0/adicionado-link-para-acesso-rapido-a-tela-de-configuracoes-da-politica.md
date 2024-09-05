@@ -6,7 +6,7 @@
 
 <mark style="color:blue;">Mais informações na seção</mark> [<mark style="color:blue;">Lista de Dispositivos</mark>](../../portal/dispositivos/lista-de-dispositivos/) <mark style="color:blue;">e</mark> [<mark style="color:blue;">Opções de gerenciamento de dispositivos.</mark>](../../portal/dispositivos/lista-de-dispositivos/opcoes-de-gerenciamento-de-dispositivos.md)
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="262"><figcaption></figcaption></figure>
 
