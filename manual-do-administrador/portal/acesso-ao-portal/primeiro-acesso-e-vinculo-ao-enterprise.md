@@ -41,7 +41,7 @@
 <figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="" width="523"><figcaption></figcaption></figure>
 
 7. <mark style="color:blue;">Confirmar o Nome da Empresa e E-mail;</mark>
-8. <mark style="color:blue;">Criar uma senha; (Adicionar informações sobre a complexidade da senha)</mark>
+8. <mark style="color:blue;">Criar uma senha;</mark>&#x20;
 9. <mark style="color:blue;">Repetir a digitação da senha para confirmá-la;</mark>
 10. <mark style="color:blue;">Marcar que concorda com a Política de Privacidade e com o Termos de uso;</mark>
 11. <mark style="color:blue;">Clicar no botão "Próximo''.</mark>
