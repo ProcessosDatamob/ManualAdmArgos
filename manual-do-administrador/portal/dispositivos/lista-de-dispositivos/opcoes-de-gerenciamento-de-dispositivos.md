@@ -175,7 +175,7 @@ _<mark style="color:blue;">Você deseja mesmo remover este dispositivo? Essa aç
 2.  <mark style="color:blue;">Serão exibidas as opções de Voltar e Atualizar, sendo que ao clicar sobre Atualizar, serão atualizadas as informações e será exibida a data de atualização das informações ao passar o mouse sobre o botão atualizar.</mark>
 
     &#x20;
-3. <mark style="color:blue;">3 - As abas com opções para edição e informações do dispositivo. As abas são:</mark>\ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Informações</mark>](opcoes-de-gerenciamento-de-dispositivos.md#informacoes) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Aplicativos</mark>](opcoes-de-gerenciamento-de-dispositivos.md#aplicativos) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Bateria</mark>](opcoes-de-gerenciamento-de-dispositivos.md#bateria) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Armazenamento Livre</mark>](opcoes-de-gerenciamento-de-dispositivos.md#armazenamento-livre) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Geolocalização</mark> ](opcoes-de-gerenciamento-de-dispositivos.md#geolocalizacao) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Não Conformidades</mark>](opcoes-de-gerenciamento-de-dispositivos.md#nao-conformidades)
+3. <mark style="color:blue;">As abas com opções para edição e informações do dispositivo. As abas são:</mark>\ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Informações</mark>](opcoes-de-gerenciamento-de-dispositivos.md#informacoes) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Aplicativos</mark>](opcoes-de-gerenciamento-de-dispositivos.md#aplicativos) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Bateria</mark>](opcoes-de-gerenciamento-de-dispositivos.md#bateria) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Armazenamento Livre</mark>](opcoes-de-gerenciamento-de-dispositivos.md#armazenamento-livre) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Geolocalização</mark> ](opcoes-de-gerenciamento-de-dispositivos.md#geolocalizacao) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Não Conformidades</mark>](opcoes-de-gerenciamento-de-dispositivos.md#nao-conformidades)
 
 \ <mark style="color:blue;">Abaixo segue a explicação de cada uma delas:</mark>
 
@@ -250,8 +250,8 @@ Na aba "**Armazenamento Livre**" é possível visualizar a memória livre no arm
 * <mark style="color:blue;">**Posição atual ou última posição coletada no dia**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">– última localização do dispositivo registrada no dia;</mark>
 * <mark style="color:blue;">**Lugar onde o usuário passou**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">– localizações registradas no dia, entre a primeira e a última.</mark>
 
-9. <mark style="color:blue;">Clique no marcador para visualizar as informações da localização.</mark>
-10. <mark style="color:blue;">Utilize os recursos do mapa para otimizar a visualização.</mark>
+7. <mark style="color:blue;">Clique no marcador para visualizar as informações da localização.</mark>
+8. <mark style="color:blue;">Utilize os recursos do mapa para otimizar a visualização.</mark>
 
 <figure><img src="../../../../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
 
