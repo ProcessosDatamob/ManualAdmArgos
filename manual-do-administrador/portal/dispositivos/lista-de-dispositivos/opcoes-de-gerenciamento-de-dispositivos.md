@@ -131,40 +131,6 @@ Esta operação permite excluir um dispositivo, ela limpa os dados e configuraç
 Uma mensagem é exibida na tela para informação e advertência. A operação não pode ser desfeita, portanto, confirme somente quando tiver certeza de que deseja eliminar o dispositivo.
 {% endhint %}
 
-### <mark style="color:blue;">**Remover Dispositivo com**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">CHIP Bloqueado</mark>
-
-<mark style="color:blue;">Ao enviar o comando de remoção de um dispositivo que esta ativado em uma política Android Block SIM e com o CHIP bloqueado, o usuário administrador será alertado para que possa enviar um comando de remover o bloqueio do CHIP antes de remover o dispositivo do portal.</mark>
-
-<figure><img src="../../../../.gitbook/assets/Tela Remover Dispositivo - WIPE - Block SIM.png" alt=""><figcaption></figcaption></figure>
-
-<mark style="color:blue;">Será exibida a mensagem:</mark>  <mark style="color:blue;"></mark>_<mark style="color:blue;">Este dispositivo pode estar com o CHIP SIM bloqueado.</mark>_
-
-_<mark style="color:blue;">Deseja enviar um comando de remoção do "Bloqueio do CHIP”?</mark>_
-
-<mark style="color:blue;">Ao clicar na opção SIM , o comando de remoção do bloqueio de CHIP é enviado e é exibida a mensagem:</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">Comando enviado com sucesso! Aguarde para tentar remover o dispositivo novamente.</mark>_&#x20;
-
-<mark style="color:blue;">Então o sistema aguarda a confirmação antes de permitir a remoção do dispositivo.</mark>&#x20;
-
-{% hint style="info" %}
-<mark style="color:blue;">O usuário do dispositivo, precisa clicar no push ou abrir o aplicativo Block SIM para realizar a remoção do bloqueio.</mark>
-{% endhint %}
-
-<mark style="color:blue;">Caso o administrador optar por não enviar o comando, será exibida a seguinte mensagem:</mark> <mark style="color:blue;"></mark>_<mark style="color:blue;">Ao remover este dispositivo, o uso dos dados móveis do CHIP SIM do usuário poderá ficar bloqueado!</mark>_
-
-_<mark style="color:blue;">Você deseja mesmo remover este dispositivo? Essa ação não poderá ser desfeita.</mark>_&#x20;
-
-<figure><img src="../../../../.gitbook/assets/Tela Remover Dispositivo - WIPE - Caminha NÃO Block SIM.png" alt=""><figcaption></figcaption></figure>
-
-<mark style="color:blue;">Então após optar por enviar o comando de desbloqueio do chip e o portal já tiver recebido a confirmação da remoção do Bloqueio do CHIP no dispositivo, então  o sistema exibirá a seguinte mensagem:</mark>
-
-_<mark style="color:blue;">Você deseja mesmo remover este dispositivo? Essa ação não pode ser desfeita</mark>_
-
-<mark style="color:blue;">E serão exibidas as opções “Remover" e "Cancelar"</mark>
-
-<mark style="color:blue;">Dessa forma, essa funcionalidade ajuda a evitar problemas de bloqueio de CHIP que possam surgir ao remover dispositivos da gestão.</mark>
-
-<figure><img src="../../../../.gitbook/assets/Tela Dispositivo Remover Bloqueio de CHIP.png" alt="" width="205"><figcaption></figcaption></figure>
-
 ## **Gerenciar**
 
 <mark style="color:blue;">Ao clicar na opção</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Gerenciar**</mark><mark style="color:blue;">, será exibida a tela</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Gerenciar Dispositivo.**</mark>

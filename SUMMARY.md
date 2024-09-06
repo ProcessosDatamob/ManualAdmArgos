@@ -77,7 +77,6 @@
     * [Alterado Layout das Informações dos Dispositivos](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/alterado-layout-das-informacoes-dos-dispositivos.md)
     * [Adicionada Aba  de Geolocalização no Gerenciar do Dispositivo](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/adicionada-aba-de-geolocalizacao-no-gerenciar-do-dispositivo.md)
     * [Movido Relatório de Não Conformidade para Opção "Gerenciar"](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/movido-relatorio-de-nao-conformidade-para-opcao-gerenciar.md)
-    * [Alerta ao enviar Comando para Remover Dispositivo com CHIP Bloqueado](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/alerta-ao-enviar-comando-para-remover-dispositivo-com-chip-bloqueado.md)
     * [Reinicio de Bloqueio de CHIP](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/reinicio-de-bloqueio-de-chip.md)
     * [Adicionado Link para acesso rápido a tela de Configurações da Política](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/adicionado-link-para-acesso-rapido-a-tela-de-configuracoes-da-politica.md)
     * [Nova Sessão "SIM" e Informações do eSIM no Dispositivo](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/nova-sessao-sim-e-informacoes-do-esim-no-dispositivo.md)
