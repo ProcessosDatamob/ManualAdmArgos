@@ -70,7 +70,7 @@ Nesta tela é possível ver a identificação do aplicativo selecionado e a tela
 {% hint style="info" %}
 **NOTA**
 
-As configurações disponíveis, vão ser exibidas conforme o que estiver disponível para cada aplicativo, ou seja, irá variar as configurações disponíveis dependendo do aplicativo selecionado. Em alguns aplicativos por exemplo, vai exibir a mensagem: _Não existem configurações disponíveis para este aplicativo._ <mark style="color:blue;">Estas configurações de trabalho dependem da empresa que criou a aplicação.</mark>
+As configurações disponíveis, vão ser exibidas conforme o que estiver disponível para cada aplicativo, ou seja, irá variar as configurações disponíveis dependendo do aplicativo selecionado. Em alguns aplicativos por exemplo, vai exibir a mensagem: _Não existem configurações disponíveis para este aplicativo._ Estas configurações de trabalho dependem da empresa que criou a aplicação.
 {% endhint %}
 
 ### **Permissões**
@@ -89,7 +89,7 @@ Após o passo 2 a tela a seguir será exibida. A lista de permissões, que podem
 As permissões podem ser configuradas como: Solicitar ao usuário, Ativada ou Negada.
 
 {% hint style="info" %}
-**Observação**
+**OBSERVAÇÃO**
 
 Se a opção “Permissões" aparecer desabilitada no sistema, é para evitar que o usuário acesse configurações que não são relevantes para sua função. Visando garantir que o usuário não se confunda ou tente ajustar configurações que não estão dentro de suas atribuições ou necessidades específicas dentro do sistema.
 

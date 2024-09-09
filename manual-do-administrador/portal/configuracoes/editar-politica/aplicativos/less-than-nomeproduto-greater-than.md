@@ -24,8 +24,6 @@ Sendo assim, para acessar as “Permissões Opcionais",  clique nos três pontin
 
 Ao expandir as "Permissões Opcionais" serão exibidas várias opções e será possível ativar e desativar cada uma das configurações.&#x20;
 
-<mark style="color:red;">NOVA IMAGEM</mark>
-
 <figure><img src="../../../../../.gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
 
 As "Permissões Opcionais" incluem os seguintes ajustes:
@@ -36,6 +34,6 @@ As "Permissões Opcionais" incluem os seguintes ajustes:
 * Estabelecer o Permissão "Leitura de SMS" como Opcional: Permite ao usuário optar por não ativar este permissão durante a configuração. Sem esta permissão, a aplicação não capturará informações dos SMS enviados, e essa informação não será exibida no Portal.
 * Estabelecer o Permissão "Instalação de Apps de Fontes Desconhecidas" como Opcional: Permite ao usuário optar por não ativar este permissão durante a configuração. Sem esta permissão, a aplicação não poderá instalar aplicativos remotamente.
 * Estabelecer o Permissão "Sobreposição de Tela" como Opcional: Permite ao usuário optar por não ativar este permissão durante a configuração. Sem esta permissão, a aplicação não exibirá a mensagem de confirmação para instalação de aplicativos remotamente.
-* <mark style="color:blue;">Estabelecer o Permissão "Agendar Alarmes" como Opcional: Permite ao usuário optar por não ativar este permissão durante a configuração. Caso o usuário não ative esta permissão, o aplicativo não executará as seguintes funcionalidades: instalação remota de aplicativos, registro de geolocalização do dispositivo, remoção de bloqueio de CHIP, bloqueio total de aplicativos. Essa configuração não será exibida em dispositivos com versão inferior a Android 13 e caso a permissão de “Ignorar Otimização Bateria" esteja ativada no dispositivo, pois ela também ativa a permissão de 'Agendar Alarmes' automaticamente.</mark>
+* Estabelecer o Permissão "Agendar Alarmes" como Opcional: Permite ao usuário optar por não ativar este permissão durante a configuração. Caso o usuário não ative esta permissão, o aplicativo não executará as seguintes funcionalidades: instalação remota de aplicativos, registro de geolocalização do dispositivo, remoção de bloqueio de CHIP, bloqueio total de aplicativos. Essa configuração não será exibida em dispositivos com versão inferior a Android 13 e caso a permissão de “Ignorar Otimização Bateria" esteja ativada no dispositivo, pois ela também ativa a permissão de 'Agendar Alarmes' automaticamente.
 
 Ao clicar em "Salvar" o sistema enviará as configurações selecionadas para os dispositivos.

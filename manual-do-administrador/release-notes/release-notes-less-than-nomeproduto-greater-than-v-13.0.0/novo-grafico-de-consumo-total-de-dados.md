@@ -1,14 +1,14 @@
 # Novo Gráfico de Consumo Total de Dados
 
-<mark style="color:blue;">Foi implementado um novo gráfico de</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Consumo Total de Dados**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">no</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Dashboard**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">do portal. Este gráfico em formato de "donut" permite visualizar de forma clara a distribuição do consumo de dados pelos dispositivos, incluindo:</mark>
+Foi implementado um novo gráfico de **Consumo Total de Dados** no **Dashboard** do portal. Este gráfico em formato de "donut" permite visualizar de forma clara a distribuição do consumo de dados pelos dispositivos, incluindo:
 
-* <mark style="color:blue;">**Dados móveis locais**</mark><mark style="color:blue;">: Exibe o consumo total de dados móveis.</mark>
-* <mark style="color:blue;">**Dados Wi-Fi**</mark><mark style="color:blue;">: Mostra o consumo total de dados via Wi-Fi.</mark>
-* <mark style="color:blue;">**Dados móveis em roaming**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(quando aplicável): Exibe o consumo de dados móveis durante o roaming.</mark>
+* **Dados móveis locais**: Exibe o consumo total de dados móveis.
+* **Dados Wi-Fi**: Mostra o consumo total de dados via Wi-Fi.
+* **Dados móveis em roaming** (quando aplicável): Exibe o consumo de dados móveis durante o roaming.
 
-<mark style="color:blue;">A funcionalidade inclui uma</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**legenda detalhada**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">e uma caixa de texto que fornece informações adicionais, como porcentagens e valores exatos de dados consumidos, ao passar o mouse sobre o gráfico.</mark>
+A funcionalidade inclui uma **legenda detalhada** e uma caixa de texto que fornece informações adicionais, como porcentagens e valores exatos de dados consumidos, ao passar o mouse sobre o gráfico.
 
-<mark style="color:blue;">Essa nova visualização facilita a análise e o gerenciamento do uso de dados pelos dispositivos, proporcionando uma visão completa e detalhada.</mark>
+Essa nova visualização facilita a análise e o gerenciamento do uso de dados pelos dispositivos, proporcionando uma visão completa e detalhada.
 
 <mark style="color:blue;">Mais informações na seção</mark> [<mark style="color:blue;">Dashboard</mark>](../../portal/dashboard.md)<mark style="color:blue;">.</mark>
 

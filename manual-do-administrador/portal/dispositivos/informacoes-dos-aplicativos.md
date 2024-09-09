@@ -6,8 +6,6 @@ O submenu Informações dos aplicativos mostra as informações dos aplicativos 
 
 ![](<../../../.gitbook/assets/18 (2).png>)
 
-<mark style="color:blue;background-color:orange;">NOVA IMAGEM</mark>
-
 <figure><img src="../../../.gitbook/assets/Captura de tela 2024-08-27 164733.png" alt=""><figcaption></figcaption></figure>
 
 2. Na parte superior, pode ser filtrado por Grupo ou Usuários, de modo que a lista de aplicações é mostrada abaixo de acordo com o filtro selecionado;
@@ -22,14 +20,10 @@ O submenu Informações dos aplicativos mostra as informações dos aplicativos 
 
 Para acessar esta tela, use os três pontos no final da linha do aplicativo. Nesta tela pode-se visualizar o gráfico de evolução do consumo de dados da aplicação dos dispositivos.
 
-<mark style="color:blue;background-color:orange;">NOVA IMAGEM</mark>
-
 <figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ### **Usuários com Aplicativos**
 
 Para acessar esta tela, use os três pontos no final da linha do aplicativo. Nesta tela, você pode ver todos os dispositivos que possuem o aplicativo instalado.
-
-<mark style="color:blue;background-color:orange;">NOVA IMAGEM</mark>
 
 <figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>

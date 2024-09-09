@@ -81,7 +81,7 @@ Ao ativar a chave, é bloqueado o esquecimento de senha de rede, ou seja, não p
 
 O Mob Settings permite que os administradores configurem e gerenciem o Bluetooth dos dispositivos de forma simplificada. Isso inclui ativar ou desativar o Bluetooth, tornar o dispositivo visível para outros dispositivos, e emparelhar com dispositivos Bluetooth disponíveis.
 
-<mark style="color:blue;">Quando o aplicativo Mob Settings é adicionado a uma política, a configuração gerenciada de Bluetooth está ativada por padrão , permitindo que os administradores ativem ou desativem essa funcionalidade conforme necessário.</mark>
+Quando o aplicativo Mob Settings é adicionado a uma política, a configuração gerenciada de Bluetooth está ativada por padrão , permitindo que os administradores ativem ou desativem essa funcionalidade conforme necessário.
 
 <figure><img src="../../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -98,7 +98,7 @@ O Mob Settings permite que os administradores configurem e gerenciem o Bluetooth
 
 Com o Mob Settings, os administradores podem ajustar várias configurações de tela dos dispositivos, como brilho, orientação e tempo de espera da tela.
 
-<mark style="color:blue;">Assim como com o Bluetooth, a configuração gerenciada de tela é disponibilizada ao portal quando o aplicativo Mob Settings é adicionado a política.  A configuração de tela estará ativada por padrão, permitindo que os administradores façam ajustes conforme necessário.</mark>
+Assim como com o Bluetooth, a configuração gerenciada de tela é disponibilizada ao portal quando o aplicativo Mob Settings é adicionado a política.  A configuração de tela estará ativada por padrão, permitindo que os administradores façam ajustes conforme necessário.
 
 <figure><img src="../../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -113,7 +113,7 @@ Com o Mob Settings, os administradores podem ajustar várias configurações de 
 
 O Mob Settings também permite que os administradores controlem as configurações de Wi-Fi, facilitando o acesso e o gerenciamento das conexões sem fio nos dispositivos.
 
-<mark style="color:blue;">Quando o aplicativo Mob Settings é adicionado a uma política, a configuração gerenciada de Wi-Fi está ativada por padrão , permitindo que os administradores ativem ou desativem essa funcionalidade conforme necessário.</mark>
+Quando o aplicativo Mob Settings é adicionado a uma política, a configuração gerenciada de Wi-Fi está ativada por padrão , permitindo que os administradores ativem ou desativem essa funcionalidade conforme necessário.
 
 <figure><img src="../../../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

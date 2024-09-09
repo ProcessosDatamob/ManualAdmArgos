@@ -16,7 +16,7 @@ layout:
 
 As configurações gerais são agrupadas nos tipos:
 
-* <mark style="color:red;">Bloqueio Total;</mark>
+* Bloqueio Total;
 * Hardware;
 * Localização;
 * Rede;
@@ -25,7 +25,6 @@ As configurações gerais são agrupadas nos tipos:
 * Sistema Operacional;
 * Tela;
 * Tela de Bloqueio;
-* ~~<mark style="color:red;">Trabalho;</mark>~~ <mark style="color:red;"></mark><mark style="color:red;">remover</mark>
 * Usuário;
 * VPN;
 

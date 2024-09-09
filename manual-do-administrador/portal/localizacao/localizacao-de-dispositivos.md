@@ -20,8 +20,6 @@ Para visualizar e gerar o relatório das localizações, siga os passos descrito
 
 1. Clique no menu “**Localização**” e selecione o submenu “**Localização de dispositivos**”
 
-<mark style="color:red;">NOVA IMAGEM</mark>
-
 <figure><img src="../../../.gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
 
 2. Selecione o usuário ou as datas que deseja buscar para obter informações

@@ -18,13 +18,9 @@ layout:
 
 Ao clicar nos três pontinhos "**...**" à direita na listagem dos dispositivos, são exibidas aparecem as opções de consulta e configurações do dispositivo, como ilustrado na imagem abaixo:
 
-<mark style="color:red;">NOVA IMAGEM</mark>
-
 <figure><img src="../../../../.gitbook/assets/image (255).png" alt=""><figcaption></figcaption></figure>
 
-As opções disponíveis variam de acordo com o Modo de Gerenciamento da política na qual o dispositivo estiver vinculado e estão em destaque na imagem a seguir:x'
-
-<mark style="color:red;">REMOVIDA A OPÇÃO Relatório de Não Conformidade</mark>
+As opções disponíveis variam de acordo com o Modo de Gerenciamento da política na qual o dispositivo estiver vinculado e estão em destaque na imagem a seguir:
 
 <table><thead><tr><th width="272.28506787330315">Modo de Gerenciamento</th><th>Opções disponíveis</th></tr></thead><tbody><tr><td><strong>Android</strong></td><td>Alterar Política<br>Ativar/ Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Gerar Nova Senha do Dispositivo<br>Remover Dispositivo (WIPE)<br>Gerenciar Informações</td></tr><tr><td><strong>Android Block SIM</strong></td><td><p>Alterar Política<br>Ativar/Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo</p><p>Gerar Nova Senha do Bloqueio de Tela<br>Remover Bloqueio de Tela</p><p>Remover Bloqueio de Chip<br>Remover Dispositivo (WIPE)<br>Gerenciar </p></td></tr><tr><td><strong>Android Work Profile</strong></td><td>Alterar Política<br>Remover Dispositivo (WIPE)<br>Gerenciar </td></tr></tbody></table>
 
@@ -64,7 +60,7 @@ Esta operação envia um comando para reiniciar o dispositivo. Escolha a opção
 
 ### **Gerar nova senha do Bloqueio de Tela**
 
-<mark style="color:blue;">Esta opção permite ao administrador configurar a senha do bloqueio de tela do Block SIM para permitir a alteração remota da senha. Na Lista de Dispositivos, clique na opção “Gerar Nova Senha do Bloqueio de Tela", preencha e confirme a nova senha do Bloqueio de Tela, utilizando letras, números e símbolos. Confirme a alteração da senha, e ao confirmar, o comando será enviado via push ao</mark> Aplicativo de Gestão <mark style="color:blue;">para aplicação no dispositivo.</mark>
+Esta opção permite ao administrador configurar a senha do bloqueio de tela do Block SIM para permitir a alteração remota da senha. Na Lista de Dispositivos, clique na opção “Gerar Nova Senha do Bloqueio de Tela", preencha e confirme a nova senha do Bloqueio de Tela, utilizando letras, números e símbolos. Confirme a alteração da senha, e ao confirmar, o comando será enviado via push ao \<NomeProduto> para aplicação no dispositivo.
 
 ### **Remover Bloqueio de Tela**
 
@@ -101,24 +97,22 @@ Ao selecionar a opção "Não pedir credenciais de usuário na inicialização d
 
 Esta opção permite que o administrador envie um comando para remover o bloqueio de chip (SIM) de um dispositivo, liberando o acesso do usuário ao dispositivo.&#x20;
 
-Na tela "Lista de Dispositivos", selecione a política “Android - Block SIM” e a opção "Remover Bloqueio de Chip", o sistema exibirá uma mensagem de confirmação para o envio da remoção do bloqueio de chip, permitindo confirmar ou cancelar. Após enviar o comando de remoção, o dispositivo receberá um push com o comando, o \<NomeProduto>  captura o comando e envia para o Block SIM. <mark style="color:blue;">O usuário do dispositivo, precisa clicar no push ou abrir o aplicativo Block SIM para realizar a remoção do bloqueio.</mark>
-
-<mark style="color:blue;">NOVA IMAGEM</mark>
+Na tela "Lista de Dispositivos", selecione a política “Android - Block SIM” e a opção "Remover Bloqueio de Chip", o sistema exibirá uma mensagem de confirmação para o envio da remoção do bloqueio de chip, permitindo confirmar ou cancelar. Após enviar o comando de remoção, o dispositivo receberá um push com o comando, o \<NomeProduto>  captura o comando e envia para o Block SIM. O usuário do dispositivo, precisa clicar no push ou abrir o aplicativo Block SIM para realizar a remoção do bloqueio<mark style="color:blue;">.</mark>
 
 <figure><img src="../../../../.gitbook/assets/image (279).png" alt="" width="375"><figcaption></figcaption></figure>
 
 
 
-### <mark style="color:blue;">Reinicio de Bloqueio de CHIP</mark>
+### Reinicio de Bloqueio de CHIP
 
-<mark style="color:blue;">A funcionalidade de "Reinício de Bloqueio de CHIP" permite que, após a remoção do bloqueio do CHIP SIM em um dispositivo, o administrador possa bloquear o CHIP novamente.</mark>&#x20;
+A funcionalidade de "Reinício de Bloqueio de CHIP" permite que, após a remoção do bloqueio do CHIP SIM em um dispositivo, o administrador possa bloquear o CHIP novamente.&#x20;
 
-<mark style="color:blue;">Isso possibilita que, após a remoção do bloqueio, o administrador possa trocar o CHIP do dispositivo e aplicar um novo bloqueio, garantindo a flexibilidade de gestão e segurança dos dispositivos gerenciados.</mark>
+Isso possibilita que, após a remoção do bloqueio, o administrador possa trocar o CHIP do dispositivo e aplicar um novo bloqueio, garantindo a flexibilidade de gestão e segurança dos dispositivos gerenciados.
 
 {% hint style="info" %}
-<mark style="color:blue;">**OBSERVAÇÃO**</mark>
+**OBSERVAÇÃO**
 
-<mark style="color:blue;">Após a remoção do bloqueio, é possível reiniciar um bloqueio sem resetar o dispositivo, sem a necessidade de formatar o dispositivo.</mark>
+Após a remoção do bloqueio, é possível reiniciar um bloqueio sem resetar o dispositivo, sem a necessidade de formatar o dispositivo.
 {% endhint %}
 
 ### **Remover Dispositivo (WIPE)**
@@ -133,53 +127,49 @@ Uma mensagem é exibida na tela para informação e advertência. A operação n
 
 ## **Gerenciar**
 
-<mark style="color:blue;">Ao clicar na opção</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Gerenciar**</mark><mark style="color:blue;">, será exibida a tela</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Gerenciar Dispositivo.**</mark>
+Ao clicar na opção **Gerenciar**, será exibida a tela **Gerenciar Dispositivo.**
 
 <figure><img src="../../../../.gitbook/assets/Captura de tela 2024-08-01 140102.png" alt=""><figcaption></figcaption></figure>
 
-1. <mark style="color:blue;">Nesta tela estão agrupadas os Comandos e Ações do dispositivo que já detalhamos anteriormente, de acordo com o Modo de Gerenciamento ou Sistema Operacional. O comportamento de cada funcionalidade , será igual na tela "Lista de Dispositivos"</mark>
-2.  <mark style="color:blue;">Serão exibidas as opções de Voltar e Atualizar, sendo que ao clicar sobre Atualizar, serão atualizadas as informações e será exibida a data de atualização das informações ao passar o mouse sobre o botão atualizar.</mark>
+1. Nesta tela estão agrupadas os Comandos e Ações do dispositivo que já detalhamos anteriormente, de acordo com o Modo de Gerenciamento ou Sistema Operacional. O comportamento de cada funcionalidade , será igual na tela "Lista de Dispositivos"
+2. Serão exibidas as opções de Voltar e Atualizar, sendo que ao clicar sobre Atualizar, serão atualizadas as informações e será exibida a data de atualização das informações ao passar o mouse sobre o botão atualizar.
+3. As abas com opções para edição e informações do dispositivo. As abas são:\
+   \- [Informações](opcoes-de-gerenciamento-de-dispositivos.md#informacoes) \
+   \- [Aplicativos](opcoes-de-gerenciamento-de-dispositivos.md#aplicativos) \
+   \- [Bateria](opcoes-de-gerenciamento-de-dispositivos.md#bateria) \
+   \- [Armazenamento Livre](opcoes-de-gerenciamento-de-dispositivos.md#armazenamento-livre) \
+   \- [Geolocalização ](opcoes-de-gerenciamento-de-dispositivos.md#geolocalizacao) \
+   \- [Não Conformidades](opcoes-de-gerenciamento-de-dispositivos.md#nao-conformidades)
 
-    &#x20;
-3. <mark style="color:blue;">As abas com opções para edição e informações do dispositivo. As abas são:</mark>\ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Informações</mark>](opcoes-de-gerenciamento-de-dispositivos.md#informacoes) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Aplicativos</mark>](opcoes-de-gerenciamento-de-dispositivos.md#aplicativos) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Bateria</mark>](opcoes-de-gerenciamento-de-dispositivos.md#bateria) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Armazenamento Livre</mark>](opcoes-de-gerenciamento-de-dispositivos.md#armazenamento-livre) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Geolocalização</mark> ](opcoes-de-gerenciamento-de-dispositivos.md#geolocalizacao) \ <mark style="color:blue;">-</mark> [<mark style="color:blue;">Não Conformidades</mark>](opcoes-de-gerenciamento-de-dispositivos.md#nao-conformidades)
+Abaixo segue a explicação de cada uma delas:
 
-\ <mark style="color:blue;">Abaixo segue a explicação de cada uma delas:</mark>
+### **Informações**
 
-### <mark style="color:blue;">**Informações**</mark>
-
-Ao abrir a tela Gerenciar Dispositivo , a primeira aba "<mark style="color:blue;">**Informações**</mark>" vira Pré selecionada, nesta aba, é possível editar dados do dispositivo: Usuário, Identificação, Grupo, Departamento e Telefone do Usuário.
-
-<mark style="color:red;">NOVA IMAGEM</mark>
+Ao abrir a tela Gerenciar Dispositivo , a primeira aba "**Informações**" vira Pré selecionada, nesta aba, é possível editar dados do dispositivo: Usuário, Identificação, Grupo, Departamento e Telefone do Usuário.
 
 <figure><img src="../../../../.gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">Além de poder editar os dados, são exibidas mais abaixo listas com Detalhes, Instalação, Hardware, Permissões, Conectividade e SIM, relacionados ao dispositivo gerenciado.</mark>
+Além de poder editar os dados, são exibidas mais abaixo listas com Detalhes, Instalação, Hardware, Permissões, Conectividade e SIM, relacionados ao dispositivo gerenciado.
 
 <figure><img src="../../../../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">NOVA IMAGEM</mark>&#x20;
-
 <figure><img src="../../../../.gitbook/assets/image (275).png" alt=""><figcaption></figcaption></figure>
-
-
 
 <figure><img src="../../../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">As seções estão detalhadas na página de</mark> [<mark style="color:blue;">Informações do Dispositivo</mark>](informacoes-do-dispositivo.md)<mark style="color:blue;">: "Detalhes", "Instalação", "Hardware", "Permissões", "Conectividade" e "SIM".</mark>
+As seções estão detalhadas na página de [Informações do Dispositivo](informacoes-do-dispositivo.md): "Detalhes", "Instalação", "Hardware", "Permissões", "Conectividade" e "SIM".
 
 {% hint style="info" %}
-<mark style="color:blue;">**OBSERVAÇÃO**</mark>
+**OBSERVAÇÃO**
 
-<mark style="color:blue;">É possível acessar rapidamente a tela de edição de uma política no dispositivo clicando no nome da política, que funciona como um link.</mark>
+É possível acessar rapidamente a tela de edição de uma política no dispositivo clicando no nome da política, que funciona como um link.
 
 ![](<../../../../.gitbook/assets/image (245).png>)
 {% endhint %}
 
 ### **Aplicativos**
 
-Na aba "**Aplicativos**", é possível acessar a lista de todos os aplicativos instalados no dispositivo, contendo as seguintes informações: ícone, nome, <mark style="color:blue;">consumo de dados móveis, consumo de dados em WiFi e tempo de uso.</mark> Os dados de consumo e tempo de uso são registrados dentro do ciclo. É possível pesquisar um aplicativo específico utilizando o campo de pesquisa, exportar relatórios completos ou da página, além de copiar as informações da lista. <mark style="color:blue;">Ao clicar nos três pontinhos é possível visualizar o gráfico de "Histórico de Consumo" do aplicativo durante o ciclo.</mark>
-
-<mark style="color:red;">NOVA IMAGEM</mark>
+Na aba "**Aplicativos**", é possível acessar a lista de todos os aplicativos instalados no dispositivo, contendo as seguintes informações: ícone, nome, consumo de dados móveis, consumo de dados em WiFi e tempo de uso. Os dados de consumo e tempo de uso são registrados dentro do ciclo. É possível pesquisar um aplicativo específico utilizando o campo de pesquisa, exportar relatórios completos ou da página, além de copiar as informações da lista. Ao clicar nos três pontinhos é possível visualizar o gráfico de "Histórico de Consumo" do aplicativo durante o ciclo.
 
 <figure><img src="../../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
@@ -187,52 +177,49 @@ Na aba "**Aplicativos**", é possível acessar a lista de todos os aplicativos i
 
 Na aba "**Bateria**", é possível selecionar uma data para visualizar as informações desejadas. Ao escolher a data, o sistema buscará e exibirá os dados da bateria em formato de gráfico.
 
-<mark style="color:red;">NOVA IMAGEM</mark>
-
 <figure><img src="../../../../.gitbook/assets/image (242).png" alt=""><figcaption></figcaption></figure>
 
 ### **Armazenamento Livre**
 
 Na aba "**Armazenamento Livre**" é possível visualizar a memória livre no armazenamento interno do dispositivo ao selecionar uma data para visualizar as informações desejadas. Ao escolher a data, o sistema buscará e exibirá os dados de armazenamento em formato de gráfico.
 
-<mark style="color:red;">NOVA IMAGEM</mark>
-
 <figure><img src="../../../../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">Geolocalização</mark>
+### Geolocalização
 
-<mark style="color:blue;">Ao acessar a aba "Geolocalização", será possível filtrar as localizações utilizando os filtros: Localizar, Data, Fuso horário e Precisão. Ao clicar em "Buscar", um mapa será exibido, mostrando as geolocalizações registradas, se houver.</mark>
+Ao acessar a aba "Geolocalização", será possível filtrar as localizações utilizando os filtros: Localizar, Data, Fuso horário e Precisão. Ao clicar em "Buscar", um mapa será exibido, mostrando as geolocalizações registradas, se houver.
 
-<mark style="color:blue;">Para visualizar as localizações geográficas de um dispositivo, siga os passos descritos:</mark>
+Para visualizar as localizações geográficas de um dispositivo, siga os passos descritos:
 
-1. <mark style="color:blue;">Selecione a opção Localizar: Por Data ou Agora</mark>\ <mark style="color:blue;">Se selecionar a opção de "Localizar Por Data", siga os passos a seguir:</mark>
-2. <mark style="color:blue;">Selecione a data em que as localizações foram registradas;</mark>
-3. <mark style="color:blue;">Especifique o fuso horário em que deseja visualizar as localizações;</mark>
-4. <mark style="color:blue;">Selecione o limite de precisão das localizações;</mark>
-5. <mark style="color:blue;">Clique no botão “Buscar” para exibir as localizações no mapa, de acordo com filtro especificado;</mark>
-6. <mark style="color:blue;">O sistema exibirá as localizações com marcadores formando o percurso realizado pelo usuário do dispositivo. Os marcadores possuem cores diferentes, que indicam o tipo da localização. Utilize a legenda do para identificar o tipo:</mark>
+1. Selecione a opção Localizar: Por Data ou Agora\
+   Se selecionar a opção de "Localizar Por Data", siga os passos a seguir:
+2. Selecione a data em que as localizações foram registradas;
+3. Especifique o fuso horário em que deseja visualizar as localizações;
+4. Selecione o limite de precisão das localizações;
+5. Clique no botão “Buscar” para exibir as localizações no mapa, de acordo com filtro especificado;
+6. O sistema exibirá as localizações com marcadores formando o percurso realizado pelo usuário do dispositivo. Os marcadores possuem cores diferentes, que indicam o tipo da localização. Utilize a legenda do para identificar o tipo:
 
-* <mark style="color:blue;">**Posição inicial da leitura do GPS**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">– primeira localização do dispositivo registrada no dia;</mark>
-* <mark style="color:blue;">**Posição atual ou última posição coletada no dia**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">– última localização do dispositivo registrada no dia;</mark>
-* <mark style="color:blue;">**Lugar onde o usuário passou**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">– localizações registradas no dia, entre a primeira e a última.</mark>
+* **Posição inicial da leitura do GPS** – primeira localização do dispositivo registrada no dia;
+* **Posição atual ou última posição coletada no dia** – última localização do dispositivo registrada no dia;
+* **Lugar onde o usuário passou** – localizações registradas no dia, entre a primeira e a última.
 
-7. <mark style="color:blue;">Clique no marcador para visualizar as informações da localização.</mark>
-8. <mark style="color:blue;">Utilize os recursos do mapa para otimizar a visualização.</mark>
+7. Clique no marcador para visualizar as informações da localização.
+8. Utilize os recursos do mapa para otimizar a visualização.
 
 <figure><img src="../../../../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:blue;">Não Conformidades</mark>
+### Não Conformidades
 
-<mark style="color:blue;">Nesta aba, serão listadas todas as não conformidades do dispositivo com informações detalhadas da Configuração, Motivo da Não Conformidade e Detalhe da Não Conformidade.</mark>&#x20;
+Nesta aba, serão listadas todas as não conformidades do dispositivo com informações detalhadas da Configuração, Motivo da Não Conformidade e Detalhe da Não Conformidade.&#x20;
 
 {% hint style="info" %}
-<mark style="color:blue;">**OBSERVAÇÃO**</mark>
+**OBSERVAÇÃO**
 
-<mark style="color:blue;">A aba "Não Conformidades" ficará desabilitada se o dispositivo não possuir nenhuma inconformidade.</mark>
+A aba "Não Conformidades" ficará desabilitada se o dispositivo não possuir nenhuma inconformidade.
 {% endhint %}
 
-<mark style="color:blue;">E em cada item de não conformidade listado será exibida a informação de Nome do Pacote, Caminho do Campo, Valor Atual, Motivo da Falha na Instalação, Contexto de Wi-Fi e Contexto de senha da política.</mark>
+E em cada item de não conformidade listado será exibida a informação de Nome do Pacote, Caminho do Campo, Valor Atual, Motivo da Falha na Instalação, Contexto de Wi-Fi e Contexto de senha da política.
 
 <figure><img src="../../../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">É possível "Exportar" e "Copiar", permitindo exportar as informações do relatório para um arquivo Excel ou copiar as informações para uma área de transferência.</mark>
+É possível "Exportar" e "Copiar", permitindo exportar as informações do relatório para um arquivo Excel ou copiar as informações para uma área de transferência.

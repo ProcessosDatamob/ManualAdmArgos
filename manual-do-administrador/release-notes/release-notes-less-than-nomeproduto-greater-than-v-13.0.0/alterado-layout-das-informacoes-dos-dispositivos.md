@@ -2,7 +2,7 @@
 
 Nesta versão ajustamos o layout da tela que antes se chamava "**Detalhes**" e agora possui o título de "**Informações**", além disso reorganizamos as informações nela contidas, para obter um layout mais organizado e possibilitar adicionar o máximo de informações possíveis.
 
-<mark style="color:blue;">Mais informações na seção</mark> [Opções de gerenciamento de dispositivos](../../portal/dispositivos/lista-de-dispositivos/opcoes-de-gerenciamento-de-dispositivos.md).
+Mais informações na seção [Opções de gerenciamento de dispositivos](../../portal/dispositivos/lista-de-dispositivos/opcoes-de-gerenciamento-de-dispositivos.md).
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

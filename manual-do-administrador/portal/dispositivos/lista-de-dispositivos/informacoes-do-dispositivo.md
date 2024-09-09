@@ -16,22 +16,18 @@ layout:
 
 Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível ter acesso as informações do dispositivo, clicando no botão de **Mais informações**:
 
-<mark style="color:red;">NOVA IMAGEM</mark>
-
 <figure><img src="../../../../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
 
 Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso as Informações do dispositivo:
 
-<mark style="color:red;">NOVAS IMAGENS</mark>
-
 <figure><img src="../../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:blue;">A data que aparece em</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Última Atualização**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">no canto superior direto a tela de Informações do dispositivo, é a data de atualização do dispositivo no Google, ou seja, se refere a comunicação da AMAPI  com o portal. Os dados que são atualizados são:</mark>
+A data que aparece em **Última Atualização** no canto superior direto a tela de Informações do dispositivo, é a data de atualização do dispositivo no Google, ou seja, se refere a comunicação da AMAPI  com o portal. Os dados que são atualizados são:
 
-* <mark style="color:blue;">Detalhes</mark>
-* <mark style="color:blue;">Instalação</mark>
-* <mark style="color:blue;">Relatório de Não conformidade</mark>
+* Detalhes
+* Instalação
+* Relatório de Não conformidade
 {% endhint %}
 
 
@@ -40,7 +36,7 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 
 <figure><img src="../../../../.gitbook/assets/image (240).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">Abaixo detalharemos as informações que contém em cada um dos campos das imagens acima:</mark>
+Abaixo detalharemos as informações que contém em cada um dos campos das imagens acima:
 
 ### Detalhes
 
@@ -74,25 +70,25 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 * **Em conformidade -** é a aderência do dispositivo a todas as configurações de políticas atribuídas a ele. Se alguma configuração não foi aplicada, o valor desta opção será "Não".&#x20;
 *   **Data da Última Comunicação -** exibirá a data em que o dispositivo se comunicou a última vez com o portal.&#x20;
 
-    <mark style="color:blue;">Os dados que são atualizados no portal quando a</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Data da Última Comunicação**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é atualizada são:</mark>
+    Os dados que são atualizados no portal quando a **Data da Última Comunicação** é atualizada são:
 
-    <mark style="color:blue;">**Tela Informações Dispositivo:**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">Os dados que são atualizados no portal, serão exatamente o que estiver no dispositivo na hora da última comunicação.</mark>
+    **Tela Informações Dispositivo:** Os dados que são atualizados no portal, serão exatamente o que estiver no dispositivo na hora da última comunicação.
 
-    * <mark style="color:blue;">Hardware - Bateria e armazenamento</mark>
-    * <mark style="color:blue;">Permissões - Todas</mark>
-    * <mark style="color:blue;">Conectividade - Todos os dados listados em Conectividade</mark>
+    * Hardware - Bateria e armazenamento
+    * Permissões - Todas
+    * Conectividade - Todos os dados listados em Conectividade
 
 ### Hardware
 
-* <mark style="color:blue;">**Memória Total**</mark> <mark style="color:blue;">**-**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">quantidade total de memória RAM disponível no dispositivo.</mark>
-* <mark style="color:blue;">**Memória Disponível**</mark> <mark style="color:blue;">**-**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">quantidade de memória RAM atualmente livre e disponível para uso no dispositivo.</mark>
-* <mark style="color:blue;">**Armazenamento Interno Total -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">quantidade total de armazenamento interno que o dispositivo possui.</mark>
-* <mark style="color:blue;">**Armazenamento Interno Disponível -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">quantidade de armazenamento interno atualmente livre e disponível para uso no dispositivo.</mark>
-* <mark style="color:blue;">**Armazenamento Total no Cartão SD**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- quantidade total de armazenamento disponível no cartão SD inserido no dispositivo.</mark>
-* <mark style="color:blue;">**Armazenamento Disponível no Cartão SD**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- quantidade de armazenamento atualmente livre e disponível no cartão SD inserido no dispositivo.</mark>
-* <mark style="color:blue;">**Processador**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- informações sobre o processador do dispositivo, incluindo o modelo e a velocidade.</mark>
-* <mark style="color:blue;">**Saúde da Bateria**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- estado geral da bateria do dispositivo, indicando sua capacidade e condição.</mark>
-* <mark style="color:blue;">**Ciclo de Carga da Bateria**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- número de ciclos completos de carga e descarga que a bateria do dispositivo já passou.</mark>
+* **Memória Total** **-** quantidade total de memória RAM disponível no dispositivo.
+* **Memória Disponível** **-** quantidade de memória RAM atualmente livre e disponível para uso no dispositivo.
+* **Armazenamento Interno Total -** quantidade total de armazenamento interno que o dispositivo possui.
+* **Armazenamento Interno Disponível -** quantidade de armazenamento interno atualmente livre e disponível para uso no dispositivo.
+* **Armazenamento Total no Cartão SD** - quantidade total de armazenamento disponível no cartão SD inserido no dispositivo.
+* **Armazenamento Disponível no Cartão SD** - quantidade de armazenamento atualmente livre e disponível no cartão SD inserido no dispositivo.
+* **Processador** - informações sobre o processador do dispositivo, incluindo o modelo e a velocidade.
+* **Saúde da Bateria** - estado geral da bateria do dispositivo, indicando sua capacidade e condição.
+* **Ciclo de Carga da Bateria** - número de ciclos completos de carga e descarga que a bateria do dispositivo já passou.
 
 ### Permissões
 
@@ -100,16 +96,16 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 * **Ignorar Otimização de Bateria -** Os status podem ser sim ou não, caso o usuário não ative esta permissão, o aplicativo poderá ser afetado pelas configurações de otimização de bateria, parar de capturar as localizações do dispositivos e parar de enviar as informações para o Portal.
 * **Escrita de Configurações do Sistema -** Os status podem ser sim ou não, caso o usuário não ative esta permissão, o aplicativo Kiosk Launcher Manage**r** não permitirá que o usuário alterar algumas configurações do sistema quando estiver no modo Quiosque.
 * **Leitura de SMS -** Os status podem ser sim ou não, caso o usuário não ative esta permissão, o aplicativo não irá capturar as informações dos SMS enviados.
-* <mark style="color:blue;">**Agendar Alarmes**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- Os status podem ser sim ou não, caso o usuário não ative esta permissão, o aplicativo não executará as seguintes funcionalidades: notificação de mensagens e documentos recebidos, instalação remota de aplicativos, registro de geolocalização do dispositivo, remoção de bloqueio de CHIP.</mark>&#x20;
-* <mark style="color:blue;">**Instalação de Apps de Fontes Desconhecidas -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">essa permissão é opcional e pode ser ativada durante a configuração inicial. Se o usuário optar por não ativá-la, o aplicativo não poderá realizar a instalação de aplicativos de forma remota.</mark>
-* <mark style="color:blue;">**Sobreposição de Tela -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">esta permissão também é opcional durante a ativação. Se não for ativada, o aplicativo não poderá exibir mensagens de confirmação ao realizar a instalação de aplicativos remotamente.</mark>
+* **Agendar Alarmes** - Os status podem ser sim ou não, caso o usuário não ative esta permissão, o aplicativo não executará as seguintes funcionalidades: notificação de mensagens e documentos recebidos, instalação remota de aplicativos, registro de geolocalização do dispositivo, remoção de bloqueio de CHIP.&#x20;
+* **Instalação de Apps de Fontes Desconhecidas -** essa permissão é opcional e pode ser ativada durante a configuração inicial. Se o usuário optar por não ativá-la, o aplicativo não poderá realizar a instalação de aplicativos de forma remota.
+* **Sobreposição de Tela -** esta permissão também é opcional durante a ativação. Se não for ativada, o aplicativo não poderá exibir mensagens de confirmação ao realizar a instalação de aplicativos remotamente.
 
 ### Conectividade
 
 * **Tipo da rede conectada (Wi-Fi/Móvel)** - indica se o dispositivo está conectado via Wi-Fi ou rede móvel.
 * **Largura de Banda (Móvel)** - a largura de banda disponível para a rede móvel.
 * **Largura de Banda (WiFi)** - a largura de banda disponível para a rede Wi-Fi.
-* <mark style="color:blue;">**Latência -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é o tempo que um pacote de dados leva para viajar de sua origem ao destino e retornar. Medimos isso enviando pacotes para google.com, um servidor confiável, para avaliar o desempenho da rede.</mark>
+* **Latência -** é o tempo que um pacote de dados leva para viajar de sua origem ao destino e retornar. Medimos isso enviando pacotes para google.com, um servidor confiável, para avaliar o desempenho da rede.
 * **Configuração de Banda** - configuração específica da banda de frequência utilizada.
 * **Rede WiFi conectada** - nome da rede Wi-Fi à qual o dispositivo está conectado.
 * **Força de sinal** - a intensidade do sinal da rede conectada.
@@ -119,19 +115,19 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 * **Endereço MAC WiFi** - endereço MAC do adaptador Wi-Fi do dispositivo.
 * **IP (Wi-Fi Network)** - endereço IP atribuído ao dispositivo na rede Wi-Fi.
 * **IPv6 (Wi-Fi Network)** - endereço IPv6 atribuído ao dispositivo na rede Wi-Fi.
-* <mark style="color:blue;">**Rede BSSID**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- identificador único da rede Wi-Fi.</mark>
-* <mark style="color:blue;">**Operadora da Rede Conectada**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- nome da operadora da rede móvel conectada.</mark>
-* <mark style="color:blue;">**Roaming Dados Móveis**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- indica se o dispositivo está em roaming de dados móveis.</mark>
-* <mark style="color:blue;">**IP (Rede móvel) -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">endereço IP atribuído ao dispositivo na rede móvel.</mark>
-* <mark style="color:blue;">**IPv6 (Rede móvel) -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">endereço IPv6 atribuído ao dispositivo na rede móvel.</mark>
-* <mark style="color:blue;">**DBM (RSRP - Potencia da Antena)**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- medida da potência do sinal da antena.</mark>
-* <mark style="color:blue;">**Cell ID**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- identificação da célula à qual o dispositivo está conectado.</mark>
-* <mark style="color:blue;">**LAC**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- código de Área Local.</mark>
-* <mark style="color:blue;">**Tecnologia da Antena**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">- tipo de tecnologia de antena utilizada.</mark>
+* **Rede BSSID** - identificador único da rede Wi-Fi.
+* **Operadora da Rede Conectada** - nome da operadora da rede móvel conectada.
+* **Roaming Dados Móveis** - indica se o dispositivo está em roaming de dados móveis.
+* **IP (Rede móvel) -** endereço IP atribuído ao dispositivo na rede móvel.
+* **IPv6 (Rede móvel) -** endereço IPv6 atribuído ao dispositivo na rede móvel.
+* **DBM (RSRP - Potencia da Antena)** - medida da potência do sinal da antena.
+* **Cell ID** - identificação da célula à qual o dispositivo está conectado.
+* **LAC** - código de Área Local.
+* **Tecnologia da Antena** - tipo de tecnologia de antena utilizada.
 
-### <mark style="color:blue;">SIM</mark>
+### SIM
 
-* <mark style="color:blue;">**SIM Conectado -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">indica qual dos SIMs está atualmente conectado à rede móvel.</mark>
+* **SIM Conectado -** indica qual dos SIMs está atualmente conectado à rede móvel.
 * **Operadora do SIM 1** - nome da operadora do primeiro SIM.
 * **Número de Telefone SIM 1** - número de telefone associado ao primeiro SIM.
 * **ICCID SIM 1** - identificador exclusivo do cartão SIM 1.
@@ -146,7 +142,7 @@ Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso
 * **Número do Assinante SIM 2** - número do assinante associado ao SIM 2.
 * **MCC do SIM 2** - código do país móvel do SIM 2.
 * **MNC do SIM 2** - código da rede móvel do SIM 2.
-* <mark style="color:blue;">**Operadora do eSIM -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">nome da operadora associada ao eSIM.</mark>
-* <mark style="color:blue;">**Número de telefone do eSIM -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">número de telefone associado ao eSIM.</mark>
-* <mark style="color:blue;">**ICCID do eSIM -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">identificador exclusivo do eSIM.</mark>
-* <mark style="color:blue;">**ID de assinatura do eSIM -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">identificador da assinatura associada ao eSIM.</mark>
+* **Operadora do eSIM -** nome da operadora associada ao eSIM.
+* **Número de telefone do eSIM -** número de telefone associado ao eSIM.
+* **ICCID do eSIM -** identificador exclusivo do eSIM.
+* **ID de assinatura do eSIM -** identificador da assinatura associada ao eSIM.
