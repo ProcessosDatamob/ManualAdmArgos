@@ -1,51 +1,51 @@
 # Primeiro Acesso e Vínculo ao Enterprise
 
-<mark style="color:blue;">Quando o</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**\<NomeProduto>**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é ativado para uma empresa, as seguintes tarefas são executadas pelo sistema, para possibilitar o acesso do usuário administrador da empresa ao Portal:</mark>
+Quando o **\<NomeProduto>** é ativado para uma empresa, as seguintes tarefas são executadas pelo sistema, para possibilitar o acesso do usuário administrador da empresa ao Portal:
 
-* <mark style="color:blue;">Criação das credenciais do Portal de Administração;</mark>
-* <mark style="color:blue;">Envio de um E-mail de boas-vindas, contendo o usuário e um Link para criação da senha para acessar o Portal de Administração.</mark>
+* Criação das credenciais do Portal de Administração;
+* Envio de um E-mail de boas-vindas, contendo o usuário e um Link para criação da senha para acessar o Portal de Administração.
 
-<mark style="color:blue;">Para acessar o Portal de Administração, siga os passos descritos nesta seção:</mark>
+Para acessar o Portal de Administração, siga os passos descritos nesta seção:
 
-1. <mark style="color:blue;">Acesse o Link para criação da senha que será enviado no e-mail de Boas Vindas para visualizar a tela de acesso do Portal. De preferência utilize um navegador Google Chrome, com a versão mais atualizada.</mark>
-2. <mark style="color:blue;">Ao clicar no link do e-mail o você será direcionado para a tela abaixo, onde deve cadastrar uma senha:</mark>
+1. Acesse o Link para criação da senha que será enviado no e-mail de Boas Vindas para visualizar a tela de acesso do Portal. De preferência utilize um navegador Google Chrome, com a versão mais atualizada.
+2. Ao clicar no link do e-mail o você será direcionado para a tela abaixo, onde deve cadastrar uma senha:
 
 <figure><img src="../../../.gitbook/assets/image (3) (1).png" alt="" width="318"><figcaption></figcaption></figure>
 
-3. <mark style="color:blue;">**Digite a nova senha**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">no campo indicado.</mark>
+3. **Digite a nova senha** no campo indicado.
 
-<mark style="color:blue;">Conforme você digita, a tela exibirá as regras que a senha deve seguir:</mark>
+Conforme você digita, a tela exibirá as regras que a senha deve seguir:
 
-* <mark style="color:blue;">Ao menos</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**1 letra maiúscula**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(A-Z)</mark>
-* <mark style="color:blue;">Ao menos</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**1 letra minúscula**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(a-z)</mark>
-* <mark style="color:blue;">Ao menos</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**1 número**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(0-9)</mark>
-* <mark style="color:blue;">Ao menos</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**1 caractere especial**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(como !, @, #, $)</mark>
-* <mark style="color:blue;">Deve ter</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**pelo menos 8 caracteres**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">e no máximo</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**30 caracteres**</mark><mark style="color:blue;">.</mark>
+* Ao menos **1 letra maiúscula** (A-Z)
+* Ao menos **1 letra minúscula** (a-z)
+* Ao menos **1 número** (0-9)
+* Ao menos **1 caractere especial** (como !, @, #, $)
+* Deve ter **pelo menos 8 caracteres** e no máximo **30 caracteres**.
 
-<mark style="color:blue;">Cada regra será mostrada em</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**verde**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">assim que for cumprida.</mark>
+Cada regra será mostrada em **verde** assim que for cumprida.
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="257"><figcaption></figcaption></figure>
 
-4. <mark style="color:blue;">Clique em “</mark><mark style="color:blue;">**Continuar**</mark><mark style="color:blue;">” para confirmar as informações e acessar o Portal.</mark>
+4. Clique em “**Continuar**” para confirmar as informações e acessar o Portal.
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-5. <mark style="color:blue;">Após clicar em</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Continuar**</mark><mark style="color:blue;">, você será direcionado para a tela abaixo, onde deve informar o e-mail e a senha configurada no passo anterior:</mark>
+5. Após clicar em **Continuar**, você será direcionado para a tela abaixo, onde deve informar o e-mail e a senha configurada no passo anterior:
 
 <figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt="" width="477"><figcaption></figcaption></figure>
 
 
 
-6. <mark style="color:blue;">No próximo passo o usuário deverá confirmar os dados da empresa. A tela de confirmação dos dados da empresa aparecerá somente no primeiro acesso e é mostrada na figura a seguir.</mark>
+6. No próximo passo o usuário deverá confirmar os dados da empresa. A tela de confirmação dos dados da empresa aparecerá somente no primeiro acesso e é mostrada na figura a seguir.
 
 <figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="" width="523"><figcaption></figcaption></figure>
 
-7. <mark style="color:blue;">Confirmar o Nome da Empresa e E-mail;</mark>
-8. <mark style="color:blue;">Criar uma senha;</mark>&#x20;
-9. <mark style="color:blue;">Repetir a digitação da senha para confirmá-la;</mark>
-10. <mark style="color:blue;">Marcar que concorda com a Política de Privacidade e com o Termos de uso;</mark>
-11. <mark style="color:blue;">Clicar no botão "Próximo''.</mark>
-12. <mark style="color:blue;">Será exibida a tela abaixo, para informar o Token que será enviado no e-mail informado:</mark>
+7. Confirmar o Nome da Empresa e E-mail;
+8. Criar uma senha;&#x20;
+9. Repetir a digitação da senha para confirmá-la;
+10. Marcar que concorda com a Política de Privacidade e com o Termos de uso;
+11. Clicar no botão "Próximo''.
+12. Será exibida a tela abaixo, para informar o Token que será enviado no e-mail informado:
 
 <figure><img src="../../../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
 

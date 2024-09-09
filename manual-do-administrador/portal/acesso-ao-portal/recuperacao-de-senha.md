@@ -6,29 +6,29 @@ Caso não lembre a senha de acesso ao portal, realize os seguintes passos para r
 
 <figure><img src="../../../.gitbook/assets/image (77).png" alt="" width="230"><figcaption></figcaption></figure>
 
-2. P<mark style="color:blue;">reencha o seu E-mail de usuário e confirme.</mark>
+2. Preencha o seu E-mail de usuário e confirme.
 
 <figure><img src="../../../.gitbook/assets/image (78).png" alt="" width="230"><figcaption></figcaption></figure>
 
-3. <mark style="color:blue;">Ao clicar em “</mark><mark style="color:blue;">**Confirmar**</mark><mark style="color:blue;">” o sistema enviará uma mensagem ao seu endereço de E-mail com instruções para troca de senha.</mark>
-4. <mark style="color:blue;">Clicando no link do e-mail o você será direcionado para a tela abaixo, onde deve cadastrar uma senha:</mark>
+3. Ao clicar em “**Confirmar**” o sistema enviará uma mensagem ao seu endereço de E-mail com instruções para troca de senha.
+4. Clicando no link do e-mail o você será direcionado para a tela abaixo, onde deve cadastrar uma senha:
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="318"><figcaption></figcaption></figure>
 
-5. <mark style="color:blue;">**Digite a nova senha**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">no campo indicado.</mark>
+5. **Digite a nova senha** no campo indicado.
 
-<mark style="color:blue;">Conforme você digita, a tela exibirá as regras que a senha deve seguir:</mark>
+Conforme você digita, a tela exibirá as regras que a senha deve seguir:
 
-* <mark style="color:blue;">Ao menos</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**1 letra maiúscula**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(A-Z)</mark>
-* <mark style="color:blue;">Ao menos</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**1 letra minúscula**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(a-z)</mark>
-* <mark style="color:blue;">Ao menos</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**1 número**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(0-9)</mark>
-* <mark style="color:blue;">Ao menos</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**1 caractere especial**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">(como !, @, #, $)</mark>
-* <mark style="color:blue;">Deve ter</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**pelo menos 8 caracteres**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">e no máximo</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**30 caracteres**</mark><mark style="color:blue;">.</mark>
+* Ao menos **1 letra maiúscula** (A-Z)
+* Ao menos **1 letra minúscula** (a-z)
+* Ao menos **1 número** (0-9)
+* Ao menos **1 caractere especial** (como !, @, #, $)
+* Deve ter **pelo menos 8 caracteres** e no máximo **30 caracteres**.
 
-<mark style="color:blue;">Cada regra será mostrada em</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**verde**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">assim que for cumprida.</mark>
+Cada regra será mostrada em **verde** assim que for cumprida.
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="257"><figcaption></figcaption></figure>
 
-6. <mark style="color:blue;">Após clicar em Continuar a senha será alterada e a tela abaixo será exibida:</mark>
+6. Após clicar em Continuar a senha será alterada e a tela abaixo será exibida:
 
 <figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>

@@ -20,12 +20,12 @@ O **\<NomeProduto>** é uma solução de Gerenciamento de Mobilidade Corporativa
 * **Aplicativo \<NomeProduto>** - aplicativo Android que coleta todas as informações de uso e consumos do dispositivo móvel. Este aplicativo é instalado por padrão estando presente em todos os dispositivos que registrados no sistema.
 * **Aplicativo Security Browser** - Aplicativo Android de navegação web responsável por realizar os bloqueios de sites, bem como monitorar a navegação do usuário do dispositivo.&#x20;
 * **Aplicativo Block SIM -** é responsável pelo bloqueio do chip SIM, impedindo a sua utilização em outro dispositivo.
-* <mark style="color:blue;">**Aplicativo Mob Settings -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é um aplicativo projetado para facilitar a administração de configurações essenciais de dispositivos móveis, como Bluetooth, Tela e Wi-fi, sem a necessidade de acessar diretamente o menu de configurações do dispositivo.</mark>&#x20;
+* **Aplicativo Mob Settings -** é um aplicativo projetado para facilitar a administração de configurações essenciais de dispositivos móveis, como Bluetooth, Tela e Wi-fi, sem a necessidade de acessar diretamente o menu de configurações do dispositivo.&#x20;
 
 {% hint style="warning" %}
 **IMPORTANTE**
 
-* <mark style="color:blue;">Os aplicativos Security Browser e Mob Settings estão disponíveis na Play Store e devem ser incluídos na política de registro dos dispositivos. O passo a passo para inclusão dos apps na Lista de</mark> [<mark style="color:blue;">Aplicativos Gerenciados</mark>](../portal/gerenciamento-de-aplicativos/aplicativos-gerenciados.md) <mark style="color:blue;">esta nas respectivas sessões</mark> [<mark style="color:blue;">Security Browser</mark> ](../portal/configuracoes/editar-politica/aplicativos/bloqueio-de-sites-security-browser.md)<mark style="color:blue;">e</mark> [<mark style="color:blue;">Mob Settings</mark>](../portal/configuracoes/editar-politica/aplicativos/mob-settings.md)<mark style="color:blue;">.</mark>
+* Os aplicativos Security Browser e Mob Settings estão disponíveis na Play Store e devem ser incluídos na política de registro dos dispositivos. O passo a passo para inclusão dos apps na Lista de [Aplicativos Gerenciados](../portal/gerenciamento-de-aplicativos/aplicativos-gerenciados.md) esta nas respectivas sessões [Security Browser ](../portal/configuracoes/editar-politica/aplicativos/bloqueio-de-sites-security-browser.md)e [Mob Settings](../portal/configuracoes/editar-politica/aplicativos/mob-settings.md).
 * Para utilizar o bloqueio do chip, ao criar uma nova política deverá ser selecionado o modo de gerenciamento **"Android - Block SIM",** deste modo o sistema adiciona automaticamente a aplicação **Block SIM**, restringindo as alterações da senha do dispositivo e garantindo a ligação do chip ao dispositivo. No momento do registro do dispositivo, o usuário deverá seguir as etapas da instalação e conceder as licenças solicitadas. Para mais detalhes sobre o processo de bloqueio do chip use o **"Manual de Instalação - Block sim"**.
 {% endhint %}
 
@@ -35,7 +35,7 @@ A partir do **\<NomeProduto>** é possível acessar as informações sobre o con
 
 Todas as informações coletadas pelo aplicativo **\<NomeProduto>** são enviadas periodicamente para os servidores do sistema. As informações são compiladas e consolidadas para serem visualizadas no portal de administração.
 
-<mark style="color:blue;">Os dados de consumo coletados pelo aplicativo são enviados de acordo com o tempo configurado no portal, na opção</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**"Sincronizar cada"**</mark><mark style="color:blue;">, que varia de 1 a 24 horas.</mark>
+Os dados de consumo coletados pelo aplicativo são enviados de acordo com o tempo configurado no portal, na opção **"Sincronizar cada"**, que varia de 1 a 24 horas.
 
 ### **Armazenamento dos Dados**
 
@@ -55,13 +55,8 @@ O selo Android Enterprise Recommended identifica dispositivos Android que atende
 
 O fato de um dispositivo não estar na lista de dispositivos recomendados do Google não significa que não funcionará. Atualmente, Android Enterprise é compatível com todas as versões do Android 6.0. No entanto, alguns recursos podem não estar disponíveis em versões anteriores do sistema operacional. Recomenda-se usar as versões mais recentes do Android para aproveitar todas as características e benefícios que a plataforma oferece.
 
-
-
 {% hint style="info" %}
-<mark style="color:blue;">**Importante:**</mark>
+**IMPORTANTE**
 
-<mark style="color:blue;">A solução foi desenvolvido com o Google Android Enterprise e outras tecnologias adicionais, o que significa que algumas funções, como localização, consumo de bateria e armazenamento, podem ter um comportamento diferente do esperado, dependendo das configurações do sistema operativo do dispositivo.</mark>
+A solução foi desenvolvido com o Google Android Enterprise e outras tecnologias adicionais, o que significa que algumas funções, como localização, consumo de bateria e armazenamento, podem ter um comportamento diferente do esperado, dependendo das configurações do sistema operativo do dispositivo.
 {% endhint %}
-
-
-
