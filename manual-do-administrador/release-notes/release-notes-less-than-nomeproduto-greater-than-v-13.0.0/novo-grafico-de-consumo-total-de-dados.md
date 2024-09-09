@@ -10,7 +10,7 @@ A funcionalidade inclui uma **legenda detalhada** e uma caixa de texto que forne
 
 Essa nova visualização facilita a análise e o gerenciamento do uso de dados pelos dispositivos, proporcionando uma visão completa e detalhada.
 
-<mark style="color:blue;">Mais informações na seção</mark> [<mark style="color:blue;">Dashboard</mark>](../../portal/dashboard.md)<mark style="color:blue;">.</mark>
+Mais informações na seção [Dashboard](../../portal/dashboard.md).
 
 <figure><img src="../../../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
 
