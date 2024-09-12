@@ -70,13 +70,29 @@ Abaixo detalharemos as informações que contém em cada um dos campos das image
 * **Em conformidade -** é a aderência do dispositivo a todas as configurações de políticas atribuídas a ele. Se alguma configuração não foi aplicada, o valor desta opção será "Não".&#x20;
 *   **Data da Última Comunicação -** exibirá a data em que o dispositivo se comunicou a última vez com o portal.&#x20;
 
-    Os dados que são atualizados no portal quando a **Data da Última Comunicação** é atualizada são:
+    Os dados que são atualizados no portal quando a **Data da Última Comunicação** é atualizada são:&#x20;
 
-    **Tela Informações Dispositivo:** Os dados que são atualizados no portal, serão exatamente o que estiver no dispositivo na hora da última comunicação.
+{% hint style="info" %}
+Consumos
 
-    * Hardware - Bateria e armazenamento
-    * Permissões - Todas
-    * Conectividade - Todos os dados listados em Conectividade
+Permissões
+
+Conectividade
+
+SIM
+
+Aplicativos instalados
+
+Dashboard (Exceto localização)
+
+Hardware - Bateria e armazenamento
+
+Permissões - Todas
+
+Conectividade - Todos os dados listados em Conectividade
+{% endhint %}
+
+**Tela Informações Dispositivo:** Os dados que são atualizados no portal, serão exatamente o que estiver no dispositivo na hora da última comunicação.
 
 ### Hardware
 
