@@ -68,31 +68,29 @@ Abaixo detalharemos as informações que contém em cada um dos campos das image
 * **Versão da política Aplicada -** versão da política;
 * **Data de sincronização da Política -** exibirá a data da sincronização da política;
 * **Em conformidade -** é a aderência do dispositivo a todas as configurações de políticas atribuídas a ele. Se alguma configuração não foi aplicada, o valor desta opção será "Não".&#x20;
-*   **Data da Última Comunicação -** exibirá a data em que o dispositivo se comunicou a última vez com o portal.&#x20;
+*   <mark style="color:blue;">**Data da Última Comunicação -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">exibirá a data em que o dispositivo se comunicou a última vez com o portal. Estes dados, serão exatamente o que estiver no dispositivo na hora da última comunicação.</mark>
 
-    Os dados que são atualizados no portal quando a **Data da Última Comunicação** é atualizada são:&#x20;
+    <mark style="color:blue;">Os dados que são atualizados no portal quando a</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Data da Última Comunicação**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é atualizada são:</mark>&#x20;
 
 {% hint style="info" %}
-Consumos
+<mark style="color:blue;">Consumos</mark>
 
-Permissões
+<mark style="color:blue;">Permissões</mark>
 
-Conectividade
+<mark style="color:blue;">Conectividade</mark>
 
-SIM
+<mark style="color:blue;">SIM</mark>
 
-Aplicativos instalados
+<mark style="color:blue;">Aplicativos instalados</mark>
 
-Dashboard (Exceto localização)
+<mark style="color:blue;">Dashboard (Exceto localização)</mark>
 
-Hardware - Bateria e armazenamento
+<mark style="color:blue;">Hardware - Bateria e armazenamento</mark>
 
-Permissões - Todas
+<mark style="color:blue;">Permissões - Todas</mark>
 
-Conectividade - Todos os dados listados em Conectividade
+<mark style="color:blue;">Conectividade - Todos os dados listados em Conectividade</mark>
 {% endhint %}
-
-**Tela Informações Dispositivo:** Os dados que são atualizados no portal, serão exatamente o que estiver no dispositivo na hora da última comunicação.
 
 ### Hardware
 
