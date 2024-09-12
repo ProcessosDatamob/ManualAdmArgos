@@ -68,28 +68,20 @@ Abaixo detalharemos as informações que contém em cada um dos campos das image
 * **Versão da política Aplicada -** versão da política;
 * **Data de sincronização da Política -** exibirá a data da sincronização da política;
 * **Em conformidade -** é a aderência do dispositivo a todas as configurações de políticas atribuídas a ele. Se alguma configuração não foi aplicada, o valor desta opção será "Não".&#x20;
-*   <mark style="color:blue;">**Data da Última Comunicação -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">exibirá a data em que o dispositivo se comunicou a última vez com o portal. Estes dados, serão exatamente o que estiver no dispositivo na hora da última comunicação.</mark>
-
-    <mark style="color:blue;">Os dados que são atualizados no portal quando a</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Data da Última Comunicação**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é atualizada são:</mark>&#x20;
+* <mark style="color:blue;">**Data da Última Comunicação -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">exibirá a data em que o dispositivo se comunicou a última vez com o portal. Estes dados, serão exatamente o que estiver no dispositivo na hora da última comunicação.</mark>
 
 {% hint style="info" %}
-<mark style="color:blue;">Consumos</mark>
+<mark style="color:blue;">Os dados que são atualizados no portal quando a</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Data da Última Comunicação**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é atualizada são:</mark>
 
-<mark style="color:blue;">Permissões</mark>
-
-<mark style="color:blue;">Conectividade</mark>
-
-<mark style="color:blue;">SIM</mark>
-
-<mark style="color:blue;">Aplicativos instalados</mark>
-
-<mark style="color:blue;">Dashboard (Exceto localização)</mark>
-
-<mark style="color:blue;">Hardware - Bateria e armazenamento</mark>
-
-<mark style="color:blue;">Permissões - Todas</mark>
-
-<mark style="color:blue;">Conectividade - Todos os dados listados em Conectividade</mark>
+* <mark style="color:blue;">Consumos</mark>
+* <mark style="color:blue;">Permissões</mark>
+* <mark style="color:blue;">Conectividade</mark>
+* <mark style="color:blue;">SIM</mark>
+* <mark style="color:blue;">Aplicativos instalados</mark>
+* <mark style="color:blue;">Dashboard (exceto localização)</mark>
+* <mark style="color:blue;">Hardware - Bateria e armazenamento</mark>
+* <mark style="color:blue;">Permissões - Todas</mark>
+* <mark style="color:blue;">Conectividade - Todos os dados listados em Conectividade</mark>
 {% endhint %}
 
 ### Hardware
