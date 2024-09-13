@@ -32,6 +32,6 @@ Essas melhorias proporcionam maior flexibilidade e segurança na conexão a dive
 \
 Para mais informações, acesse a seção "[Gerenciar Redes Wi-Fi](https://datamob.gitbook.io/manual-administrador-datamob-enterprise/manual-do-administrador/portal/configuracoes/gerenciar-redes-wi-fi)" no portal Datamob Enterprise.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/mmm.png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)

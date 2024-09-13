@@ -14,11 +14,19 @@ layout:
 
 # Dashboard
 
+<mark style="color:red;background-color:orange;">PARA V14 ALTERAR TODAS AS IMAGENS PARA APARECER O ÍCONE DE INFORMAÇÕES</mark>
+
 Esta tela do sistema tem como objetivo possibilitar ao usuário a visualização e análise dos diversos dados de consumos e usos coletados dos dispositivos. Para saber como acessar e analisar os dados exibidos no Dashboard, siga os passos descritos nesta seção.
 
 A tela de Dashboard pode ser considerada a “**Tela Inicial**” do sistema, pois é exibida assim que acessa o Portal, mas também pode ser acessada clicando no menu “**Dashboard**”. Em um primeiro acesso, os indicadores de usuários, dispositivos e consumos não terão ainda informações, por isso estarão zerados.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+<mark style="color:red;">Ao clicar no ícone de informações ao lado de cada gráfico, você pode visualizar uma descrição detalhada que explica os dados apresentados, facilitando o entendimento do conteúdo exibido e o contexto do gráfico.</mark>
+
+![](<../../.gitbook/assets/Captura de tela 2024-09-13 135732.png>)
+{% endhint %}
 
 Ao acessar a tela, todas as informações serão exibidas separadas por seções. Cada seção corresponde a um dado diferente, coletado do dispositivo e todas as informações são exibidas de acordo com as opções selecionadas no filtro (Empresa, Grupo ou Usuário).
 
@@ -51,7 +59,7 @@ No canto superior direito da tela, temos alguns ícones que tem as seguintes fun
 
 A barra de status do Dashboard mostra a situação atual de todos os usuários e licenças da empresa.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (285).png" alt=""><figcaption></figcaption></figure>
 
 ### **Total de Usuários**
 
@@ -61,7 +69,7 @@ Este indicador exibe o número total de usuários de dispositivos que utilizam o
 
 Este indicador exibe o número total de licenças disponíveis no **\<NomeProduto>**.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="420"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (286).png" alt=""><figcaption></figcaption></figure>
 
 ### **Licenças não instaladas no portal**
 
@@ -69,13 +77,13 @@ Este indicador exibe o número total de licenças que não possuem dispositivo r
 
 Ao clicar nesse indicador, o sistema exibirá a tela de "**Licenças Contratadas**". Para saber como utilizar essa tela, leia a seção [“**Licenças Contratadas**”](dashboard.md#total-de-licencas).
 
-![](../../.gitbook/assets/11.png)
+<figure><img src="../../.gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>
 
 ### **Dispositivos**
 
 Este indicador exibe o número total de dispositivos que estão ativos no sistema e os dispositivos sem comunicação. Além disso, possibilita ao administrador ter a visibilidade dos dispositivos que estão em Modo Quiosque.
 
-![](../../.gitbook/assets/12.png)
+<figure><img src="../../.gitbook/assets/image (288).png" alt=""><figcaption></figcaption></figure>
 
 * **Total -** Esses dispositivos são considerados “**Ativos**” ao instalar e ativar o aplicativo **\<NomeProduto>.**\
   Ao clicar em "**Total**” o indicador exibirá a tela “**Lista de Dispositivos**” contendo o relatório com as principais informações dos dispositivos ativos.
@@ -114,7 +122,7 @@ O gráfico exibirá:
 * **Porcentagem do consumo de dados móveis locais** em relação ao total de dados (móveis + Wi-Fi).
 * **Porcentagem do consumo de dados via Wi-Fi** em relação ao total de dados (móveis + Wi-Fi)<mark style="color:blue;">.</mark>
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="272"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (289).png" alt=""><figcaption></figcaption></figure>
 
 **Legenda Exibida:**
 
@@ -130,7 +138,7 @@ O gráfico exibirá:
 * **Porcentagem de dados móveis em roaming** (móveis + roaming + Wi-Fi).
 * **Porcentagem de Wi-Fi** (móveis + roaming + Wi-Fi).
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="281"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (290).png" alt=""><figcaption></figcaption></figure>
 
 **Legenda Exibida:**
 
@@ -157,7 +165,7 @@ Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as in
 
 Isso oferece aos usuários uma visão mais detalhada e específica do consumo de dados, permitindo uma análise mais precisa e segmentada, tanto em redes móveis quanto em WiFi.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (291).png" alt=""><figcaption></figcaption></figure>
 
 ### **Consumo de Dados por Usuário**
 
@@ -167,7 +175,7 @@ O valor percentual de cada um dos 5 usuários é calculado em relação à soma 
 
 Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as informações de consumos da empresa. Para saber como utilizar essa tela, leia a seção [Consumos](empresas/consumo-da-empresa.md) deste manual.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (292).png" alt=""><figcaption></figcaption></figure>
 
 ### **Tempo de Uso por Aplicativo**
 
@@ -177,7 +185,7 @@ O valor percentual de cada um dos 5 aplicativos é calculado em relação à som
 
 Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as informações de todos os aplicativos.
 
-![](../../.gitbook/assets/18.png)
+<figure><img src="../../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
 
 ### Inventário de Dispositivos
 
@@ -209,7 +217,7 @@ Para realizar a análise individual dos usuários de dispositivos, clique em "**
 
 O mapa exibe a última localização dos dispositivos. Para que a localização seja exibida e atualizada, o dispositivo deve estar conectado à internet, deve haver sinal de GPS e a configuração de "**Modo de Localização**" deve estar "**Ativa**" em Localização na política aplicada ao dispositivo.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2024-09-13 140443.png" alt=""><figcaption></figcaption></figure>
 
 Caso o sistema não carregar as localizações no mapa, clique no botão "Exibir localizações”,  então elas serão exibidas conforme tela abaixo:
 
