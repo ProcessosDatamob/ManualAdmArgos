@@ -33,6 +33,8 @@ Ao acessar a tela, o sistema não permitirá alterar as informações do campo �
 
 1. Ao acessar a tela, o sistema exibirá uma listagem com todos os usuários administradores.
 
+<figure><img src="../../../.gitbook/assets/Captura de tela 2024-09-17 102440.png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../../.gitbook/assets/image (62).png" alt="" width="563"><figcaption></figcaption></figure>
 
 2. Para localizar um usuário, digite o nome do usuário no campo” Pesquisar”.

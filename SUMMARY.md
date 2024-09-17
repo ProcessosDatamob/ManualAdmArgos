@@ -70,6 +70,7 @@
     * [Perguntas Frequentes](manual-do-administrador/portal/ajuda/perguntas-frequentes.md)
     * [Documentos e Materiais de Apoio](manual-do-administrador/portal/ajuda/documentos-e-materiais-de-apoio.md)
 * [RELEASE NOTES](manual-do-administrador/release-notes/README.md)
+  * [Lançamentos futuros](manual-do-administrador/release-notes/lancamentos-futuros.md)
   * [Release Notes \<NomeProduto> V 14.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-14.0.0/README.md)
     * [Alerta ao enviar Comando para Remover Dispositivo com CHIP Bloqueado](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-14.0.0/alerta-ao-enviar-comando-para-remover-dispositivo-com-chip-bloqueado.md)
     * [Adicionado Ícone de Informações no Dashboard](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-14.0.0/adicionado-icone-de-informacoes-no-dashboard.md)
