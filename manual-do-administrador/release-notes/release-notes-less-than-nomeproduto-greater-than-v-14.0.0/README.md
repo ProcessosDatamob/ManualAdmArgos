@@ -15,3 +15,7 @@
 ### Correção de bugs
 
 1.
+
+### <mark style="background-color:blue;">Notas adicionais</mark>
+
+<mark style="background-color:blue;">Informações sobre compatibilidade, mudanças no sistema...</mark>
