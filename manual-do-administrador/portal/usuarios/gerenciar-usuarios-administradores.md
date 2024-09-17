@@ -35,13 +35,13 @@ Ao acessar a tela, o sistema não permitirá alterar as informações do campo �
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2024-09-17 102440.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (62).png" alt="" width="563"><figcaption></figcaption></figure>
-
 2. Para localizar um usuário, digite o nome do usuário no campo” Pesquisar”.
 3. Para ordenar as informações exibidas, clique no título da informação que desejar.
 4. Para exportar as informações dos usuários, clique no botão “Excel”.
 5. Para copiar as informações dos usuários, clique no botão “Copiar”.
-6. Clique em “Editar Administrador” nos três pontinhos à direita na linha do usuário, para acessar a tela de alteração dos dados do usuário. Nesta tela é possível gerenciar as informações de cadastro, de privilégio, de grupos e das permissões deste usuário. Também é possível alterar a senha de acesso ao portal que o usuário administra.&#x20;
+6. Clique em “Editar Administrador” nos três pontinhos à direita na linha do usuário, para acessar a tela de alteração dos dados do usuário. <mark style="color:red;">Para excluir o usuário, clique em "Remover Usuário". Caso a opção esteja desabilitada, isso significa que o usuário é o único associado àquela empresa e, portanto, não será possível removê-lo.</mark>
+
+Nesta tela é possível gerenciar as informações de cadastro, de privilégio, de grupos e das permissões deste usuário. Também é possível alterar a senha de acesso ao portal que o usuário administra.&#x20;
 
 **Requisitos de Senha:**
 
