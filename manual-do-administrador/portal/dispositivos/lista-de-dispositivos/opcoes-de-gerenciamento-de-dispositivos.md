@@ -157,7 +157,7 @@ _<mark style="color:blue;">Você deseja mesmo remover este dispositivo? Essa aç
 
 <mark style="color:blue;">Dessa forma, essa funcionalidade ajuda a evitar problemas de bloqueio de CHIP que possam surgir ao remover dispositivos da gestão.</mark>
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt="" width="205"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt="" width="205"><figcaption></figcaption></figure>
 
 ## **Gerenciar**
 

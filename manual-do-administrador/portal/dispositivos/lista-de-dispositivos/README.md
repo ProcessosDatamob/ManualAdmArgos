@@ -37,7 +37,7 @@ A tela a seguir será exibida:
 
 E ao clicar no nome da política é possível acessar rapidamente a tela de edição da política no dispositivo.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 9. Ordene as colunas: Usuário, Identificação, Licença, IMEI, Modelo, Data de Registro e Data da última comunicação com as setas "↑↓".
 10. Use os três pontinhos "..." para exibir o menu de ações e aplicar a ação desejada ao dispositivo.
