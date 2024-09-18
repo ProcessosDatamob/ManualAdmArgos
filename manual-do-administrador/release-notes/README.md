@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # RELEASE NOTES
 
 [Release Notes V 14.0.0](release-notes-less-than-nomeproduto-greater-than-v-14.0.0/)
