@@ -39,7 +39,7 @@ Ao acessar a tela, o sistema não permitirá alterar as informações do campo �
 3. Para ordenar as informações exibidas, clique no título da informação que desejar.
 4. Para exportar as informações dos usuários, clique no botão “Excel”.
 5. Para copiar as informações dos usuários, clique no botão “Copiar”.
-6. Clique em “Editar Administrador” nos três pontinhos à direita na linha do usuário, para acessar a tela de alteração dos dados do usuário. <mark style="color:red;">Para excluir o usuário, clique em "Remover Usuário". Caso a opção esteja desabilitada, isso significa que o usuário é o único associado àquela empresa e, portanto, não será possível removê-lo.</mark>
+6. Clique em “Editar Administrador” nos três pontinhos à direita na linha do usuário, para acessar a tela de alteração dos dados do usuário<mark style="color:blue;">.</mark> Para excluir o usuário, clique em "Remover Usuário". Caso a opção esteja desabilitada, isso significa que o usuário é o único associado àquela empresa e, portanto, não será possível removê-lo.
 
 Nesta tela é possível gerenciar as informações de cadastro, de privilégio, de grupos e das permissões deste usuário. Também é possível alterar a senha de acesso ao portal que o usuário administra.&#x20;
 

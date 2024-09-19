@@ -74,7 +74,7 @@
     * [Alerta ao enviar Comando para Remover Dispositivo com CHIP Bloqueado](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-14.0.0/alerta-ao-enviar-comando-para-remover-dispositivo-com-chip-bloqueado.md)
     * [Facilitando a Compreensão dos Gráficos: Ícones de Ajuda no Dashboard](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-14.0.0/facilitando-a-compreensao-dos-graficos-icones-de-ajuda-no-dashboard.md)
     * [Nova Funcionalidade de Seleção de Empresa no Login](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-14.0.0/nova-funcionalidade-de-selecao-de-empresa-no-login.md)
-    * [Bloqueio de Remoção de Usuário Único em Empresas Vinculadas](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-14.0.0/bloqueio-de-remocao-de-usuario-unico-em-empresas-vinculadas.md)
+    * [Nova Funcionalidade de Proteção na Remoção de Usuários](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-14.0.0/nova-funcionalidade-de-protecao-na-remocao-de-usuarios.md)
   * [Release Notes \<NomeProduto> V 13.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/README.md)
     * [Nova Configuração Gerenciada para tornar a Permissão Agendar Alarmes Opcional](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/nova-configuracao-gerenciada-para-tornar-a-permissao-agendar-alarmes-opcional.md)
     * [Status da Permissão de Agendar Alarmes](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-13.0.0/status-da-permissao-de-agendar-alarmes.md)
