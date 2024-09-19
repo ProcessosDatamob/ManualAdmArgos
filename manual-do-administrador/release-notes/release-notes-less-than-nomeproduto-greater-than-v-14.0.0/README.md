@@ -10,7 +10,7 @@
 
 ### Melhorias
 
-1. [Adicionado Ícone de Informações no Dashboard](adicionado-icone-de-informacoes-no-dashboard.md)
+1. [Adicionado Ícone de Informações no Dashboard](facilitando-a-compreensao-dos-graficos-icones-de-ajuda-no-dashboard.md)
 
 ### Correção de bugs
 
