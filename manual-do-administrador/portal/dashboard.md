@@ -23,7 +23,7 @@ A tela de Dashboard pode ser considerada a “**Tela Inicial**” do sistema, po
 <figure><img src="../../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-<mark style="color:blue;">Ao clicar no ícone de informações ao lado de cada gráfico, você pode visualizar uma descrição detalhada que explica os dados apresentados, facilitando o entendimento do conteúdo exibido e o contexto do gráfico.</mark>
+Ao passar o mouse sobre o ícone de <mark style="color:blue;">informações ao lado de cada gráfico, você pode visualizar uma descrição detalhada que explica os dados apresentados, facilitando o entendimento do conteúdo exibido e o contexto do gráfico.</mark>
 
 ![](<../../.gitbook/assets/Captura de tela 2024-09-13 135732.png>)
 {% endhint %}
