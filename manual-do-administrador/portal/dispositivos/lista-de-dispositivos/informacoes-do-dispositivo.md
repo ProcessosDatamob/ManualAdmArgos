@@ -71,17 +71,17 @@ Abaixo detalharemos as informações que contém em cada um dos campos das image
 * <mark style="color:blue;">**Data da Última Comunicação -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">exibirá a data em que o dispositivo se comunicou a última vez com o portal. Estes dados, serão exatamente o que estiver no dispositivo na hora da última comunicação.</mark>
 
 {% hint style="info" %}
-<mark style="color:blue;">Os dados que são atualizados no portal quando a</mark> <mark style="color:blue;"></mark><mark style="color:blue;">**Data da Última Comunicação**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">é atualizada são:</mark>
+Os dados que são atualizados no portal quando a **Data da Última Comunicação** é atualizada são:
 
-* <mark style="color:blue;">Consumos</mark>
-* <mark style="color:blue;">Permissões</mark>
-* <mark style="color:blue;">Conectividade</mark>
-* <mark style="color:blue;">SIM</mark>
-* <mark style="color:blue;">Aplicativos instalados</mark>
-* <mark style="color:blue;">Dashboard (exceto localização)</mark>
-* <mark style="color:blue;">Hardware - Bateria e armazenamento</mark>
-* <mark style="color:blue;">Permissões - Todas</mark>
-* <mark style="color:blue;">Conectividade - Todos os dados listados em Conectividade</mark>
+* Consumos
+* Permissões
+* Conectividade
+* SIM
+* Aplicativos instalados
+* Dashboard (exceto localização)
+* Hardware - Bateria e armazenamento
+* Permissões - Todas
+* Conectividade - Todos os dados listados em Conectividade
 {% endhint %}
 
 ### Hardware

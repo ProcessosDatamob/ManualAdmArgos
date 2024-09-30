@@ -43,7 +43,7 @@ E ao clicar no nome da política é possível acessar rapidamente a tela de edi�
 10. Use os três pontinhos "..." para exibir o menu de ações e aplicar a ação desejada ao dispositivo.
 11. Clique no ícone de filtro para selecionar as colunas que ficarão visíveis, utilize o campo de pesquisa para pesquisar as colunas por texto e realizar o filtro, e depois clique em "Salvar" para definir a configuração como padrão da tela para o usuário logado. Caso o usuário não realize a customização, serão exibidas as seguintes colunas como padrão:  Usuário, Identificação, Licença, IMEI, Modelo e Política.
 
-<figure><img src="../../../../.gitbook/assets/image (260).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (260).png" alt="" width="136"><figcaption></figcaption></figure>
 
 ### Ações em lote
 

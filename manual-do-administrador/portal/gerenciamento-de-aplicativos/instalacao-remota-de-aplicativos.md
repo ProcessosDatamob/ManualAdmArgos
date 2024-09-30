@@ -22,7 +22,7 @@ Para que isso seja possível, o aplicativo deve estar em um servidor com acesso 
 
 Para gerenciar e enviar a instalação remota de aplicativos para os dispositivos, clique no menu “**Gerenciamento de Aplicativos**” e na opção "**Instalação Remota de Aplicativos**".
 
-<figure><img src="../../../.gitbook/assets/Captura de tela 2024-04-29 140640 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Captura de tela 2024-04-29 140640 (1).png" alt="" width="209"><figcaption></figcaption></figure>
 
 O sistema exibirá uma lista com os aplicativos instalados nos dispositivos da empresa. A tela de exibição dos aplicativos é apresentada a seguir.
 

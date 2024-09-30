@@ -1,9 +1,9 @@
 # Facilitando a Compreensão dos Gráficos: Ícones de Ajuda no Dashboard
 
-<mark style="color:blue;">O dashboard do portal agora possui ícones de ajuda que oferecem explicações simplificadas sobre o significado de cada gráfico. Ao posicionar o cursor sobre esses ícones, são exibidas informações detalhadas, facilitando a compreensão dos gráficos e dos dados apresentados.</mark>
+O dashboard do portal agora possui ícones de ajuda que oferecem explicações simplificadas sobre o significado de cada gráfico. Ao posicionar o cursor do mouse sobre esses ícones, são exibidas informações detalhadas, facilitando a compreensão dos gráficos e dos dados apresentados.
 
 Mais informações na seção [Dashboard](../../portal/dashboard.md).
 
-<figure><img src="../../../.gitbook/assets/image (283).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (283).png" alt="" width="312"><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)

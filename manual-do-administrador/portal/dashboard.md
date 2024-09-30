@@ -14,8 +14,6 @@ layout:
 
 # Dashboard
 
-<mark style="color:red;background-color:orange;">PARA V14 ALTERAR TODAS AS IMAGENS PARA APARECER O ÍCONE DE INFORMAÇÕES</mark>
-
 Esta tela do sistema tem como objetivo possibilitar ao usuário a visualização e análise dos diversos dados de consumos e usos coletados dos dispositivos. Para saber como acessar e analisar os dados exibidos no Dashboard, siga os passos descritos nesta seção.
 
 A tela de Dashboard pode ser considerada a “**Tela Inicial**” do sistema, pois é exibida assim que acessa o Portal, mas também pode ser acessada clicando no menu “**Dashboard**”. Em um primeiro acesso, os indicadores de usuários, dispositivos e consumos não terão ainda informações, e estarão zerados.
@@ -23,7 +21,7 @@ A tela de Dashboard pode ser considerada a “**Tela Inicial**” do sistema, po
 <figure><img src="../../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Ao passar o mouse sobre o ícone de <mark style="color:blue;">informações ao lado de cada gráfico, você pode visualizar uma descrição detalhada que explica os dados apresentados, facilitando o entendimento do conteúdo exibido e o contexto do gráfico.</mark>
+Ao passar o mouse sobre o ícone de informações ao lado de cada gráfico, você pode visualizar uma descrição detalhada que explica os dados apresentados, facilitando o entendimento do conteúdo exibido e o contexto do gráfico.
 
 ![](<../../.gitbook/assets/Captura de tela 2024-09-13 135732.png>)
 {% endhint %}
@@ -52,7 +50,7 @@ No canto superior direito da tela, temos alguns ícones que tem as seguintes fun
 
 * **Notificações** - No ícone ![](https://lh7-us.googleusercontent.com/LIqOOPLli\_-KQv0gbnkeBAgAG1\_EOWziv1kRkMmMtO2dOIvA17vDOpWbmtTw5\_2RUg1D-mUt1PWNvciaKyYAHysUPk47UBQ8yIufI8DmrX523Zqn\_ntcDKa0ff0KqkWZeeaDLHoJF9MB762IkIm6vw)o administrador pode ver as notificações do portal, por exemplo, ao solicitar a geração de um relatório.&#x20;
 * **Admin** - No ícone ![](https://lh7-us.googleusercontent.com/XnN5TtWJIzJYNZfcb\_18o7Mzx\_RrJYRxyodSpfkBQuPCce64vPyFVeN6g6umpqRYxKpCZ\_v8JGiU3iuMYa4vOmakPCagWJmIJFLK3dsOj3f7Ta1mH0KwNpxCTIGDJ5xs1IUicW1Ncuv2XJcBMyJvGg) exibe a opção para que o administrador possa sair do portal e também exibe a versão atual da solução o número da versão.
-* <mark style="color:red;">**Selecionar empresa**</mark> <mark style="color:red;"></mark><mark style="color:red;">-</mark> <mark style="color:blue;">Caso o usuário tenha vínculo com mais de uma empresa que possua o mesmo CNPJ, o sistema exibirá um campo de seleção para que ele escolha a empresa desejada. Após a seleção, serão exibidas apenas as informações correspondentes à empresa escolhida.</mark>
+* **Selecionar empresa** - Caso o usuário tenha vínculo com mais de uma empresa que possua o mesmo CNPJ, o sistema exibirá um campo de seleção para que ele escolha a empresa desejada. Após a seleção, serão exibidas apenas as informações correspondentes à empresa escolhida.
 
 <figure><img src="../../.gitbook/assets/Captura de tela 2024-09-17 100716.png" alt=""><figcaption></figcaption></figure>
 
@@ -84,7 +82,7 @@ Ao clicar nesse indicador, o sistema exibirá a tela de "**Licenças Contratadas
 
 Este indicador exibe o número total de dispositivos que estão ativos no sistema e os dispositivos sem comunicação. Além disso, possibilita ao administrador ter a visibilidade dos dispositivos que estão em Modo Quiosque.
 
-<figure><img src="../../.gitbook/assets/image (288).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (288).png" alt="" width="240"><figcaption></figcaption></figure>
 
 * **Total -** Esses dispositivos são considerados “**Ativos**” ao instalar e ativar o aplicativo **\<NomeProduto>.**\
   Ao clicar em "**Total**” o indicador exibirá a tela “**Lista de Dispositivos**” contendo o relatório com as principais informações dos dispositivos ativos.
@@ -123,7 +121,7 @@ O gráfico exibirá:
 * **Porcentagem do consumo de dados móveis locais** em relação ao total de dados (móveis + Wi-Fi).
 * **Porcentagem do consumo de dados via Wi-Fi** em relação ao total de dados (móveis + Wi-Fi)<mark style="color:blue;">.</mark>
 
-<figure><img src="../../.gitbook/assets/image (289).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (289).png" alt="" width="230"><figcaption></figcaption></figure>
 
 **Legenda Exibida:**
 
@@ -139,7 +137,7 @@ O gráfico exibirá:
 * **Porcentagem de dados móveis em roaming** (móveis + roaming + Wi-Fi).
 * **Porcentagem de Wi-Fi** (móveis + roaming + Wi-Fi).
 
-<figure><img src="../../.gitbook/assets/image (290).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (290).png" alt="" width="233"><figcaption></figcaption></figure>
 
 **Legenda Exibida:**
 
@@ -222,7 +220,7 @@ O mapa exibe a última localização dos dispositivos. Para que a localização 
 
 Caso o sistema não carregar as localizações no mapa, clique no botão "Exibir localizações”,  então elas serão exibidas conforme tela abaixo:
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="281"><figcaption></figcaption></figure>
 
 A regra de agrupamento dos dispositivos é a seguinte:
 
