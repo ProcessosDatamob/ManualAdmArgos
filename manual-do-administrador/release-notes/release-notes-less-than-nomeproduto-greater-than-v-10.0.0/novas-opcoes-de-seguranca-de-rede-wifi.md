@@ -30,7 +30,7 @@ Com esses novos tipos de segurança, agora é possível configurar campos adicio
 Essas melhorias proporcionam maior flexibilidade e segurança na conexão a diversas redes Wi-Fi.
 
 \
-Para mais informações, acesse a seção "[Gerenciar Redes Wi-Fi](https://datamob.gitbook.io/manual-administrador-datamob-enterprise/manual-do-administrador/portal/configuracoes/gerenciar-redes-wi-fi)" no portal Datamob Enterprise.
+Para mais informações, acesse a seção "[Gerenciar Redes Wi-Fi](https://datamob.gitbook.io/manual-administrador-datamob-enterprise/manual-do-administrador/portal/configuracoes/gerenciar-redes-wi-fi)".
 
 <figure><img src="../../../.gitbook/assets/mmm.png" alt=""><figcaption></figcaption></figure>
 
