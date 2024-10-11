@@ -65,6 +65,12 @@ Nesta etapa , será solicitada uma conta de domínio próprio da empresa , para 
 
 **Exemplo:** @empresa.com
 
+{% hint style="info" %}
+<mark style="color:red;">**OBSERVAÇÃO**</mark>
+
+<mark style="color:red;">Para garantir o bom funcionamento dos primeiros passos, é sugerido realizar o processo em uma aba anônima do navegador. Isso ajuda a evitar possíveis conflitos com dados de cache ou cookies que possam interferir no acesso.</mark>
+{% endhint %}
+
 <figure><img src="../../../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
 
 Caso o usuário informar seja informada esta conta de e-mail coorporativo contendo o Cloud Identity o sistema seguira o processo normal do fluxo. Caso o usuário  informar uma conta que não tenha o Cloud Identity configurado, será apresentada a seguinte tela:
