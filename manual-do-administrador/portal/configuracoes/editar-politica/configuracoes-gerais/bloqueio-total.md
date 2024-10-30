@@ -10,6 +10,12 @@ Estando na aba "**Configurações**" da tela "**Editar Políticas**", clique em 
 
 Para realizar o bloqueio de dispositivos fora do horário de trabalho, siga os passos a seguir:
 
+{% hint style="warning" %}
+**IMPORTANTE**
+
+Ao ativar o bloqueio fora do horário de trabalho, os aplicativos **não** podem estar configurados com o tipo de instalação "**Instalação Forçada**", é necessário alterar os aplicativos para o tipo de instalação "**Disponível**" ou "**Pré-instalado**", pois a funcionalidade de instalação forçada interfere no bloqueio fora do horário ocasionando um consumo de dados adicional no dispositivo.
+{% endhint %}
+
 1. Ative a opção "Bloquear dispositivo fora do horário de trabalho".
 2. Preencha o campo "Dias de trabalho", com os dias trabalhados na semana dia de início e dia fim.
 3. Preencha o campo "Horário de trabalho", com horário de trabalho inicial e final.
