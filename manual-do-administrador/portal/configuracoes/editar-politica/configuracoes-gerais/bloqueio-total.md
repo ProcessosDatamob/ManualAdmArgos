@@ -13,7 +13,7 @@ Para realizar o bloqueio de dispositivos fora do horário de trabalho, siga os p
 {% hint style="warning" %}
 **IMPORTANTE**
 
-Ao ativar o bloqueio fora do horário de trabalho, os aplicativos **não** podem estar configurados com o tipo de instalação "**Instalação Forçada**", é necessário alterar os aplicativos para o tipo de instalação "**Disponível**" ou "**Pré-instalado**", pois a funcionalidade de instalação forçada interfere no bloqueio fora do horário ocasionando um consumo de dados adicional no dispositivo.
+Ao ativar o bloqueio fora do horário de trabalho para um aplicativo com o tipo de instalação “Instalação Forçada” a funcionalidade poderá gerar um consumo adicional de dados no dispositivo, pois causa um conflito de políticas, forçando o download do aplicativo sempre que o mesmo for desbloqueado. Por essa razão, antes de ativar o bloqueio fora do horário de trabalho é recomendável alterar o tipo de instalação dos aplicativos de “Instalação Forçada” para "Disponível" ou "Pré-instalado”, evitando esse consumo adicional.
 {% endhint %}
 
 1. Ative a opção "Bloquear dispositivo fora do horário de trabalho".
