@@ -71,7 +71,7 @@
     * [Documentos e Materiais de Apoio](manual-do-administrador/portal/ajuda/documentos-e-materiais-de-apoio.md)
 * [RELEASE NOTES](manual-do-administrador/release-notes/README.md)
   * [Release Notes \<NomeProduto> V 14.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-14.0.0/README.md)
-    * [Validação e Comando para Remoção de Dispositivo com CHIP Bloqueado](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-14.0.0/validacao-e-comando-para-remocao-de-dispositivo-com-chip-bloqueado.md)
+    * [Validação e Remoção do Dispositivo com CHIP Bloqueado](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-14.0.0/validacao-e-remocao-do-dispositivo-com-chip-bloqueado.md)
     * [Facilitando a Compreensão dos Gráficos: Ícones de Ajuda no Dashboard](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-14.0.0/facilitando-a-compreensao-dos-graficos-icones-de-ajuda-no-dashboard.md)
     * [Nova Funcionalidade de Seleção de Empresa no Login](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-14.0.0/nova-funcionalidade-de-selecao-de-empresa-no-login.md)
     * [Nova Funcionalidade de Proteção na Remoção de Usuários](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-14.0.0/nova-funcionalidade-de-protecao-na-remocao-de-usuarios.md)
