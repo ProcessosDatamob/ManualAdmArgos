@@ -227,7 +227,8 @@ A regra de agrupamento dos dispositivos é a seguinte:
 * Azul: maior igual 5
 * Amarelo: maior igual 10
 * Vermelho: maior igual 100
-* Abaixo de 5 mostra os pinos normalmente
+* Magenta: maior ou igual a 1.000
+* Violeta: maior ou igual a 10.000
 
 O símbolo de gota laranja com um número dentro significa os pontos que o usuário passou em ordem numérica no dia.
 
