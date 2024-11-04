@@ -1,6 +1,6 @@
 # Novo Gráfico de Consumo Total de Dados
 
-Foi implementado um novo gráfico de **Consumo Total de Dados** no **Dashboard** do portal. Este gráfico em formato de "donut" permite visualizar de forma clara a distribuição do consumo de dados pelos dispositivos, incluindo:
+Foi implementado um novo gráfico de **Consumo Total de Dados** no **Dashboard** do portal. Este gráfico permite visualizar de forma clara a distribuição do consumo de dados pelos dispositivos, incluindo:
 
 * **Dados móveis locais**: Exibe o consumo total de dados móveis.
 * **Dados Wi-Fi**: Mostra o consumo total de dados via Wi-Fi.
