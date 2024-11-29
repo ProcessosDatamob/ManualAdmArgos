@@ -50,9 +50,6 @@ No canto superior direito da tela, temos alguns ícones que tem as seguintes fun
 
 * **Notificações** - No ícone ![](https://lh7-us.googleusercontent.com/LIqOOPLli_-KQv0gbnkeBAgAG1_EOWziv1kRkMmMtO2dOIvA17vDOpWbmtTw5_2RUg1D-mUt1PWNvciaKyYAHysUPk47UBQ8yIufI8DmrX523Zqn_ntcDKa0ff0KqkWZeeaDLHoJF9MB762IkIm6vw)o administrador pode ver as notificações do portal, por exemplo, ao solicitar a geração de um relatório.&#x20;
 * **Admin** - No ícone ![](https://lh7-us.googleusercontent.com/XnN5TtWJIzJYNZfcb_18o7Mzx_RrJYRxyodSpfkBQuPCce64vPyFVeN6g6umpqRYxKpCZ_v8JGiU3iuMYa4vOmakPCagWJmIJFLK3dsOj3f7Ta1mH0KwNpxCTIGDJ5xs1IUicW1Ncuv2XJcBMyJvGg) exibe a opção para que o administrador possa sair do portal e também exibe a versão atual da solução o número da versão.
-* **Selecionar empresa** - Caso o usuário tenha vínculo com mais de uma empresa que possua o mesmo CNPJ, o sistema exibirá um campo de seleção para que ele escolha a empresa desejada. Após a seleção, serão exibidas apenas as informações correspondentes à empresa escolhida.
-
-<figure><img src="../../.gitbook/assets/Captura de tela 2024-09-17 100716.png" alt=""><figcaption></figcaption></figure>
 
 ### **Barra de Status**
 

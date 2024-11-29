@@ -4,6 +4,4 @@
 
 1. [Alerta ao enviar Comando para Remover Dispositivo com CHIP Bloqueado](validacao-e-remocao-do-dispositivo-com-chip-bloqueado.md)
 2. [Facilitando a Compreensão dos Gráficos: Ícones de Ajuda no Dashboard](facilitando-a-compreensao-dos-graficos-icones-de-ajuda-no-dashboard.md)
-3. [Nova Funcionalidade de Seleção de Empresa no Login](nova-funcionalidade-de-selecao-de-empresa-no-login.md)
-4. [Nova Funcionalidade de Proteção na Remoção de Usuários](nova-funcionalidade-de-protecao-na-remocao-de-usuarios.md)
-5. [Ajustes e Correções da Versão - V 14.0.0](ajustes-e-correcoes-da-versao-v-14.0.0.md)
+3. [Ajustes e Correções da Versão - V 14.0.0](ajustes-e-correcoes-da-versao-v-14.0.0.md)
