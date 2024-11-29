@@ -4,6 +4,6 @@ No menu "Gerenciamento de Aplicativos" do portal \<NomeProduto> foi adicionado u
 
 Mais informações na seção [Instalação Remota de Aplicativos](../../portal/gerenciamento-de-aplicativos/instalacao-remota-de-aplicativos.md).
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)

@@ -25,7 +25,7 @@ Na tela de configuração, o usuário poderá:
 
 Mais informações na seção [Mob Settings](../../portal/configuracoes/editar-politica/aplicativos/mob-settings.md).
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
 

@@ -4,6 +4,6 @@ Agora, ao acessar o portal, se o usuário estiver vinculado a mais de uma empres
 
 Mais informações na seção [Dashboard](../../portal/dashboard.md).
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)

@@ -42,7 +42,7 @@ Abaixo detalharemos as informações que contém em cada um dos campos das image
 
 * **Usuário -** nome do usuário cadastrado no portal;
 * **Identificação -** Identificação cadastrada para o dispositivo;
-* **Grupo -** grupo cadastrado para o dispositivo**;**
+* **Grupo -** grupo cadastrado para o dispositiv&#x6F;**;**
 * **Departamento** - É um campo de texto livre, ou seja, o administrador pode digitar o que desejar. Indica a unidade ou departamento da organização ao qual o dispositivo está atribuído;
 * **Telefone do Usuário** - É um campo de texto livre, ou seja, o administrador pode digitar o que desejar. Indica o número de telefone associado ao usuário do dispositivo;
 * **IMEI -** número interno e único em cada dispositivo. No Android 10 já não é possível capturar esta informação do dispositivo porque utilizamos outro método para receber esta informação com o Enriquecimento de URL;

@@ -60,7 +60,34 @@ Esta operação envia um comando para reiniciar o dispositivo. Escolha a opção
 
 ### **Gerar nova senha do Bloqueio de Tela**
 
-Esta opção permite ao administrador configurar a senha do bloqueio de tela do Block SIM para permitir a alteração remota da senha. Na Lista de Dispositivos, clique na opção “Gerar Nova Senha do Bloqueio de Tela", preencha e confirme a nova senha do Bloqueio de Tela, utilizando letras, números e símbolos. Confirme a alteração da senha, e ao confirmar, o comando será enviado via push ao \<NomeProduto> para aplicação no dispositivo.
+<mark style="color:red;">Esta opção permite ao administrador configurar a senha do bloqueio de tela do Block SIM para permitir a alteração remota da senha. Com essa funcionalidade, o administrador pode definir uma nova senha diretamente pelo portal e enviá-la para os dispositivos associados à política Block SIM. Essa senha pode incluir letras, números e símbolos, oferecendo maior complexidade e segurança.</mark>\ <mark style="color:red;">O dispositivo deve estar registrado em uma política com Block SIM ativo e o aplicativo Block SIM deve estar instalado e ativado no dispositivo.</mark>
+
+1. <mark style="color:red;">Na Lista de Dispositivos, clique nos três pontinhos "...".</mark>
+2. <mark style="color:red;">Clique na opção “Gerar Nova Senha do Bloqueio de Tela".</mark>&#x20;
+
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt="" width="153"><figcaption></figcaption></figure>
+
+3. Preencha e confirme a nova senha do Bloqueio de Tela, utilizando letras, números e símbolos.&#x20;
+
+<figure><img src="../../../../.gitbook/assets/image.png" alt="" width="489"><figcaption></figcaption></figure>
+
+4. Confirme a alteração da senha, e ao confirmar, o comando será enviado via push ao \<NomeProduto> para aplicação no dispositivo.
+5. O dispositivo receberá o comando via push.
+
+Quando a senha for alterada o Block SIM receberá a nova senha, ativará o bloqueio de tela com a <mark style="color:red;">nova senha definida.</mark>
+
+{% hint style="info" %}
+<mark style="color:red;">**Limitações com o Block SIM**</mark>
+
+<mark style="color:red;">Quando o dispositivo estiver configurado em uma política com o Block SIM ativo, as chamadas recebidas não poderão ser atendidas sem desbloquear a tela primeiro.</mark>&#x20;
+
+#### <mark style="color:red;">**Orientação**</mark>
+
+<mark style="color:red;">Caso o atendimento de ligações seja necessário mesmo com a tela bloqueada:</mark>
+
+1. <mark style="color:red;">Avalie se a política Block SIM é adequada para esses casos específicos.</mark>
+2. <mark style="color:red;">Comunique essa limitação aos usuários finais.</mark>
+{% endhint %}
 
 ### **Remover Bloqueio de Tela**
 
@@ -157,7 +184,7 @@ E serão exibidas as opções “Remover" e "Cancelar"
 
 Dessa forma, essa funcionalidade ajuda a evitar problemas de bloqueio de CHIP que possam surgir ao remover dispositivos da gestão.
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt="" width="205"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt="" width="205"><figcaption></figcaption></figure>
 
 ## **Gerenciar**
 
