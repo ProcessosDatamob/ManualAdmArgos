@@ -108,7 +108,6 @@
     * [Nova Função para Gerenciar Sites Favoritos do Security Browser](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/nova-funcao-para-gerenciar-sites-favoritos-do-security-browser.md)
     * [Envio de Troca de Senha do Bloqueio de Tela no Block SIM](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/envio-de-troca-de-senha-do-bloqueio-de-tela-no-block-sim.md)
     * [Nova Funcionalidade para Remoção do Bloqueio de Chip em Dispositivos com Block SIM](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/nova-funcionalidade-para-remocao-do-bloqueio-de-chip-em-dispositivos-com-block-sim.md)
-    * [Page](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/page.md)
     * [Novas Informações de Conectividade do Dispositivo](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/novas-informacoes-de-conectividade-do-dispositivo.md)
     * [Novo Aplicativo para o Quiosque - Mob Settings](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/novo-aplicativo-para-o-quiosque-mob-settings.md)
     * [Configurações de Bluetooth no Mob Settings](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-11.0.0/configuracoes-de-bluetooth-no-mob-settings.md)
