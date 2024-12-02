@@ -71,6 +71,7 @@
     * [Perguntas Frequentes](manual-do-administrador/portal/ajuda/perguntas-frequentes.md)
     * [Documentos e Materiais de Apoio](manual-do-administrador/portal/ajuda/documentos-e-materiais-de-apoio.md)
 * [RELEASE NOTES](manual-do-administrador/release-notes/README.md)
+  * [Release Notes \<NomeProduto> V 16.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-16.0.0.md)
   * [Release Notes \<NomeProduto> V 15.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-15.0.0/README.md)
     * [Vínculo de Grupos em Políticas](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-15.0.0/vinculo-de-grupos-em-politicas.md)
     * [Gerenciamento de Políticas por Administradores de Grupos](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-15.0.0/gerenciamento-de-politicas-por-administradores-de-grupos.md)
