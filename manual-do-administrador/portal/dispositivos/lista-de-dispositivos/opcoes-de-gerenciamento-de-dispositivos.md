@@ -60,10 +60,11 @@ Esta operação envia um comando para reiniciar o dispositivo. Escolha a opção
 
 ### **Gerar nova senha do Bloqueio de Tela**
 
-<mark style="color:red;">Esta opção permite ao administrador configurar a senha do bloqueio de tela do Block SIM para permitir a alteração remota da senha. Com essa funcionalidade, o administrador pode definir uma nova senha diretamente pelo portal e enviá-la para os dispositivos associados à política Block SIM. Essa senha pode incluir letras, números e símbolos, oferecendo maior complexidade e segurança.</mark>\ <mark style="color:red;">O dispositivo deve estar registrado em uma política com Block SIM ativo e o aplicativo Block SIM deve estar instalado e ativado no dispositivo.</mark>
+Esta opção permite ao administrador configurar a senha do bloqueio de tela do Block SIM para permitir a alteração remota da senha. Com essa funcionalidade, o administrador pode definir uma nova senha diretamente pelo portal e enviá-la para os dispositivos associados à política Block SIM. Essa senha pode incluir letras, números e símbolos, oferecendo maior complexidade e segurança.\
+O dispositivo deve estar registrado em uma política com Block SIM ativo e o aplicativo Block SIM deve estar instalado e ativado no dispositivo.
 
-1. <mark style="color:red;">Na Lista de Dispositivos, clique nos três pontinhos "...".</mark>
-2. <mark style="color:red;">Clique na opção “Gerar Nova Senha do Bloqueio de Tela".</mark>&#x20;
+1. Na Lista de Dispositivos, clique nos três pontinhos "...".
+2. Clique na opção “Gerar Nova Senha do Bloqueio de Tela".&#x20;
 
 <figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt="" width="153"><figcaption></figcaption></figure>
 
@@ -74,19 +75,19 @@ Esta operação envia um comando para reiniciar o dispositivo. Escolha a opção
 4. Confirme a alteração da senha, e ao confirmar, o comando será enviado via push ao \<NomeProduto> para aplicação no dispositivo.
 5. O dispositivo receberá o comando via push.
 
-Quando a senha for alterada o Block SIM receberá a nova senha, ativará o bloqueio de tela com a <mark style="color:red;">nova senha definida.</mark>
+Quando a senha for alterada o Block SIM receberá a nova senha, ativará o bloqueio de tela com a nova senha definida.
 
 {% hint style="info" %}
-<mark style="color:red;">**Limitações com o Block SIM**</mark>
+**Limitações com o Block SIM**
 
-<mark style="color:red;">Quando o dispositivo estiver configurado em uma política com o Block SIM ativo, as chamadas recebidas não poderão ser atendidas sem desbloquear a tela primeiro.</mark>&#x20;
+Quando o dispositivo estiver configurado em uma política com o Block SIM ativo, as chamadas recebidas não poderão ser atendidas sem desbloquear a tela primeiro.&#x20;
 
-#### <mark style="color:red;">**Orientação**</mark>
+#### **Orientação**
 
-<mark style="color:red;">Caso o atendimento de ligações seja necessário mesmo com a tela bloqueada:</mark>
+Caso o atendimento de ligações seja necessário mesmo com a tela bloqueada:
 
-1. <mark style="color:red;">Avalie se a política Block SIM é adequada para esses casos específicos.</mark>
-2. <mark style="color:red;">Comunique essa limitação aos usuários finais.</mark>
+1. Avalie se a política Block SIM é adequada para esses casos específicos.
+2. Comunique essa limitação aos usuários finais.
 {% endhint %}
 
 ### **Remover Bloqueio de Tela**
@@ -206,9 +207,7 @@ Abaixo segue a explicação de cada uma delas:
 
 ### **Informações**
 
-Ao abrir a tela Gerenciar Dispositivo , a primeira aba "**Informações**" vira Pré selecionada, nesta aba, é possível editar dados do dispositivo: Usuário, Identificação, selecionar um Grupo, Departamento, Telefone do Usuário <mark style="color:red;">e selecionar uma Localidade.</mark>
-
-<mark style="background-color:blue;">NOVA IMAGEM</mark>
+Ao abrir a tela Gerenciar Dispositivo , a primeira aba "**Informações**" vira Pré selecionada, nesta aba, é possível editar dados do dispositivo: Usuário, Identificação, selecionar um Grupo, Departamento, Telefone do Usuário e selecionar uma Localidade.
 
 <figure><img src="../../../../.gitbook/assets/image (299).png" alt=""><figcaption></figcaption></figure>
 

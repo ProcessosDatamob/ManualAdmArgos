@@ -4,8 +4,6 @@ O submenu Informações dos aplicativos mostra as informações dos aplicativos 
 
 1. Clique no menu "**Dispositivos**" opção "**Informações dos aplicativos**" para acessar a tela.
 
-<mark style="background-color:blue;">NOVA IMAGEM</mark>
-
 <figure><img src="../../../.gitbook/assets/image (303).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/Captura de tela 2024-08-27 164733.png" alt=""><figcaption></figcaption></figure>

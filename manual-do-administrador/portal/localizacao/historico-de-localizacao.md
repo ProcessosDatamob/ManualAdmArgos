@@ -34,7 +34,7 @@ Para visualizar e gerar o relatório, siga os passos descritos nesta seção.
 O sistema exibirá todas as localizações dos dispositivos de acordo com filtro selecionado. Se nenhum filtro for definido, o sistema listará todas as informações.
 {% endhint %}
 
-4. Para ordenar as informações exibidas, clique nas setas ao lado no título da informação que desejar (Usuário, Licença, <mark style="color:red;">IMEI, Número de Série,</mark> Endereço, Precisão do GPS ou Data);
+4. Para ordenar as informações exibidas, clique nas setas ao lado no título da informação que desejar (Usuário, Licença, IMEI, Número de Série, Endereço, Precisão do GPS ou Data);
 5. Caso queira visualizar a localização de um dispositivo específico, utilize o campo “Pesquisar”.
 6. Para exportar o relatório de histórico das localizações, clique no link “Excel”.
 7. Para copiar as informações do relatório, clique no link “Copiar”.

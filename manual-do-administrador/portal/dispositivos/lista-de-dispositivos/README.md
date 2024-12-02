@@ -18,24 +18,20 @@ Para gerenciar os dispositivos ativos da empresa, siga os passos descritos abaix
 
 Clique no menu “**Dispositivos**” opção "**Lista de Dispositivos**" para acessar a tela.
 
-<mark style="background-color:blue;">NOVA IMAGEM</mark>
-
 <figure><img src="../../../../.gitbook/assets/image (302).png" alt=""><figcaption></figcaption></figure>
 
 A tela a seguir será exibida:
-
-<mark style="background-color:blue;">NOVA IMAGEM</mark>
 
 <figure><img src="../../../../.gitbook/assets/Captura de tela 2024-12-02 142930.png" alt=""><figcaption></figcaption></figure>
 
 1. Na parte superior da tela o sistema exibe a distribuição dos dispositivos, separados por fabricantes.
 2. Use os filtros Grupos, Política, Modelo e Fabricante para encontrar os dispositivos se deseja listar.
-3. <mark style="color:red;">Utilize os</mark> <mark style="color:red;"></mark><mark style="color:red;">**Filtros Avançados**</mark> <mark style="color:red;"></mark><mark style="color:red;">para refinar sua busca com as seguintes opções:</mark>
+3. Utilize os **Filtros Avançados** para refinar sua busca com as seguintes opções:
 
-* <mark style="color:red;">**Modo de Gerenciamento**</mark><mark style="color:red;">: Filtre dispositivos com base no modo de gerenciamento configurado.</mark>
-* <mark style="color:red;">**Data de Registro**</mark><mark style="color:red;">: Selecione um período específico usando a</mark> <mark style="color:red;"></mark><mark style="color:red;">**Data Inicial**</mark> <mark style="color:red;"></mark><mark style="color:red;">e</mark> <mark style="color:red;"></mark><mark style="color:red;">**Data Final**</mark> <mark style="color:red;"></mark><mark style="color:red;">para localizar dispositivos registrados nesse intervalo.</mark>
-* <mark style="color:red;">**Localidade**</mark><mark style="color:red;">: Escolha uma localidade pelo nome ou endereço.</mark>
-* <mark style="color:red;">**Distância da Localidade**</mark><mark style="color:red;">: Calcule a distância entre a última localização conhecida do dispositivo e o endereço selecionado.</mark>
+* **Modo de Gerenciamento**: Filtre dispositivos com base no modo de gerenciamento configurado.
+* **Data de Registro**: Selecione um período específico usando a **Data Inicial** e **Data Final** para localizar dispositivos registrados nesse intervalo.
+* **Localidade**: Escolha uma localidade pelo nome ou endereço.
+* **Distância da Localidade**: Calcule a distância entre a última localização conhecida do dispositivo e o endereço selecionado.
 
 4. Para buscar um dispositivo específico, digite o número do telefone, nome do usuário, IMEI, ICCID, departamento ou telefone do usuário do dispositivo no campo “Pesquisar”.
 5. Para exportar o relatório dos dispositivos, clique no botão “Excel”, o sistema exibirá no relatório apenas as informações das colunas exibidas na tela.
@@ -43,13 +39,9 @@ A tela a seguir será exibida:
 7. Clique na opção de “Ações em lote" para aplicar uma ação em vários dispositivos de uma vez só. Para mais informações, acessar o conteúdo [Ações em lote](./#acoes-em-lote) nesta página.
 8. A lista de dispositivos é mostrada na parte inferior da tela. E ao rolar a barra horizontalmente é possível visualizar todas as informações das colunas exibidas.&#x20;
 
-<mark style="background-color:blue;">NOVA IMAGEM</mark>
-
 <figure><img src="../../../../.gitbook/assets/image (298).png" alt=""><figcaption></figcaption></figure>
 
 E ao clicar no nome da política é possível acessar rapidamente a tela de edição da política no dispositivo.
-
-<mark style="background-color:blue;">NOVA IMAGEM</mark>
 
 <figure><img src="../../../../.gitbook/assets/image (297).png" alt=""><figcaption></figcaption></figure>
 
@@ -59,7 +51,7 @@ E ao clicar no nome da política é possível acessar rapidamente a tela de edi�
 
 <figure><img src="../../../../.gitbook/assets/image (260).png" alt="" width="136"><figcaption></figcaption></figure>
 
-<mark style="color:red;">As opções de colunas disponíveis são: Usuário, Identificação, Licença, IMEI, Modelo, Número de Série, Política, Modo de Gerenciamento, Versão do aplicativo \<NomeProduto>, ICCID, Fabricante, Data de Registro, Sistema Operacional, Grupo, Departamento, Telefone do Usuário, Status, Data da última comunicação, Localidade, Distância da localidade.</mark>
+As opções de colunas disponíveis são: Usuário, Identificação, Licença, IMEI, Modelo, Número de Série, Política, Modo de Gerenciamento, Versão do aplicativo \<NomeProduto>, ICCID, Fabricante, Data de Registro, Sistema Operacional, Grupo, Departamento, Telefone do Usuário, Status, Data da última comunicação, Localidade, Distância da localidade.
 
 ### Ações em lote
 

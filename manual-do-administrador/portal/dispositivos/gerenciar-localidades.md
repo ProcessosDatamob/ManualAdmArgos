@@ -1,10 +1,8 @@
 # Gerenciar Localidades
 
-<mark style="color:red;">O submenu Gerenciar Localidades mostra as informações de localidades dos dispositivos.</mark>
+O submenu Gerenciar Localidades mostra as informações de localidades dos dispositivos.
 
-1. <mark style="color:red;">Clique no menu "</mark><mark style="color:red;">**Dispositivos**</mark><mark style="color:red;">" opção "</mark><mark style="color:red;">**Gerenciar Localidades**</mark><mark style="color:red;">".</mark>
-
-<mark style="background-color:blue;">NOVA IMAGEM</mark>
+1. Clique no menu "**Dispositivos**" opção "**Gerenciar Localidades**".
 
 <figure><img src="../../../.gitbook/assets/image (304).png" alt=""><figcaption></figcaption></figure>
 
