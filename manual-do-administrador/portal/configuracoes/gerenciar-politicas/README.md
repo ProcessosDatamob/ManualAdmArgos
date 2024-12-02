@@ -18,7 +18,7 @@ Ao acessar a opção "**Gerenciar Políticas**" abrirá a tela apresentada na se
 
 ![](<../../../../.gitbook/assets/0 (20).png>)
 
-<figure><img src="../../../../.gitbook/assets/image (151).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Captura de tela 2024-12-02 141600.png" alt=""><figcaption></figcaption></figure>
 
 A tela apresenta os elementos que são padrão em todas as telas de listagens do sistema, os quais são descritos abaixo:
 
@@ -31,7 +31,7 @@ A tela apresenta os elementos que são padrão em todas as telas de listagens do
 * **Editar Política -** abre a tela para gerenciar as configurações da política;
 * **Remover Política -** abre uma caixa de mensagem para confirmação da exclusão da política. Clicando no botão "**Remover**" a política será removida do sistema;
 * **Token de Registro** - abre o Token de Registro e mais informações desta tela estão na seção Token de Registro.
-* **Copiar Política -** abre uma caixa de mensagem para nomear a cópia criada da política selecionada.
+* **Copiar Política -** abre uma caixa de mensagem para nomear a cópia criada da política selecionada.&#x20;
 
 4. Para exportar as informações dos usuários, clique no botão “Excel”.
 5. Para copiar as informações dos usuários, clique no botão “Copiar”.

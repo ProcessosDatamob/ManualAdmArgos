@@ -6,12 +6,15 @@ Esta tela do sistema tem o objetivo de realizar o cadastro de novas políticas. 
 
 A tela inicial do cadastro de políticas é apresentada na sequência.
 
-<figure><img src="../../../.gitbook/assets/image (147).png" alt=""><figcaption></figcaption></figure>
+<mark style="background-color:blue;">NOVA IMAGEM</mark>
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Para cadastrar uma nova política siga os seguintes passos:
 
 1. Digite um nome para a política.
-2. Escolha um dos modos de gerenciamento da política:
+2. <mark style="color:red;">Selecione um grupo existente para vincular à política (opcional).</mark>
+3. Escolha um dos modos de gerenciamento da política:
 
 * **Android** - Para dispositivos de propriedade da empresa. Permite o gerenciamento de uma ampla variedade de configurações de dispositivos e controles de política.
 * **Android - Block SIM -** Permite o gerenciamento de configurações dos dispositivos Android e controles de política. Adiciona automaticamente o aplicativo Block SIM, restringe as alterações de senha do dispositivo e garante o vínculo do chip ao dispositivo.
@@ -19,4 +22,20 @@ Para cadastrar uma nova política siga os seguintes passos:
 
 3. Clique em "**Cadastrar**".
 
-Após o cadastro da política será aberta a tela "**Editar Política**" para que os detalhes da política sejam configurados. A seção Editar Política mostra os detalhes da configuração de políticas.
+Após o cadastro da política será aberta a tela "**Editar Política**" para que os detalhes da política sejam configurados. A seção [Editar Política](editar-politica/) mostra os detalhes da configuração de políticas.
+
+{% hint style="info" %}
+<mark style="color:red;">Quando uma política já estiver vinculada a um grupo, o campo “Grupo” aparecerá desabilitado na tela de edição. Nesse caso, não será possível alterar o vínculo do grupo com a política.</mark>
+{% endhint %}
+
+#### Copiar Política
+
+<mark style="color:red;">Ao clicar em copiar uma política, é possível vincular à política qualquer grupo existente na Empresa, e a seleção do grupo é opcional.</mark>
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**Observação**
+
+<mark style="color:red;">No caso de acessar o portal como</mark> <mark style="color:red;">Administrador de Grupos é possível gerenciar (visualizar, editar e remover) políticas vinculadas aos seus grupos através do menu "Configurações". Na criação de uma nova política, quando acessar o portal como</mark> <mark style="color:red;">Administrador de Grupo é obrigatório selecionar um grupo vinculado ao usuário para concluir o processo.</mark>\ <mark style="color:red;">Ao copiar uma política no portal de</mark> <mark style="color:red;">Administrador de Grupo é obrigatório selecionar um grupo.</mark>
+{% endhint %}

@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# Localização de dispositivos
+# Localização de Dispositivos
 
 Essa tela do sistema tem como objetivo visualizar e gerar um relatório com a última localização enviada pelos dispositivos.
 
@@ -22,7 +22,10 @@ Para visualizar e gerar o relatório das localizações, siga os passos descrito
 
 <figure><img src="../../../.gitbook/assets/image (253).png" alt="" width="219"><figcaption></figcaption></figure>
 
-2. Selecione o usuário ou as datas que deseja buscar para obter informações
+2. <mark style="color:red;">Para localizar os dispositivos utilize os filtros: IMEI / Serial Number, Data inicial e Data final, para obter informações. A</mark> relação de dispositivos e sua última localização aparecerá automaticamente\
+   <mark style="color:red;background-color:blue;">NOVA IMAGEM</mark>
+
+<figure><img src="../../../.gitbook/assets/Captura de tela 2024-12-02 154118.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTA**
@@ -32,9 +35,8 @@ A tela “**Localização de Dispositivos**” apresenta um relatório da últim
 Importante ressaltar que o endereço apresentado pode sofrer alteração ao atualizar a tela, pois sempre vai apresentar a última localização do dispositivo.
 {% endhint %}
 
-3. Clique no botão "**Buscar**" e aparecerá a relação de dispositivos e sua última localização automaticamente
-4. Caso queira visualizar a localização de um dispositivo específico, digite o número do dispositivo no campo “**Pesquisar**”.
-5. Para ordenar as informações exibidas, clique nas setas ao lado do título da informação que deseja ordenar. (Usuário, Licença, Lat/Lng ou Data).
-6. Clique no sinal ">", que aparece no início da linha, para exibir o endereço;
-7. Para exportar o relatório das localizações, clique no link “Excel”.
-8. Para copiar as informações do relatório das localizações, clique no link “Copiar”
+3. Caso queira visualizar a localização de um dispositivo específico, digite o número do dispositivo no campo “**Pesquisar**”.
+4. Para ordenar as informações exibidas, clique nas setas ao lado do título da informação que deseja ordenar. (Usuário, Licença, <mark style="color:red;">IMEI, Número de Série</mark>, Lat/Lng ou Data).
+5. Clique no sinal ">", que aparece no início da linha, para exibir o endereço;
+6. Para exportar o relatório das localizações, clique no link “Excel”.
+7. Para copiar as informações do relatório das localizações, clique no link “Copiar”

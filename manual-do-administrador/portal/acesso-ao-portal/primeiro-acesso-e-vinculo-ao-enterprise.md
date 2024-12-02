@@ -24,11 +24,11 @@ Conforme você digita, a tela exibirá as regras que a senha deve seguir:
 
 Cada regra será mostrada em **verde** assim que for cumprida.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="257"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="257"><figcaption></figcaption></figure>
 
 4. Clique em “**Continuar**” para confirmar as informações e acessar o Portal.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 5. Após clicar em **Continuar**, você será direcionado para a tela abaixo, onde deve informar o e-mail e a senha configurada no passo anterior:
 

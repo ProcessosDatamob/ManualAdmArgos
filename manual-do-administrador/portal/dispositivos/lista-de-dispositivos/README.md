@@ -18,32 +18,48 @@ Para gerenciar os dispositivos ativos da empresa, siga os passos descritos abaix
 
 Clique no menu “**Dispositivos**” opção "**Lista de Dispositivos**" para acessar a tela.
 
-<figure><img src="../../../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
+<mark style="background-color:blue;">NOVA IMAGEM</mark>
+
+<figure><img src="../../../../.gitbook/assets/image (302).png" alt=""><figcaption></figcaption></figure>
 
 A tela a seguir será exibida:
 
-<figure><img src="../../../../.gitbook/assets/Captura de tela 2024-08-01 144803.png" alt=""><figcaption></figcaption></figure>
+<mark style="background-color:blue;">NOVA IMAGEM</mark>
+
+<figure><img src="../../../../.gitbook/assets/Captura de tela 2024-12-02 142930.png" alt=""><figcaption></figcaption></figure>
 
 1. Na parte superior da tela o sistema exibe a distribuição dos dispositivos, separados por fabricantes.
 2. Use os filtros Grupos, Política, Modelo e Fabricante para encontrar os dispositivos se deseja listar.
-3. Utilize os Filtros Avançados para buscar o Sistema Operacional, Modo de Gerenciamento, Data Inicial de Registro e Data Final de Registro (filtrará pela data de registro dos dispositivos que estão no período especificado) para acessar as informações desejadas.
-4. Para localizar um dispositivo específico, digite o número do telefone, nome do usuário, IMEI, ICCID, departamento ou telefone do usuário do dispositivo no campo “Pesquisar”.
+3. <mark style="color:red;">Utilize os</mark> <mark style="color:red;"></mark><mark style="color:red;">**Filtros Avançados**</mark> <mark style="color:red;"></mark><mark style="color:red;">para refinar sua busca com as seguintes opções:</mark>
+
+* <mark style="color:red;">**Modo de Gerenciamento**</mark><mark style="color:red;">: Filtre dispositivos com base no modo de gerenciamento configurado.</mark>
+* <mark style="color:red;">**Data de Registro**</mark><mark style="color:red;">: Selecione um período específico usando a</mark> <mark style="color:red;"></mark><mark style="color:red;">**Data Inicial**</mark> <mark style="color:red;"></mark><mark style="color:red;">e</mark> <mark style="color:red;"></mark><mark style="color:red;">**Data Final**</mark> <mark style="color:red;"></mark><mark style="color:red;">para localizar dispositivos registrados nesse intervalo.</mark>
+* <mark style="color:red;">**Localidade**</mark><mark style="color:red;">: Escolha uma localidade pelo nome ou endereço.</mark>
+* <mark style="color:red;">**Distância da Localidade**</mark><mark style="color:red;">: Calcule a distância entre a última localização conhecida do dispositivo e o endereço selecionado.</mark>
+
+4. Para buscar um dispositivo específico, digite o número do telefone, nome do usuário, IMEI, ICCID, departamento ou telefone do usuário do dispositivo no campo “Pesquisar”.
 5. Para exportar o relatório dos dispositivos, clique no botão “Excel”, o sistema exibirá no relatório apenas as informações das colunas exibidas na tela.
 6. Para copiar as informações dos dispositivos, clique no botão “Copiar”, o sistema copiará para a área de transferência apenas as informações das colunas exibidas na tela.
 7. Clique na opção de “Ações em lote" para aplicar uma ação em vários dispositivos de uma vez só. Para mais informações, acessar o conteúdo [Ações em lote](./#acoes-em-lote) nesta página.
-8. A lista de dispositivos é mostrada na parte inferior da tela. Ao rolar a barra horizontalmente é possível visualizar todas as informações das colunas exibidas.&#x20;
+8. A lista de dispositivos é mostrada na parte inferior da tela. E ao rolar a barra horizontalmente é possível visualizar todas as informações das colunas exibidas.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (246).png" alt=""><figcaption></figcaption></figure>
+<mark style="background-color:blue;">NOVA IMAGEM</mark>
+
+<figure><img src="../../../../.gitbook/assets/image (298).png" alt=""><figcaption></figcaption></figure>
 
 E ao clicar no nome da política é possível acessar rapidamente a tela de edição da política no dispositivo.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<mark style="background-color:blue;">NOVA IMAGEM</mark>
+
+<figure><img src="../../../../.gitbook/assets/image (297).png" alt=""><figcaption></figcaption></figure>
 
 9. Ordene as colunas: Usuário, Identificação, Licença, IMEI, Modelo, Data de Registro e Data da última comunicação com as setas "↑↓".
 10. Use os três pontinhos "..." para exibir o menu de ações e aplicar a ação desejada ao dispositivo.
 11. Clique no ícone de filtro para selecionar as colunas que ficarão visíveis, utilize o campo de pesquisa para pesquisar as colunas por texto e realizar o filtro, e depois clique em "Salvar" para definir a configuração como padrão da tela para o usuário logado. Caso o usuário não realize a customização, serão exibidas as seguintes colunas como padrão:  Usuário, Identificação, Licença, IMEI, Modelo e Política.
 
 <figure><img src="../../../../.gitbook/assets/image (260).png" alt="" width="136"><figcaption></figcaption></figure>
+
+<mark style="color:red;">As opções de colunas disponíveis são: Usuário, Identificação, Licença, IMEI, Modelo, Número de Série, Política, Modo de Gerenciamento, Versão do aplicativo \<NomeProduto>, ICCID, Fabricante, Data de Registro, Sistema Operacional, Grupo, Departamento, Telefone do Usuário, Status, Data da última comunicação, Localidade, Distância da localidade.</mark>
 
 ### Ações em lote
 

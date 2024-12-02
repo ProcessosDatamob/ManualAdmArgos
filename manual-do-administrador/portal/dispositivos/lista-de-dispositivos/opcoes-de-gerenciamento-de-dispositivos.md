@@ -65,11 +65,11 @@ Esta operação envia um comando para reiniciar o dispositivo. Escolha a opção
 1. <mark style="color:red;">Na Lista de Dispositivos, clique nos três pontinhos "...".</mark>
 2. <mark style="color:red;">Clique na opção “Gerar Nova Senha do Bloqueio de Tela".</mark>&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt="" width="153"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt="" width="153"><figcaption></figcaption></figure>
 
 3. Preencha e confirme a nova senha do Bloqueio de Tela, utilizando letras, números e símbolos.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt="" width="489"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt="" width="489"><figcaption></figcaption></figure>
 
 4. Confirme a alteração da senha, e ao confirmar, o comando será enviado via push ao \<NomeProduto> para aplicação no dispositivo.
 5. O dispositivo receberá o comando via push.
@@ -184,7 +184,7 @@ E serão exibidas as opções “Remover" e "Cancelar"
 
 Dessa forma, essa funcionalidade ajuda a evitar problemas de bloqueio de CHIP que possam surgir ao remover dispositivos da gestão.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt="" width="205"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="205"><figcaption></figcaption></figure>
 
 ## **Gerenciar**
 
@@ -206,9 +206,11 @@ Abaixo segue a explicação de cada uma delas:
 
 ### **Informações**
 
-Ao abrir a tela Gerenciar Dispositivo , a primeira aba "**Informações**" vira Pré selecionada, nesta aba, é possível editar dados do dispositivo: Usuário, Identificação, Grupo, Departamento e Telefone do Usuário.
+Ao abrir a tela Gerenciar Dispositivo , a primeira aba "**Informações**" vira Pré selecionada, nesta aba, é possível editar dados do dispositivo: Usuário, Identificação, selecionar um Grupo, Departamento, Telefone do Usuário <mark style="color:red;">e selecionar uma Localidade.</mark>
 
-<figure><img src="../../../../.gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure>
+<mark style="background-color:blue;">NOVA IMAGEM</mark>
+
+<figure><img src="../../../../.gitbook/assets/image (299).png" alt=""><figcaption></figcaption></figure>
 
 Além de poder editar os dados, são exibidas mais abaixo listas com Detalhes, Instalação, Hardware, Permissões, Conectividade e SIM, relacionados ao dispositivo gerenciado.
 
