@@ -4,7 +4,9 @@ Essa funcionalidade permite ao usuário administrador configurar um bloqueio tot
 
 Estando na aba "**Configurações**" da tela "**Editar Políticas**", clique em "**Bloqueio Total**" para ver as opções de configuração.
 
-<figure><img src="../../../../../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
+<mark style="background-color:blue;">NOVA IMAGEM</mark>
+
+<figure><img src="../../../../../.gitbook/assets/image (316).png" alt=""><figcaption></figcaption></figure>
 
 ### Bloqueio fora do Horário de Trabalho
 
@@ -20,7 +22,9 @@ Ao ativar o bloqueio fora do horário de trabalho para um aplicativo com o tipo 
 2. Preencha o campo "Dias de trabalho", com os dias trabalhados na semana dia de início e dia fim.
 3. Preencha o campo "Horário de trabalho", com horário de trabalho inicial e final.
 
-<figure><img src="../../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<mark style="background-color:blue;">NOVA IMAGEM</mark>
+
+<figure><img src="../../../../../.gitbook/assets/image (317).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **OBSERVAÇÃO**
@@ -51,3 +55,24 @@ Além disto, ao realizar a instalação de um app via Play Store ou remotamente,
 Caso o uso de dados móveis estiver abaixo do limite ou se o administrador desativar a configuração "Bloquear dispositivo por limite de uso dos dados móveis" na política, então o \<NomeProduto> exibirá corretamente todos aplicativos do dispositivo conforme política provisionada.
 
 Se o dispositivo estiver em qualquer uma das condições que requerem a ativação de um Bloqueio Total (fora do horário de trabalho ou atingindo o limite de dados móveis). A configuração e ativação de um Bloqueio Total não anula ou interfere com a configuração e ativação do outro. Ambos os bloqueios podem coexistir e serem aplicados conforme suas respectivas condições.
+
+### <mark style="color:red;">Bloquear dispositivo fora da localidade</mark>
+
+<mark style="color:red;">Para ativar o bloqueio total do dispositivo ao sair de uma localidade específica, habilite a opção</mark> <mark style="color:red;"></mark><mark style="color:red;">**"Bloquear dispositivo fora da localidade"**</mark> <mark style="color:red;"></mark><mark style="color:red;">na política configurada.</mark>
+
+<mark style="color:red;">Quando o dispositivo estiver fora do raio da localidade definida, o sistema ocultará todos os aplicativos, widgets e atalhos, exceto os seguintes: Telefone, \<NomeProduto> e Play Store.</mark>
+
+<mark style="color:red;">O dispositivo exibirá uma notificação fixa com a mensagem:</mark> <mark style="color:red;"></mark><mark style="color:red;">**"Acesso aos apps bloqueado pelo administrador"**</mark><mark style="color:red;">, informando ao usuário sobre o bloqueio. Mesmo bloqueado, será possível acessar as configurações do dispositivo, desligá-lo ou reiniciá-lo. Os aplicativos permanecerão instalados, mas inacessíveis.</mark>
+
+<mark style="color:red;">**Desbloqueio Automático: o**</mark> <mark style="color:red;"></mark><mark style="color:red;">dispositivo será desbloqueado automaticamente quando:</mark>
+
+* <mark style="color:red;">Retornar ao raio da localidade configurada.</mark>
+* <mark style="color:red;">A configuração</mark> <mark style="color:red;"></mark><mark style="color:red;">**"Bloquear dispositivo fora da localidade"**</mark> <mark style="color:red;"></mark><mark style="color:red;">for desativada na política.</mark>
+* <mark style="color:red;">Não houver mais localidade configurada para o dispositivo.</mark>
+
+<mark style="color:red;">Ao desbloquear, todos os aplicativos e funcionalidades serão restaurados conforme as políticas provisionadas.</mark>
+
+<mark style="color:red;">**Pré-requisitos: p**</mark><mark style="color:red;">ara o funcionamento correto dessa funcionalidade, é necessário que os serviços de localização estejam ativados no dispositivo, incluindo:</mark>
+
+* <mark style="color:red;">**Precisão de Local**</mark>
+* <mark style="color:red;">**Precisão Alta**</mark>

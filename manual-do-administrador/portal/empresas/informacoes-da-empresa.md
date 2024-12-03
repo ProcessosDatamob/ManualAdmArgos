@@ -6,11 +6,11 @@ Para visualizar ou alterar os dados da empresa, siga os passos descritos abaixo:
 
 ![](<../../../.gitbook/assets/0 (17).png>)
 
-2. Ao acessar a tela, o sistema não permitirá alterar as informações dos campos “Empresa” e “Número de Identificação”, pois são essenciais para o funcionamento correto das regras do sistema.
-3. As informações de todos os outros campos podem ser alteradas.
-4. Após finalizar, clique em “**Atualizar**” para salvar as alterações.
+2. Ao acessar a tela, o sistema não permitirá alterar as informações dos campos “Empresa”, "CNPJ  "e “Código de Acesso”, pois são essenciais para o funcionamento correto das regras do sistema.
+3. As informações de todos os outros campos podem ser alteradas, <mark style="color:red;">como: E-mail, Contato, Telefone, CEP, Endereço, Cidade, Estado, também as informaçõies de Encarregado pela Proteção de Dados (Nome, E-mail e Telefone) informações de Representante na União Europeia (Nome, E-mail e Telefone) e informações do Google Workspace (ID do Cliente no Workspace).</mark>
+4. <mark style="color:red;">Após finalizar, clique em “</mark><mark style="color:red;">**Atualizar**</mark><mark style="color:red;">” para salvar as alterações.</mark>
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (318).png" alt=""><figcaption></figcaption></figure>
 
 ### **Excluir Empresa**
 
