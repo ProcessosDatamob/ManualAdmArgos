@@ -88,7 +88,7 @@ Outra opção, para não precisar deixar o acesso as configurações liberado, �
 
 <figure><img src="../../../../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
 
-* **Tamanho de ícones e Fontes -** permite selecionar as seguintes opções de tamanho de exibição: Padrão do sistema _(padrão),_ Pequeno (_75%_) e Grande (_125%_)
+* **Tamanho de ícones e Fontes -** permite selecionar as seguintes opções de tamanho de exibição: Padrão do sistema _(padrão),_ Pequeno (_75%_) e Grande (_125%_).
 
 <figure><img src="../../../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
 
@@ -119,3 +119,39 @@ Abaixo Listamos quais acessos o usuário terá no dispositivo ao informar a senh
 Após encerrar o tempo definido, o usuário perde os acessos mencionados acima novamente e o dispositivo retorna ao Modo Quiosque:
 
 <figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+### <mark style="color:red;">Modo Quiosque ChromeOS</mark>
+
+<mark style="color:red;">O Modo Quiosque no ChromeOS foi desenvolvido para configurar dispositivos Chromebook em um ambiente controlado, ideal para cenários como aplicação de provas, garantindo que os alunos usem o dispositivo apenas para atividades autorizadas.</mark>
+
+1. <mark style="color:red;">Selecione o menu "Informações da Empresa".</mark>
+2. <mark style="color:red;">Na seção "Google Workspace", insira o ID do Cliente no Workspace.</mark>
+3. <mark style="color:red;">Acesse a tela de Gestão de Políticas e clique em "Criar nova política".</mark>
+4. <mark style="color:red;">Clique na aba ChromeOS, e selecione o modo de gerenciamento ChromeOS e cadastre a política.</mark>
+
+<mark style="color:red;">Para acessar as configurações da política siga os seguintes passos:</mark>
+
+1. <mark style="color:red;">Na tela "</mark><mark style="color:red;">**Editar política**</mark><mark style="color:red;">", na guia "</mark><mark style="color:red;">**Modo Quiosque**</mark><mark style="color:red;">".</mark>
+2. <mark style="color:red;">Clique na seta "˅", para acessar as opções de configurações disponíveis.</mark>
+
+<figure><img src="../../../../.gitbook/assets/image (321).png" alt=""><figcaption></figcaption></figure>
+
+3. Preencha o formulário para ativação de eventos:
+   * **Unidades Organizacionais:** selecione as unidades que possuem os dispositivos.
+   * **Unidade Organizacional de Destino:** selecione onde o Modo Quiosque será aplicado.
+
+<figure><img src="../../../../.gitbook/assets/image (322).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+**Observação**
+
+* As unidades devem ser preenchidas previamente dentro Google Workspace.
+* Não é permitido selecionar a mesma unidade como origem e destino.
+* Alterações podem levar até 24 horas para entrar em vigor, conforme a Google.
+* Algumas opções, como Copiar Política e Token de Registro, estarão desabilitadas para políticas ChromeOS.
+{% endhint %}
+
+4. Após preencher as unidades, clicar em Salvar.
+5. O sistema habilitará os botões para “Iniciar" e “Concluir" o evento. \
+   \- Iniciar: quando clicar em “Iniciar" as unidades de dispositivos serão movimentadas para dentro do unidade de destino.\
+   \- Concluir: quando clicar em "Concluir" as unidades de dispositivos retornarão para dentro da unidade que estava antes da movimentação.

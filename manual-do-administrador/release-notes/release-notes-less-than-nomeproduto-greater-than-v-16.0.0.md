@@ -5,7 +5,7 @@
 ### **Novidades**
 
 1. Bloqueio Total Fora da Localidade Configurada
-2. Configuração e Gestão do Modo Quiosque para ChromeOS no Portal
+2. Configuração e Ativação do Modo Quiosque para ChromeOS
 
 ### Melhorias&#x20;
 
