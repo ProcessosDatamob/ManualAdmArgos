@@ -39,10 +39,10 @@ O sistema exibirá todas as localizações dos dispositivos de acordo com filtro
 <figure><img src="../../../.gitbook/assets/Captura de tela 2024-12-03 135720.png" alt=""><figcaption></figcaption></figure>
 
 5. Caso queira visualizar a localização de um dispositivo específico, utilize o campo “Pesquisar”.
-6. Para exportar o relatório de histórico das localizações, clique no link “Excel”, <mark style="color:red;">o sistema exibirá no relatório apenas as informações das colunas exibidas na tela</mark>
-7. Para copiar as informações do relatório, clique no link “Copiar”, <mark style="color:red;">será copiado para área de transferência apenas as informações das colunas exibidas na tela.</mark>
+6. Para exportar o relatório de histórico das localizações, clique no link “Excel”, o sistema exibirá no relatório apenas as informações das colunas exibidas na tela
+7. Para copiar as informações do relatório, clique no link “Copiar”, será copiado para área de transferência apenas as informações das colunas exibidas na tela.
 8. Para visualizar uma quantidade maior de localizações por página, selecione a quantidade no final da página, conforme a figura abaixo.
 9. Utilize o campo de navegação para visualizar as localizações das outras páginas do relatório.
-10. <mark style="color:red;">Clique no ícone de filtro para selecionar as colunas que ficarão visíveis, utilize o campo de pesquisa para pesquisar as colunas por texto e realizar o filtro, e depois clique em "Salvar" para definir a configuração como padrão da tela para o usuário logado.</mark>
+10. Clique no ícone de filtro para selecionar as colunas que ficarão visíveis, utilize o campo de pesquisa para pesquisar as colunas por texto e realizar o filtro, e depois clique em "Salvar" para definir a configuração como padrão da tela para o usuário logado.
 
 <figure><img src="../../../.gitbook/assets/image (309).png" alt=""><figcaption></figcaption></figure>

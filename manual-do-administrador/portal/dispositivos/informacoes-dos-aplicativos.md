@@ -14,9 +14,9 @@ A tela a seguir será exibida:
 2. Para buscar um aplicativo específico, escreva o nome do aplicativo no campo de Busca;
 3. Ordene a lista de aplicativos nas colunas clicando nas setas “![](https://datamob.gitbook.io/~gitbook/image?url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fe%2Feb%2FU%252B21C5.svg%2F22px-U%252B21C5.svg.png\&width=300\&dpr=4\&quality=100\&sign=b73b2481\&sv=1)”;
 4. A lista de dispositivos é exibida na parte inferior da tela;
-5. Para exportar o relatório dos dispositivos, clique no botão "Excel", <mark style="color:red;">o sistema exibirá no relatório apenas as informações das colunas exibidas na tela;</mark>
-6. Para copiar as informações dos dispositivos, clique no botão "Copiar", <mark style="color:red;">o sistema copiará para a área de transferência apenas as informações das colunas exibidas na tela;</mark>
-7. <mark style="color:red;">Clique no ícone de filtro para selecionar as colunas que ficarão visíveis, utilize o campo de pesquisa para pesquisar as colunas por texto e realizar o filtro, e depois clique em "Salvar" para definir a configuração como padrão da tela para o usuário logado.</mark>&#x20;
+5. Para exportar o relatório dos dispositivos, clique no botão "Excel", o sistema exibirá no relatório apenas as informações das colunas exibidas na tela;
+6. Para copiar as informações dos dispositivos, clique no botão "Copiar", o sistema copiará para a área de transferência apenas as informações das colunas exibidas na tela;
+7. Clique no ícone de filtro para selecionar as colunas que ficarão visíveis, utilize o campo de pesquisa para pesquisar as colunas por texto e realizar o filtro, e depois clique em "Salvar" para definir a configuração como padrão da tela para o usuário logado.&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
 

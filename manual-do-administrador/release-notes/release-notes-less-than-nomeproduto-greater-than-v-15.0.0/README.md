@@ -1,6 +1,6 @@
 # Release Notes \<NomeProduto> V 15.0.0
 
-## **Versão 15.0.0 - 10/2024**
+## **Versão 15.0.0 - 11/2024**
 
 ### **Novidades**
 

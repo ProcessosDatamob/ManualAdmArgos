@@ -219,11 +219,9 @@ Além de poder editar os dados, são exibidas mais abaixo listas com Detalhes, I
 
 <figure><img src="../../../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;background-color:blue;">NOVA IMAGEM</mark>
-
 <figure><img src="../../../../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure>
 
-As seções estão detalhadas na página de [Informações do Dispositivo](informacoes-do-dispositivo.md): "Detalhes", "Instalação", "Hardware", "Permissões", "Conectividade", "SIM" e <mark style="color:red;">"Localidade".</mark>
+As seções estão detalhadas na página de [Informações do Dispositivo](informacoes-do-dispositivo.md): "Detalhes", "Instalação", "Hardware", "Permissões", "Conectividade", "SIM" e "Localidade".
 
 {% hint style="info" %}
 **OBSERVAÇÃO**

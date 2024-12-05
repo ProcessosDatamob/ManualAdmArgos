@@ -36,8 +36,6 @@ A data que aparece em **Última Atualização** no canto superior direto a tela 
 
 <figure><img src="../../../../.gitbook/assets/image (240).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="background-color:blue;">NOVA IMAGEM</mark>
-
 <figure><img src="../../../../.gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure>
 
 Abaixo detalharemos as informações que contém em cada um dos campos das imagens acima:
@@ -72,7 +70,7 @@ Abaixo detalharemos as informações que contém em cada um dos campos das image
 * **Versão da política Aplicada -** versão da política;
 * **Data de sincronização da Política -** exibirá a data da sincronização da política;
 * **Em conformidade -** é a aderência do dispositivo a todas as configurações de políticas atribuídas a ele. Se alguma configuração não foi aplicada, o valor desta opção será "Não".&#x20;
-* <mark style="color:blue;">**Data da Última Comunicação -**</mark> <mark style="color:blue;"></mark><mark style="color:blue;">exibirá a data em que o dispositivo se comunicou a última vez com o portal. Estes dados, serão exatamente o que estiver no dispositivo na hora da última comunicação.</mark>
+* **Data da Última Comunicação -** exibirá a data em que o dispositivo se comunicou a última vez com o portal. Estes dados, serão exatamente o que estiver no dispositivo na hora da última comunicação.
 
 {% hint style="info" %}
 Os dados que são atualizados no portal quando a **Data da Última Comunicação** é atualizada são:
@@ -157,17 +155,17 @@ Os dados que são atualizados no portal quando a **Data da Última Comunicação
 * **ICCID do eSIM -** identificador exclusivo do eSIM.
 * **ID de assinatura do eSIM -** identificador da assinatura associada ao eSIM.
 
-### <mark style="color:red;">Localidade</mark>
+### Localidade
 
-* <mark style="color:red;">**Nome**</mark> <mark style="color:red;"></mark><mark style="color:red;">- identifica o nome associado à localidade, como o nome da empresa ou do ponto de interesse.</mark>
-* <mark style="color:red;">**Endereço**</mark> <mark style="color:red;"></mark><mark style="color:red;">- indica o endereço completo da localidade, incluindo rua, número, cidade, estado e CEP.</mark>
-* <mark style="color:red;">**Latitude**</mark> <mark style="color:red;"></mark><mark style="color:red;">- coordenada geográfica que representa a posição norte-sul da localidade no mapa.</mark>
-* <mark style="color:red;">**Longitude**</mark> <mark style="color:red;"></mark><mark style="color:red;">- coordenada geográfica que representa a posição leste-oeste da localidade no mapa.</mark>
-* <mark style="color:red;">**Raio**</mark> <mark style="color:red;"></mark><mark style="color:red;">- distância em metros ao redor da localidade, usada para definir uma área de cobertura ou interesse.</mark>
-* <mark style="color:red;">**Código**</mark> <mark style="color:red;"></mark><mark style="color:red;">- código único ou identificador atribuído à localidade para fins de organização ou referência.</mark>
-* <mark style="color:red;">**Região**</mark> <mark style="color:red;"></mark><mark style="color:red;">- região geográfica ou administrativa onde a localidade está situada.</mark>
-* <mark style="color:red;">**CNPJ**</mark> <mark style="color:red;"></mark><mark style="color:red;">- Cadastro Nacional de Pessoa Jurídica associado à localidade, geralmente utilizado para empresas.</mark>
-* <mark style="color:red;">**Responsável**</mark> <mark style="color:red;"></mark><mark style="color:red;">- nome da pessoa responsável pela localidade, como o gerente ou proprietário.</mark>
-* <mark style="color:red;">**Telefone**</mark> <mark style="color:red;"></mark><mark style="color:red;">- número de telefone de contato da localidade ou do responsável.</mark>
-* <mark style="color:red;">**Email**</mark> <mark style="color:red;"></mark><mark style="color:red;">- endereço eletrônico para contato com a localidade ou o responsável.</mark>
-* <mark style="color:red;">**Distância da Localidade**</mark> <mark style="color:red;"></mark><mark style="color:red;">- medida da distância entre a localização atual ou outra referência e a localidade especificada.</mark>
+* **Nome** - identifica o nome associado à localidade, como o nome da empresa ou do ponto de interesse.
+* **Endereço** - indica o endereço completo da localidade, incluindo rua, número, cidade, estado e CEP.
+* **Latitude** - coordenada geográfica que representa a posição norte-sul da localidade no mapa.
+* **Longitude** - coordenada geográfica que representa a posição leste-oeste da localidade no mapa.
+* **Raio** - distância em metros ao redor da localidade, usada para definir uma área de cobertura ou interesse.
+* **Código** - código único ou identificador atribuído à localidade para fins de organização ou referência.
+* **Região** - região geográfica ou administrativa onde a localidade está situada.
+* **CNPJ** - Cadastro Nacional de Pessoa Jurídica associado à localidade, geralmente utilizado para empresas.
+* **Responsável** - nome da pessoa responsável pela localidade, como o gerente ou proprietário.
+* **Telefone** - número de telefone de contato da localidade ou do responsável.
+* **Email** - endereço eletrônico para contato com a localidade ou o responsável.
+* **Distância da Localidade** - medida da distância entre a localização atual ou outra referência e a localidade especificada.

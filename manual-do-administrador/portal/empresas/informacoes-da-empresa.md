@@ -11,9 +11,12 @@ A seguinte tela será exibida:
 <figure><img src="../../../.gitbook/assets/image (318).png" alt=""><figcaption></figcaption></figure>
 
 2. Ao acessar a tela, o sistema não permitirá alterar as informações dos campos “Empresa”, "CNPJ  "e “Código de Acesso”, pois são essenciais para o funcionamento correto das regras do sistema.
-3. As informações de todos os outros campos podem ser alteradas, <mark style="color:red;">como: E-mail, Contato, Telefone, CEP, Endereço, Cidade, Estado, também as informações de Encarregado pela Proteção de Dados (Nome, E-mail e Telefone) informações de Representante na União Europeia (Nome, E-mail e Telefone) e informações do Google Workspace (ID do Cliente no Workspace, esse ID é essencial para integrar o portal com os dispositivos ChromeOS, permitindo a criação de políticas específicas).</mark>\
-   <mark style="color:red;background-color:orange;">- Google Workspace - Esse campo será utilizado para.... ID obtido nas configurações de cadastro da conta Google Workspace</mark>
-4. <mark style="color:red;">Após finalizar, clique em “</mark><mark style="color:red;">**Atualizar**</mark><mark style="color:red;">” para salvar as alterações.</mark>
+3. As informações de todos os outros campos podem ser alteradas, como: E-mail, Contato, Telefone, CEP, Endereço, Cidade, Estado, também as informações de Encarregado pela Proteção de Dados (Nome, E-mail e Telefone) informações de Representante na União Europeia (Nome, E-mail e Telefone) e informações do Google Workspace.\
+   &#xNAN;**- Google Workspace**: o **ID do Cliente no Workspace** é um identificador único essencial para integrar o portal de gestão com dispositivos **ChromeOS** vinculados ao Google Workspace. Ele possibilita a criação e aplicação de políticas específicas nesses dispositivos, garantindo um gerenciamento centralizado e eficiente.\
+   \- Este ID é obtido diretamente nas configurações de cadastro da sua conta **Google Workspace**.\
+   \- Ao configurar o portal, o **ID do Cliente** será utilizado para autenticar e sincronizar os dispositivos ChromeOS com as políticas definidas.\
+   \- Sem o ID do Cliente, o sistema não pode se comunicar corretamente com os dispositivos ChromeOS, limitando a aplicação de políticas e configurações específicas para sua organização. Certifique-se de inserir o ID corretamente para garantir o funcionamento pleno da integração.
+4. Após finalizar, clique em “**Atualizar**” para salvar as alterações.
 
 ### **Excluir Empresa**
 

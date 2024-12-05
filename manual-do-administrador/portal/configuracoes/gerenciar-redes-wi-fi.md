@@ -38,4 +38,4 @@ Após Salvar, o portal retornará à tela anterior, onde será exibida a rede sa
 2. Utilize as setas nos campos Nome, Segurança, SSID, ou Conexão Automática, para ordenar as informações;
 3. Para exportar os dados, utilize o botão Excel;
 4. Para copiar os dados, utilize o botão Copiar;
-5. Ao clicar nos três (...) pontinhos, serão exibidas as opções de Editar Rede Wi-fi e Remover Rede Wi-fi
+5. Ao clicar nos três (...) pontinhos, serão exibidas as opções de Editar Rede Wi-fi e Remover Rede Wi-fi.

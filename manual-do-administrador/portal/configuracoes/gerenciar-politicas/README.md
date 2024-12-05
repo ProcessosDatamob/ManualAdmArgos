@@ -23,10 +23,10 @@ Ao acessar a opção "**Gerenciar Políticas**" abrirá a tela apresentada na se
 A tela apresenta os elementos que são padrão em todas as telas de listagens do sistema, os quais são descritos abaixo:
 
 1. Filtro que pode ser aplicado a listagem de políticas cadastradas para auxiliar a encontrar políticas, por:&#x20;
-   * <mark style="color:red;">Modo de gerenciamento: permite filtrar dispositivos ou políticas pelo tipo de gerenciamento aplicado: Android, Android - Block Sim, Android - Work Profile ou ChromeOS.</mark>
-   * <mark style="color:red;">Grupo: filtra dispositivos ou políticas com base no grupo ao qual pertencem.</mark>
-   * <mark style="color:red;">Play Store: filtra dispositivos de acordo com o acesso à Play Store: aberta ou restrita.</mark>
-   * <mark style="color:red;">Modo Quiosque: identifica se o dispositivo ou política está configurado para operar no Modo Quiosque.</mark>
+   * Modo de gerenciamento: permite filtrar dispositivos ou políticas pelo tipo de gerenciamento aplicado: Android, Android - Block Sim, Android - Work Profile ou ChromeOS.
+   * Grupo: filtra dispositivos ou políticas com base no grupo ao qual pertencem.
+   * Play Store: filtra dispositivos de acordo com o acesso à Play Store: aberta ou restrita.
+   * Modo Quiosque: identifica se o dispositivo ou política está configurado para operar no Modo Quiosque.
 2. Listagem das políticas cadastradas no sistema.
 3. Mais ações de gerenciamento para uma política podem ser acessadas clicando sobre os "..." localizados no final da linha da política:
 

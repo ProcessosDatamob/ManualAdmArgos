@@ -120,19 +120,19 @@ Após encerrar o tempo definido, o usuário perde os acessos mencionados acima n
 
 <figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:red;">Modo Quiosque ChromeOS</mark>
+### Modo Quiosque ChromeOS
 
-<mark style="color:red;">O Modo Quiosque no ChromeOS foi desenvolvido para configurar dispositivos Chromebook em um ambiente controlado, ideal para cenários como aplicação de provas, garantindo que os alunos usem o dispositivo apenas para atividades autorizadas.</mark>
+O Modo Quiosque no ChromeOS foi desenvolvido para configurar dispositivos Chromebook em um ambiente controlado, ideal para cenários como aplicação de provas, garantindo que os alunos usem o dispositivo apenas para atividades autorizadas.
 
-1. <mark style="color:red;">Selecione o menu "Informações da Empresa".</mark>
-2. <mark style="color:red;">Na seção "Google Workspace", insira o ID do Cliente no Workspace.</mark>
-3. <mark style="color:red;">Acesse a tela de Gestão de Políticas e clique em "Criar nova política".</mark>
-4. <mark style="color:red;">Clique na aba ChromeOS, e selecione o modo de gerenciamento ChromeOS e cadastre a política.</mark>
+1. Selecione o menu "Informações da Empresa".
+2. Na seção "Google Workspace", insira o ID do Cliente no Workspace.
+3. Acesse a tela de Gestão de Políticas e clique em "Criar nova política".
+4. Clique na aba ChromeOS, e selecione o modo de gerenciamento ChromeOS e cadastre a política.
 
-<mark style="color:red;">Para acessar as configurações da política siga os seguintes passos:</mark>
+Para acessar as configurações da política siga os seguintes passos:
 
-1. <mark style="color:red;">Na tela "</mark><mark style="color:red;">**Editar política**</mark><mark style="color:red;">", na guia "</mark><mark style="color:red;">**Modo Quiosque**</mark><mark style="color:red;">".</mark>
-2. <mark style="color:red;">Clique na seta "˅", para acessar as opções de configurações disponíveis.</mark>
+1. Na tela "**Editar política**", na guia "**Modo Quiosque**".
+2. Clique na seta "˅", para acessar as opções de configurações disponíveis.
 
 <figure><img src="../../../../.gitbook/assets/image (321).png" alt=""><figcaption></figcaption></figure>
 

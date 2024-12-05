@@ -17,13 +17,13 @@ Para cadastrar uma nova política siga os seguintes passos:
 * **Android** - Para dispositivos de propriedade da empresa. Permite o gerenciamento de uma ampla variedade de configurações de dispositivos e controles de política.
 * **Android - Block SIM -** Permite o gerenciamento de configurações dos dispositivos Android e controles de política. Adiciona automaticamente o aplicativo Block SIM, restringe as alterações de senha do dispositivo e garante o vínculo do chip ao dispositivo.
 * **Android - Work Profile -** Para dispositivos de propriedade pessoal. Permite a criação e gerenciamento do perfil de trabalho, preservando a privacidade e segurança no perfil pessoal e garantindo o melhor desempenho.
-* <mark style="color:red;">ChromeOS - Essa opção permite configurar dispositivos Chromebook para operar exclusivamente em um ambiente controlado, ideal para escolas, terminais públicos ou uso corporativo.</mark>
+* ChromeOS - Essa opção permite configurar dispositivos Chromebook para operar exclusivamente em um ambiente controlado, ideal para escolas, terminais públicos ou uso corporativo.
 
 <figure><img src="../../../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
 
 3. Clique em "**Cadastrar**".
 
-Após o cadastro da política será aberta a tela "**Editar Política**" para que os detalhes da política sejam configurados. A seção [Editar Política](editar-politica/) mostra os detalhes da configuração de políticas <mark style="color:red;">de acordo com o modo de gerenciamento.</mark>
+Após o cadastro da política será aberta a tela "**Editar Política**" para que os detalhes da política sejam configurados. A seção [Editar Política](editar-politica/) mostra os detalhes da configuração de políticas de acordo com o modo de gerenciamento.
 
 {% hint style="info" %}
 Quando uma política já estiver vinculada a um grupo, o campo “Grupo” aparecerá desabilitado na tela de edição. Nesse caso, não será possível alterar o vínculo do grupo com a política.
