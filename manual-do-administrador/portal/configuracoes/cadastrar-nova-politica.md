@@ -17,7 +17,7 @@ Para cadastrar uma nova política siga os seguintes passos:
 * **Android** - Para dispositivos de propriedade da empresa. Permite o gerenciamento de uma ampla variedade de configurações de dispositivos e controles de política.
 * **Android - Block SIM -** Permite o gerenciamento de configurações dos dispositivos Android e controles de política. Adiciona automaticamente o aplicativo Block SIM, restringe as alterações de senha do dispositivo e garante o vínculo do chip ao dispositivo.
 * **Android - Work Profile -** Para dispositivos de propriedade pessoal. Permite a criação e gerenciamento do perfil de trabalho, preservando a privacidade e segurança no perfil pessoal e garantindo o melhor desempenho.
-* ChromeOS - Essa opção permite configurar dispositivos Chromebook para operar exclusivamente em um ambiente controlado, ideal para escolas, terminais públicos ou uso corporativo.
+* **ChromeOS -** Essa opção permite configurar dispositivos Chromebook para operar exclusivamente em um ambiente controlado, ideal para escolas, terminais públicos ou uso corporativo.
 
 <figure><img src="../../../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
 
