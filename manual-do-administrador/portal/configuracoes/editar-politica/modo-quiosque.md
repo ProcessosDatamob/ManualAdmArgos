@@ -129,6 +129,13 @@ O Modo Quiosque no ChromeOS foi desenvolvido para configurar dispositivos Chrome
 3. Acesse a tela de Gestão de Políticas e clique em "Criar nova política".
 4. Clique na aba ChromeOS, e selecione o modo de gerenciamento ChromeOS e cadastre a política.
 
+Alguns dos pré-requisitos para ativar o ChromeOS são:
+
+* Registro do Google Workspace;
+* Criação das unidades organizacionais;
+* Configuração dos bloqueios;
+* Registro dos dispositivos no Workspace do cliente;
+
 Para acessar as configurações da política siga os seguintes passos:
 
 1. Na tela "**Editar política**", na guia "**Modo Quiosque**".
