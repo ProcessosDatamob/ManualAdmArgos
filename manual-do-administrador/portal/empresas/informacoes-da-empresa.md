@@ -18,10 +18,20 @@ A seguinte tela será exibida:
    \- Sem o ID do Cliente, o sistema não pode se comunicar corretamente com os dispositivos ChromeOS, limitando a aplicação de políticas e configurações específicas para sua organização. Certifique-se de inserir o ID corretamente para garantir o funcionamento pleno da integração.
 4. Após finalizar, clique em “**Atualizar**” para salvar as alterações.
 
-### **Excluir Empresa**
+### Excluir Empresa <a href="#id-2grqrue" id="id-2grqrue"></a>
 
-Na tela de Informações da Empresa é possível excluir a empresa utilizando o botão "**Excluir Empresa**", localizado ao lado do botão "**Atualizar**".\
-Esta ação leva a exclusão da conta da empresa na Google Play Gerenciada, a exclusão de todos os dispositivos registrados e todas as políticas e informações.
+Na tela de **Informações da Empresa**, é possível excluir a empresa utilizando o botão **"Excluir Empresa"**, localizado ao lado do botão **"Atualizar"**.
+
+⚠️ **Essa ação é extremamente crítica e irreversível.** Antes de prosseguir, tenha certeza absoluta de que deseja excluir permanentemente a empresa e todas as informações associadas.
+
+#### **Impactos da Exclusão**
+
+* Conta na Google Play Gerenciada: A conta da empresa será permanentemente removida.
+* Dispositivos Registrados: Todos os dispositivos vinculados à empresa serão excluídos e receberão um comando de wipe, removendo todos os dados e configurações.
+* Políticas e Informações: Todas as políticas configuradas e informações armazenadas serão apagadas.
+* Configuração Android Enterprise (AE): Todas as configurações do Android Enterprise associadas à empresa serão removidas.
+* Usuários: Todos os usuários da empresa, exceto o usuário logado, serão eliminados.
+* Linhas Operadoras: Será necessário solicitar à operadora a baixa de todas as linhas associadas aos dispositivos da empresa.
 
 {% hint style="danger" %}
 **ATENÇÃO**
@@ -29,6 +39,6 @@ Esta ação leva a exclusão da conta da empresa na Google Play Gerenciada, a ex
 Esta é uma ação irreversível. Para cancelar efetivamente o serviço, a empresa deve entrar em contato via canal de atendimento ao Cliente e solicitar o cancelamento do serviço.
 {% endhint %}
 
-A tela abaixo é exibida ao clicar sobre "**Excluir Empresa**".
+Ao clicar no botão **"Excluir Empresa"**, a seguinte tela será exibida para confirmação:
 
 ![](<../../../.gitbook/assets/2 (11).png>)
