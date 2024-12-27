@@ -75,6 +75,7 @@
 * [RELEASE NOTES](manual-do-administrador/release-notes/README.md)
   * [Release Notes \<NomeProduto> V 18.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/README.md)
     * [Configuração de Termos de Uso da Empresa nas Políticas](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/configuracao-de-termos-de-uso-da-empresa-nas-politicas.md)
+    * [Novas Funcionalidades para Gestão de Dispositivos Windows](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/novas-funcionalidades-para-gestao-de-dispositivos-windows.md)
     * [Criação e Gerenciamento de Políticas para Dispositivos Windows](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/criacao-e-gerenciamento-de-politicas-para-dispositivos-windows.md)
     * [Configuração de Políticas Intel AMT no Windows](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/configuracao-de-politicas-intel-amt-no-windows.md)
     * [Agente de Registro para Windows](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/agente-de-registro-para-windows.md)
