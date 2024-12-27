@@ -22,7 +22,7 @@ Ao clicar nos três pontinhos "**...**" à direita na listagem dos dispositivos,
 
 As opções disponíveis variam de acordo com o Modo de Gerenciamento da política na qual o dispositivo estiver vinculado e estão em destaque na imagem a seguir:
 
-<table><thead><tr><th width="272.28506787330315">Modo de Gerenciamento</th><th>Opções disponíveis</th></tr></thead><tbody><tr><td><strong>Android</strong></td><td>Alterar Política<br>Ativar/ Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Gerar Nova Senha do Dispositivo<br>Remover Dispositivo (WIPE)<br>Gerenciar Informações</td></tr><tr><td><strong>Android Block SIM</strong></td><td><p>Alterar Política<br>Ativar/Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo</p><p>Gerar Nova Senha do Bloqueio de Tela<br>Remover Bloqueio de Tela</p><p>Remover Bloqueio de Chip<br>Remover Dispositivo (WIPE)<br>Gerenciar </p></td></tr><tr><td><strong>Android Work Profile</strong></td><td>Alterar Política<br>Remover Dispositivo (WIPE)<br>Gerenciar </td></tr></tbody></table>
+<table><thead><tr><th width="272.28506787330315">Modo de Gerenciamento</th><th>Opções disponíveis</th></tr></thead><tbody><tr><td><strong>Android</strong></td><td>Alterar Política<br>Ativar/ Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Gerar Nova Senha do Dispositivo<br>Remover Dispositivo (WIPE)<br>Gerenciar Informações</td></tr><tr><td><strong>Android Block SIM</strong></td><td><p>Alterar Política<br>Ativar/Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo</p><p>Gerar Nova Senha do Bloqueio de Tela<br>Remover Bloqueio de Tela</p><p>Remover Bloqueio de Chip<br>Remover Dispositivo (WIPE)<br>Gerenciar </p></td></tr><tr><td><strong>Android Work Profile</strong></td><td>Alterar Política<br>Remover Dispositivo (WIPE)<br>Gerenciar </td></tr><tr><td><strong>Windows</strong></td><td><mark style="color:red;">Remover Dispositivo</mark><br><mark style="color:red;">Acesso Remoto</mark><br><mark style="color:red;">Gerenciar</mark></td></tr></tbody></table>
 
 As opções que estão em destaque na figura são detalhadas nas próximas subseções:
 
@@ -147,6 +147,8 @@ Após a remoção do bloqueio, é possível reiniciar um bloqueio sem resetar o 
 
 Esta operação permite excluir um dispositivo, ela limpa os dados e configurações do dispositivo. Os dispositivos excluídos não aparecem na lista de dispositivos da empresa. A opção "Remover Dispositivo" aparece na lista de opções do dispositivo na tela de listagem de dispositivos (menu "Dispositivos", opção "Listar Dispositivos").
 
+<mark style="color:red;">No caso de remoção de dispositivos no Windows o sistema enviará um comando de remoção para o dispositivo no servidor e no Portal.</mark>
+
 {% hint style="info" %}
 **NOTA**
 
@@ -187,6 +189,21 @@ Dessa forma, essa funcionalidade ajuda a evitar problemas de bloqueio de CHIP qu
 
 <figure><img src="../../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="205"><figcaption></figcaption></figure>
 
+## **Acesso Remoto**
+
+<mark style="color:red;">O recurso de Acesso Remoto permite que os administradores gerenciem dispositivos Windows diretamente pelo portal. Essa funcionalidade possibilita o controle remoto do dispositivo, incluindo acesso à área de trabalho, terminal e diretórios.</mark>
+
+1. <mark style="color:red;">Acesse a Lista de Dispositivos no portal.</mark>
+2. <mark style="color:red;">Clique nos três pontinhos "..." de um dispositivo Windows.</mark>
+3.  <mark style="color:red;">Selecione a opção Acesso Remoto. Ao selecionar</mark> <mark style="color:red;"></mark><mark style="color:red;">**Acesso Remoto**</mark><mark style="color:red;">, o sistema permitirá:</mark>
+
+    <mark style="color:red;">-</mark> <mark style="color:red;">Acessar a Área de Trabalho: Controle remoto completo do dispositivo.</mark>\ <mark style="color:red;">- Acessar o Terminal de Prompt: Execução de comandos diretamente no terminal.</mark>\ <mark style="color:red;">- Acessar Diretórios: Gerenciamento de arquivos e pastas do dispositivo.</mark>
+
+{% hint style="info" %}
+<mark style="color:red;">**NOTA**</mark>\
+<mark style="color:red;">Esse recurso facilita o gerenciamento remoto, permitindo resolver problemas, aplicar configurações e realizar manutenções de forma eficiente, sem a necessidade de acesso físico ao dispositivo.</mark>
+{% endhint %}
+
 ## **Gerenciar**
 
 Ao clicar na opção **Gerenciar**, será exibida a tela **Gerenciar Dispositivo.**
@@ -211,7 +228,7 @@ Ao abrir a tela Gerenciar Dispositivo , a primeira aba "**Informações**" vira 
 
 <figure><img src="../../../../.gitbook/assets/image (299).png" alt=""><figcaption></figcaption></figure>
 
-Além de poder editar os dados, são exibidas mais abaixo listas com Detalhes, Instalação, Hardware, Permissões, Conectividade e SIM, relacionados ao dispositivo gerenciado.
+Além de poder editar os dados, são exibidas mais abaixo listas com Detalhes, Instalação, Hardware, Permissões, Conectividade e SIM, relacionados ao dispositivo gerenciado, <mark style="color:red;">as informações são trazidas de acordo com o modo de gestão selecionado</mark>.
 
 <figure><img src="../../../../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
 
