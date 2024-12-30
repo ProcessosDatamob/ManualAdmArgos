@@ -4,3 +4,4 @@ Agora, os administradores podem incluir Termos de Uso personalizados nas políti
 
 Mais informações na seção Usuário.
 
+[**Voltar ao menu inicial**](./)

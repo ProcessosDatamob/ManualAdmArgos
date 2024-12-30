@@ -30,6 +30,8 @@ Com a funcionalidade "Acesso Remoto" ativada, os administradores podem acessar d
 
 **8. Remoção de Dispositivos Windows**
 
-Agora é possível remover dispositivos Windows diretamente do portal. Ao selecionar "Remover Dispositivo" na lista de dispositivos, o sistema envia um comando de remoção, garantindo que o dispositivo seja excluído tanto do servidor quanto do portal.
+É possível remover dispositivos Windows diretamente do portal. Ao selecionar "Remover Dispositivo" na lista de dispositivos, o sistema envia um comando de remoção, garantindo que o dispositivo seja excluído tanto do servidor quanto do portal.
 
 Essas atualizações fortalecem o gerenciamento de dispositivos Windows, oferecendo soluções completas e centralizadas para controle, configuração e suporte.
+
+[**Voltar ao menu inicial**](./)
