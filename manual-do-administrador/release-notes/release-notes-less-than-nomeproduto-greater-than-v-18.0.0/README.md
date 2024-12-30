@@ -4,12 +4,9 @@
 
 ### **Novidades**
 
-1.
-
-### Melhorias&#x20;
-
-1\.
+1. [Configuração de Termos de Uso da Empresa nas Políticas](configuracao-de-termos-de-uso-da-empresa-nas-politicas.md)
+2. [Novas Funcionalidades para Gestão de Dispositivos Windows](novas-funcionalidades-para-gestao-de-dispositivos-windows.md)
 
 ### Correção de Bugs
 
-1. Ajustes e Correções da Versão - V 18.0.0
+1. [Ajustes e Correções da Versão - V 18.0.0](ajustes-e-correcoes-da-versao-v-18.0.0.md)
