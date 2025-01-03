@@ -17,7 +17,7 @@ A tela a seguir será exibida:
 
 <figure><img src="../../../.gitbook/assets/image (306).png" alt=""><figcaption></figcaption></figure>
 
-Nessa tela é possível cadastrar uma localidade para os dispositivos, preenchendo as seguintes informações: Nome, Endereço (é possível realizar a pesquisa pelo endereço ou CEP), Latitude e Longitude (serão preenchidas ao selecionar a localidade), Raio, Código, Região, CNPJ, Responsável, Telefone e E-mail e clicar em Cadastrar.  Não é permitiso salvar uma localidade com o mesmo nome, mesmo endereço ou em branco.
+Nessa tela é possível cadastrar uma localidade para os dispositivos, preenchendo as seguintes informações: Nome, Endereço (é possível realizar a pesquisa pelo endereço ou CEP), Latitude e Longitude (serão preenchidas ao selecionar a localidade), Raio, Código, Região, CNPJ, Responsável, Telefone e E-mail e clicar em Cadastrar.  Não é permitido salvar uma localidade com o mesmo nome, mesmo endereço ou em branco.
 
 5. Também é exibida uma lista de localidades cadastradas, com as seguintes informações: Nome, Endereço, Latitude, Longitude, Raio, Código, Região, CNPJ, Responsável, Telefone e E-mail. E pose-se ordenar por todos os campos exceto: Latitude e Longitude.
 6. Ao clicar nos três pontinhos "...", tem a opção de:&#x20;
