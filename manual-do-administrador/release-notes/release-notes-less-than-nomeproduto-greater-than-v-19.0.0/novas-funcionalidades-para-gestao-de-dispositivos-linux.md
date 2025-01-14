@@ -2,7 +2,8 @@
 
 #### Nova Política Linux
 
-Agora o portal permite criar políticas dedicadas para dispositivos Linux, oferecendo maior controle e acesso remoto. A aba "Linux" possibilita configurar políticas específicas para dispositivos corporativos. As opções incluem gerenciamento avançado como configurações Intel AMT e consentimento do usuário, garantindo flexibilidade e segurança na administração.
+Agora o portal permite criar políticas dedicadas para dispositivos Linux, oferecendo maior controle e acesso remoto. A aba "Linux" possibilita configurar políticas específicas para dispositivos corporativos. As opções incluem gerenciamento avançado como configurações Intel AMT e consentimento do usuário, garantindo flexibilidade e segurança na administração.\
+Mais informação na seção Cadastrar Nova Política e Gerenciar Políticas.
 
 #### Configuração de Consentimento do Usuário
 
@@ -16,9 +17,13 @@ As políticas Linux e Windows agora incluem configurações de consentimento do 
 
 O portal disponibiliza agentes para registrar dispositivos Linux no sistema. Os administradores podem selecionar entre instaladores binários para diferentes arquiteturas (x86-64, x86-32, ARM-HF) e tipos de instalação (plano de fundo, interativo, ou ambos). Após o download e instalação, o dispositivo é registrado automaticamente, simplificando a configuração inicial.
 
+Mais informação na seção Agente de Registro Linux.
+
 #### Registro de Dispositivo Linux
 
 Agora é possível gerenciar dispositivos Linux no portal. Após criar uma política Linux, baixar e instalar o agente, o dispositivo será registrado automaticamente. O portal exibe o dispositivo na lista de dispositivos, junto com as informações da política vinculada, permitindo um gerenciamento centralizado e eficiente.
+
+Mais informação na seção Agente de Registro Linux.
 
 #### Exibição de Dispositivos Linux na Lista
 
