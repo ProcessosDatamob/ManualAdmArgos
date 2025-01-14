@@ -13,7 +13,7 @@ Caso não lembre a senha de acesso ao portal, realize os seguintes passos para r
 3. Ao clicar em “**Confirmar**” o sistema enviará uma mensagem ao seu endereço de E-mail com instruções para troca de senha.
 4. Clicando no link do e-mail o você será direcionado para a tela abaixo, onde deve cadastrar uma senha:
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="318"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="" width="318"><figcaption></figcaption></figure>
 
 5. **Digite a nova senha** no campo indicado.
 
@@ -27,8 +27,8 @@ Conforme você digita, a tela exibirá as regras que a senha deve seguir:
 
 Cada regra será mostrada em **verde** assim que for cumprida.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="257"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="257"><figcaption></figcaption></figure>
 
 6. Após clicar em Continuar a senha será alterada e a tela abaixo será exibida:
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
