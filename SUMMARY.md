@@ -78,7 +78,6 @@
   * [Release Notes \<NomeProduto> V 19.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/README.md)
     * [Configurações Avançadas no Security Browser](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/configuracoes-avancadas-no-security-browser.md)
     * [Acesso Remoto via Remote View para Dispositivos Android](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/acesso-remoto-via-remote-view-para-dispositivos-android.md)
-    * [Gestão de Perfis de Acesso no Portal](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/gestao-de-perfis-de-acesso-no-portal.md)
     * [Bloqueio de Aplicativos por Velocidade](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/bloqueio-de-aplicativos-por-velocidade.md)
     * [Novas Configurações no Work Profile](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/novas-configuracoes-no-work-profile.md)
     * [Novas Funcionalidades para Gestão de Dispositivos Linux](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/novas-funcionalidades-para-gestao-de-dispositivos-linux.md)
