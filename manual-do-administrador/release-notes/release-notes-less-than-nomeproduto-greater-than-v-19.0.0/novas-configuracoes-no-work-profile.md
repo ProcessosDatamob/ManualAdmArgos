@@ -28,4 +28,22 @@ As políticas "Android - Work Profile" incluem novas opções de segurança, com
 * **Bloquear alteração de contas**: Restringe mudanças nas contas configuradas no dispositivo.\
   Essas configurações aumentam a segurança e são aplicadas automaticamente aos dispositivos ao salvar a política.
 
+**Gerenciamento de Contatos entre Perfis no Work Profile**
+
+Agora as políticas "Android - Work Profile" incluem uma nova configuração para controlar o acesso aos contatos do perfil de trabalho a partir do perfil pessoal. Na aba "Configurações", em "Segurança", é possível selecionar entre as seguintes opções:
+
+* **Não permitir acesso aos contatos**: Bloqueia totalmente o acesso dos apps pessoais aos contatos do perfil de trabalho.
+* **Permitir acesso aos contatos (padrão)**: Libera o acesso total aos contatos do perfil de trabalho.
+* **Não permitir acesso, exceto para apps do sistema**: Restringe o acesso apenas a aplicativos de sistema.
+
+Essas configurações proporcionam maior controle sobre a privacidade e a segurança dos dados entre os perfis de trabalho e pessoal. As alterações são aplicadas automaticamente aos dispositivos vinculados ao salvar a política.
+
+**Configuração de Compartilhamento de Localização no Work Profile**
+
+Agora as políticas "Android - Work Profile" incluem uma opção para controlar o compartilhamento de localização. Na aba "Configurações", em "Localização", foi adicionada a configuração:
+
+* **Desativar compartilhamento de localização**: Permite desativar o compartilhamento de localização dos dispositivos vinculados ao perfil de trabalho.
+
+Essa configuração mantém o funcionamento atual e aplica as alterações automaticamente aos dispositivos ao salvar a política, garantindo maior controle sobre a privacidade no uso do perfil de trabalho.
+
 Mais informações na seção Configurações Gerais - Android - Work Profile.
