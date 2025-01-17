@@ -30,6 +30,7 @@ Para isso, o usuário precisa realizar o download do aplicativo **Android Device
 As configurações gerais são agrupadas nos tipos:
 
 * [Bloqueio Total](configuracoes-gerais-android-work-profile.md#bloqueio-total)
+* Localização
 * [Rede](configuracoes-gerais-android-work-profile.md#rede)
 * [Restrições de Senha - Dispositivo](configuracoes-gerais-android-work-profile.md#restricoes-de-senha-dispositivo)
 * [Restrições de Senha - Perfil de Trabalho](configuracoes-gerais-android-work-profile.md#restricoes-de-senha-perfil-de-trabalho)
@@ -90,6 +91,14 @@ Caso o uso de dados móveis estiver abaixo do limite ou se o administrador desat
 
 Se o dispositivo estiver em qualquer uma das condições que requerem a ativação de um Bloqueio Total (fora do horário de trabalho ou atingindo o limite de dados móveis). A configuração e ativação de um Bloqueio Total não anula ou interfere com a configuração e ativação do outro. Ambos os bloqueios podem coexistir e serem aplicados conforme suas respectivas condições.
 
+### <mark style="color:red;">Localização</mark>
+
+<mark style="color:red;">A funcionalidade Compartilhamento de Localização no Work Profile permite que administradores controlem e gerenciem o acesso à localização no Perfil de Trabalho, assegurando maior privacidade e proteção dos dados corporativos.</mark>
+
+<mark style="color:red;">**Desativar Compartilhamento de Localização:**</mark> <mark style="color:red;"></mark><mark style="color:red;">permite desativar o compartilhamento de informações de localização no Perfil de Trabalho, garantindo que os dados de localização não sejam acessados indevidamente. As configurações realizadas são enviadas automaticamente aos dispositivos vinculados à política ao salvar as alterações no portal.</mark>
+
+<figure><img src="../../../../.gitbook/assets/image (338).png" alt=""><figcaption></figcaption></figure>
+
 ### <mark style="color:red;">**Rede**</mark>
 
 <mark style="color:red;">A funcionalidade Configurações de Rede Wi-Fi no Work Profile permite que administradores configurem e gerenciem as redes Wi-Fi disponíveis no Perfil de Trabalho, oferecendo maior controle sobre as conexões de rede e reforçando a segurança.</mark>
@@ -126,8 +135,9 @@ Quando a opção estiver desativada, obriga ao usuário criar uma senha diferent
   * <mark style="color:red;">Forçar a ativação da verificação de aplicativos (padrão): Garante que o recurso de verificação esteja sempre ativo nos dispositivos, sem a possibilidade de desativação pelo usuário.</mark>
   * <mark style="color:red;">Definido pelo usuário: Permite que o usuário escolha se deseja ou não ativar o Google Play Protect.</mark>
 * <mark style="color:red;">**Bloquear Alteração de Contas:**</mark> <mark style="color:red;"></mark><mark style="color:red;">impede que os usuários alterem ou removam contas configuradas no Perfil de Trabalho. Ao ativar essa opção, os dispositivos vinculados à política bloqueiam qualquer tentativa de modificação ou remoção de contas corporativas.</mark>
+* <mark style="color:red;">**Acesso aos contatos do perfil de trabalho no perfil pessoal:**</mark> <mark style="color:red;"></mark><mark style="color:red;">o Gerenciamento de Contatos entre Perfis permite configurar se aplicativos pessoais podem acessar os contatos armazenados no perfil de trabalho, oferecendo controle adicional sobre a privacidade e o uso de informações corporativas. A configuração está localizada no accordion "Segurança" na aba “Configurações” de uma política "Android - Work Profile" e permite três opções: desativar totalmente o acesso, permitir acesso irrestrito (padrão), ou permitir apenas o acesso por aplicativos de sistema. As alterações realizadas são salvas na política e enviadas automaticamente para os dispositivos vinculados.</mark>
 
-<figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (337).png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:red;">Tela</mark>
 
