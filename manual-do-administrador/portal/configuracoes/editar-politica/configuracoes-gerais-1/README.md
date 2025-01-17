@@ -12,11 +12,10 @@ layout:
     visible: true
 ---
 
-# Configurações Gerais - Android
+# Configurações Gerais - Android Block SIM
 
 As configurações gerais são agrupadas nos tipos:
 
-* <mark style="color:red;">Acesso Remoto</mark>;
 * Bloqueio Total;
 * Hardware;
 * Localização;
