@@ -2,7 +2,8 @@
 
 #### Nova Política Linux
 
-Agora o portal permite criar políticas dedicadas para dispositivos Linux, oferecendo maior controle e acesso remoto. A aba "Linux" possibilita configurar políticas específicas para dispositivos corporativos. As opções incluem gerenciamento avançado como configurações Intel AMT e consentimento do usuário, garantindo flexibilidade e segurança na administração.\
+Agora o portal permite criar políticas dedicadas para dispositivos Linux, oferecendo maior controle e acesso remoto. A aba "Linux" possibilita configurar políticas específicas para dispositivos corporativos. As opções incluem gerenciamento avançado como configurações Intel AMT e consentimento do usuário, garantindo flexibilidade e segurança na administração.
+
 Mais informação na seção Cadastrar Nova Política e Gerenciar Políticas.
 
 #### Configuração de Consentimento do Usuário
@@ -40,9 +41,13 @@ Ao acessar a tela de gestão de dispositivos Linux, são exibidas sessões detal
 * Localidade\
   Essas informações são organizadas para facilitar a administração e o acompanhamento técnico.
 
+Mais informação na seção Opções de gerenciamento de dispositivos.
+
 #### Registro e Configuração de Agentes Linux
 
 O portal agora disponibiliza agentes para registrar dispositivos Linux. Os administradores podem selecionar entre diferentes tipos de instaladores e arquiteturas (x86-64, x86-32, ARM-HF). Após a instalação, os dispositivos são automaticamente registrados no sistema, simplificando a configuração inicial.
+
+Mais informação na seção Agente de Registro Linux.
 
 #### Acesso Remoto via iFrame para Linux
 
@@ -53,6 +58,10 @@ Com o recurso de Remote View, administradores podem acessar dispositivos Linux r
 * Navegação pelos Diretórios\
   Esse recurso oferece suporte remoto prático e eficiente.
 
+Mais informação na seção Opções de gerenciamento de dispositivos.
+
 #### Remoção de Dispositivos Linux
 
 Agora é possível remover dispositivos Linux do portal. A opção está disponível no menu de dispositivos e permite enviar um comando para remover o dispositivo tanto do Mesh Central quanto do portal, garantindo que ele não permaneça vinculado à solução.
+
+Mais informação na seção Opções de gerenciamento de dispositivos.

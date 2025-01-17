@@ -22,7 +22,7 @@ Ao clicar nos três pontinhos "**...**" à direita na listagem dos dispositivos,
 
 As opções disponíveis variam de acordo com o Modo de Gerenciamento da política na qual o dispositivo estiver vinculado e estão em destaque na imagem a seguir:
 
-<table><thead><tr><th width="272.28506787330315">Modo de Gerenciamento</th><th>Opções disponíveis</th></tr></thead><tbody><tr><td><strong>Android</strong></td><td>Alterar Política<br>Ativar/ Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Gerar Nova Senha do Dispositivo<br>Remover Dispositivo (WIPE)<br>Gerenciar Informações</td></tr><tr><td><strong>Android Block SIM</strong></td><td><p>Alterar Política<br>Ativar/Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo</p><p>Gerar Nova Senha do Bloqueio de Tela<br>Remover Bloqueio de Tela</p><p>Remover Bloqueio de Chip<br>Remover Dispositivo (WIPE)<br>Gerenciar </p></td></tr><tr><td><strong>Android Work Profile</strong></td><td>Alterar Política<br>Remover Dispositivo (WIPE)<br>Gerenciar </td></tr><tr><td><strong>Windows</strong></td><td>Remover Dispositivo<br>Acesso Remoto<br>Gerenciar</td></tr></tbody></table>
+<table><thead><tr><th width="272.28506787330315">Modo de Gerenciamento</th><th>Opções disponíveis</th></tr></thead><tbody><tr><td><strong>Android</strong></td><td>Alterar Política<br>Ativar/ Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Gerar Nova Senha do Dispositivo<br>Remover Dispositivo (WIPE)<br>Gerenciar Informações</td></tr><tr><td><strong>Android Block SIM</strong></td><td><p>Alterar Política<br>Ativar/Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo</p><p>Gerar Nova Senha do Bloqueio de Tela<br>Remover Bloqueio de Tela</p><p>Remover Bloqueio de Chip<br>Remover Dispositivo (WIPE)<br>Gerenciar </p></td></tr><tr><td><strong>Android Work Profile</strong></td><td>Alterar Política<br>Remover Dispositivo (WIPE)<br>Gerenciar </td></tr><tr><td><strong>Windows</strong></td><td>Remover Dispositivo<br>Acesso Remoto<br>Gerenciar</td></tr><tr><td><strong>Linux</strong></td><td><mark style="color:red;">Remover Dispositivo</mark><br><mark style="color:red;">Acesso Remoto</mark><br><mark style="color:red;">Gerenciar</mark></td></tr></tbody></table>
 
 As opções que estão em destaque na figura são detalhadas nas próximas subseções:
 
@@ -147,7 +147,7 @@ Após a remoção do bloqueio, é possível reiniciar um bloqueio sem resetar o 
 
 Esta operação permite excluir um dispositivo, ela limpa os dados e configurações do dispositivo. Os dispositivos excluídos não aparecem na lista de dispositivos da empresa. A opção "Remover Dispositivo" aparece na lista de opções do dispositivo na tela de listagem de dispositivos (menu "Dispositivos", opção "Listar Dispositivos").
 
-No caso de remoção de dispositivos no Windows o sistema enviará um comando de remoção para o dispositivo no servidor e no Portal.
+No caso de remoção de dispositivos no <mark style="color:red;">Windows e Linux</mark> o sistema enviará um comando de remoção para o dispositivo no servidor e no Portal.
 
 {% hint style="info" %}
 **NOTA**
@@ -191,10 +191,10 @@ Dessa forma, essa funcionalidade ajuda a evitar problemas de bloqueio de CHIP qu
 
 ## **Acesso Remoto**
 
-O recurso de Acesso Remoto permite que os administradores gerenciem dispositivos Windows diretamente pelo portal. Essa funcionalidade possibilita o controle remoto do dispositivo, incluindo acesso à área de trabalho, terminal e diretórios.
+O recurso de Acesso Remoto permite que os administradores gerenciem dispositivos <mark style="color:red;">Windows e Linux</mark> diretamente pelo portal. Essa funcionalidade possibilita o controle remoto do dispositivo, incluindo acesso à área de trabalho, terminal e diretórios.
 
 1. Acesse a Lista de Dispositivos no portal.&#x20;
-2. Clique nos três pontinhos "..." de um dispositivo Windows.&#x20;
+2. Clique nos três pontinhos "..." de um dispositivo <mark style="color:red;">Windows ou Linux.</mark>&#x20;
 3. Selecione a opção Acesso Remoto. Ao selecionar Acesso Remoto, o sistema permitirá:
    * Acessar a Área de Trabalho: Controle remoto completo do dispositivo.
    * Acessar o Terminal de Prompt: Execução de comandos diretamente no terminal.
@@ -214,7 +214,7 @@ Ao clicar na opção **Gerenciar**, será exibida a tela **Gerenciar Dispositivo
 
 1. Nesta tela estão agrupadas os Comandos e Ações do dispositivo que já detalhamos anteriormente, de acordo com o Modo de Gerenciamento ou Sistema Operacional. O comportamento de cada funcionalidade , será igual na tela "Lista de Dispositivos"
 2. Serão exibidas as opções de Voltar e Atualizar, sendo que ao clicar sobre Atualizar, serão atualizadas as informações e será exibida a data de atualização das informações ao passar o mouse sobre o botão atualizar.
-3. As abas com opções para edição e informações do dispositivo. As abas são:\
+3. <mark style="color:red;">As abas com opções para edição e informações do dispositivo são exibidas de forma personalizada, de acordo com o tipo de dispositivo gerenciado. Isso permite que apenas informações relevantes sejam apresentadas para cada sistema operacional. As abas disponíveis podem incluir:</mark>\
    \- [Informações](opcoes-de-gerenciamento-de-dispositivos.md#informacoes) \
    \- [Aplicativos](opcoes-de-gerenciamento-de-dispositivos.md#aplicativos) \
    \- [Bateria](opcoes-de-gerenciamento-de-dispositivos.md#bateria) \
