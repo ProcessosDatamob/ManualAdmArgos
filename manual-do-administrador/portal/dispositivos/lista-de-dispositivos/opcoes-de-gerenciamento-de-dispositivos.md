@@ -22,7 +22,7 @@ Ao clicar nos três pontinhos "**...**" à direita na listagem dos dispositivos,
 
 As opções disponíveis variam de acordo com o Modo de Gerenciamento da política na qual o dispositivo estiver vinculado e estão em destaque na imagem a seguir:
 
-<table><thead><tr><th width="272.28506787330315">Modo de Gerenciamento</th><th>Opções disponíveis</th></tr></thead><tbody><tr><td><strong>Android</strong></td><td>Alterar Política<br>Ativar/ Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Gerar Nova Senha do Dispositivo<br>Remover Dispositivo (WIPE)<br>Gerenciar Informações</td></tr><tr><td><strong>Android Block SIM</strong></td><td><p>Alterar Política<br>Ativar/Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo</p><p>Gerar Nova Senha do Bloqueio de Tela<br>Remover Bloqueio de Tela</p><p>Remover Bloqueio de Chip<br>Remover Dispositivo (WIPE)<br>Gerenciar </p></td></tr><tr><td><strong>Android Work Profile</strong></td><td>Alterar Política<br>Remover Dispositivo (WIPE)<br>Gerenciar </td></tr><tr><td><strong>Windows</strong></td><td>Remover Dispositivo<br>Acesso Remoto<br>Gerenciar</td></tr><tr><td><strong>Linux</strong></td><td><mark style="color:red;">Remover Dispositivo</mark><br><mark style="color:red;">Acesso Remoto</mark><br><mark style="color:red;">Gerenciar</mark></td></tr></tbody></table>
+<table><thead><tr><th width="272.28506787330315">Modo de Gerenciamento</th><th>Opções disponíveis</th></tr></thead><tbody><tr><td><strong>Android</strong></td><td>Alterar Política<br>Ativar/ Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Gerar Nova Senha do Dispositivo<br>Remover Dispositivo (WIPE)<br>Gerenciar Informações<br>Controle Remoto</td></tr><tr><td><strong>Android Block SIM</strong></td><td><p>Alterar Política<br>Ativar/Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo</p><p>Gerar Nova Senha do Bloqueio de Tela<br>Remover Bloqueio de Tela</p><p>Remover Bloqueio de Chip<br>Remover Dispositivo (WIPE)<br>Gerenciar </p></td></tr><tr><td><strong>Android Work Profile</strong></td><td>Alterar Política<br>Remover Dispositivo (WIPE)<br>Gerenciar </td></tr><tr><td><strong>Windows</strong></td><td>Remover Dispositivo<br>Acesso Remoto<br>Gerenciar</td></tr><tr><td><strong>Linux</strong></td><td><mark style="color:red;">Remover Dispositivo</mark><br><mark style="color:red;">Acesso Remoto</mark><br><mark style="color:red;">Gerenciar</mark></td></tr></tbody></table>
 
 As opções que estão em destaque na figura são detalhadas nas próximas subseções:
 
@@ -224,7 +224,7 @@ Ao clicar na opção **Gerenciar**, será exibida a tela **Gerenciar Dispositivo
 
 Abaixo segue a explicação de cada uma delas:
 
-### **Informações**
+#### **Informações**
 
 Ao abrir a tela Gerenciar Dispositivo , a primeira aba "**Informações**" vira Pré selecionada, nesta aba, é possível editar dados do dispositivo: Usuário, Identificação, selecionar um Grupo, Departamento, Telefone do Usuário e selecionar uma Localidade.
 
@@ -250,25 +250,25 @@ As seções estão detalhadas na página de [Informações do Dispositivo](infor
 ![](<../../../../.gitbook/assets/image (245).png>)
 {% endhint %}
 
-### **Aplicativos**
+#### **Aplicativos**
 
 Na aba "**Aplicativos**", é possível acessar a lista de todos os aplicativos instalados no dispositivo, contendo as seguintes informações: ícone, nome, consumo de dados móveis, consumo de dados em WiFi e tempo de uso. Os dados de consumo e tempo de uso são registrados dentro do ciclo. É possível pesquisar um aplicativo específico utilizando o campo de pesquisa, exportar relatórios completos ou da página, além de copiar as informações da lista. Ao clicar nos três pontinhos é possível visualizar o gráfico de "Histórico de Consumo" do aplicativo durante o ciclo.
 
 <figure><img src="../../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-### **Bateria**
+#### **Bateria**
 
 Na aba "**Bateria**", é possível selecionar uma data para visualizar as informações desejadas. Ao escolher a data, o sistema buscará e exibirá os dados da bateria em formato de gráfico.
 
 <figure><img src="../../../../.gitbook/assets/image (242).png" alt=""><figcaption></figcaption></figure>
 
-### **Armazenamento Livre**
+#### **Armazenamento Livre**
 
 Na aba "**Armazenamento Livre**" é possível visualizar a memória livre no armazenamento interno do dispositivo ao selecionar uma data para visualizar as informações desejadas. Ao escolher a data, o sistema buscará e exibirá os dados de armazenamento em formato de gráfico.
 
 <figure><img src="../../../../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
 
-### Geolocalização
+#### Geolocalização
 
 Ao acessar a aba "Geolocalização", será possível filtrar as localizações utilizando os filtros: Localizar, Data, Fuso horário e Precisão. Ao clicar em "Buscar", um mapa será exibido, mostrando as geolocalizações registradas, se houver.
 
@@ -291,7 +291,7 @@ Para visualizar as localizações geográficas de um dispositivo, siga os passos
 
 <figure><img src="../../../../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
 
-### Não Conformidades
+#### Não Conformidades
 
 Nesta aba, serão listadas todas as não conformidades do dispositivo com informações detalhadas da Configuração, Motivo da Não Conformidade e Detalhe da Não Conformidade.&#x20;
 
@@ -306,3 +306,15 @@ E em cada item de não conformidade listado será exibida a informação de Nome
 <figure><img src="../../../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
 
 É possível "Exportar" e "Copiar", permitindo exportar as informações do relatório para um arquivo Excel ou copiar as informações para uma área de transferência.
+
+### <mark style="color:red;">Controle Remoto</mark>
+
+<mark style="color:red;">O recurso Remote View permite que administradores configurem políticas Android para habilitar o acesso remoto a dispositivos. Essa funcionalidade é essencial para realizar suporte técnico e manutenção de dispositivos de forma eficiente e centralizada.</mark>
+
+<mark style="color:red;">Ao criar uma política Android com o Acesso Remoto ativado, o sistema configura automaticamente um grupo exclusivo associado ao ID da empresa e ao nome da política. Além disso, é gerada uma URL de registro do agente para o aplicativo Remote View, que é enviada diretamente nas configurações gerenciadas do app.</mark>
+
+<mark style="color:red;">Com isso, os administradores podem utilizar o Remote View para acessar e controlar remotamente os dispositivos associados à política, garantindo maior flexibilidade e agilidade no gerenciamento remoto.</mark>
+
+<figure><img src="../../../../.gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../../.gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
