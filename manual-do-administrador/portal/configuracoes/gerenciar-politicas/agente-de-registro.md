@@ -37,6 +37,3 @@ Certifique-se de escolher o tipo de instalação e a versão do agente corretos 
 
 5. Depois de instalado, o dispositivo será automaticamente registrado e vinculado à política configurada.&#x20;
 6. Para visualizar os Dispositivos Registrados, acesse a tela Lista de Dispositivos no portal. O dispositivo registrado aparecerá na lista com as informações relevantes, incluindo a política vinculada.
-
-
-

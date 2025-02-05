@@ -10,7 +10,7 @@ Para acessar o Portal de Administração, siga os passos descritos nesta seção
 1. Acesse o Link para criação da senha que será enviado no e-mail de Boas Vindas para visualizar a tela de acesso do Portal. De preferência utilize um navegador Google Chrome, com a versão mais atualizada.
 2. Ao clicar no link do e-mail o você será direcionado para a tela abaixo, onde deve cadastrar uma senha:
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="318"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt="" width="318"><figcaption></figcaption></figure>
 
 3. **Digite a nova senha** no campo indicado.
 
@@ -24,21 +24,21 @@ Conforme você digita, a tela exibirá as regras que a senha deve seguir:
 
 Cada regra será mostrada em **verde** assim que for cumprida.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="257"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="257"><figcaption></figcaption></figure>
 
 4. Clique em “**Continuar**” para confirmar as informações e acessar o Portal.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 5. Após clicar em **Continuar**, você será direcionado para a tela abaixo, onde deve informar o e-mail e a senha configurada no passo anterior:
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="477"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="477"><figcaption></figcaption></figure>
 
 
 
 6. No próximo passo o usuário deverá confirmar os dados da empresa. A tela de confirmação dos dados da empresa aparecerá somente no primeiro acesso e é mostrada na figura a seguir.
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt="" width="523"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="" width="523"><figcaption></figcaption></figure>
 
 7. Confirmar o Nome da Empresa e E-mail;
 8. Criar uma senha;&#x20;
@@ -47,7 +47,7 @@ Cada regra será mostrada em **verde** assim que for cumprida.
 11. Clicar no botão "Próximo''.
 12. Será exibida a tela abaixo, para informar o Token que será enviado no e-mail informado:
 
-<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **OBSERVAÇÃO**
