@@ -14,11 +14,9 @@ layout:
 
 # Manuais Online adicionados nos Materiais de Apoio
 
-<mark style="color:blue;">Foram adicionados os manuais de apoio no menu de "Ajuda", na seção "Documentos e Materiais de Apoio".</mark>
+Foram adicionados os manuais de apoio no menu de "Ajuda", na seção "Documentos e Materiais de Apoio".
 
 Mais informações na seção [Documentos e Materiais de Apoio](../../portal/ajuda/documentos-e-materiais-de-apoio.md).
-
-<mark style="color:blue;">NOVA IMAGEM</mark>
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
