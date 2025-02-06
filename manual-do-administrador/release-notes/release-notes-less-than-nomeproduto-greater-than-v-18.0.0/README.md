@@ -1,6 +1,6 @@
 # Release Notes \<NomeProduto> V 18.0.0
 
-## **Versão 18.0.0 - 12/2024**
+## **Versão 18.0.0 - 01/2025**
 
 ### **Novidades**
 
