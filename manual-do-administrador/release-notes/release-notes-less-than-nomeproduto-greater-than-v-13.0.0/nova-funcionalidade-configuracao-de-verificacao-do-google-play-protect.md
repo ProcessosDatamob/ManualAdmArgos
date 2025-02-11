@@ -4,6 +4,6 @@ Agora, os usuários podem contar com uma nova opção de segurança no sistema: 
 
 Mais informações na seção [Segurança](../../portal/configuracoes/editar-politica/configuracoes-gerais/seguranca.md).
 
-<figure><img src="../../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)

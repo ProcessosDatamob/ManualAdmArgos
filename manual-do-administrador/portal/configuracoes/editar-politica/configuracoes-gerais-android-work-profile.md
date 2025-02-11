@@ -30,10 +30,18 @@ Para isso, o usuário precisa realizar o download do aplicativo **Android Device
 As configurações gerais são agrupadas nos tipos:
 
 * [Bloqueio Total](configuracoes-gerais-android-work-profile.md#bloqueio-total)
+* Localização
+* [Rede](configuracoes-gerais-android-work-profile.md#rede)
 * [Restrições de Senha - Dispositivo](configuracoes-gerais-android-work-profile.md#restricoes-de-senha-dispositivo)
 * [Restrições de Senha - Perfil de Trabalho](configuracoes-gerais-android-work-profile.md#restricoes-de-senha-perfil-de-trabalho)
+* [Segurança](configuracoes-gerais-android-work-profile.md#seguranca)
+* [Tela](configuracoes-gerais-android-work-profile.md#tela)
+* [Tela de Bloqueio](configuracoes-gerais-android-work-profile.md#tela-de-bloqueio)
+* [VPN](configuracoes-gerais-android-work-profile.md#vpn)
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<mark style="background-color:orange;">NOVA IMAGEM</mark>
+
+<figure><img src="../../../../.gitbook/assets/Captura de tela 2025-01-14 153526.png" alt=""><figcaption></figcaption></figure>
 
 ### Bloqueio Total
 
@@ -51,7 +59,7 @@ Para realizar o bloqueio de dispositivos fora do horário de trabalho, siga os p
 2. Preencha o campo "Dias de trabalho", com os dias trabalhados na semana dia de início e dia fim.
 3. Preencha o campo "Horário de trabalho", com horário de trabalho inicial e fina<mark style="color:blue;">l.</mark>
 
-<figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **OBSERVAÇÃO**
@@ -83,6 +91,24 @@ Caso o uso de dados móveis estiver abaixo do limite ou se o administrador desat
 
 Se o dispositivo estiver em qualquer uma das condições que requerem a ativação de um Bloqueio Total (fora do horário de trabalho ou atingindo o limite de dados móveis). A configuração e ativação de um Bloqueio Total não anula ou interfere com a configuração e ativação do outro. Ambos os bloqueios podem coexistir e serem aplicados conforme suas respectivas condições.
 
+### <mark style="color:red;">Localização</mark>
+
+<mark style="color:red;">A funcionalidade Compartilhamento de Localização no Work Profile permite que administradores controlem e gerenciem o acesso à localização no Perfil de Trabalho, assegurando maior privacidade e proteção dos dados corporativos.</mark>
+
+<mark style="color:red;">**Desativar Compartilhamento de Localização:**</mark> <mark style="color:red;"></mark><mark style="color:red;">permite desativar o compartilhamento de informações de localização no Perfil de Trabalho, garantindo que os dados de localização não sejam acessados indevidamente. As configurações realizadas são enviadas automaticamente aos dispositivos vinculados à política ao salvar as alterações no portal.</mark>
+
+<figure><img src="../../../../.gitbook/assets/image (338).png" alt=""><figcaption></figcaption></figure>
+
+### <mark style="color:red;">**Rede**</mark>
+
+<mark style="color:red;">A funcionalidade Configurações de Rede Wi-Fi no Work Profile permite que administradores configurem e gerenciem as redes Wi-Fi disponíveis no Perfil de Trabalho, oferecendo maior controle sobre as conexões de rede e reforçando a segurança.</mark>
+
+* <mark style="color:red;">**Configuração Rede Wi-Fi**</mark><mark style="color:red;">:</mark>
+  * <mark style="color:red;">Permite adicionar e gerenciar redes Wi-Fi no Perfil de Trabalho diretamente pela política configurada no portal.</mark>
+  * <mark style="color:red;">As redes configuradas serão automaticamente enviadas aos dispositivos vinculados à política após salvar as alterações.</mark>
+
+<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
 ### **Restrições de Senha - Dispositivo**
 
 <figure><img src="../../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
@@ -91,10 +117,68 @@ Se o dispositivo estiver em qualquer uma das condições que requerem a ativaç�
 
 ### **Restrições de Senha - Perfil de Trabalho**
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Se a chave estiver habilitada permite ao usuário manter a mesma senha definida para o “**Dispositivo**” no “**Perfil de Trabalho**”.
 
 Quando a opção estiver desativada, obriga ao usuário criar uma senha diferente da senha pessoal, para acessar o perfil de trabalho. São exibidas as mesmas configurações descritas na tabela acima para definição de senha.
 
 <table data-header-hidden><thead><tr><th width="307.8854625550661"></th><th></th></tr></thead><tbody><tr><td><strong>Configuração</strong></td><td><strong>Descrição</strong></td></tr><tr><td>Qualidade da senha</td><td><p>Nesta configuração, temos as seguintes opções disponíveis:</p><p>- Biometria</p><p>- Alguma</p><p>- Numérica</p><p>- Numérica Complexa</p><p>- Alfabética</p><p>- Alfanumérica</p><p>- Complexa</p></td></tr><tr><td>Comprimento de histórico de senhas</td><td>Define o número de senhas já usadas que não podem ser reutilizadas</td></tr><tr><td>Máximo de senhas incorretas antes de executar wipe</td><td>Define o máximo de tentativas incorretas antes de executar o Wipe</td></tr><tr><td>Tempo limite de expiração da senha (dias)</td><td>Define quantos dias a senha vai levar para expirar</td></tr><tr><td>Exigir desbloqueio de senha</td><td>Nesta configuração temos as opções: Padrão do dispositivo, ou seja, definida conforme configurado no dispositivo ou todo dia, neste caso a senha será solicitada todo dia</td></tr><tr><td>Comprimento mínimo da senha</td><td>Nesta configuração temos as opções: Padrão do dispositivo, ou seja, definida conforme configurado no dispositivo ou todo dia, neste caso a senha será solicitada todo dia</td></tr><tr><td>Número mínimo de letras exigidas na senha</td><td>Esta configuração define a quantidade mínima de letras necessárias para as senhas, com um número específico de caracteres alfabéticos nas combinações de senha</td></tr><tr><td>Número mínimo de letras minúsculas exigidas na senha</td><td>Essa configuração determina o mínimo de letras minúsculas necessárias em senhas</td></tr><tr><td>Número mínimo de caracteres que não sejam letras (dígitos numéricos ou símbolos) necessários na senha</td><td>Define o mínimo de caracteres não alfabéticos necessários nas senhas</td></tr><tr><td>Número mínimo de dígitos numéricos necessários na senha</td><td>Estipula o número mínimo de dígitos numéricos necessários nas senhas</td></tr><tr><td>Número mínimo de símbolos necessários na senha</td><td>Essa configuração estabelece a quantidade mínima de símbolos exigidos nas senhas, nas combinações de senha</td></tr><tr><td>Número mínimo de letras maiúsculas exigidas na senha</td><td>Estipula a quantidade mínima de letras maiúsculas obrigatórias na senha</td></tr></tbody></table>
+
+### <mark style="color:red;">Segurança</mark>
+
+<mark style="color:red;">As configurações de segurança no Perfil de Trabalho oferecem controle adicional para administradores sobre a proteção dos dispositivos, incluindo a gestão da verificação de aplicativos e a restrição de alterações em contas. Essas opções garantem maior segurança e estabilidade no uso corporativo.</mark>
+
+<mark style="color:red;">Opções Disponíveis:</mark>
+
+* <mark style="color:red;">**Verificação do Google Play Protect:**</mark> <mark style="color:red;"></mark><mark style="color:red;">define como será aplicada a verificação de aplicativos no dispositivo utilizando o Google Play Protect. Com opções de:</mark>
+  * <mark style="color:red;">Forçar a ativação da verificação de aplicativos (padrão): Garante que o recurso de verificação esteja sempre ativo nos dispositivos, sem a possibilidade de desativação pelo usuário.</mark>
+  * <mark style="color:red;">Definido pelo usuário: Permite que o usuário escolha se deseja ou não ativar o Google Play Protect.</mark>
+* <mark style="color:red;">**Bloquear Alteração de Contas:**</mark> <mark style="color:red;"></mark><mark style="color:red;">impede que os usuários alterem ou removam contas configuradas no Perfil de Trabalho. Ao ativar essa opção, os dispositivos vinculados à política bloqueiam qualquer tentativa de modificação ou remoção de contas corporativas.</mark>
+* <mark style="color:red;">**Acesso aos contatos do perfil de trabalho no perfil pessoal:**</mark> <mark style="color:red;"></mark><mark style="color:red;">o Gerenciamento de Contatos entre Perfis permite configurar se aplicativos pessoais podem acessar os contatos armazenados no perfil de trabalho, oferecendo controle adicional sobre a privacidade e o uso de informações corporativas. A configuração está localizada no accordion "Segurança" na aba “Configurações” de uma política "Android - Work Profile" e permite três opções: desativar totalmente o acesso, permitir acesso irrestrito (padrão), ou permitir apenas o acesso por aplicativos de sistema. As alterações realizadas são salvas na política e enviadas automaticamente para os dispositivos vinculados.</mark>
+
+<figure><img src="../../../../.gitbook/assets/image (337).png" alt=""><figcaption></figcaption></figure>
+
+### <mark style="color:red;">Tela</mark>
+
+<mark style="color:red;">Na tela de edição de uma política Work Profile, na aba Configurações, em Tela tem a opção "Desativar captura de tela". Por padrão, a funcionalidade estará desativada, ou seja, a captura de tela não será permitida no Perfil de Trabalho.</mark>
+
+<mark style="color:red;">Configurações disponíveis:</mark>
+
+* <mark style="color:red;">**Desativado (Padrão):**</mark> <mark style="color:red;"></mark><mark style="color:red;">Impede que os usuários realizem capturas de tela no Perfil de Trabalho.</mark>
+* <mark style="color:red;">**Ativado:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Permite capturas de tela no Perfil de Trabalho.</mark>
+
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+### <mark style="color:red;">Tela de Bloqueio</mark>
+
+<mark style="color:red;">Estando na aba "</mark><mark style="color:red;">**Configurações**</mark><mark style="color:red;">" da tela "</mark><mark style="color:red;">**Edição de Políticas**</mark><mark style="color:red;">", clique em "</mark><mark style="color:red;">**Tela de Bloqueio**</mark><mark style="color:red;">" para ver as opções de configuração da tela de bloqueio. As configurações da tela de bloqueio são descritas na tabela abaixo.</mark>
+
+| **Configuração**                          | **Descrição**                                                                                                                                        |
+| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Desativar todas as configurações          | Desativa todas as opções de personalização da tela de bloqueio, mantendo o dispositivo com configurações padrão.                                     |
+| Desativar câmera na tela de bloqueio      | Impede o acesso à câmera diretamente pela tela de bloqueio, aumentando a segurança.                                                                  |
+| Desativar notificações                    | Desativa a exibição de notificações na tela de bloqueio em dispositivos com telas de proteção seguras.                                               |
+| Desativar notificações editadas           | Impede que notificações modificadas sejam exibidas em telas de proteção seguras.                                                                     |
+| Desativar agente de confiança             | Ignora o estado de agentes de confiança, como dispositivos confiáveis, em telas de proteção seguras.                                                 |
+| Desativar sensor de impressão digital     | Bloqueia o uso do sensor de impressão digital nas telas de proteção de teclado.                                                                      |
+| Desativar edição de texto em notificações | Em dispositivos Android 6 ou anteriores, bloqueia a entrada de texto em notificações na tela de bloqueio. Não afeta versões Android 7 ou superiores. |
+| Desativar autenticação facial             | Impede o uso da autenticação facial em telas de proteção seguras.                                                                                    |
+| Desativar autenticação da íris            | Bloqueia o uso da autenticação por íris em telas de proteção seguras.                                                                                |
+| Desativar autenticação biométrica         | Desativa todos os métodos de autenticação biométrica, como impressão digital, facial e íris, em telas de proteção seguras.                           |
+
+### <mark style="color:red;">VPN</mark>
+
+<mark style="color:red;">A funcionalidade</mark> <mark style="color:red;"></mark><mark style="color:red;">**Configurações de VPN no Work Profile**</mark> <mark style="color:red;"></mark><mark style="color:red;">permite aos administradores maior controle sobre o acesso à rede no Perfil de Trabalho, garantindo que conexões seguras sejam priorizadas. Com essa configuração, é possível bloquear o acesso à internet quando a VPN não estiver ativa, além de gerenciar aplicativos de VPN vinculados à política.</mark>
+
+<mark style="color:red;">Configurações disponíveis:</mark>
+
+* <mark style="color:red;">**Aplicativos de VPN**</mark>
+  * <mark style="color:red;">Permite selecionar aplicativos de VPN configurados na política com os status: "Forçado", "Disponível" e "Pré-instalado".</mark>
+  * <mark style="color:red;">Apresenta o nome do aplicativo.</mark>
+  * <mark style="color:red;">Administradores podem selecionar ou remover aplicativos de VPN da política.</mark>
+* <mark style="color:red;">**Bloquear Conexão sem VPN**</mark>
+  * <mark style="color:red;">Bloqueia todo o tráfego de rede no Perfil de Trabalho quando a VPN configurada não estiver conectada.</mark>
+  * <mark style="color:red;">Essa configuração só estará habilitada quando pelo menos um aplicativo de VPN estiver selecionado.</mark>
+
+<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

@@ -4,6 +4,6 @@ Nesta versão, implementamos um ícone que permite personalizar a Lista de Dispo
 
 Mais informações na seção [Lista de dispositivos](../../portal/dispositivos/lista-de-dispositivos/).
 
-<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)

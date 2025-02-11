@@ -1,4 +1,4 @@
-# Agente de Registro
+# Agente de Registro Windows
 
 O recurso agente de recurso Windows permite que administradores façam o download do agente apropriado para instalação e configuração, centralizando as necessidades de gerenciamento diretamente no portal.&#x20;
 

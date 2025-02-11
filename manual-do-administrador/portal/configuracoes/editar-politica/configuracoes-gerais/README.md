@@ -12,10 +12,11 @@ layout:
     visible: true
 ---
 
-# Configurações Gerais - Android e Android Block SIM
+# Configurações Gerais - Android
 
 As configurações gerais são agrupadas nos tipos:
 
+* <mark style="color:red;">Acesso Remoto</mark>;
 * Bloqueio Total;
 * Hardware;
 * Localização;
@@ -28,7 +29,7 @@ As configurações gerais são agrupadas nos tipos:
 * Usuário;
 * VPN;
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="311"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="311"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **NOTA**

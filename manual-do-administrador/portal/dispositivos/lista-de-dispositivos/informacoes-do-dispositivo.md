@@ -18,7 +18,7 @@ Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível
 
 <figure><img src="../../../../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
 
-Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso as Informações do dispositivo:
+Após clicar no ícone acima, será exibida a seguinte tela, <mark style="color:red;">onde teremos acesso as Informações do dispositivo, o portal trará as informações exibidas</mark> <mark style="color:red;"></mark><mark style="color:red;">**de acordo com o tipo de dispositivo gerenciado**</mark><mark style="color:red;">, garantindo uma visão detalhada e relevante para cada sistema operacional.</mark>&#x20;
 
 <figure><img src="../../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 

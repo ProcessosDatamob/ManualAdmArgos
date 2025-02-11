@@ -26,7 +26,7 @@ A tela a seguir será exibida:
 
 Para acessar esta tela, use os três pontos no final da linha do aplicativo. Nesta tela pode-se visualizar o gráfico de evolução do consumo de dados da aplicação dos dispositivos.
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **- Usuários com Aplicativos**
 

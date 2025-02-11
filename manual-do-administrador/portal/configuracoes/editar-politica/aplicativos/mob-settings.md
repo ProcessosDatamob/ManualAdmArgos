@@ -25,19 +25,19 @@ Para realizar a inclusão do aplicativo na lista de Aplicativos Gerenciados da e
 1. Utilize o campo de pesquisa para buscar "**Mob Settings**".
 2. Selecione o aplicativo "**Mob Settings**".
 
-<figure><img src="../../../../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Abrirá a tela com mais informações do aplicativo. Clique no botão "**Selecionar**", conforme em destaque na próxima imagem.
 
-<figure><img src="../../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="546"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="546"><figcaption></figcaption></figure>
 
 4. Clique no botão confirmar para efetivar a inclusão.
 
-<figure><img src="../../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. O aplicativo **Mob Settings** aparecerá na lista de "**Aplicativos Gerenciados**", conforme pode ser visualizado na tela a seguir.
 
-<figure><img src="../../../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 5. Acesse a tela "**Gerenciar Políticas**" no menu "**Configurações**".
 6. Clique no botão "**Nova Política**", para criar uma política para incluir o **Mob Settings**.
@@ -53,7 +53,7 @@ Para realizar a inclusão do aplicativo na lista de Aplicativos Gerenciados da e
 11. Marque o checkbox ao final da linha onde está o aplicativo **Mob Settings.**
 12. Clique no botão "**Adicionar selecionados**".
 
-<figure><img src="../../../../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Após a inclusão do aplicativo na política, as configurações do app podem ser definidas. A próxima subseção mostra como realizar as configurações do **Mob Settings**.
 
@@ -63,11 +63,11 @@ Após a inclusão do aplicativo na política, as configurações do app podem se
 2. Escolha o "**Tipo de instalação**" do **Mob Settings** como "**Instalação Forçada**" ou "**Pré-instalado**".
 3. Clique em "**Configurações Gerenciadas**" para abrir a tela de configurações gerenciadas do **Mob Settings.**
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="179"><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="179"><figcaption></figcaption></figure>
 
 Ao clicar em Configurações Gerenciadas a seguinte tela será exibida:
 
-<figure><img src="../../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 As Configurações Gerenciadas para o **Mob Settings** são:&#x20;
 
@@ -75,7 +75,7 @@ As Configurações Gerenciadas para o **Mob Settings** são:&#x20;
 
 Ao ativar a chave, é bloqueado o esquecimento de senha de rede, ou seja, não permite que o usuário realize o esquecimento da senha.
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Configurações de Bluetooth**
 
@@ -83,7 +83,7 @@ O Mob Settings permite que os administradores configurem e gerenciem o Bluetooth
 
 Quando o aplicativo Mob Settings é adicionado a uma política, a configuração gerenciada de Bluetooth está ativada por padrão , permitindo que os administradores ativem ou desativem essa funcionalidade conforme necessário.
 
-<figure><img src="../../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Após instalar o aplicativo Mob Settings no dispositivo, verifique se a configuração de Bluetooth está ativa.
 2. Abra o Mob Settings e clique no botão de configurações de Bluetooth para acessar a tela específica.
@@ -100,7 +100,7 @@ Com o Mob Settings, os administradores podem ajustar várias configurações de 
 
 Assim como com o Bluetooth, a configuração gerenciada de tela é disponibilizada ao portal quando o aplicativo Mob Settings é adicionado a política.  A configuração de tela estará ativada por padrão, permitindo que os administradores façam ajustes conforme necessário.
 
-<figure><img src="../../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Certifique-se de que a configuração de tela está ativa após instalar o aplicativo.
 2. Abra o Mob Settings e clique no botão de configurações de tela.
@@ -115,7 +115,7 @@ O Mob Settings também permite que os administradores controlem as configuraçõ
 
 Quando o aplicativo Mob Settings é adicionado a uma política, a configuração gerenciada de Wi-Fi está ativada por padrão , permitindo que os administradores ativem ou desativem essa funcionalidade conforme necessário.
 
-<figure><img src="../../../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Verifique se a configuração de Wi-Fi está ativa após a instalação.
 2. Abra o Mob Settings e clique no botão de configurações de Wi-Fi.
