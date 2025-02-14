@@ -8,7 +8,3 @@
 2. [Acesso Remoto via Remote View para Dispositivos Android](acesso-remoto-via-remote-view-para-dispositivos-android.md)
 3. [Novas Funcionalidades para Gestão de Dispositivos Linux](novas-funcionalidades-para-gestao-de-dispositivos-linux.md)
 4. [Novas Configurações no Work Profile](novas-configuracoes-no-work-profile.md)
-
-### Correção de Bugs
-
-1.
