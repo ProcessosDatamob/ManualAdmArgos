@@ -112,13 +112,38 @@ Abaixo Listamos quais acessos o usuário terá no dispositivo ao informar a senh
 * Liberará acesso a todos os os aplicativos de sistema que existem na política (_independente se esta visível_);
 * Liberará acesso a todas as configurações do dispositivo, mas para isto, é necessário que o aplicativo de sistema "**Configurações**" esteja incluso na política e que a permissão **Acesso à Configurações** esteja como **Liberado** no Modo Quiosque.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Após encerrar o tempo definido, o usuário perde os acessos mencionados acima novamente e o dispositivo retorna ao Modo Quiosque:
 
 <figure><img src="../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+### **Permissão para Exibição dos Aplicativos na** Tela Inicial
+
+Ao iniciar o **Kiosk Launcher** pela primeira vez, será exibida uma tela solicitando o consentimento do usuário para a coleta de informações dos aplicativos instalados. Essa coleta é necessária para que a launcher exiba corretamente os ícones dos aplicativos quando o dispositivo estiver no **modo quiosque**.
+
+**Exibição da Mensagem**
+
+Assim que o **Kiosk Launcher** for aberto, será apresentada a seguinte mensagem:
+
+<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+O usuário poderá escolher entre duas opções:
+
+* **Rejeitar**
+  * A mensagem será fechada.
+  * As informações dos aplicativos instalados não serão coletadas.
+  * A launcher exibirá apenas o Kiosk Launcher, sem os ícones dos demais aplicativos.
+* **Aceitar**
+  * A mensagem será fechada.
+  * As informações dos aplicativos instalados serão coletadas.
+  * A launcher exibirá os aplicativos instalados corretamente.
+
+{% hint style="danger" %}
+Se a opção **"Rejeitar"** for selecionada, a tela inicial não conseguirá exibir os ícones dos aplicativos, exceto o **Kiosk Launcher**. Caso o usuário mude de ideia, será necessário permitir a coleta de informações nas configurações do dispositivo ou reinstalar o aplicativo para visualizar a solicitação novamente.
+{% endhint %}
 
 ### Modo Quiosque ChromeOS
 

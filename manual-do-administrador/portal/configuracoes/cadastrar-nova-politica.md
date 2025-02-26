@@ -56,7 +56,7 @@ Quando uma política já estiver vinculada a um grupo, o campo “Grupo” apare
 
 Ao clicar em copiar uma política, é possível vincular à política qualquer grupo existente na Empresa, e a seleção do grupo é opcional.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Observação**

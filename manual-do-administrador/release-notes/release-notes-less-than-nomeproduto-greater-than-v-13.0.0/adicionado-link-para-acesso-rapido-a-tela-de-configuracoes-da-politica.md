@@ -6,7 +6,7 @@ Este link, estará disponível em dois lugares: ao acessar o menu Lista de Dispo
 
 Mais informações na seção [Lista de Dispositivos](../../portal/dispositivos/lista-de-dispositivos/) e [Opções de gerenciamento de dispositivos.](../../portal/dispositivos/lista-de-dispositivos/opcoes-de-gerenciamento-de-dispositivos.md)
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="" width="262"><figcaption></figcaption></figure>
 

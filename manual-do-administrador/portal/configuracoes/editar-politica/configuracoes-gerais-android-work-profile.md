@@ -117,7 +117,7 @@ Se o dispositivo estiver em qualquer uma das condições que requerem a ativaç�
 
 ### **Restrições de Senha - Perfil de Trabalho**
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Se a chave estiver habilitada permite ao usuário manter a mesma senha definida para o “**Dispositivo**” no “**Perfil de Trabalho**”.
 
@@ -148,7 +148,7 @@ Quando a opção estiver desativada, obriga ao usuário criar uma senha diferent
 * <mark style="color:red;">**Desativado (Padrão):**</mark> <mark style="color:red;"></mark><mark style="color:red;">Impede que os usuários realizem capturas de tela no Perfil de Trabalho.</mark>
 * <mark style="color:red;">**Ativado:**</mark> <mark style="color:red;"></mark><mark style="color:red;">Permite capturas de tela no Perfil de Trabalho.</mark>
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### <mark style="color:red;">Tela de Bloqueio</mark>
 
