@@ -155,6 +155,17 @@ No caso de remoção de dispositivos no <mark style="color:red;">Windows e Linux
 Uma mensagem é exibida na tela para informação e advertência. A operação não pode ser desfeita, portanto, confirme somente quando tiver certeza de que deseja eliminar o dispositivo.
 {% endhint %}
 
+{% hint style="warning" %}
+**Procedimento para Wipe em dispositivos com "Block SIM"**
+
+Ao realizar o comando de Wipe em dispositivos com a política "Block SIM", é necessário seguir duas etapas para garantir que a ação seja executada corretamente:
+
+1. **Desbloquear o chip:** Antes de realizar o Wipe, é necessário desbloquear o chip.
+2. **Executar o Wipe:** Após o desbloqueio, confirme novamente para realizar o Wipe.
+
+**Nota:** Se o "Block SIM" estiver configurado com senha, será necessário o PUK do chip. Caso o comando de desbloqueio não funcione, negue o desbloqueio para acessar diretamente a tela do Wipe.
+{% endhint %}
+
 ### **Remover Dispositivo com** CHIP Bloqueado
 
 Ao enviar o comando de remoção de um dispositivo que esta ativado em uma política Android Block SIM e com o CHIP bloqueado, o usuário administrador será alertado para que possa enviar um comando de remover o bloqueio do CHIP antes de remover o dispositivo do portal.
