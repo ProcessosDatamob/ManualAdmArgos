@@ -6,8 +6,6 @@ Esta tela do sistema tem o objetivo de realizar o cadastro de novas políticas. 
 
 A tela inicial do cadastro de políticas é apresentada na sequência.
 
-<mark style="background-color:orange;">NOVA IMAGEM</mark>
-
 <figure><img src="../../../.gitbook/assets/Captura de tela 2025-01-14 161839.png" alt=""><figcaption></figcaption></figure>
 
 Para cadastrar uma nova política siga os seguintes passos:
@@ -36,9 +34,9 @@ Para cadastrar uma nova política siga os seguintes passos:
 
     <figure><img src="../../../.gitbook/assets/image (329).png" alt=""><figcaption></figcaption></figure>
 
-#### <mark style="color:red;">Linux</mark>
+#### Linux
 
-* <mark style="color:red;">**Linux**</mark> <mark style="color:red;"></mark><mark style="color:red;">- A política Linux permite o gerenciamento centralizado de dispositivos Linux com configurações específicas para atender às necessidades corporativas. Com essa funcionalidade, os administradores podem criar, editar e gerenciar políticas exclusivas para dispositivos Linux, garantindo controle remoto, segurança e conformidade organizacional. Todas as políticas Linux são exibidas com o ícone correspondente e podem ser filtradas pelo modo de gerenciamento no portal, facilitando a organização e o acesso.</mark>
+* **Linux** - A política Linux permite o gerenciamento centralizado de dispositivos Linux com configurações específicas para atender às necessidades corporativas. Com essa funcionalidade, os administradores podem criar, editar e gerenciar políticas exclusivas para dispositivos Linux, garantindo controle remoto, segurança e conformidade organizacional. Todas as políticas Linux são exibidas com o ícone correspondente e podem ser filtradas pelo modo de gerenciamento no portal, facilitando a organização e o acesso.
 
 <figure><img src="../../../.gitbook/assets/image (330).png" alt=""><figcaption></figcaption></figure>
 
@@ -49,8 +47,6 @@ Após o cadastro da política será aberta a tela "**Editar Política**" para qu
 {% hint style="info" %}
 Quando uma política já estiver vinculada a um grupo, o campo “Grupo” aparecerá desabilitado na tela de edição. Nesse caso, não será possível alterar o vínculo do grupo com a política.
 {% endhint %}
-
-
 
 #### Copiar Política
 

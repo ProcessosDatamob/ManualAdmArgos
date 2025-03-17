@@ -1,8 +1,8 @@
 # Configurações Gerais - Linux
 
-<mark style="color:red;">O modo de gerenciamento Linux permite gerenciar dispositivos Linux de forma centralizada, aplicando configurações específicas de uso, segurança e acesso remoto. Essa política oferece controle detalhado sobre os dispositivos Linux, possibilitando a criação de políticas exclusivas que atendem às necessidades corporativas, com funcionalidades como gerenciamento remoto, configuração de políticas e integração com ferramentas de administração.</mark>
+O modo de gerenciamento Linux permite gerenciar dispositivos Linux de forma centralizada, aplicando configurações específicas de uso, segurança e acesso remoto. Essa política oferece controle detalhado sobre os dispositivos Linux, possibilitando a criação de políticas exclusivas que atendem às necessidades corporativas, com funcionalidades como gerenciamento remoto, configuração de políticas e integração com ferramentas de administração.
 
-#### <mark style="color:red;">Configurações de Consentimento do Usuário do Dispositivo para Linux</mark>
+#### Configurações de Consentimento do Usuário do Dispositivo para Linux
 
 Essa funcionalidade permite configurar opções de consentimento do usuário ao acessar áreas críticas do dispositivo, garantindo maior transparência durante operações de monitoramento. O administrador pode ativar ou desativar opções específicas nas seguintes sessões:
 

@@ -147,7 +147,7 @@ Após a remoção do bloqueio, é possível reiniciar um bloqueio sem resetar o 
 
 Esta operação permite excluir um dispositivo, ela limpa os dados e configurações do dispositivo. Os dispositivos excluídos não aparecem na lista de dispositivos da empresa. A opção "Remover Dispositivo" aparece na lista de opções do dispositivo na tela de listagem de dispositivos (menu "Dispositivos", opção "Listar Dispositivos").
 
-No caso de remoção de dispositivos no <mark style="color:red;">Windows e Linux</mark> o sistema enviará um comando de remoção para o dispositivo no servidor e no Portal.
+No caso de remoção de dispositivos no Windows e Linux o sistema enviará um comando de remoção para o dispositivo no servidor e no Portal.
 
 {% hint style="info" %}
 **NOTA**
@@ -202,10 +202,10 @@ Dessa forma, essa funcionalidade ajuda a evitar problemas de bloqueio de CHIP qu
 
 ## **Acesso Remoto**
 
-O recurso de Acesso Remoto permite que os administradores gerenciem dispositivos <mark style="color:red;">Windows e Linux</mark> diretamente pelo portal. Essa funcionalidade possibilita o controle remoto do dispositivo, incluindo acesso à área de trabalho, terminal e diretórios.
+O recurso de Acesso Remoto permite que os administradores gerenciem dispositivos Windows e Linux diretamente pelo portal. Essa funcionalidade possibilita o controle remoto do dispositivo, incluindo acesso à área de trabalho, terminal e diretórios.
 
 1. Acesse a Lista de Dispositivos no portal.&#x20;
-2. Clique nos três pontinhos "..." de um dispositivo <mark style="color:red;">Windows ou Linux.</mark>&#x20;
+2. Clique nos três pontinhos "..." de um dispositivo Windows ou Linux.&#x20;
 3. Selecione a opção Acesso Remoto. Ao selecionar Acesso Remoto, o sistema permitirá:
    * Acessar a Área de Trabalho: Controle remoto completo do dispositivo.
    * Acessar o Terminal de Prompt: Execução de comandos diretamente no terminal.
@@ -217,15 +217,15 @@ O recurso de Acesso Remoto permite que os administradores gerenciem dispositivos
 Esse recurso facilita o gerenciamento remoto, permitindo resolver problemas, aplicar configurações e realizar manutenções de forma eficiente, sem a necessidade de acesso físico ao dispositivo.
 {% endhint %}
 
-### <mark style="color:red;">Controle Remoto</mark>
+### Controle Remoto
 
-<mark style="color:red;">O recurso Remote View permite que administradores configurem políticas Android para habilitar o acesso remoto a dispositivos. Essa funcionalidade é essencial para realizar suporte técnico e manutenção de dispositivos de forma eficiente e centralizada.</mark>
+O recurso Remote View permite que administradores configurem políticas Android para habilitar o acesso remoto a dispositivos. Essa funcionalidade é essencial para realizar suporte técnico e manutenção de dispositivos de forma eficiente e centralizada.
 
-<mark style="color:red;">Ao criar uma política Android com o Acesso Remoto ativado, o sistema configura automaticamente um grupo exclusivo associado ao ID da empresa e ao nome da política. Além disso, é gerada uma URL de registro do agente para o aplicativo Remote View, que é enviada diretamente nas configurações gerenciadas do app.</mark>
+Ao criar uma política Android com o Acesso Remoto ativado, o sistema configura automaticamente um grupo exclusivo associado ao ID da empresa e ao nome da política. Além disso, é gerada uma URL de registro do agente para o aplicativo Remote View, que é enviada diretamente nas configurações gerenciadas do app.
 
-<mark style="color:red;">Com isso, os administradores podem utilizar o Remote View para acessar e controlar remotamente os dispositivos associados à política, garantindo maior flexibilidade e agilidade no gerenciamento remoto.</mark>
+Com isso, os administradores podem utilizar o Remote View para acessar e controlar remotamente os dispositivos associados à política, garantindo maior flexibilidade e agilidade no gerenciamento remoto.
 
-1. <mark style="color:red;">Clique em Controle Remoto.</mark>
+1. Clique em Controle Remoto.
 
 
 

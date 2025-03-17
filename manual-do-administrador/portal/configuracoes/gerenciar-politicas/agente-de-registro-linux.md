@@ -1,8 +1,8 @@
 # Agente de Registro Linux
 
-<mark style="color:red;">A configuração</mark> <mark style="color:red;"></mark><mark style="color:red;">**Agente Linux**</mark> <mark style="color:red;"></mark><mark style="color:red;">permite aos administradores realizar o registro e a gestão de dispositivos Linux diretamente pelo portal. Esse recurso oferece maior praticidade e integração, centralizando os processos necessários para o gerenciamento eficiente de dispositivos.</mark>
+A configuração **Agente Linux** permite aos administradores realizar o registro e a gestão de dispositivos Linux diretamente pelo portal. Esse recurso oferece maior praticidade e integração, centralizando os processos necessários para o gerenciamento eficiente de dispositivos.
 
-1. <mark style="color:red;">Nos três pontinhos "..." de uma política Windows, clique na opção</mark> <mark style="color:red;"></mark><mark style="color:red;">**"Agente de Registro"**</mark><mark style="color:red;">.</mark>
+1. Nos três pontinhos "..." de uma política Windows, clique na opção **"Agente de Registro"**.
 
 <figure><img src="../../../../.gitbook/assets/image (336).png" alt=""><figcaption></figcaption></figure>
 
