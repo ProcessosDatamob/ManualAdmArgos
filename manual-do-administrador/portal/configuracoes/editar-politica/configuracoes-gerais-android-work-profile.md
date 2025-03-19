@@ -30,7 +30,7 @@ Para isso, o usuário precisa realizar o download do aplicativo **Android Device
 As configurações gerais são agrupadas nos tipos:
 
 * [Bloqueio Total](configuracoes-gerais-android-work-profile.md#bloqueio-total)
-* Localização
+* [Localização](configuracoes-gerais-android-work-profile.md#localizacao)
 * [Rede](configuracoes-gerais-android-work-profile.md#rede)
 * [Restrições de Senha - Dispositivo](configuracoes-gerais-android-work-profile.md#restricoes-de-senha-dispositivo)
 * [Restrições de Senha - Perfil de Trabalho](configuracoes-gerais-android-work-profile.md#restricoes-de-senha-perfil-de-trabalho)
@@ -38,10 +38,6 @@ As configurações gerais são agrupadas nos tipos:
 * [Tela](configuracoes-gerais-android-work-profile.md#tela)
 * [Tela de Bloqueio](configuracoes-gerais-android-work-profile.md#tela-de-bloqueio)
 * [VPN](configuracoes-gerais-android-work-profile.md#vpn)
-
-<mark style="background-color:orange;">NOVA IMAGEM</mark>
-
-<figure><img src="../../../../.gitbook/assets/Captura de tela 2025-01-14 153526.png" alt=""><figcaption></figcaption></figure>
 
 ### Bloqueio Total
 

@@ -245,7 +245,7 @@ Ao clicar na opção **Gerenciar**, será exibida a tela **Gerenciar Dispositivo
 
 1. Nesta tela estão agrupadas os Comandos e Ações do dispositivo que já detalhamos anteriormente, de acordo com o Modo de Gerenciamento ou Sistema Operacional. O comportamento de cada funcionalidade , será igual na tela "Lista de Dispositivos"
 2. Serão exibidas as opções de Voltar e Atualizar, sendo que ao clicar sobre Atualizar, serão atualizadas as informações e será exibida a data de atualização das informações ao passar o mouse sobre o botão atualizar.
-3. <mark style="color:red;">As abas com opções para edição e informações do dispositivo são exibidas de forma personalizada, de acordo com o tipo de dispositivo gerenciado. Isso permite que apenas informações relevantes sejam apresentadas para cada sistema operacional. As abas disponíveis podem incluir:</mark>\
+3. As abas com opções para edição e informações do dispositivo são exibidas de forma personalizada, de acordo com o tipo de dispositivo gerenciado. Isso permite que apenas informações relevantes sejam apresentadas para cada sistema operacional. As abas disponíveis podem incluir:\
    \- [Informações](opcoes-de-gerenciamento-de-dispositivos.md#informacoes) \
    \- [Aplicativos](opcoes-de-gerenciamento-de-dispositivos.md#aplicativos) \
    \- [Bateria](opcoes-de-gerenciamento-de-dispositivos.md#bateria) \
