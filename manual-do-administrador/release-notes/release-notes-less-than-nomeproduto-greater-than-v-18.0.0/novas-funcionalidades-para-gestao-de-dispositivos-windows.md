@@ -30,13 +30,7 @@ Os dispositivos Windows registrados agora são exibidos na "Lista de Dispositivo
 
 Adicionada a visualização de informações detalhadas dos dispositivos Windows nas sessões: Detalhes, Instalação, Hardware, Conectividade e Localidade. As informações podem ser acessadas tanto na aba "Informações" quanto na listagem de dispositivos.&#x20;
 
-**7. Acesso Remoto via iFrame**
-
-Com a funcionalidade "Acesso Remoto" ativada, os administradores podem acessar dispositivos Windows remotamente utilizando um iFrame, com opções como Área de Trabalho, Terminal de Prompt e Diretórios, garantindo maior controle remoto.&#x20;
-
-Mais informações na seção [Opções de gerenciamento de dispositivos.](../../portal/dispositivos/lista-de-dispositivos/opcoes-de-gerenciamento-de-dispositivos.md)
-
-**8. Remoção de Dispositivos Windows**
+**7. Remoção de Dispositivos Windows**
 
 É possível remover dispositivos Windows diretamente do portal. Ao selecionar "Remover Dispositivo" na lista de dispositivos, o sistema envia um comando de remoção, garantindo que o dispositivo seja excluído tanto do servidor quanto do portal.&#x20;
 

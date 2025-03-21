@@ -94,6 +94,7 @@
     * [Acesso Remoto via Remote View para Dispositivos Android](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/acesso-remoto-via-remote-view-para-dispositivos-android.md)
     * [Novas Funcionalidades para Gestão de Dispositivos Linux](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/novas-funcionalidades-para-gestao-de-dispositivos-linux.md)
     * [Novas Configurações no Work Profile](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/novas-configuracoes-no-work-profile.md)
+    * [Acesso Remoto via iFrame](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-19.0.0/acesso-remoto-via-iframe.md)
   * [Release Notes \<NomeProduto> V 18.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/README.md)
     * [Configuração de Termos de Uso da Empresa nas Políticas](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/configuracao-de-termos-de-uso-da-empresa-nas-politicas.md)
     * [Novas Funcionalidades para Gestão de Dispositivos Windows](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-18.0.0/novas-funcionalidades-para-gestao-de-dispositivos-windows.md)
