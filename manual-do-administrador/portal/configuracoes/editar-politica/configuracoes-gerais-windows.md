@@ -4,15 +4,21 @@ O modo de gerenciamento Windows, permite gerenciar dispositivos Windows de forma
 
 #### **Configurações Intel® AMT**
 
-A funcionalidade de Configuração de Política Intel AMT no Windows permite que o administrador configure e gerencie dispositivos habilitados com Intel AMT (Active Management Technology) diretamente pelo portal, oferecendo maior controle sobre os dispositivos Windows.
+A funcionalidade de Configuração de Política Intel AMT no Windows oferece ao administrador a capacidade de configurar e gerenciar dispositivos equipados com Intel® Active Management Technology (Intel® AMT). Isso possibilita um controle aprimorado sobre os dispositivos Windows através de um portal administrativo.
 
-O sistema possibilita a escolha entre diferentes tipos de configuração para o Intel AMT:&#x20;
+**Opções de Configuração do Intel AMT**
 
-* Nenhuma - escolha esta opção caso o Intel AMT não seja necessário para o gerenciamento remoto ou se deseja configurá-lo fora do sistema.
-* Desativar - utilize esta opção para desabilitar o recurso de gerenciamento remoto Intel AMT, garantindo que não seja utilizado sem necessidade.
-* Modo de Controle de Cliente Simples (CCM) - escolha esta opção para ativar o gerenciamento remoto básico do dispositivo, adequado para cenários onde permissões avançadas não são necessárias.&#x20;
-* Modo de Controle de Administrador Simples (ACM) - ideal para situações que exigem gerenciamento remoto avançado, com maior acesso e controle sobre os dispositivos.&#x20;
+* Nenhuma: Selecione esta opção se o Intel AMT não for necessário para o gerenciamento remoto ou se a configuração for realizada externamente ao sistema.
+* Desativar: Utilize esta opção para desabilitar o recurso de gerenciamento remoto Intel AMT, garantindo que não seja utilizado sem necessidade.
+* Modo de Controle de Cliente Simples (CCM): Esta opção ativa o gerenciamento remoto básico do dispositivo, adequada para cenários onde permissões avançadas não são necessárias. Pré-requisitos: Para a ativação do CCM, é necessário que o dispositivo possua um chipset compatível com Intel AMT e que não haja exigência de autenticação de dois fatores ou criptografia adicional.
+* Modo de Controle de Administrador Simples (ACM): Ideal para situações que exigem gerenciamento remoto avançado, com maior acesso e controle sobre os dispositivos. Pré-requisitos:
+  * Hardware Compatível: O dispositivo deve ser compatível com a versão mais recente do Intel AMT.
+  * Certificado do Servidor: É necessário um certificado de segurança SSL/TLS para autenticar a comunicação entre o dispositivo e o servidor.
+  * Servidor DHCP: Um servidor DHCP configurado para atribuir IPs automaticamente aos dispositivos na rede.
+  * Certificado de CA Raiz: Certificado de uma Autoridade Certificadora Raiz para validar a identidade do servidor e dos dispositivos gerenciados.
 
-As configurações são enviadas automaticamente ao salvar as alterações na política, assegurando que os dispositivos associados sejam atualizados com os parâmetros definidos pelo administrador.
+**Envio e Atualização de Configurações**
+
+As configurações são enviadas automaticamente ao salvar as alterações na política, assegurando que os dispositivos associados sejam atualizados com os parâmetros definidos pelo administrador. Isso inclui a atualização automática de firmware e software, conforme necessário, garantindo a conformidade e a segurança dos dispositivos gerenciados.
 
 <figure><img src="../../../../.gitbook/assets/image (324).png" alt=""><figcaption></figcaption></figure>
