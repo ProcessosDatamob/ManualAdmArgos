@@ -1,10 +1,55 @@
-# Bloqueio Total
+# Bloqueios
 
-Essa funcionalidade permite ao usuário administrador configurar um bloqueio total do dispositivo fora de um período de tempo específico ou ao atingir o limite de dados móveis. Assim, permitindo que seja realizado o bloqueio do dispositivo quando o usuário não estiver no horário de trabalho e quando o limite de dados móveis definido para o ciclo atual é atingido.
+Essa funcionalidade permite ao usuário administrador configurar um <mark style="color:red;">bloqueio por velocidade</mark>, bloqueio total do dispositivo fora de um período de tempo específico, ao atingir o limite de dados móveis ou <mark style="color:red;">bloquear o dispositivo quando ele estiver fora de uma localização configurada</mark>. Assim, permitindo que seja realizado o bloqueio do dispositivo quando o usuário não estiver no horário de trabalho e quando o limite de dados móveis definido para o ciclo atual é atingido.
 
-Estando na aba "**Configurações**" da tela "**Editar Políticas**", clique em "**Bloqueio Total**" para ver as opções de configuração.
+Estando na aba "**Configurações**" da tela "**Editar Políticas**", clique em <mark style="color:red;">"</mark><mark style="color:red;">**Bloqueios**</mark><mark style="color:red;">"</mark> para ver as opções de configuração.
 
-<figure><img src="../../../../../.gitbook/assets/image (316).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+### <mark style="color:red;">Bloqueio de Aplicativos por Velocidade</mark>
+
+<mark style="color:red;">Essa funcionalidade permite bloquear o uso de determinados aplicativos com base na velocidade em que o dispositivo está se deslocando. O objetivo é aumentar a segurança, impedindo o uso de aplicativos enquanto o dispositivo estiver em movimento (por exemplo, durante a condução de um veículo).</mark>
+
+#### <mark style="color:red;">**Como Configurar no Portal**</mark>
+
+1. <mark style="color:red;">Acesse a edição de uma política Android ou Android - Block SIM.</mark>
+2. <mark style="color:red;">Vá até a aba "Configurações" e abra o opção "Bloqueios".</mark>
+3. <mark style="color:red;">Ative a opção "Ativar bloqueio por velocidade".</mark>
+
+{% hint style="info" %}
+**IMPORTANTE**
+
+* Para funcionar corretamente, a política deve ter a **configuração de localização ativada**.
+* O uso contínuo da localização pode aumentar o consumo de bateria, sendo recomendável manter o dispositivo **conectado ao carregador**.
+{% endhint %}
+
+4. Defina os seguintes parâmetros:
+
+* **Velocidade de início do bloqueio**: valor em que o bloqueio será ativado (padrão: 20 km/h).
+* **Unidade de Medida**: km/h, mph (milhas por hora) ou m/s.
+* **Tempo de espera**: intervalo, em minutos (1 a 10), para verificar se a velocidade se mantém antes de aplicar ou remover o bloqueio.
+
+5. Salve a política para enviar as configurações ao dispositivo.
+
+#### **Selecionando os Aplicativos a Serem Bloqueados**
+
+1. Acesse a aba **"Aplicativos"** da política.
+2. Será exibida a coluna **"Bloqueio por Velocidade"** na lista de apps.
+3. Ative o bloqueio individualmente para os aplicativos desejados.\
+   **Observação:** Não é possível ativar para os apps: **\<NomeProduto>, Kiosk Launcher e Block SIM**.
+
+#### **Como Funciona no Dispositivo**
+
+* **Quando a velocidade atinge ou ultrapassa o limite configurado:**
+  * O sistema inicia a contagem do tempo de espera.
+  * Se a velocidade continuar acima após esse tempo:
+    * O aplicativo bloqueado será ocultado.
+      * O usuário não poderá utilizá-lo de nenhuma forma.
+* **Quando a velocidade cai abaixo do limite:**
+  * O sistema novamente inicia o tempo de espera.
+  * Se a velocidade continuar abaixo após esse tempo:
+    * O aplicativo será exibido novamente.
+      * O uso será liberado conforme a política.
 
 ### Bloqueio fora do Horário de Trabalho
 

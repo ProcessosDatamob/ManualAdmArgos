@@ -27,7 +27,7 @@ Conforme você digita, a tela exibirá as regras que a senha deve seguir:
 
 Cada regra será mostrada em **verde** assim que for cumprida.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="257"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="257"><figcaption></figcaption></figure>
 
 6. Após clicar em Continuar a senha será alterada e a tela abaixo será exibida:
 

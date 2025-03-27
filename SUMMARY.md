@@ -35,7 +35,7 @@
     * [Editar política](manual-do-administrador/portal/configuracoes/editar-politica/README.md)
       * [Configurações Gerais - Android](manual-do-administrador/portal/configuracoes/editar-politica/configuracoes-gerais/README.md)
         * [Acesso Remoto](manual-do-administrador/portal/configuracoes/editar-politica/configuracoes-gerais/acesso-remoto.md)
-        * [Bloqueio Total](manual-do-administrador/portal/configuracoes/editar-politica/configuracoes-gerais/bloqueio-total.md)
+        * [Bloqueios](manual-do-administrador/portal/configuracoes/editar-politica/configuracoes-gerais/bloqueio-total.md)
         * [Hardware](manual-do-administrador/portal/configuracoes/editar-politica/configuracoes-gerais/hardware.md)
         * [Localização](manual-do-administrador/portal/configuracoes/editar-politica/configuracoes-gerais/localizacao.md)
         * [Rede](manual-do-administrador/portal/configuracoes/editar-politica/configuracoes-gerais/rede.md)

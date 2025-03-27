@@ -112,9 +112,9 @@ Abaixo Listamos quais acessos o usuário terá no dispositivo ao informar a senh
 * Liberará acesso a todos os os aplicativos de sistema que existem na política (_independente se esta visível_);
 * Liberará acesso a todas as configurações do dispositivo, mas para isto, é necessário que o aplicativo de sistema "**Configurações**" esteja incluso na política e que a permissão **Acesso à Configurações** esteja como **Liberado** no Modo Quiosque.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Após encerrar o tempo definido, o usuário perde os acessos mencionados acima novamente e o dispositivo retorna ao Modo Quiosque:
 
@@ -128,7 +128,7 @@ Ao iniciar o **Kiosk Launcher** pela primeira vez, será exibida uma tela solici
 
 Assim que o **Kiosk Launcher** for aberto, será apresentada a seguinte mensagem:
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 O usuário poderá escolher entre duas opções:
 
