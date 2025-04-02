@@ -10,3 +10,5 @@ Com essa funcionalidade, o administrador pode:
 * Escolher quais aplicativos serão bloqueados, com exceção dos apps essenciais como Companion, Kiosk Launcher e Block SIM.
 
 Quando o dispositivo ultrapassar a velocidade definida, os aplicativos selecionados serão ocultados automaticamente. Assim que a velocidade estiver abaixo do limite por tempo contínuo, os apps são liberados novamente. A funcionalidade exige que a localização esteja ativada na política e é recomendável utilizar com o dispositivo conectado à energia.
+
+Mais informações na seção Bloqueios.
