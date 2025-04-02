@@ -109,16 +109,16 @@ Após confirmar os dados, será exibida a tela do **\<NomeProduto>** com a mensa
 
 Clique em "Ok" e poderá iniciar as configurações necessárias para gerenciar os dispositivos da sua empresa.
 
-### <mark style="color:red;">**Acesso ao Portal com Multiempresas**</mark>
+### **Acesso ao Portal com Multiempresas**
 
-<mark style="color:red;">O recurso de</mark> <mark style="color:red;"></mark><mark style="color:red;">**Acesso Multiempresas**</mark> <mark style="color:red;"></mark><mark style="color:red;">permite que administradores que possuem vínculo com mais de uma empresa utilizem o mesmo login para gerenciar todas elas no portal. Essa funcionalidade facilita a gestão centralizada e evita a necessidade de múltiplos acessos ou credenciais. Abaixo o passo a passo do funcionamento:</mark>
+O recurso de **Acesso Multiempresas** permite que administradores que possuem vínculo com mais de uma empresa utilizem o mesmo login para gerenciar todas elas no portal. Essa funcionalidade facilita a gestão centralizada e evita a necessidade de múltiplos acessos ou credenciais. Abaixo o passo a passo do funcionamento:
 
-<mark style="color:red;">1. Seleção de Empresa no Login</mark>
+1\. Seleção de Empresa no Login
 
-* <mark style="color:red;">Ao acessar a tela de login do portal, caso seu usuário esteja vinculado a mais de uma empresa, será exibida uma tela com a lista de empresas disponíveis.</mark>
-* <mark style="color:red;">Para cada empresa, serão exibidas as seguintes informações:</mark>
-  * <mark style="color:red;">Nome da Empresa</mark>
-  * <mark style="color:red;">CNPJ</mark>
+* Ao acessar a tela de login do portal, caso seu usuário esteja vinculado a mais de uma empresa, será exibida uma tela com a lista de empresas disponíveis.
+* Para cada empresa, serão exibidas as seguintes informações:
+  * Nome da Empresa
+  * CNPJ
   * Plano contratado (por quantidade)
 * Basta selecionar a empresa desejada e seguir com o login normalmente.
 

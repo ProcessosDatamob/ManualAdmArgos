@@ -1,20 +1,20 @@
 # Bloqueios
 
-Essa funcionalidade permite ao usuário administrador configurar um <mark style="color:red;">bloqueio por velocidade</mark>, bloqueio total do dispositivo fora de um período de tempo específico, ao atingir o limite de dados móveis ou <mark style="color:red;">bloquear o dispositivo quando ele estiver fora de uma localização configurada</mark>. Assim, permitindo que seja realizado o bloqueio do dispositivo quando o usuário não estiver no horário de trabalho e quando o limite de dados móveis definido para o ciclo atual é atingido.
+Essa funcionalidade permite ao usuário administrador configurar um bloqueio por velocidade, bloqueio total do dispositivo fora de um período de tempo específico, ao atingir o limite de dados móveis ou bloquear o dispositivo quando ele estiver fora de uma localização configurada. Assim, permitindo que seja realizado o bloqueio do dispositivo quando o usuário não estiver no horário de trabalho e quando o limite de dados móveis definido para o ciclo atual é atingido.
 
-Estando na aba "**Configurações**" da tela "**Editar Políticas**", clique em <mark style="color:red;">"</mark><mark style="color:red;">**Bloqueios**</mark><mark style="color:red;">"</mark> para ver as opções de configuração.
+Estando na aba "**Configurações**" da tela "**Editar Políticas**", clique em "**Bloqueios**" para ver as opções de configuração.
 
 <figure><img src="../../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-### <mark style="color:red;">Bloqueio de Aplicativos por Velocidade</mark>
+### Bloqueio de Aplicativos por Velocidade
 
-<mark style="color:red;">Essa funcionalidade permite bloquear o uso de determinados aplicativos com base na velocidade em que o dispositivo está se deslocando. O objetivo é aumentar a segurança, impedindo o uso de aplicativos enquanto o dispositivo estiver em movimento (por exemplo, durante a condução de um veículo).</mark>
+Essa funcionalidade permite bloquear o uso de determinados aplicativos com base na velocidade em que o dispositivo está se deslocando. O objetivo é aumentar a segurança, impedindo o uso de aplicativos enquanto o dispositivo estiver em movimento (por exemplo, durante a condução de um veículo).
 
-#### <mark style="color:red;">**Como Configurar no Portal**</mark>
+#### **Como Configurar no Portal**
 
-1. <mark style="color:red;">Acesse a edição de uma política Android ou Android - Block SIM.</mark>
-2. <mark style="color:red;">Vá até a aba "Configurações" e abra o opção "Bloqueios".</mark>
-3. <mark style="color:red;">Ative a opção "Ativar bloqueio por velocidade".</mark>
+1. Acesse a edição de uma política Android ou Android - Block SIM.
+2. Vá até a aba "Configurações" e abra o opção "Bloqueios".
+3. Ative a opção "Ativar bloqueio por velocidade".
 
 {% hint style="info" %}
 **IMPORTANTE**

@@ -10,7 +10,7 @@ Agora, administradores com acesso a mais de uma empresa podem gerenciar tudo com
 
 Essa funcionalidade traz mais agilidade e praticidade para quem gerencia múltiplas empresas no sistema.
 
-Mais informações na seção Primeiro Acesso e Vínculo ao Enterprise.
+Mais informações na seção [Primeiro Acesso e Vínculo ao Enterprise](../../portal/acesso-ao-portal/primeiro-acesso-e-vinculo-ao-enterprise.md).
 
 #### **Auditoria para Usuários com Múltiplas Empresas**
 
@@ -21,7 +21,7 @@ O sistema agora registra e exibe corretamente os logs de auditoria de usuários 
 
 Essa atualização garante rastreabilidade clara e precisa das ações dos administradores em ambientes com múltiplas empresas.&#x20;
 
-Mais informações na seção Auditoria.
+Mais informações na seção [Auditoria](../../portal/empresas/auditoria.md).
 
 #### **Criação de Múltiplas Empresas com o Mesmo Administrador**
 
