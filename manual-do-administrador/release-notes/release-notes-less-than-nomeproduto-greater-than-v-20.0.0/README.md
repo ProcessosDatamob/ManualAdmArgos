@@ -1,6 +1,6 @@
 # Release Notes \<NomeProduto> V 20.0.0
 
-## **Versão 19.0.0 - 03/2025**
+## **Versão 20.0.0 - 03/2025**
 
 ### **Novidades**
 
