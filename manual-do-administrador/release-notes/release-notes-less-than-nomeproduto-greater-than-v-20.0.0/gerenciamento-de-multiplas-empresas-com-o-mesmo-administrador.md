@@ -10,6 +10,8 @@ Agora, administradores com acesso a mais de uma empresa podem gerenciar tudo com
 
 Essa funcionalidade traz mais agilidade e praticidade para quem gerencia múltiplas empresas no sistema.
 
+Mais informações na seção Primeiro Acesso e Vínculo ao Enterprise.
+
 #### **Auditoria para Usuários com Múltiplas Empresas**
 
 O sistema agora registra e exibe corretamente os logs de auditoria de usuários vinculados a mais de uma empresa. Com essa melhoria:
@@ -17,7 +19,9 @@ O sistema agora registra e exibe corretamente os logs de auditoria de usuários 
 * **Auditoria por Empresa**: Toda ação realizada dentro de uma empresa será registrada e visualizada apenas naquela empresa, mesmo que o usuário admin seja vinculado a outras.
 * **Auditoria Antes do Login**: Ações auditáveis executadas antes do login serão registradas na primeira empresa à qual o usuário foi associado.
 
-Essa atualização garante rastreabilidade clara e precisa das ações dos administradores em ambientes com múltiplas empresas.
+Essa atualização garante rastreabilidade clara e precisa das ações dos administradores em ambientes com múltiplas empresas.&#x20;
+
+Mais informações na seção Auditoria.
 
 #### **Criação de Múltiplas Empresas com o Mesmo Administrador**
 

@@ -50,10 +50,11 @@ Clicando em ↑↓ é possível ordenar a coluna de Data e Hora.
 
 A partir dos filtros é possível identificar as ações do portal que possuem registro, para verificar as alterações realizadas e rastrear as mudanças de comportamento. Quando selecionar uma opção de “**Atividade**” então apresentará as opções de “**Categoria**” que possuem registros conforme combinações descritas na tabela abaixo:
 
-<table><thead><tr><th width="277">Atividade</th><th>Categoria</th></tr></thead><tbody><tr><td>Inserção</td><td><ul><li>Empresa</li><li>Dispositivo</li><li>Política</li></ul></td></tr><tr><td>Edição</td><td><ul><li>Empresa</li></ul></td></tr><tr><td>Exclusão</td><td><ul><li>Dispositivo</li><li>Política</li><li>Usuário</li></ul></td></tr><tr><td>Aceite</td><td><ul><li>Empresa</li><li>Dispositivo</li><li>Usuário</li></ul></td></tr><tr><td>Envio</td><td><ul><li>Empresa</li><li>Dispositivo</li><li>Política</li><li>Usuário</li></ul></td></tr></tbody></table>
+<table><thead><tr><th width="277">Atividade</th><th>Categoria</th></tr></thead><tbody><tr><td>Inserção</td><td><ul><li>Empresa</li><li>Dispositivo</li><li>Política</li><li><mark style="color:red;">Perfil de Acesso</mark></li></ul></td></tr><tr><td>Edição</td><td><ul><li>Empresa</li><li><mark style="color:red;">Perfil de Acesso</mark></li></ul></td></tr><tr><td>Exclusão</td><td><ul><li>Dispositivo</li><li>Política</li><li>Usuário</li><li><mark style="color:red;">Perfil de Acesso</mark></li></ul></td></tr><tr><td>Aceite</td><td><ul><li>Empresa</li><li>Dispositivo</li><li>Usuário</li></ul></td></tr><tr><td>Envio</td><td><ul><li>Empresa</li><li>Dispositivo</li><li>Política</li><li>Usuário</li></ul></td></tr></tbody></table>
 
 {% hint style="info" %}
 **NOTA**
 
-Quando selecionar um usuário administrador irá exibir sua atividade e categoria.
+* Quando selecionar um usuário administrador irá exibir sua atividade e categoria.&#x20;
+* Em ambientes com múltiplas empresas, todas as ações realizadas por um usuário administrador são registradas na empresa em que ele estava acessando no momento da ação. Ações feitas antes do login (como seleção de empresa) são registradas na primeira empresa em que o usuário foi criado, garantindo rastreabilidade completa em todas as etapas de uso do portal.
 {% endhint %}

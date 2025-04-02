@@ -17,7 +17,7 @@ layout:
 As configurações gerais são agrupadas nos tipos:
 
 * Acesso Remoto;
-* Bloqueio Total;
+* <mark style="color:red;">Bloqueios;</mark>
 * Hardware;
 * Localização;
 * Rede;

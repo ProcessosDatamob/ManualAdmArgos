@@ -108,3 +108,32 @@ Após confirmar os dados, será exibida a tela do **\<NomeProduto>** com a mensa
 <figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 Clique em "Ok" e poderá iniciar as configurações necessárias para gerenciar os dispositivos da sua empresa.
+
+### <mark style="color:red;">**Acesso ao Portal com Multiempresas**</mark>
+
+<mark style="color:red;">O recurso de</mark> <mark style="color:red;"></mark><mark style="color:red;">**Acesso Multiempresas**</mark> <mark style="color:red;"></mark><mark style="color:red;">permite que administradores que possuem vínculo com mais de uma empresa utilizem o mesmo login para gerenciar todas elas no portal. Essa funcionalidade facilita a gestão centralizada e evita a necessidade de múltiplos acessos ou credenciais. Abaixo o passo a passo do funcionamento:</mark>
+
+<mark style="color:red;">1. Seleção de Empresa no Login</mark>
+
+* <mark style="color:red;">Ao acessar a tela de login do portal, caso seu usuário esteja vinculado a mais de uma empresa, será exibida uma tela com a lista de empresas disponíveis.</mark>
+* <mark style="color:red;">Para cada empresa, serão exibidas as seguintes informações:</mark>
+  * <mark style="color:red;">Nome da Empresa</mark>
+  * <mark style="color:red;">CNPJ</mark>
+  * Plano contratado (por quantidade)
+* Basta selecionar a empresa desejada e seguir com o login normalmente.
+
+<figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-28 164324.png" alt="" width="328"><figcaption></figcaption></figure>
+
+2\. Acesso ao Portal da Empresa Selecionada
+
+* Após selecionar a empresa e realizar o login, você será direcionado ao ambiente exclusivo da empresa escolhida.
+* Todas as funcionalidades estarão disponíveis conforme as permissões e configurações da empresa selecionada.
+
+3\. Trocando de Empresa
+
+* Após o login, será possível alternar entre as empresas vinculadas ao seu usuário.
+* O portal exibirá uma opção de troca de empresa, permitindo que você navegue entre os ambientes das empresas às quais tem acesso, sem precisar sair e refazer o login.
+
+<figure><img src="../../../.gitbook/assets/Captura de tela 2025-03-28 170218.png" alt=""><figcaption></figcaption></figure>
+
+Essa funcionalidade é especialmente útil para prestadores de serviço, administradores de grupo e empresas com múltiplas unidades ou CNPJs, proporcionando uma gestão mais ágil e centralizada dos dispositivos e políticas.
