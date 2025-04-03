@@ -10,3 +10,4 @@
 ### **Correções**
 
 1. [Total de Licenças no Portal com Licenças Híbridas](Total-De-Licenças-No-Portal-Com-Licenças-Híbridas.md)
+2. [Exibição de Licenças Não Instaladas no Portal](Exibição-De-Licenças-Não-Instaladas-No-Portal.md)
