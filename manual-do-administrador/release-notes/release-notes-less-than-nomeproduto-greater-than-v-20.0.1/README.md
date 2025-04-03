@@ -11,3 +11,7 @@
 
 1. [Total de Licenças no Portal com Licenças Híbridas](Total-De-Licenças-No-Portal-Com-Licenças-Híbridas.md)
 2. [Exibição de Licenças Não Instaladas no Portal](Exibição-De-Licenças-Não-Instaladas-No-Portal.md)
+
+### **Melhorias**
+
+1. [Criação de Multi Empresas na Integração Claro Bundle](Criação-De-Multi-Empresas-Na-Integração-Claro-Bundle.md)
