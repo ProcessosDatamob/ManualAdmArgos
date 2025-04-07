@@ -225,17 +225,14 @@ Ao criar uma política Android com o Acesso Remoto ativado, o sistema configura 
 
 Com isso, os administradores podem utilizar o Remote View para acessar e controlar remotamente os dispositivos associados à política, garantindo maior flexibilidade e agilidade no gerenciamento remoto.
 
-1. Clique em Controle Remoto.
-
-
-
-<figure><img src="../../../../.gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
-
-2. Clique em Acessar Emdereço.
+1. Clique em Acesso Remoto.
+2. Clique em Acessar Endereço.
 
 <figure><img src="../../../../.gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
 
-3. Você será redirecionado para uma página, onde poderá acessar remotamente o dispositivo selecionado.
+3. Você será redirecionado para uma página, onde poderá acessar remotamente o dispositivo selecionado, clicando em "Conectar".
+
+<figure><img src="../../../../.gitbook/assets/image (342).png" alt=""><figcaption></figcaption></figure>
 
 ## **Gerenciar**
 
