@@ -92,6 +92,7 @@
     * [Bloqueio De Apps Por Velocidade No Portal](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-21.0.0/Bloqueio-De-Apps-Por-Velocidade-No-Portal.md)
     * [Visualização Do Total De Licenças No Portal](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-21.0.0/Visualização-Do-Total-De-Licenças-No-Portal.md)
     * [Visualização De Licenças Não Instaladas](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-21.0.0/Visualização-De-Licenças-Não-Instaladas.md)
+    * [Gerenciamento De Multi Empresas Na Integração Claro Bundle](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-21.0.0/Gerenciamento-De-Multi-Empresas-Na-Integração-Claro-Bundle.md)
   * [Release Notes \<NomeProduto> V 20.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/README.md)
     * [Bloqueio de Aplicativos com Base na Velocidade do Dispositivo](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/bloqueio-de-aplicativos-com-base-na-velocidade-do-dispositivo.md)
     * [Gerenciamento de Múltiplas Empresas com o Mesmo Administrador](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/gerenciamento-de-multiplas-empresas-com-o-mesmo-administrador.md)
