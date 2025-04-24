@@ -11,3 +11,7 @@
 
 1. [Visualização do Total de Licenças no Portal](Visualização-Do-Total-De-Licenças-No-Portal.md)
 2. [Visualização de Licenças Não Instaladas](Visualização-De-Licenças-Não-Instaladas.md)
+
+### **Melhorias**
+
+1. [Gerenciamento de Multi Empresas na Integração Claro Bundle](Gerenciamento-De-Multi-Empresas-Na-Integração-Claro-Bundle.md)
