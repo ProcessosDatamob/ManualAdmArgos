@@ -6,3 +6,7 @@
 ### **Novidades**
 
 1. [Configuração de Aplicativos Padrões no Portal](Configuração-De-Aplicativos-Padrões-No-Portal.md)
+
+### **Melhorias**
+
+1. [Configuração de Métodos de Entrada no Portal](Configuração-De-Métodos-De-Entrada-No-Portal.md)
