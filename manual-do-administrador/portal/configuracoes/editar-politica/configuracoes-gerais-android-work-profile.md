@@ -29,7 +29,8 @@ Para isso, o usuário precisa realizar o download do aplicativo **Android Device
 
 As configurações gerais são agrupadas nos tipos:
 
-* [Bloqueio Total](configuracoes-gerais-android-work-profile.md#bloqueio-total)
+* [Bloqueios](configuracoes-gerais-android-work-profile.md#bloqueio-total)
+* [Hardware](configuracoes-gerais/hardware.md)
 * [Localização](configuracoes-gerais-android-work-profile.md#localizacao)
 * [Rede](configuracoes-gerais-android-work-profile.md#rede)
 * [Restrições de Senha - Dispositivo](configuracoes-gerais-android-work-profile.md#restricoes-de-senha-dispositivo)
@@ -37,15 +38,16 @@ As configurações gerais são agrupadas nos tipos:
 * [Segurança](configuracoes-gerais-android-work-profile.md#seguranca)
 * [Tela](configuracoes-gerais-android-work-profile.md#tela)
 * [Tela de Bloqueio](configuracoes-gerais-android-work-profile.md#tela-de-bloqueio)
+* Usuário
 * [VPN](configuracoes-gerais-android-work-profile.md#vpn)
 
-### Bloqueio Total
+### Bloqueios
 
 Essa funcionalidade permite ao usuário administrador configurar um bloqueio total do dispositivo fora de um período de tempo específico ou ao atingir o limite de dados móveis. Assim, permitindo que seja realizado o bloqueio do dispositivo quando o usuário não estiver no horário de trabalho e quando o limite de dados móveis definido para o ciclo atual é atingido.
 
 Estando na aba "**Configurações**" da tela "**Editar Políticas**", clique em "**Bloqueio Total**" para ver as opções de configuração.
 
-<figure><img src="../../../../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (343).png" alt=""><figcaption></figcaption></figure>
 
 #### Bloqueio fora do Horário de Trabalho
 
@@ -86,6 +88,27 @@ Além disto, ao realizar a instalação de um app via Play Store ou remotamente,
 Caso o uso de dados móveis estiver abaixo do limite ou se o administrador desativar a configuração "Bloquear dispositivo por limite de uso dos dados móveis" na política, então o \<NomeProduto> exibirá corretamente todos aplicativos do dispositivo conforme política provisionada.
 
 Se o dispositivo estiver em qualquer uma das condições que requerem a ativação de um Bloqueio Total (fora do horário de trabalho ou atingindo o limite de dados móveis). A configuração e ativação de um Bloqueio Total não anula ou interfere com a configuração e ativação do outro. Ambos os bloqueios podem coexistir e serem aplicados conforme suas respectivas condições.
+
+### Bloquear dispositivo fora da localidade
+
+Para ativar o bloqueio total do dispositivo ao sair de uma localidade específica, habilite a opção **"Bloquear dispositivo fora da localidade"** na política configurada.
+
+Quando o dispositivo estiver fora do raio da localidade definida, o sistema ocultará todos os aplicativos, widgets e atalhos, exceto os seguintes: Telefone, \<NomeProduto> e Play Store.
+
+O dispositivo exibirá uma notificação fixa com a mensagem: **"Acesso aos apps bloqueado pelo administrador"**, informando ao usuário sobre o bloqueio. Mesmo bloqueado, será possível acessar as configurações do dispositivo, desligá-lo ou reiniciá-lo. Os aplicativos permanecerão instalados, mas inacessíveis.
+
+**Desbloqueio Automático: o** dispositivo será desbloqueado automaticamente quando:
+
+* Retornar ao raio da localidade configurada.
+* A configuração **"Bloquear dispositivo fora da localidade"** for desativada na política.
+* Não houver mais localidade configurada para o dispositivo.
+
+Ao desbloquear, todos os aplicativos e funcionalidades serão restaurados conforme as políticas provisionadas.
+
+**Pré-requisitos: p**ara o funcionamento correto dessa funcionalidade, é necessário que os serviços de localização estejam ativados no dispositivo, incluindo:
+
+* **Precisão de Local**
+* **Precisão Alta**
 
 ### Localização
 
@@ -162,6 +185,16 @@ Estando na aba "**Configurações**" da tela "**Edição de Políticas**", cliqu
 | Desativar autenticação facial             | Impede o uso da autenticação facial em telas de proteção seguras.                                                                                    |
 | Desativar autenticação da íris            | Bloqueia o uso da autenticação por íris em telas de proteção seguras.                                                                                |
 | Desativar autenticação biométrica         | Desativa todos os métodos de autenticação biométrica, como impressão digital, facial e íris, em telas de proteção seguras.                           |
+
+### Usuário
+
+Estando na aba "**Configurações**" da tela "**Edição de Políticas**", clique em "**Usuário**" para ver as opções de configuração de Usuário do dispositivo. Clique nos botões de seleção para ativar ou desativar uma configuração. As configurações de usuário são descritas na tabela abaixo.
+
+<figure><img src="../../../../.gitbook/assets/image (344).png" alt=""><figcaption></figcaption></figure>
+
+<table data-header-hidden><thead><tr><th width="258.3185218771254"></th><th></th></tr></thead><tbody><tr><td><strong>Configuração</strong></td><td><strong>Descrição</strong></td></tr><tr><td>Política para métodos de entrada</td><td>Se um pacote estiver definido, somente os métodos de entrada fornecidos pelos pacotes são permitidos. Se não definir um pacote, apenas métodos de entrada do sistema serão permitidos. Permite definir quais aplicativos podem ser usados como métodos de entrada (teclado) no Android. O administrador pode selecionar apenas apps já adicionados à política e incluí-los na lista de métodos permitidos. Ao salvar a política, a configuração é enviada automaticamente aos dispositivos vinculados.</td></tr><tr><td>Restringir serviços de acessibilidade</td><td>Permite restringir o uso de serviços de acessibilidade no Android. Ao ativar a opção, só serão permitidos os serviços do sistema e os definidos pelo administrador. Se desativada, qualquer serviço poderá ser usado.</td></tr><tr><td>Mensagens de ajuda ao modificar configurações</td><td></td></tr><tr><td>Aplicativos Padrões</td><td>Permite definir quais apps devem ser usados como padrão no Android. O administrador pode escolher um app da lista da política ou informar o pacote, e configurar ações e categorias padrão (como abrir links ou visualizar arquivos). É possível adicionar múltiplas ações e categorias, sem obrigatoriedade de preenchimento. O botão “Salvar” é ativado com qualquer alteração e, ao salvar a política, as configurações são enviadas aos dispositivos.</td></tr></tbody></table>
+
+
 
 ### VPN
 
