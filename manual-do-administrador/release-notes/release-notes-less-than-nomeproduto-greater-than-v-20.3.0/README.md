@@ -8,6 +8,7 @@
 1. [Configuração de Aplicativos Padrões no Portal](Configuração-De-Aplicativos-Padrões-No-Portal.md)
 
 2. [Cadastro de Grupos por IMEI em Lote](Cadastro-De-Grupos-Por-Imei-Em-Lote.md)
+3. [Filtro de Datas nas Localizações do Dashboard](Filtro-De-Datas-Nas-Localizações-Do-Dashboard.md)
 ### **Melhorias**
 
 1. [Configuração de Métodos de Entrada no Portal](Configuração-De-Métodos-De-Entrada-No-Portal.md)
