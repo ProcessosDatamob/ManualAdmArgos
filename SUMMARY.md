@@ -90,6 +90,7 @@
 * [RELEASE NOTES](manual-do-administrador/release-notes/README.md)
   * [Release Notes \<NomeProduto> V 20.3.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.3.0/README.md)
     * [Configuração De Aplicativos Padrões No Portal](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.3.0/Configuração-De-Aplicativos-Padrões-No-Portal.md)
+    * [Configuração De Métodos De Entrada No Portal](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.3.0/Configuração-De-Métodos-De-Entrada-No-Portal.md)
   * [Release Notes \<NomeProduto> V 20.0.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/README.md)
     * [Bloqueio de Aplicativos com Base na Velocidade do Dispositivo](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/bloqueio-de-aplicativos-com-base-na-velocidade-do-dispositivo.md)
     * [Gerenciamento de Múltiplas Empresas com o Mesmo Administrador](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.0.0/gerenciamento-de-multiplas-empresas-com-o-mesmo-administrador.md)
