@@ -56,7 +56,11 @@ Para saber mais sobre como incluir aplicativos de forma manual na política , le
 
 Estando o modo quiosque ativado, as seguintes opções de configuração estarão disponíveis:&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
+
+#### **Customizações**
+
+**Desativar Customizações do Modo Quiosque** - permite ao administrador desativar as customizações visuais e funcionais do modo quiosque em dispositivos Android. Essa opção ajuda a evitar falhas na ativação do quiosque em dispositivos com limitações. Ao ativar o modo quiosque, será exibido um botão chamado **“Customizações”**, ativado por padrão. Se o administrador optar por desativá-lo, o sistema ocultará e deixará de aplicar as configurações no dispositivo.
 
 * **Botões de navegação**: permite definir os botões de navegação do dispositivo como "Ativo", "Bloqueado" ou "Apenas botão Home";
 * **Botão "Power"**:  permite definir o botão power do dispositivo como "Disponível" ou "Bloqueado";
