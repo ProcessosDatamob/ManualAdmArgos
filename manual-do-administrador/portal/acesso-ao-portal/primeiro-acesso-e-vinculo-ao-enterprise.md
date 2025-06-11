@@ -10,7 +10,7 @@ Para acessar o Portal de Administração, siga os passos descritos nesta seção
 1. Acesse o Link para criação da senha que será enviado no e-mail de Boas Vindas para visualizar a tela de acesso do Portal. De preferência utilize um navegador Google Chrome, com a versão mais atualizada.
 2. Ao clicar no link do e-mail o você será direcionado para a tela abaixo, onde deve cadastrar uma senha:
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="318"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="318"><figcaption></figcaption></figure>
 
 3. **Digite a nova senha** no campo indicado.
 
@@ -24,15 +24,15 @@ Conforme você digita, a tela exibirá as regras que a senha deve seguir:
 
 Cada regra será mostrada em **verde** assim que for cumprida.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="257"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="257"><figcaption></figcaption></figure>
 
 4. Clique em “**Continuar**” para confirmar as informações e acessar o Portal.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 5. Após clicar em **Continuar**, você será direcionado para a tela abaixo, onde deve informar o e-mail e a senha configurada no passo anterior:
 
-<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="477"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="" width="477"><figcaption></figcaption></figure>
 
 
 

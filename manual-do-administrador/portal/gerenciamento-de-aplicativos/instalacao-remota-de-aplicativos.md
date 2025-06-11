@@ -16,7 +16,7 @@ layout:
 
 Esta funcionalidade permite a instalação de aplicativos remotamente sem que esses aplicativos estejam disponíveis na Play Store. Isso elimina a necessidade de publicação na Play Store, simplificando o processo de distribuição de aplicativos específicos para os dispositivos gerenciados pela empresa. Com essa funcionalidade, os administradores podem instalar diretamente os aplicativos necessários, garantindo uma distribuição mais rápida e eficiente de soluções empresariais personalizadas.&#x20;
 
-É importante que a configuração Política de aplicativos não confiáveis (veja mais informações na Sessão [Segurança](../configuracoes/editar-politica/configuracoes-gerais/seguranca.md)) esteja selecionada para Permitir Instalações de Aplicativos Não Confiáveis, pois caso contrário, o aplicativo não poderá ser instalado.
+É importante que a configuração Política de aplicativos não confiáveis (veja mais informações na Sessão [Segurança](../configuracoes/gerenciar-politicas/editar-politica/editar-politica-android/configuracoes-gerais/seguranca.md)) esteja selecionada para Permitir Instalações de Aplicativos Não Confiáveis, pois caso contrário, o aplicativo não poderá ser instalado.
 
 Para que isso seja possível, o aplicativo deve estar em um servidor com acesso público a uma URL e em um ambiente HTTPS. Se o arquivo não estiver nessas condições, o download do aplicativo não será realizado.
 

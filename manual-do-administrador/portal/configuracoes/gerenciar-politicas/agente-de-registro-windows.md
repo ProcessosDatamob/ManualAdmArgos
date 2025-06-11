@@ -6,8 +6,7 @@ O recurso agente de recurso Windows permite que administradores façam o downloa
 
 <figure><img src="../../../../.gitbook/assets/image (325).png" alt=""><figcaption></figcaption></figure>
 
-A seguinte tela será exibida:\
-
+A seguinte tela será exibida:
 
 <figure><img src="../../../../.gitbook/assets/image (326).png" alt=""><figcaption></figcaption></figure>
 

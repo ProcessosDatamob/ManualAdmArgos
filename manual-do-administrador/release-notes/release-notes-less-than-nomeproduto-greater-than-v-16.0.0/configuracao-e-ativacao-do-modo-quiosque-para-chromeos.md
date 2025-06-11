@@ -8,7 +8,7 @@ Agora, o portal permite configurar e gerenciar o Modo Quiosque para dispositivos
 
 Essa funcionalidade é essencial para gerenciar dispositivos ChromeOS de forma eficiente e personalizada.
 
-Mais informações na seção [Modo Quiosque](../../portal/configuracoes/editar-politica/modo-quiosque.md), [Informações da Empresa](../../portal/empresas/informacoes-da-empresa.md) e [Cadastrar Nova Política](../../portal/configuracoes/cadastrar-nova-politica.md).
+Mais informações na seção [Modo Quiosque](../../portal/configuracoes/gerenciar-politicas/editar-politica/editar-politica-android/modo-quiosque.md), [Informações da Empresa](../../portal/empresas/informacoes-da-empresa.md) e [Cadastrar Nova Política](../../portal/configuracoes/cadastrar-nova-politica.md).
 
 <figure><img src="../../../.gitbook/assets/image (323).png" alt=""><figcaption></figcaption></figure>
 

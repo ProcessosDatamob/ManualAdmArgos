@@ -1,0 +1,2 @@
+# Editar Política Android
+

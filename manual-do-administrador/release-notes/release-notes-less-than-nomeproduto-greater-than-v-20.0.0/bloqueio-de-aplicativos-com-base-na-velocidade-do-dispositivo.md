@@ -11,4 +11,4 @@ Com essa funcionalidade, o administrador pode:
 
 Quando o dispositivo ultrapassar a velocidade definida, os aplicativos selecionados serão ocultados automaticamente. Assim que a velocidade estiver abaixo do limite por tempo contínuo, os apps são liberados novamente. A funcionalidade exige que a localização esteja ativada na política e é recomendável utilizar com o dispositivo conectado à energia.
 
-Mais informações na seção [Bloqueios](../../portal/configuracoes/editar-politica/configuracoes-gerais/bloqueio-total.md).
+Mais informações na seção [Bloqueios](../../portal/configuracoes/gerenciar-politicas/editar-politica/editar-politica-android/configuracoes-gerais/bloqueio-total.md).

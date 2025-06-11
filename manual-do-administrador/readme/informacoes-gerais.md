@@ -25,7 +25,7 @@ O **\<NomeProduto>** é uma solução de Gerenciamento de Mobilidade Corporativa
 {% hint style="warning" %}
 **IMPORTANTE**
 
-* Os aplicativos Security Browser e Mob Settings estão disponíveis na Play Store e devem ser incluídos na política de registro dos dispositivos. O passo a passo para inclusão dos apps na Lista de [Aplicativos Gerenciados](../portal/gerenciamento-de-aplicativos/aplicativos-gerenciados.md) esta nas respectivas sessões [Security Browser ](../portal/configuracoes/editar-politica/aplicativos/bloqueio-de-sites-security-browser.md)e [Mob Settings](../portal/configuracoes/editar-politica/aplicativos/mob-settings.md).
+* Os aplicativos Security Browser e Mob Settings estão disponíveis na Play Store e devem ser incluídos na política de registro dos dispositivos. O passo a passo para inclusão dos apps na Lista de [Aplicativos Gerenciados](../portal/gerenciamento-de-aplicativos/aplicativos-gerenciados.md) esta nas respectivas sessões [Security Browser ](../portal/configuracoes/gerenciar-politicas/editar-politica/editar-politica-android/aplicativos/bloqueio-de-sites-security-browser.md)e [Mob Settings](../portal/configuracoes/gerenciar-politicas/editar-politica/editar-politica-android/aplicativos/mob-settings.md).
 * Para utilizar o bloqueio do chip, ao criar uma nova política deverá ser selecionado o modo de gerenciamento **"Android - Block SIM",** deste modo o sistema adiciona automaticamente a aplicação **Block SIM**, restringindo as alterações da senha do dispositivo e garantindo a ligação do chip ao dispositivo. No momento do registro do dispositivo, o usuário deverá seguir as etapas da instalação e conceder as licenças solicitadas. Para mais detalhes sobre o processo de bloqueio do chip use o **"Manual de Instalação - Block sim"**.
 {% endhint %}
 
@@ -44,8 +44,6 @@ Todos os dados do Portal permanecem armazenados durante 6 meses, após esse per�
 Caso ocorra alguma indisponibilidade nos servidores, o aplicativo manterá as informações até que a comunicação com os servidores seja restabelecida.
 
 Todos os dados enviados pelo portal e recebidos pelo dispositivo permanecem armazenados, garantindo que as políticas permaneçam ativas, mesmo quando não possuir acesso à Internet e independente da disponibilidade dos servidores. A conexão será necessária apenas para receber novas políticas ou mensagens e para enviar os dados para o Portal.
-
-
 
 ### Compatibilidade de dispositivos
 

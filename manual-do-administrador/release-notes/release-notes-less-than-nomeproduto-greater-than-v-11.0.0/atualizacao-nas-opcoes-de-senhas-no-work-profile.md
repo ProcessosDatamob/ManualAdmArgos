@@ -16,7 +16,7 @@ layout:
 
 Foi realizada uma atualização nas opções de senha em uma política work profile para evitar que a restrição de senha do perfil de trabalho conflitem com a senha do dispositivo.
 
-Mais informações na seção [Configurações Gerais - Android - Work Profile](../../portal/configuracoes/editar-politica/configuracoes-gerais-android-work-profile.md).
+Mais informações na seção [Configurações Gerais - Android - Work Profile](../../portal/configuracoes/gerenciar-politicas/editar-politica/editar-politica-android-work-profile/configuracoes-gerais-android-work-profile/).
 
 <figure><img src="../../../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
 

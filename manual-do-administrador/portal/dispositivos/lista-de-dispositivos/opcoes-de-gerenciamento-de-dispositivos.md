@@ -66,11 +66,11 @@ O dispositivo deve estar registrado em uma política com Block SIM ativo e o apl
 1. Na Lista de Dispositivos, clique nos três pontinhos "...".
 2. Clique na opção “Gerar Nova Senha do Bloqueio de Tela".&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="153"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="153"><figcaption></figcaption></figure>
 
 3. Preencha e confirme a nova senha do Bloqueio de Tela, utilizando letras, números e símbolos.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt="" width="489"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="489"><figcaption></figcaption></figure>
 
 4. Confirme a alteração da senha, e ao confirmar, o comando será enviado via push ao \<NomeProduto> para aplicação no dispositivo.
 5. O dispositivo receberá o comando via push.
@@ -198,7 +198,7 @@ E serão exibidas as opções “Remover" e "Cancelar"
 
 Dessa forma, essa funcionalidade ajuda a evitar problemas de bloqueio de CHIP que possam surgir ao remover dispositivos da gestão.
 
-<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="205"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="205"><figcaption></figcaption></figure>
 
 ## **Controle Remoto**
 

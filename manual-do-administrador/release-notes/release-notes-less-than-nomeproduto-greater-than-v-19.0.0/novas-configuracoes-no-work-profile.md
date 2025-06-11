@@ -46,4 +46,4 @@ Agora as políticas "Android - Work Profile" incluem uma opção para controlar 
 
 Essa configuração mantém o funcionamento atual e aplica as alterações automaticamente aos dispositivos ao salvar a política, garantindo maior controle sobre a privacidade no uso do perfil de trabalho.
 
-Mais informações na seção [Configurações Gerais - Android - Work Profile](../../portal/configuracoes/editar-politica/configuracoes-gerais-android-work-profile.md).
+Mais informações na seção [Configurações Gerais - Android - Work Profile](../../portal/configuracoes/gerenciar-politicas/editar-politica/editar-politica-android-work-profile/configuracoes-gerais-android-work-profile/).

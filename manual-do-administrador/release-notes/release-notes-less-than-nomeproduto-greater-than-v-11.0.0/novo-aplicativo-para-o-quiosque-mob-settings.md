@@ -4,6 +4,6 @@ Estamos lançando uma nova aplicação desenvolvida para o Modo Quiosque, o Mob 
 
 O aplicativo MobSettings, já está disponível na Play Store.
 
-Mais informações na seção [Mob Settings](../../portal/configuracoes/editar-politica/aplicativos/mob-settings.md).
+Mais informações na seção [Mob Settings](../../portal/configuracoes/gerenciar-politicas/editar-politica/editar-politica-android/aplicativos/mob-settings.md).
 
 [**Voltar ao menu inicial**](./)

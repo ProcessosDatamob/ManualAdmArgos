@@ -42,7 +42,7 @@ Para cadastrar uma nova política siga os seguintes passos:
 
 3. Clique em "**Cadastrar**".
 
-Após o cadastro da política será aberta a tela "**Editar Política**" para que os detalhes da política sejam configurados. A seção [Editar Política](editar-politica/) mostra os detalhes da configuração de políticas de acordo com o modo de gerenciamento.
+Após o cadastro da política será aberta a tela "**Editar Política**" para que os detalhes da política sejam configurados. A seção [Editar Política](gerenciar-politicas/editar-politica/) mostra os detalhes da configuração de políticas de acordo com o modo de gerenciamento.
 
 {% hint style="info" %}
 Quando uma política já estiver vinculada a um grupo, o campo “Grupo” aparecerá desabilitado na tela de edição. Nesse caso, não será possível alterar o vínculo do grupo com a política.
@@ -52,7 +52,7 @@ Quando uma política já estiver vinculada a um grupo, o campo “Grupo” apare
 
 Ao clicar em copiar uma política, é possível vincular à política qualquer grupo existente na Empresa, e a seleção do grupo é opcional.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Observação**

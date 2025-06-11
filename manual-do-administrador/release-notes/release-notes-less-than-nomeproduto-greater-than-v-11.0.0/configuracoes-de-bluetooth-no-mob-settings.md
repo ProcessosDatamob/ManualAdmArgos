@@ -23,9 +23,9 @@ Na tela de configuração, o usuário poderá:
 * Exibir uma lista de todos os dispositivos Bluetooth disponíveis para conectar, com a lista sendo atualizada a cada 10 segundos enquanto a tela estiver acessada.
 * Emparelhar o dispositivo com um dispositivo Bluetooth disponível.
 
-Mais informações na seção [Mob Settings](../../portal/configuracoes/editar-politica/aplicativos/mob-settings.md).
+Mais informações na seção [Mob Settings](../../portal/configuracoes/gerenciar-politicas/editar-politica/editar-politica-android/aplicativos/mob-settings.md).
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
 
