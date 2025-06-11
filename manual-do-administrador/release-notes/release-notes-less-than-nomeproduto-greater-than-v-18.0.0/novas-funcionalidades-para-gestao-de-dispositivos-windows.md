@@ -4,7 +4,7 @@
 
 Agora é possível criar políticas específicas para dispositivos Windows no portal. Uma nova aba "Windows" foi adicionada na tela de criação de políticas, permitindo configurar controles e regras de gerenciamento remoto. As políticas são exibidas na lista de gerenciamento com um ícone do Windows e podem ser filtradas pelo modo de gerenciamento.&#x20;
 
-Mais informações na seção [Cadastrar Nova Política](../../portal/configuracoes/cadastrar-nova-politica.md).
+Mais informações na seção [Cadastrar Nova Política](../../portal/configuracoes/gerenciar-politicas/cadastrar-nova-politica.md).
 
 **2. Configuração Intel® AMT para Windows**
 

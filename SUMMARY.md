@@ -28,6 +28,7 @@
     * [Instalação Remota de Aplicativos](manual-do-administrador/portal/gerenciamento-de-aplicativos/instalacao-remota-de-aplicativos.md)
   * [Configurações](manual-do-administrador/portal/configuracoes/README.md)
     * [Gerenciar Políticas](manual-do-administrador/portal/configuracoes/gerenciar-politicas/README.md)
+      * [Nova Política](manual-do-administrador/portal/configuracoes/gerenciar-politicas/cadastrar-nova-politica.md)
       * [Editar política](manual-do-administrador/portal/configuracoes/editar-politica/README.md)
         * [Editar Política Android](manual-do-administrador/portal/configuracoes/gerenciar-politicas/editar-politica/editar-politica-android/README.md)
           * [Configurações - Android](manual-do-administrador/portal/configuracoes/editar-politica/configuracoes-gerais/README.md)
