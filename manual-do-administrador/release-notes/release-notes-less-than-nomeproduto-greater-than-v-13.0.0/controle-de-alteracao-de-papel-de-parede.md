@@ -4,6 +4,6 @@ Realizamos ajustes na configuração 'Tela', especificamente na opção 'Desabil
 
 Essa versão busca maior fluidez e clareza.
 
-Mais informações na seção [Tela](../../portal/configuracoes/gerenciar-politicas/editar-politica/editar-politica-android/configuracoes-gerais/tela.md).
+Mais informações na seção [Tela](../../portal/configuracoes/editar-politica/configuracoes-gerais/tela.md).
 
 [**Voltar ao menu inicial**](./)

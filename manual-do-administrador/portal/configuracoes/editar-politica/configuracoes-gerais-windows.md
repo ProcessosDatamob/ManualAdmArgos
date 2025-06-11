@@ -12,7 +12,7 @@ Essa funcionalidade permite configurar opções de consentimento do usuário ao 
 * Arquivos:
   * Solicitar consentimento do usuário ao acessar os arquivos.
 
-<figure><img src="../../../../../../.gitbook/assets/image (332).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (332).png" alt=""><figcaption></figcaption></figure>
 
 Essas configurações são desativadas por padrão e podem ser ajustadas diretamente no portal, dentro da aba "Configurações" da política. Ao salvar as alterações, as configurações são aplicadas automaticamente aos dispositivos vinculados.
 
@@ -31,6 +31,6 @@ O sistema oferece diferentes opções de configuração para o Intel AMT, ajusta
 * **Modo de Controle de Cliente Simples (CCM):** Ative o gerenciamento remoto básico, ideal para cenários com permissões limitadas.
 * **Modo de Controle de Administrador Simples (ACM):** Habilite o gerenciamento remoto avançado, oferecendo maior acesso e controle para situações mais complexas.
 
-<figure><img src="../../../../../../.gitbook/assets/image (333).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (333).png" alt=""><figcaption></figcaption></figure>
 
 As configurações Intel AMT são aplicadas automaticamente aos dispositivos vinculados ao salvar a política, garantindo que as alterações realizadas sejam refletidas em tempo real, promovendo maior conformidade e eficiência no gerenciamento dos dispositivos.

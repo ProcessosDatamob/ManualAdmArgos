@@ -18,7 +18,7 @@ O Mob Settings agora permite que os administradores controlem as configurações
 
 Após instalar o Mob Settings e ativar a configuração gerenciada de Wi-Fi, ao abrir o aplicativo, o sistema exibirá o botão de acesso às configurações de Wi-Fi. Ao clicar no botão, será exibida a tela atual de configuração de Wi-Fi do Mob Settings, onde o aplicativo solicitará as permissões necessárias para utilizar a configuração.
 
-Mais informações na seção [Mob Settings](../../portal/configuracoes/gerenciar-politicas/editar-politica/editar-politica-android/aplicativos/mob-settings.md).
+Mais informações na seção [Mob Settings](../../portal/configuracoes/editar-politica/aplicativos/mob-settings.md).
 
 <figure><img src="../../../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure>
 

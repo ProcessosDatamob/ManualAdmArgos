@@ -10,7 +10,7 @@ Mais informações na seção [Cadastrar Nova Política](../../portal/configurac
 
 Adicionada a funcionalidade de configuração do Intel AMT nas políticas Windows. Os administradores podem ativar modos como Nenhuma, Desativar, Controle de Cliente Simples (CCM) e Controle de Administrador Simples (ACM), ajustando o gerenciamento remoto com base nas necessidades específicas.&#x20;
 
-Mais informações na seção [Configurações Gerais - Windows](../../portal/configuracoes/gerenciar-politicas/editar-politica/editar-politica-windows/configuracoes-gerais-windows.md).
+Mais informações na seção [Configurações Gerais - Windows](../../portal/configuracoes/editar-politica/configuracoes-gerais-windows.md).
 
 **3. Download do Agente Windows**
 

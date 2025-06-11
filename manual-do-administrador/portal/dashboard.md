@@ -157,7 +157,7 @@ Este gráfico exibe nome e valor da porcentagem dos 5 aplicativos que mais consu
 
 O valor percentual de cada um dos 5 aplicativos é calculado em relação à soma total de consumo de todos os aplicativos durante o ciclo, os dados são atualizados sempre que acessar a tela.
 
-Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as informações de todos os aplicativos. Para saber como utilizar essa tela, leia a seção [Aplicativos](configuracoes/gerenciar-politicas/editar-politica/editar-politica-android/aplicativos/) deste manual.
+Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as informações de todos os aplicativos. Para saber como utilizar essa tela, leia a seção [Aplicativos](configuracoes/editar-politica/aplicativos/) deste manual.
 
 Isso oferece aos usuários uma visão mais detalhada e específica do consumo de dados, permitindo uma análise mais precisa e segmentada, tanto em redes móveis quanto em WiFi.
 
