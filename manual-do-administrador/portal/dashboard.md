@@ -197,15 +197,15 @@ Este indicador mostra a percentagem dos 5 locais mais visitados nos dispositivos
 Os sites visitados são obtidos pelo navegador web padrão do sistema **\<NomeProduto>**. Este navegador é chamado Security Browser e precisa estar instalado e configurado nos dispositivos. Para mais informações sobre administração e configuração do navegador, visite a seção "Security Browser".
 {% endhint %}
 
-### **Indicador de Consumo e Histórico**
+### Consumos nos ciclos
 
-Este indicador exibe em percentuais os dados móveis e SMS consumidos nos últimos 6 ciclos.
+Esse gráfico exibe em percentuais a informação de Consumos nos ciclos, ou seja, o total de dados móveis e SMS enviados pelos dispositivos filtrados **nos últimos seis ciclos**. Os ciclos são representados pelos meses no eixo horizontal, e cada linha ou cor (verde para dados e lilás para SMS) indica o nível de consumo registrado em cada mês.
 
 Para realizar a análise individual dos consumos de dados móveis ou SMS, acesse o item **"Consumos"** no menu "**Empresas**".
 
-### **Indicador de Novos Usuários de Dispositivos e Histórico**
+### Total de usuários nos ciclos
 
-Este indicador exibe a quantidade de usuários de dispositivos ativados nos últimos 6 ciclos e a evolução dos novos usuários do ciclo atual em relação aos do trimestre e do semestre.
+Este indicador exibe a quantidade de usuários de dispositivos ativados nos últimos 6 ciclos e mostra a evolução dos novos usuários do ciclo atual em relação aos registrados no trimestre e no semestre. O gráfico apresenta o total de usuários e o total de novos usuários cadastrados em cada mês (ciclo).
 
 Para realizar a análise individual dos usuários de dispositivos, clique em "**Lista de Dispositivos**" no menu "[**Dispositivos**](dashboard.md#dispositivos)".
 
