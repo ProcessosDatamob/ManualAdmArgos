@@ -98,6 +98,7 @@
     * [Perguntas Frequentes](manual-do-administrador/portal/ajuda/perguntas-frequentes.md)
     * [Documentos e Materiais de Apoio](manual-do-administrador/portal/ajuda/documentos-e-materiais-de-apoio.md)
 * [RELEASE NOTES](manual-do-administrador/release-notes/README.md)
+  * [Hotfix V20.3.0](manual-do-administrador/release-notes/hotfix-v20.3.0.md)
   * [Release Notes \<NomeProduto> V 20.3.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.3.0/README.md)
     * [Desativação De Customização Do Quiosque](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.3.0/Desativação-De-Customização-Do-Quiosque.md)
     * [Cadastro De Grupos Por IMEI Em Lote](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.3.0/Cadastro-De-Grupos-Por-Imei-Em-Lote.md)
