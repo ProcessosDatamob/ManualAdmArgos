@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Instalação Remota de Aplicativos
 
 Esta funcionalidade permite a instalação de aplicativos remotamente sem que esses aplicativos estejam disponíveis na Play Store. Isso elimina a necessidade de publicação na Play Store, simplificando o processo de distribuição de aplicativos específicos para os dispositivos gerenciados pela empresa. Com essa funcionalidade, os administradores podem instalar diretamente os aplicativos necessários, garantindo uma distribuição mais rápida e eficiente de soluções empresariais personalizadas.&#x20;
@@ -46,8 +32,22 @@ Para instalar um aplicativo remotamente siga os passos a seguir:
 1. Selecione a política ou os usuários de dispositivos vinculados a políticas dos seguintes modos de gerenciamento: Android, Android - Block SIM e Android - Work Profile.  Para enviar para 1 usuário ou mais, selecione os usuários que deseja, ao selecionar a política,  será realizado o envio para todos os usuários vinculados a política, ou ainda se desejar enviar para usuários específicos e para uma política, pode selecionar ambos os campos.
 2. Preencha os campos obrigatórios:
    * Nome: este campo deve conter o nome do aplicativo ou serviço
-   * Nome do pacote: deve incluir o identificador único do pacote do aplicativo, geralmente, é um nome de pacote específico que identifica o aplicativo na loja de aplicativos
-   * URL para download: é o campo onde deve-se inserir o endereço web (link, HTTPS) que aponta diretamente para o arquivo de instalação do aplicativo
+   *   Nome do pacote: deve incluir o identificador único do pacote do aplicativo. Esse nome é utilizado pelo sistema Android para reconhecer o app e deve estar exatamente igual ao nome interno declarado no APK (ex: `com.empresa.nomeapp`).
+
+       > **Importante:** esse nome não é o mesmo que o título do aplicativo exibido no dispositivo.\
+       > Se o aplicativo não está publicado na Play Store, a forma recomendada de obter o nome do pacote é solicitando diretamente ao desenvolvedor responsável pelo APK.\
+       > Inserir um nome de pacote incorreto pode impedir a instalação, fazer com que o app seja removido automaticamente ou causar falhas na gestão via sistema.
+
+
+   *   URL para download: é o campo onde deve-se inserir o endereço web (link HTTPS) que aponta diretamente para o arquivo de instalação do aplicativo (ex: `.apk`).
+
+       > Não são aceitos links de compartilhamento, como Google Drive, OneDrive ou Dropbox. \
+       > O campo "URL para download" deve conter um link direto (HTTPS) que aponte exatamente para o arquivo de instalação do aplicativo, permitindo que ele seja baixado automaticamente, sem necessidade de interação do usuário.
+       >
+       > > Exemplo válido: `https://exemplo.com/app/nome-do-app.apk`\
+       > > Exemplos inválidos: links como `https://drive.google.com/...` ou `https://dropbox.com/s/...`
+
+
 3. Clique em "Enviar".&#x20;
 4. O Aplicativo de Gestão fara download do app recebido.
 5. E solicitará a confirmação do usuário para realizar instalação do app baixado.
