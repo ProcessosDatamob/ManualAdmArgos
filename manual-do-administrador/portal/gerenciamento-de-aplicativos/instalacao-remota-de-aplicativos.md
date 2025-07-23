@@ -35,8 +35,7 @@ Para instalar um aplicativo remotamente siga os passos a seguir:
    *   Nome do pacote: deve incluir o identificador único do pacote do aplicativo. Esse nome é utilizado pelo sistema Android para reconhecer o app e deve estar exatamente igual ao nome interno declarado no APK (ex: `com.empresa.nomeapp`).
 
        > **Importante:** esse nome não é o mesmo que o título do aplicativo exibido no dispositivo.\
-       > Se o aplicativo não está publicado na Play Store, a forma recomendada de obter o nome do pacote é solicitando diretamente ao desenvolvedor responsável pelo APK.\
-       > Inserir um nome de pacote incorreto pode impedir a instalação, fazer com que o app seja removido automaticamente ou causar falhas na gestão via sistema.
+       > Para obter o nome do pacote solicite diretamente ao desenvolvedor responsável pelo APK. Inserir um nome de pacote incorreto pode impedir a instalação, fazer com que o aplicativo seja removido automaticamente ou causar falhas na gestão via sistema.
 
 
    *   URL para download: é o campo onde deve-se inserir o endereço web (link HTTPS) que aponta diretamente para o arquivo de instalação do aplicativo (ex: `.apk`).
