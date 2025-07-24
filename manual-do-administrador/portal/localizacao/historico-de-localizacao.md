@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Histórico de Localização
 
 Esta tela do sistema tem como objetivo possibilitar ao usuário visualizar e gerar um relatório com o histórico de localizações dos dispositivos da empresa.

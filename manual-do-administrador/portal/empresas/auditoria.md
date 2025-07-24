@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Auditoria
 
 Esta tela do sistema tem como objetivo permitir a visualização e gerar relatórios de algumas ações realizadas no portal.&#x20;

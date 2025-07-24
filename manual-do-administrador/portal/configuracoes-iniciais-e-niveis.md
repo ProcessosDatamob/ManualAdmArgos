@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Configurações iniciais e níveis
 
 Ao acessar o **\<NomeProduto>**, o usuário terá acesso às configurações e funcionalidades.

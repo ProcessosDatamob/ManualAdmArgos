@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Nova Função de Bloqueio no Security Browser
 
 Agora os administradores de um ambiente podem redirecionar o usuário para uma página na internet sempre que o mesmo tentar acessar uma página que está restrita, um exemplo seria uma página com política de termos da empresa. Proporcionando uma experiência mais controlada e informativa aos usuários.

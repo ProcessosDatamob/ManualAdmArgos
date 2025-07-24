@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Mob Settings
 
 O Mob Settings é um aplicativo projetado para facilitar a administração de configurações essenciais de dispositivos móveis sem a necessidade de acessar diretamente o menu de configurações do dispositivo. Ele permite que os administradores gerenciem configurações de Bluetooth, Tela e Wi-Fi de maneira centralizada e eficiente. A seguir, detalharemos como cada uma dessas funcionalidades pode ser configurada e utilizada dentro do Mob Settings.

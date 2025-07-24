@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Tela
 
 Selecionando a guia de "**Configurações**" da tela de "**Edição de Políticas**", clique sobre a opção "**Tela**" para visualizar as opções de configuração de papel de parede e rotação de tela. Na tabela a seguir, as configurações são descritas:

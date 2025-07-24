@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Gerenciar Políticas
 
 Ao acessar a opção "**Gerenciar Políticas**" abrirá a tela apresentada na sequência.

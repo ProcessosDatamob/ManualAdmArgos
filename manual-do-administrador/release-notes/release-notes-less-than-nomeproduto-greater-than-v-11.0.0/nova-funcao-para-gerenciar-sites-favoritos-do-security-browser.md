@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Nova Função para Gerenciar Sites Favoritos do Security Browser
 
 Foi implementada a funcionalidade de gestão de sites favoritos no Security Browser, permitindo que administradores configurem e disponibilizem sites favoritos para os usuários.

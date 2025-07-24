@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Configurações de Tela no Mob Settings
 
 O Mob Settings agora permite que os administradores configurem a tela dos dispositivos sem precisar acessar todas as configurações do dispositivo. Após instalar o Mob Settings e ativar a configuração gerenciada de tela, ao abrir o aplicativo, o sistema exibirá o botão de acesso às configurações de tela. Ao clicar no botão, será exibida a tela de configuração de tela, onde o aplicativo solicitará as permissões necessárias para utilizar a configuração.

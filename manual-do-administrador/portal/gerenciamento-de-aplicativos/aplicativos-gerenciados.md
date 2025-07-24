@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Aplicativos Gerenciados
 
 Esta tela do sistema tem como objetivo, possibilitar ao usuário visualizar e gerar um relatório de todos os aplicativos incluídos para gerenciamento.

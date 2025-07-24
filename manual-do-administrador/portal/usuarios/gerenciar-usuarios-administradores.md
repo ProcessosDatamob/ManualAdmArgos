@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Gerenciar Usuários Administradores
 
 A tela de gerenciamento de **Usuários Administradores** permite que você visualize, edite ou crie usuários com perfil de **Administrador de Empresa** ou **Administrador de Grupo** no sistema.

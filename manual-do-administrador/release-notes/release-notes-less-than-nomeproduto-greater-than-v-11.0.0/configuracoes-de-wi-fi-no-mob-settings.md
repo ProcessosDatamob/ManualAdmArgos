@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Configurações de Wi-Fi no Mob Settings
 
 O Mob Settings agora permite que os administradores controlem as configurações de Wi-Fi dos dispositivos de maneira centralizada, facilitando o acesso e o gerenciamento das conexões sem fio.&#x20;

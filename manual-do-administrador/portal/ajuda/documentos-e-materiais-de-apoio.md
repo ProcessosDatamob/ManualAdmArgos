@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Documentos e Materiais de Apoio
 
 Nesta tela é possível acessar os documentos e materiais de apoio para utilizar o **\<NomeProduto>**.

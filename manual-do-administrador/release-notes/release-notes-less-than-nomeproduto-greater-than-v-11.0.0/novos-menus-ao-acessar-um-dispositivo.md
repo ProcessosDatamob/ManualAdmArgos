@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Novos menus ao acessar um dispositivo
 
 Com o propósito de unificar as informações dos dispositivos, transferimos algumas abas que antes estavam presentes ao clicar em “Mais Informações” em um dispositivo para dentro do menu do aparelho.\

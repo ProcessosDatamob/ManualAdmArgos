@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Informações gerais
 
 O **\<NomeProduto>** é uma solução de Gerenciamento de Mobilidade Corporativa composta por:

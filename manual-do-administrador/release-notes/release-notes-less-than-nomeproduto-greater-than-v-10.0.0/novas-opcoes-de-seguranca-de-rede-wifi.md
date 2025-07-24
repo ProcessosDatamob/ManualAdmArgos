@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Novas Opções de Segurança de Rede WiFi
 
 Adicionamos dois novos tipos de segurança de rede, focados em redes corporativas:

@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Customização de colunas para Exibição de Informações dos Dispositivos
 
 Agora no menu dos dispositivos, é possível personalizar quais colunas com informações do usuário e aparelho serão exibidas na tela, e também exportadas ao extrair um relatório.

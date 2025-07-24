@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Usuário
 
 Estando na aba "**Configurações**" da tela "**Edição de Políticas**", clique em "**Usuário**" para ver as opções de configuração de Usuário do dispositivo. Clique nos botões de seleção para ativar ou desativar uma configuração. As configurações de usuário são descritas na tabela abaixo.

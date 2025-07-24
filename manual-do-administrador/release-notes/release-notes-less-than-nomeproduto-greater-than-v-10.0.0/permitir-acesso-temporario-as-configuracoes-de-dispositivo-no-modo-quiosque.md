@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Permitir Acesso Temporário as configurações de Dispositivo no Modo Quiosque
 
 No menu "**Modo Quiosque**", foi adicionada a opção "**Acesso Temporário ao Dispositivo**". Esta funcionalidade permite que os administradores configurem um acesso temporário às configurações do dispositivo, permitindo que os usuários realizem ações importantes sem que as restrições do quiosque sejam aplicadas.

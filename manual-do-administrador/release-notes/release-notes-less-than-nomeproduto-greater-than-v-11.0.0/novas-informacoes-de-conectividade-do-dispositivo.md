@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Novas Informações de Conectividade do Dispositivo
 
 Ao acessar um aparelho pelo portal, o administrador agora terá visão de um novo campo chamado “conectividade”, nele ficarão armazenadas informações de telefonia e conectividade do aparelho, como número de telefone, IMEI, e até mesmo a rede WiFi que o dispositivo está conectado.

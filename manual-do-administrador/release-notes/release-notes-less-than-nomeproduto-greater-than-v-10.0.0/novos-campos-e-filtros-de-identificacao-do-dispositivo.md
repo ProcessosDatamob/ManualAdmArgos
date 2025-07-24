@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Novos Campos e Filtros de Identificação do Dispositivo
 
 No menu **"Lista de Dispositivos"**, na opção **"Gerenciar",** foram adicionadas novas opções que permitem inserir informações detalhadas sobre cada dispositivo. O sistema agora exibe os campos **Departamento** e **Telefone do Usuário** que são de texto livre, ou seja, permite livre digitação ao administrador, proporcionando uma gestão mais completa e organizada dos dispositivos.

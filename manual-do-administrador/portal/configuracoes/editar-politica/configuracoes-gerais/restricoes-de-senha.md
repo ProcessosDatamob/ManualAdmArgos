@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Restrições de Senha
 
 Estando na guia de "**Configurações**" da tela de "**Edição de Políticas**", clique sobre "**Restrições de Senha**" para visualizar as opções de configuração de senha. Na tabela a seguir, as configurações de senha são descritas.

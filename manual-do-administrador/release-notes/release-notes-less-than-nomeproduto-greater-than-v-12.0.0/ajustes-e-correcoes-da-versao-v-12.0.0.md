@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Ajustes e Correções da Versão - V 12.0.0
 
 Nesta versão, foram realizadas correções listadas abaixo:

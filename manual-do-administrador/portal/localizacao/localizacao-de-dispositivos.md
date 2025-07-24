@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Localização de Dispositivos
 
 Essa tela do sistema tem como objetivo visualizar e gerar um relatório com a última localização enviada pelos dispositivos.
