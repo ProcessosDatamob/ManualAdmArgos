@@ -98,7 +98,7 @@
     * [Perguntas Frequentes](manual-do-administrador/portal/ajuda/perguntas-frequentes.md)
     * [Documentos e Materiais de Apoio](manual-do-administrador/portal/ajuda/documentos-e-materiais-de-apoio.md)
 * [RELEASE NOTES](manual-do-administrador/release-notes/README.md)
-  * [Release Notes \<NomeProduto> V 20.3.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.3.0/README.md)
+  * [Release Notes \<NomeProduto> V 20.6.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.3.0/README.md)
     * [Envio de E-mail de Boas-Vindas ao Reativar Empresa no Portal](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.3.0/envio-de-e-mail-de-boas-vindas-ao-reativar-empresa-no-portal.md)
     * [Correção de Falha de Sincronização de Dispositivo com o Portal](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.3.0/correcao-de-falha-de-sincronizacao-de-dispositivo-com-o-portal.md)
   * [Hotfix V20.4.0](manual-do-administrador/release-notes/hotfix-v20.4.0.md)
