@@ -59,7 +59,7 @@ Após a inclusão do aplicativo na política, as configurações de bloqueios po
 
 Ao clicar em Configurações Gerenciadas a seguinte tela será exibida:
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/mnlll.png" alt=""><figcaption></figcaption></figure>
 
 As Configurações Gerenciadas para o Security Browser são:&#x20;
 
