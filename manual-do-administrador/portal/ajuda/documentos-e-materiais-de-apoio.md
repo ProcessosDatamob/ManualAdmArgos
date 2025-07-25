@@ -1,6 +1,6 @@
 # Documentos e Materiais de Apoio
 
-Nesta tela é possível acessar os documentos e materiais de apoio para utilizar o **\<NomeProduto>**.
+Nesta tela é possível acessar os documentos e materiais de apoio para utilizar o **Argos+**.
 
 Para acessar os materiais, basta selecionar o menu Ajuda e o submenu Documentos e Materiais de Apoio.
 

@@ -1,4 +1,4 @@
-# Release Notes \<NomeProduto> V 13.0.0
+# Release Notes Argos+ V 13.0.0
 
 ### Novidades da Versão <a href="#novidades-da-versao" id="novidades-da-versao"></a>
 

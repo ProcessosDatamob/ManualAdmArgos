@@ -15,7 +15,7 @@ Para saber como configurar a empresa siga os passos descritos nesta sessão:
 * **Início do ciclo -** Utilizamos este campo para definir a data de início da contabilização dos dados que serão analisados;
 * **Sincronizar a cada -** Este campo define o tempo de sincronização do portal, ou seja, o tempo para sincronizar com os dados recebidos dos dispositivos;
 * **E-mail de Aviso -** Esta configuração ativa o envio de notificação via e-mail ao administrador, quando o dispositivo atinge 80%, 90% e 100% do perfil de consumo configurado;
-* **Autenticação de dois fatores -** Esta configuração permite ativar a autenticação de dois fatores no Portal de Administração  **\<NomeProduto>**.  Após ativar a configuração, sempre que tentar realizar acesso ao Portal, o usuário precisará informar um código de confirmação que será enviado para o seu e-mail;
+* **Autenticação de dois fatores -** Esta configuração permite ativar a autenticação de dois fatores no Portal de Administração  **Argos+**.  Após ativar a configuração, sempre que tentar realizar acesso ao Portal, o usuário precisará informar um código de confirmação que será enviado para o seu e-mail;
 
 {% hint style="info" %}
 **OBSERVAÇÃO**

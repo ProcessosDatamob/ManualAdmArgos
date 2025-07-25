@@ -45,11 +45,11 @@ A barra de status do Dashboard mostra a situação atual de todos os usuários e
 
 ### **Total de Usuários**
 
-Este indicador exibe o número total de usuários de dispositivos que utilizam o aplicativo **\<NomeProduto>.**
+Este indicador exibe o número total de usuários de dispositivos que utilizam o aplicativo **Argos+.**
 
 #### **Total de Licenças&#x20;**<mark style="color:blue;">**Contratadas**</mark>
 
-Este indicador exibe o número total de licenças disponíveis no **\<NomeProduto>**.
+Este indicador exibe o número total de licenças disponíveis no **Argos+**.
 
 <figure><img src="../../.gitbook/assets/image (286).png" alt=""><figcaption></figcaption></figure>
 
@@ -67,7 +67,7 @@ Este indicador exibe o número total de dispositivos que estão ativos no sistem
 
 <figure><img src="../../.gitbook/assets/image (288).png" alt="" width="240"><figcaption></figcaption></figure>
 
-* **Total -** Esses dispositivos são considerados “**Ativos**” ao instalar e ativar o aplicativo **\<NomeProduto>.**\
+* **Total -** Esses dispositivos são considerados “**Ativos**” ao instalar e ativar o aplicativo **Argos+.**\
   Ao clicar em "**Total**” o indicador exibirá a tela “**Lista de Dispositivos**” contendo o relatório com as principais informações dos dispositivos ativos.
 * **Sem Comunicação -** Este indicador exibe o número total de dispositivos que não estão enviando dados aos servidores a um período prolongado. Ao clicar em "**Sem Comunicação**” o sistema exibe a tela de dispositivos sem comunicação.
 
@@ -180,7 +180,7 @@ Este indicador mostra a percentagem dos 5 locais mais visitados nos dispositivos
 {% hint style="warning" %}
 **ATENÇÃO**&#x20;
 
-Os sites visitados são obtidos pelo navegador web padrão do sistema **\<NomeProduto>**. Este navegador é chamado Security Browser e precisa estar instalado e configurado nos dispositivos. Para mais informações sobre administração e configuração do navegador, visite a seção "Security Browser".
+Os sites visitados são obtidos pelo navegador web padrão do sistema **Argos+**. Este navegador é chamado Security Browser e precisa estar instalado e configurado nos dispositivos. Para mais informações sobre administração e configuração do navegador, visite a seção "Security Browser".
 {% endhint %}
 
 ### Consumos nos ciclos

@@ -1,4 +1,4 @@
-# Release Notes \<NomeProduto> V 12.0.0
+# Release Notes Argos+ V 12.0.0
 
 Nesta versão, foram realizadas correções dos bugs listados na próxima seção:
 

@@ -1,6 +1,6 @@
 # Primeiro Acesso e Vínculo ao Enterprise
 
-Quando o **\<NomeProduto>** é ativado para uma empresa, as seguintes tarefas são executadas pelo sistema, para possibilitar o acesso do usuário administrador da empresa ao Portal:
+Quando o **Argos+** é ativado para uma empresa, as seguintes tarefas são executadas pelo sistema, para possibilitar o acesso do usuário administrador da empresa ao Portal:
 
 * Criação das credenciais do Portal de Administração;
 * Envio de um E-mail de boas-vindas, contendo o usuário e um Link para criação da senha para acessar o Portal de Administração.
@@ -97,13 +97,13 @@ Na tela Google Play use o botão “**Fazer Login**" para logar na conta ou caso
 
 Caso precise criara uma conta Google serão solicitadas mais informações na tela "**Detalhes do Contato**".
 
-Leia as informações de orientação do Google Play Gerenciado e preencha os dados da pessoa da empresa que será o contato oficial de proteção de dados e da pessoa que será o representante da União Europeia. Os dois campos podem ser preenchidos com o mesmo contato da empresa. Estas informações podem ser gerenciadas posteriormente no **\<NomeProduto>** no menu "Empresas", submenu "Informações da Empresa".
+Leia as informações de orientação do Google Play Gerenciado e preencha os dados da pessoa da empresa que será o contato oficial de proteção de dados e da pessoa que será o representante da União Europeia. Os dois campos podem ser preenchidos com o mesmo contato da empresa. Estas informações podem ser gerenciadas posteriormente no **Argos+** no menu "Empresas", submenu "Informações da Empresa".
 
 A tela de "Detalhes do Contato" é apresentada na sequência.
 
 <figure><img src="../../../.gitbook/assets/Tela 8_Português.png" alt=""><figcaption></figcaption></figure>
 
-Após confirmar os dados, será exibida a tela do **\<NomeProduto>** com a mensagem _**"Parabéns! Sua empresa foi registrada no Android Enterprise com sucesso."**_
+Após confirmar os dados, será exibida a tela do **Argos+** com a mensagem _**"Parabéns! Sua empresa foi registrada no Android Enterprise com sucesso."**_
 
 <figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 

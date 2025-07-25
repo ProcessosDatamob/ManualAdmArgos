@@ -1,6 +1,6 @@
 # Comando para sincronizar dados do aparelho imediatamente
 
-Adicionamos um novo comando para iniciar a sincronia dos dados do dispositivo com o portal do \<NomeProduto>. Agora, quando o administrador enviar o comando “start\_services”, o dispositivo irá reiniciar os serviços de comunicação com a ferramenta e iniciar o processo de sincronização dos dados coletados no aparelho.
+Adicionamos um novo comando para iniciar a sincronia dos dados do dispositivo com o portal do Argos+. Agora, quando o administrador enviar o comando “start\_services”, o dispositivo irá reiniciar os serviços de comunicação com a ferramenta e iniciar o processo de sincronização dos dados coletados no aparelho.
 
 Mais informações na seção [Mensagens e Comandos](../../portal/mensagens-e-comandos/).
 

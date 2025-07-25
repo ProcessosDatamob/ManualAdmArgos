@@ -1,6 +1,6 @@
 # Perguntas Frequentes
 
-Esta tela do sistema tem como objetivo possibilitar ao usuário visualizar respostas para as perguntas mais frequentes sobre as funcionalidades da **\<NomeProduto>** Gestão Dispositivo.
+Esta tela do sistema tem como objetivo possibilitar ao usuário visualizar respostas para as perguntas mais frequentes sobre as funcionalidades da **Argos+** Gestão Dispositivo.
 
 Para visualizar as perguntas frequentes, clique no menu “**Ajuda**”, selecione o submenu “**Perguntas Frequentes**” e siga os passos descritos abaixo.
 

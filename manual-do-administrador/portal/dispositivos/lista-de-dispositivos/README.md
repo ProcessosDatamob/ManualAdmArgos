@@ -37,7 +37,7 @@ E ao clicar no nome da política é possível acessar rapidamente a tela de edi�
 
 <figure><img src="../../../../.gitbook/assets/image (260).png" alt="" width="136"><figcaption></figcaption></figure>
 
-As opções de colunas disponíveis são: Usuário, Identificação, Licença, IMEI, Modelo, Número de Série, Política, Modo de Gerenciamento, Versão do aplicativo \<NomeProduto>, ICCID, Fabricante, Data de Registro, Sistema Operacional, Grupo, Departamento, Telefone do Usuário, Status, Data da última comunicação, Localidade, Distância da localidade.
+As opções de colunas disponíveis são: Usuário, Identificação, Licença, IMEI, Modelo, Número de Série, Política, Modo de Gerenciamento, Versão do aplicativo Argos+, ICCID, Fabricante, Data de Registro, Sistema Operacional, Grupo, Departamento, Telefone do Usuário, Status, Data da última comunicação, Localidade, Distância da localidade.
 
 ### Ações em lote
 

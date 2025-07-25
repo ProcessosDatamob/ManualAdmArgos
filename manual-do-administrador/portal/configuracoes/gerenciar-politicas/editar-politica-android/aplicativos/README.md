@@ -172,7 +172,7 @@ Caso o aplicativo não esteja na Google Play, as opções "Pré-instalado" e "In
 {% hint style="info" %}
 **OBSERVAÇÃO**
 
-Ao criar uma política com modo de gerenciamento Android Block SIM, automaticamente na aba Aplicativos, já estará adicionado o aplicativo Block SIM com modo de instalação Forçada, ou seja, quando o usuário realizar a ativação do \<NomeProduto> utilizando esta política, já será instalado automaticamente o Block SIM, sem que ele precise baixar na Play Store.
+Ao criar uma política com modo de gerenciamento Android Block SIM, automaticamente na aba Aplicativos, já estará adicionado o aplicativo Block SIM com modo de instalação Forçada, ou seja, quando o usuário realizar a ativação do Argos+ utilizando esta política, já será instalado automaticamente o Block SIM, sem que ele precise baixar na Play Store.
 {% endhint %}
 
 * **Remota**

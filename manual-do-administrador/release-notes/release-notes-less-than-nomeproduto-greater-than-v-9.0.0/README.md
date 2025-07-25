@@ -1,4 +1,4 @@
-# Release Notes \<NomeProduto> V 9.0.0
+# Release Notes Argos+ V 9.0.0
 
 ### Novidades da Versão
 

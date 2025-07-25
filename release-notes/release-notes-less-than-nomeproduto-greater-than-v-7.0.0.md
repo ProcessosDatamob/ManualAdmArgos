@@ -1,4 +1,4 @@
-# Release Notes \<NomeProduto> V 7.0.0
+# Release Notes Argos+ V 7.0.0
 
 ### Novidades da Versão
 

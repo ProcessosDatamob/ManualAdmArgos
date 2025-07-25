@@ -1,6 +1,6 @@
-# Mais Informações no \<NomeProduto>
+# Mais Informações no Argos+
 
-No **\<NomeProduto>** foi incluída uma nova opção “Sobre“ que dá acesso a uma tela contendo as seguintes informações:&#x20;
+No **Argos+** foi incluída uma nova opção “Sobre“ que dá acesso a uma tela contendo as seguintes informações:&#x20;
 
 * Fabricante
 * Modelo

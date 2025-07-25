@@ -58,7 +58,7 @@ O dispositivo deve estar registrado em uma política com Block SIM ativo e o apl
 
 <figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="489"><figcaption></figcaption></figure>
 
-4. Confirme a alteração da senha, e ao confirmar, o comando será enviado via push ao \<NomeProduto> para aplicação no dispositivo.
+4. Confirme a alteração da senha, e ao confirmar, o comando será enviado via push ao Argos+ para aplicação no dispositivo.
 5. O dispositivo receberá o comando via push.
 
 Quando a senha for alterada o Block SIM receberá a nova senha, ativará o bloqueio de tela com a nova senha definida.
@@ -111,7 +111,7 @@ Ao selecionar a opção "Não pedir credenciais de usuário na inicialização d
 
 Esta opção permite que o administrador envie um comando para remover o bloqueio de chip (SIM) de um dispositivo, liberando o acesso do usuário ao dispositivo.&#x20;
 
-Na tela "Lista de Dispositivos", selecione a política “Android - Block SIM” e a opção "Remover Bloqueio de Chip", o sistema exibirá uma mensagem de confirmação para o envio da remoção do bloqueio de chip, permitindo confirmar ou cancelar. Após enviar o comando de remoção, o dispositivo receberá um push com o comando, o \<NomeProduto>  captura o comando e envia para o Block SIM. O usuário do dispositivo, precisa clicar no push ou abrir o aplicativo Block SIM para realizar a remoção do bloqueio<mark style="color:blue;">.</mark>
+Na tela "Lista de Dispositivos", selecione a política “Android - Block SIM” e a opção "Remover Bloqueio de Chip", o sistema exibirá uma mensagem de confirmação para o envio da remoção do bloqueio de chip, permitindo confirmar ou cancelar. Após enviar o comando de remoção, o dispositivo receberá um push com o comando, o Argos+  captura o comando e envia para o Block SIM. O usuário do dispositivo, precisa clicar no push ou abrir o aplicativo Block SIM para realizar a remoção do bloqueio<mark style="color:blue;">.</mark>
 
 <figure><img src="../../../../.gitbook/assets/image (279).png" alt="" width="375"><figcaption></figcaption></figure>
 

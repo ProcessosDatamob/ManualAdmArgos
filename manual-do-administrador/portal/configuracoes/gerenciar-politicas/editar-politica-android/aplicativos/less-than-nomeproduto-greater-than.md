@@ -1,10 +1,10 @@
-# \<NomeProduto>
+# Argos+
 
-#### Permissões Opcionais do \<NomeProduto>
+#### Permissões Opcionais do Argos+
 
-Para o **\<NomeProduto>**, foi criada dentro das Configurações Gerenciadas as Permissões Opcionais, para possibilitar ativar o **\<NomeProduto>** em dispositivos que não possuem as permissões solicitadas na ativação.
+Para o **Argos+**, foi criada dentro das Configurações Gerenciadas as Permissões Opcionais, para possibilitar ativar o **Argos+** em dispositivos que não possuem as permissões solicitadas na ativação.
 
-Sendo assim, para acessar as “Permissões Opcionais",  clique nos três pontinhos "...", localizados no final da linha e clique na opção "**Configurações Gerenciadas**" do **\<NomeProduto>**.
+Sendo assim, para acessar as “Permissões Opcionais",  clique nos três pontinhos "...", localizados no final da linha e clique na opção "**Configurações Gerenciadas**" do **Argos+**.
 
 <figure><img src="../../../../../../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
 

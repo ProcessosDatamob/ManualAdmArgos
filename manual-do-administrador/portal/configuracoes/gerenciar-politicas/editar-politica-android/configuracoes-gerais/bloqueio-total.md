@@ -36,7 +36,7 @@ Essa funcionalidade permite bloquear o uso de determinados aplicativos com base 
 1. Acesse a aba **"Aplicativos"** da política.
 2. Será exibida a coluna **"Bloqueio por Velocidade"** na lista de apps.
 3. Ative o bloqueio individualmente para os aplicativos desejados.\
-   **Observação:** Não é possível ativar para os apps: **\<NomeProduto>, Kiosk Launcher e Block SIM**.
+   **Observação:** Não é possível ativar para os apps: **Argos+, Kiosk Launcher e Block SIM**.
 
 #### **Como Funciona no Dispositivo**
 
@@ -73,7 +73,7 @@ Ao ativar o bloqueio fora do horário de trabalho para um aplicativo com o tipo 
 Ao deixar os campos em branco o sistema considera o período inteiro do dia.
 {% endhint %}
 
-Quando o dispositivo estiver fora horário de trabalho configurado, o \<NomeProduto> ocultará todos aplicativos do dispositivo, exceto o "_**Telefone**_", o “_**\<NomeProduto>**_" e a _“**Play Store**"._
+Quando o dispositivo estiver fora horário de trabalho configurado, o Argos+ ocultará todos aplicativos do dispositivo, exceto o "_**Telefone**_", o “_**Argos+**_" e a _“**Play Store**"._
 
 Os aplicativos instalados no dispositivo serão apenas ocultados e exibirá uma notificação fixa no dispositivo com a seguinte mensagem: “Acesso aos apps bloqueado pelo administrador“
 
@@ -85,7 +85,7 @@ Quando o dispositivo estiver dentro do horário de trabalho configurado, todos o
 
 Para ativar o bloqueio do dispositivo por limite de uso dos dados móveis, habilite a opção "Bloquear dispositivo por limite de uso dos dados móveis".
 
-Quando o dispositivo atingir o limite de uso dos dados móveis configurados para o ciclo atual, o \<NomeProduto> ocultará todos os aplicativos do dispositivo, exceto o "Telefone", o "Aplicativo de Gestão" e a "Play Store".
+Quando o dispositivo atingir o limite de uso dos dados móveis configurados para o ciclo atual, o Argos+ ocultará todos os aplicativos do dispositivo, exceto o "Telefone", o "Aplicativo de Gestão" e a "Play Store".
 
 O dispositivo exibirá uma notificação fixa com a mensagem: "_Acesso aos apps bloqueado pelo administrador_". Esta notificação informará ao usuário sobre o bloqueio.
 
@@ -93,7 +93,7 @@ Sendo assim, quando o dispositivo estiver bloqueado por limite de uso de dados, 
 
 Além disto, ao realizar a instalação de um app via Play Store ou remotamente, o aplicativo será ocultado.
 
-Caso o uso de dados móveis estiver abaixo do limite ou se o administrador desativar a configuração "Bloquear dispositivo por limite de uso dos dados móveis" na política, então o \<NomeProduto> exibirá corretamente todos aplicativos do dispositivo conforme política provisionada.
+Caso o uso de dados móveis estiver abaixo do limite ou se o administrador desativar a configuração "Bloquear dispositivo por limite de uso dos dados móveis" na política, então o Argos+ exibirá corretamente todos aplicativos do dispositivo conforme política provisionada.
 
 Se o dispositivo estiver em qualquer uma das condições que requerem a ativação de um Bloqueio Total (fora do horário de trabalho ou atingindo o limite de dados móveis). A configuração e ativação de um Bloqueio Total não anula ou interfere com a configuração e ativação do outro. Ambos os bloqueios podem coexistir e serem aplicados conforme suas respectivas condições.
 
@@ -101,7 +101,7 @@ Se o dispositivo estiver em qualquer uma das condições que requerem a ativaç�
 
 Para ativar o bloqueio total do dispositivo ao sair de uma localidade específica, habilite a opção **"Bloquear dispositivo fora da localidade"** na política configurada.
 
-Quando o dispositivo estiver fora do raio da localidade definida, o sistema ocultará todos os aplicativos, widgets e atalhos, exceto os seguintes: Telefone, \<NomeProduto> e Play Store.
+Quando o dispositivo estiver fora do raio da localidade definida, o sistema ocultará todos os aplicativos, widgets e atalhos, exceto os seguintes: Telefone, Argos+ e Play Store.
 
 O dispositivo exibirá uma notificação fixa com a mensagem: **"Acesso aos apps bloqueado pelo administrador"**, informando ao usuário sobre o bloqueio. Mesmo bloqueado, será possível acessar as configurações do dispositivo, desligá-lo ou reiniciá-lo. Os aplicativos permanecerão instalados, mas inacessíveis.
 

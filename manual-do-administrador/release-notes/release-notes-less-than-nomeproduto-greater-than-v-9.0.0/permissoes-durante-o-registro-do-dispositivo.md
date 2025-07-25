@@ -1,6 +1,6 @@
 # Permissões durante o registro do dispositivo
 
-Para evitar casos em que uma permissão não está disponível no dispositivo, e também como meio para otimizar o processo de ativação, agora é possível definir nas configurações gerenciadas do \<NomeProduto> quais permissões são obrigatórias ou opcionais durante a ativação de um dispositivo.
+Para evitar casos em que uma permissão não está disponível no dispositivo, e também como meio para otimizar o processo de ativação, agora é possível definir nas configurações gerenciadas do Argos+ quais permissões são obrigatórias ou opcionais durante a ativação de um dispositivo.
 
 Mais informações na seção [Aplicativo de Gestão](../../portal/configuracoes/gerenciar-politicas/editar-politica-android/aplicativos/less-than-nomeproduto-greater-than.md).
 

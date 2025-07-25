@@ -1,4 +1,4 @@
-# Release Notes \<NomeProduto> V 18.0.0
+# Release Notes Argos+ V 18.0.0
 
 ## **Versão 18.0.0 - 12/2024**
 

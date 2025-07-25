@@ -1,6 +1,6 @@
 # Configurações iniciais e níveis
 
-Ao acessar o **\<NomeProduto>**, o usuário terá acesso às configurações e funcionalidades.
+Ao acessar o **Argos+**, o usuário terá acesso às configurações e funcionalidades.
 
 ### **Configurações Iniciais**
 

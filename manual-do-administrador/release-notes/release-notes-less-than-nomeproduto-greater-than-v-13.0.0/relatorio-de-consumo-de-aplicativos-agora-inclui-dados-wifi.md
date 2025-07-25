@@ -4,7 +4,7 @@ Implementamos o **relatório de consumo de dados via WiFi por aplicativos** no p
 
 Além disso, essas informações também estão disponíveis na **lista de usuários com aplicativos** e na **lista de aplicativos de dispositivos específicos**.
 
-Importante: as informações de consumo de WiFi não estarão disponíveis em versões anteriores do aplicativo **\<NomeProduto>**.
+Importante: as informações de consumo de WiFi não estarão disponíveis em versões anteriores do aplicativo **Argos+**.
 
 Mais informações na seção [Informações dos Aplicativos](../../portal/dispositivos/informacoes-dos-aplicativos.md).
 

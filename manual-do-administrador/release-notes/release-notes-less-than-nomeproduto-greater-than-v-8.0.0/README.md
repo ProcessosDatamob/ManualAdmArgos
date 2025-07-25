@@ -1,4 +1,4 @@
-# Release Notes \<NomeProduto> V8.0.0
+# Release Notes Argos+ V8.0.0
 
 ### Novidades da Versão
 
