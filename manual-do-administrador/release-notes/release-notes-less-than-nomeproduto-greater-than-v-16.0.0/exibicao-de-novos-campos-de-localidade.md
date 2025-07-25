@@ -4,6 +4,6 @@ Agora, o sistema exibe informações detalhadas de localidade na tela "Gerenciar
 
 Mais informações na seção [Informações do Dispositivo](../../portal/dispositivos/lista-de-dispositivos/informacoes-do-dispositivo.md) e [Opções de gerenciamento de dispositivos](../../portal/dispositivos/lista-de-dispositivos/opcoes-de-gerenciamento-de-dispositivos.md).
 
-<figure><img src="../../../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (315) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](../release-notes-less-than-nomeproduto-greater-than-v-16.0.0.md)

@@ -10,6 +10,6 @@ Essa funcionalidade é essencial para gerenciar dispositivos ChromeOS de forma e
 
 Mais informações na seção [Modo Quiosque](../../portal/configuracoes/gerenciar-politicas/editar-politica-android/modo-quiosque.md), [Informações da Empresa](../../portal/empresas/informacoes-da-empresa.md) e [Cadastrar Nova Política](../../portal/configuracoes/gerenciar-politicas/cadastrar-nova-politica.md).
 
-<figure><img src="../../../.gitbook/assets/image (323).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (323) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](../release-notes-less-than-nomeproduto-greater-than-v-16.0.0.md)

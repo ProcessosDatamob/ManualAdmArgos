@@ -4,6 +4,6 @@ Agora, é possível bloquear dispositivos Android automaticamente quando eles sa
 
 Mais informações na seção [Bloqueio Total](../../portal/configuracoes/gerenciar-politicas/editar-politica-android/configuracoes-gerais/bloqueio-total.md).
 
-<figure><img src="../../../.gitbook/assets/image (316).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (316) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](../release-notes-less-than-nomeproduto-greater-than-v-16.0.0.md)

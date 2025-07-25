@@ -27,7 +27,7 @@ Ao acessar a tela, o sistema não permitirá alterar as informações do campo �
 5. Para copiar as informações dos usuários, clique no botão “Copiar”.
 6. Clique em “Editar Administrador” nos três pontinhos à direita na linha do usuário, para acessar a tela de alteração dos dados do usuário<mark style="color:blue;">.</mark> Para excluir o usuário, clique em "Remover Usuário". Caso a opção esteja desabilitada, isso significa que o usuário é o único associado àquela empresa e, portanto, não será possível removê-lo.
 
-Nesta tela é possível gerenciar as informações de cadastro, de privilégio, de grupos e das permissões deste usuário. Também é possível alterar a senha de acesso ao portal que o usuário administra.&#x20;
+Nesta tela é possível gerenciar as informações de cadastro, de privilégio, de grupos e das permissões deste usuário. Também é possível alterar a senha de acesso ao portal que o usuário administra.
 
 **Requisitos de Senha:**
 
@@ -45,7 +45,7 @@ A senha só poderá ser confirmada após atender a todos os requisitos.
 **OBSERVAÇÃO**
 
 Para que seja possível alterar a senha, a senha cadastrada deve atender todos os requisitos exigidos, para que o acesso tenha a segurança necessária.\
-![](<../../../.gitbook/assets/image (259).png>)
+![](<../../../.gitbook/assets/image (259) (1).png>)
 {% endhint %}
 
 7. Para criar um usuário administrador, clique em Cadastrar Novo.

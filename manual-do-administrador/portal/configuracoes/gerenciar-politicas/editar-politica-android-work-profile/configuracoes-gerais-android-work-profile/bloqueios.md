@@ -4,7 +4,7 @@ Essa funcionalidade permite ao usuário administrador configurar um bloqueio tot
 
 Estando na aba "**Configurações**" da tela "**Editar Políticas**", clique em "**Bloqueio Total**" para ver as opções de configuração.
 
-<figure><img src="../../../../../../../.gitbook/assets/image (343).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (343) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Bloqueio fora do Horário de Trabalho
 
@@ -14,7 +14,7 @@ Para realizar o bloqueio de dispositivos fora do horário de trabalho, siga os p
 2. Preencha o campo "Dias de trabalho", com os dias trabalhados na semana dia de início e dia fim.
 3. Preencha o campo "Horário de trabalho", com horário de trabalho inicial e fina<mark style="color:blue;">l.</mark>
 
-<figure><img src="../../../../../../../.gitbook/assets/image (350).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (350) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **OBSERVAÇÃO**

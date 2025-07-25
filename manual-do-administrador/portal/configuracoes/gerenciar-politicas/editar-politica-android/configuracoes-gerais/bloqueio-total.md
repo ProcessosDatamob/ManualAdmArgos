@@ -65,7 +65,7 @@ Ao ativar o bloqueio fora do horário de trabalho para um aplicativo com o tipo 
 2. Preencha o campo "Dias de trabalho", com os dias trabalhados na semana dia de início e dia fim.
 3. Preencha o campo "Horário de trabalho", com horário de trabalho inicial e final.
 
-<figure><img src="../../../../../../.gitbook/assets/image (317).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (317) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **OBSERVAÇÃO**

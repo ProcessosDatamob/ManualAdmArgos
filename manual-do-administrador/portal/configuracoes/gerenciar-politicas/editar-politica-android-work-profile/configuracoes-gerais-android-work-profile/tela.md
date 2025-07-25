@@ -7,4 +7,4 @@ Configurações disponíveis:
 * **Desativado (Padrão):** Impede que os usuários realizem capturas de tela no Perfil de Trabalho.
 * **Ativado:** Permite capturas de tela no Perfil de Trabalho.
 
-<figure><img src="../../../../../../../.gitbook/assets/image (354).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (354) (1).png" alt=""><figcaption></figcaption></figure>

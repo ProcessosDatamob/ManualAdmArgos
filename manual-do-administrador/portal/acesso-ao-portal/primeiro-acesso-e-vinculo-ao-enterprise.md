@@ -34,14 +34,12 @@ Cada regra será mostrada em **verde** assim que for cumprida.
 
 <figure><img src="../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="" width="477"><figcaption></figcaption></figure>
 
-
-
 6. No próximo passo o usuário deverá confirmar os dados da empresa. A tela de confirmação dos dados da empresa aparecerá somente no primeiro acesso e é mostrada na figura a seguir.
 
 <figure><img src="../../../.gitbook/assets/image (4) (1) (1).png" alt="" width="523"><figcaption></figcaption></figure>
 
 7. Confirmar o Nome da Empresa e E-mail;
-8. Criar uma senha;&#x20;
+8. Criar uma senha;
 9. Repetir a digitação da senha para confirmá-la;
 10. Marcar que concorda com a Política de Privacidade e com o Termos de uso;
 11. Clicar no botão "Próximo''.
@@ -61,7 +59,7 @@ Caso não tenha recebido o token por e-mail, o usuário pode solicitar que seja 
 
 Após esta confirmação, o sistema abrirá a tela para "Criar conta de administrador".
 
-Nesta etapa , será solicitada uma conta de domínio próprio da empresa , para realizar o vínculo no Android Enterprise. Ao utilizar um domínio próprio, a empresa poderá ter acesso a funcionalidades avançadas do programa Better Togheter da Google em versões futuras. Para isso é necessário informar uma conta de domínio próprio, que possua o Cloud Identity da Google configurado.&#x20;
+Nesta etapa , será solicitada uma conta de domínio próprio da empresa , para realizar o vínculo no Android Enterprise. Ao utilizar um domínio próprio, a empresa poderá ter acesso a funcionalidades avançadas do programa Better Togheter da Google em versões futuras. Para isso é necessário informar uma conta de domínio próprio, que possua o Cloud Identity da Google configurado.
 
 **Exemplo:** @empresa.com
 
@@ -73,13 +71,11 @@ Para garantir o bom funcionamento dos primeiros passos, é sugerido realizar o p
 
 <figure><img src="../../../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
 
-Caso o usuário informar seja informada esta conta de e-mail coorporativo contendo o Cloud Identity o sistema seguira o processo normal do fluxo. Caso o usuário  informar uma conta que não tenha o Cloud Identity configurado, será apresentada a seguinte tela:
-
-
+Caso o usuário informar seja informada esta conta de e-mail coorporativo contendo o Cloud Identity o sistema seguira o processo normal do fluxo. Caso o usuário informar uma conta que não tenha o Cloud Identity configurado, será apresentada a seguinte tela:
 
 <figure><img src="../../../.gitbook/assets/Tela 2 (1).png" alt=""><figcaption></figcaption></figure>
 
-**Inscreva-se com um e-mail de trabalho**: Nesta opção, é possível realizar nova tentativa de informar um e-mail corporativo (ex: nome@empresa.com) que possua o Cloud Identity da Google configurado.  Então, clique em "Tentar de novo com um e-mail de trabalho para retornar e inserir um endereço de e-mail corporativo válido.
+**Inscreva-se com um e-mail de trabalho**: Nesta opção, é possível realizar nova tentativa de informar um e-mail corporativo (ex: nome@empresa.com) que possua o Cloud Identity da Google configurado. Então, clique em "Tentar de novo com um e-mail de trabalho para retornar e inserir um endereço de e-mail corporativo válido.
 
 **Comprar domínio da empresa**: Nesta opção, caso a sua empresa ainda não possua um domínio próprio (ex: empresa.com) e um e-mail corporativo correspondente, você pode adquirir um novo domínio. Clique em "Comprar um domínio" para ser direcionado a um serviço de registro de domínios, onde você pode comprar um domínio para sua empresa e, em seguida, utilizar um e-mail associado a esse domínio para a inscrição.
 
@@ -91,7 +87,7 @@ Caso o usuário informar seja informada esta conta de e-mail coorporativo conten
 
 Após escolher uma das três opções acima, siga os próximos passos para finalizar o processo de vínculo no Android Enterprise.
 
-Na tela Google Play use o botão “**Fazer Login**" para logar na conta ou caso não tenha a conta, poderá criar uma nova conta.&#x20;
+Na tela Google Play use o botão “**Fazer Login**" para logar na conta ou caso não tenha a conta, poderá criar uma nova conta.
 
 <figure><img src="../../../.gitbook/assets/Tela 3.png" alt=""><figcaption></figcaption></figure>
 
@@ -105,7 +101,7 @@ A tela de "Detalhes do Contato" é apresentada na sequência.
 
 Após confirmar os dados, será exibida a tela do **Argos+** com a mensagem _**"Parabéns! Sua empresa foi registrada no Android Enterprise com sucesso."**_
 
-<figure><img src="../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (10) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Clique em "Ok" e poderá iniciar as configurações necessárias para gerenciar os dispositivos da sua empresa.
 

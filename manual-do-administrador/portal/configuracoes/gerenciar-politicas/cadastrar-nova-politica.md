@@ -25,24 +25,23 @@ Para cadastrar uma nova política siga os seguintes passos:
 
 * **ChromeOS -** Essa opção permite configurar dispositivos Chromebook para operar exclusivamente em um ambiente controlado, ideal para escolas, terminais públicos ou uso corporativo.
 
-<figure><img src="../../../../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (319) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Windows
 
-*   **Windows** - Permite o gerenciamento de dispositivos Windows com configurações específicas, como políticas de uso, controle remoto e segurança. Essa opção possibilita criar políticas exclusivas para dispositivos Windows, garantindo uma gestão centralizada e alinhada às necessidades corporativas. Além disso, todas as políticas criadas são exibidas com o ícone do Windows e podem ser filtradas pelo modo de gerenciamento, facilitando a organização e o controle no portal.\
+*   **Windows** - Permite o gerenciamento de dispositivos Windows com configurações específicas, como políticas de uso, controle remoto e segurança. Essa opção possibilita criar políticas exclusivas para dispositivos Windows, garantindo uma gestão centralizada e alinhada às necessidades corporativas. Além disso, todas as políticas criadas são exibidas com o ícone do Windows e podem ser filtradas pelo modo de gerenciamento, facilitando a organização e o controle no portal.\\
 
-
-    <figure><img src="../../../../.gitbook/assets/image (329).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (329) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Linux
 
 * **Linux** - A política Linux permite o gerenciamento centralizado de dispositivos Linux com configurações específicas para atender às necessidades corporativas. Com essa funcionalidade, os administradores podem criar, editar e gerenciar políticas exclusivas para dispositivos Linux, garantindo controle remoto, segurança e conformidade organizacional. Todas as políticas Linux são exibidas com o ícone correspondente e podem ser filtradas pelo modo de gerenciamento no portal, facilitando a organização e o acesso.
 
-<figure><img src="../../../../.gitbook/assets/image (330).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (330) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Clique em "**Cadastrar**".
 
-Após o cadastro da política será aberta a tela "**Editar Política**" para que os detalhes da política sejam configurados. A seção [Editar Política](broken-reference) mostra os detalhes da configuração de políticas de acordo com o modo de gerenciamento.
+Após o cadastro da política será aberta a tela "**Editar Política**" para que os detalhes da política sejam configurados. A seção [Editar Política](broken-reference/) mostra os detalhes da configuração de políticas de acordo com o modo de gerenciamento.
 
 {% hint style="info" %}
 Quando uma política já estiver vinculada a um grupo, o campo “Grupo” aparecerá desabilitado na tela de edição. Nesse caso, não será possível alterar o vínculo do grupo com a política.

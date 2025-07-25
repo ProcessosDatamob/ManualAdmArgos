@@ -4,7 +4,7 @@ O submenu Informações dos aplicativos mostra as informações dos aplicativos 
 
 Clique no menu "**Dispositivos**" opção "**Informações dos aplicativos**" para acessar a tela.
 
-<figure><img src="../../../.gitbook/assets/image (303).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (303) (1).png" alt=""><figcaption></figcaption></figure>
 
 A tela a seguir será exibida:
 
@@ -16,9 +16,9 @@ A tela a seguir será exibida:
 4. A lista de dispositivos é exibida na parte inferior da tela;
 5. Para exportar o relatório dos dispositivos, clique no botão "Excel", o sistema exibirá no relatório apenas as informações das colunas exibidas na tela;
 6. Para copiar as informações dos dispositivos, clique no botão "Copiar", o sistema copiará para a área de transferência apenas as informações das colunas exibidas na tela;
-7. Clique no ícone de filtro para selecionar as colunas que ficarão visíveis, utilize o campo de pesquisa para pesquisar as colunas por texto e realizar o filtro, e depois clique em "Salvar" para definir a configuração como padrão da tela para o usuário logado.&#x20;
+7. Clique no ícone de filtro para selecionar as colunas que ficarão visíveis, utilize o campo de pesquisa para pesquisar as colunas por texto e realizar o filtro, e depois clique em "Salvar" para definir a configuração como padrão da tela para o usuário logado.
 
-<figure><img src="../../../.gitbook/assets/image (310).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (310) (1).png" alt=""><figcaption></figcaption></figure>
 
 8. Utilize os três pontos "..." para mostrar o menu de ações e ver os detalhes dos aplicativos;
 

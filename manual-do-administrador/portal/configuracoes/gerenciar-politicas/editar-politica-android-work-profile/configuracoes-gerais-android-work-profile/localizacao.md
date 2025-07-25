@@ -6,4 +6,4 @@ A funcionalidade Compartilhamento de Localização no Work Profile permite que a
 
 **Desativar Compartilhamento de Localização:** permite desativar o compartilhamento de informações de localização no Perfil de Trabalho, garantindo que os dados de localização não sejam acessados indevidamente. As configurações realizadas são enviadas automaticamente aos dispositivos vinculados à política ao salvar as alterações no portal.
 
-<figure><img src="../../../../../../../.gitbook/assets/image (338).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (338) (1).png" alt=""><figcaption></figcaption></figure>

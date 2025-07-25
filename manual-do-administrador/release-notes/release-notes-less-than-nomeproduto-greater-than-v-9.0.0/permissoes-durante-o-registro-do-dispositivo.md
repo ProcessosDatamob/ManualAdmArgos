@@ -4,7 +4,7 @@ Para evitar casos em que uma permissão não está disponível no dispositivo, e
 
 Mais informações na seção [Aplicativo de Gestão](../../portal/configuracoes/gerenciar-politicas/editar-politica-android/aplicativos/less-than-nomeproduto-greater-than.md).
 
-<figure><img src="../../../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (267) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

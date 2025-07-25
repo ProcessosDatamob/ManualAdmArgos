@@ -6,7 +6,7 @@ Para visualizar e gerar o relatório, siga os passos descritos nesta seção.
 
 1. Clique no menu "**Localização**" e selecione o submenu “**Histórico de localização**”.
 
-<figure><img src="../../../.gitbook/assets/image (254).png" alt="" width="219"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (254) (1).png" alt="" width="219"><figcaption></figcaption></figure>
 
 2. Selecione as informações que deseja filtrar.
 
@@ -31,4 +31,4 @@ O sistema exibirá todas as localizações dos dispositivos de acordo com filtro
 9. Utilize o campo de navegação para visualizar as localizações das outras páginas do relatório.
 10. Clique no ícone de filtro para selecionar as colunas que ficarão visíveis, utilize o campo de pesquisa para pesquisar as colunas por texto e realizar o filtro, e depois clique em "Salvar" para definir a configuração como padrão da tela para o usuário logado.
 
-<figure><img src="../../../.gitbook/assets/image (309).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (309) (1).png" alt=""><figcaption></figcaption></figure>

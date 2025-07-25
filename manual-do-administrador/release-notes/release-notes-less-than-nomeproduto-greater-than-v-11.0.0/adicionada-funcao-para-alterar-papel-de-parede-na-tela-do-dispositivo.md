@@ -4,6 +4,6 @@ Nas configurações da política, adicionamos uma nova função que permite defi
 
 Mais informações na seção [Tela](../../portal/configuracoes/gerenciar-politicas/editar-politica-android/configuracoes-gerais/tela.md).
 
-<figure><img src="../../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (224) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)

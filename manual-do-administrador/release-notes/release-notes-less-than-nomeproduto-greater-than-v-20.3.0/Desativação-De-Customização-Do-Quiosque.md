@@ -4,4 +4,4 @@ No portal, o administrador tem a opção de desligar as customizações do quios
 
 Mais informações na seção [Modo Quiosque](../../portal/configuracoes/gerenciar-politicas/editar-politica-android/modo-quiosque.md).
 
-<figure><img src="../../../.gitbook/assets/image (349).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (349) (1).png" alt=""><figcaption></figcaption></figure>

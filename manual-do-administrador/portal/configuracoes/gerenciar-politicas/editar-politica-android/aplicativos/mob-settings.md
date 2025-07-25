@@ -2,7 +2,7 @@
 
 O Mob Settings é um aplicativo projetado para facilitar a administração de configurações essenciais de dispositivos móveis sem a necessidade de acessar diretamente o menu de configurações do dispositivo. Ele permite que os administradores gerenciem configurações de Bluetooth, Tela e Wi-Fi de maneira centralizada e eficiente. A seguir, detalharemos como cada uma dessas funcionalidades pode ser configurada e utilizada dentro do Mob Settings.
 
-### **Processo de Inclusão do Mob Settings na Lista de Aplicativos Gerenciados**&#x20;
+### **Processo de Inclusão do Mob Settings na Lista de Aplicativos Gerenciados**
 
 O processo de inclusão do Mob Settings é simples e transparente para o usuário final. Desta forma, será possível que o usuário final tenha acesso as configurações essenciais do seu dispositivo sem precisar acessar diretamente o menu de configurações.
 
@@ -55,7 +55,7 @@ Ao clicar em Configurações Gerenciadas a seguinte tela será exibida:
 
 <figure><img src="../../../../../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-As Configurações Gerenciadas para o **Mob Settings** são:&#x20;
+As Configurações Gerenciadas para o **Mob Settings** são:
 
 ### **Bloquear Esquecimento de Rede**
 
@@ -78,13 +78,13 @@ Quando o aplicativo Mob Settings é adicionado a uma política, a configuração
 
 <figure><img src="../../../../../../.gitbook/assets/image (225).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../../../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (226) (2).png" alt=""><figcaption></figcaption></figure>
 
 ### **Configurações de Tela**
 
 Com o Mob Settings, os administradores podem ajustar várias configurações de tela dos dispositivos, como brilho, orientação e tempo de espera da tela.
 
-Assim como com o Bluetooth, a configuração gerenciada de tela é disponibilizada ao portal quando o aplicativo Mob Settings é adicionado a política.  A configuração de tela estará ativada por padrão, permitindo que os administradores façam ajustes conforme necessário.
+Assim como com o Bluetooth, a configuração gerenciada de tela é disponibilizada ao portal quando o aplicativo Mob Settings é adicionado a política. A configuração de tela estará ativada por padrão, permitindo que os administradores façam ajustes conforme necessário.
 
 <figure><img src="../../../../../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -108,6 +108,6 @@ Quando o aplicativo Mob Settings é adicionado a uma política, a configuração
 3. O aplicativo solicitará as permissões necessárias para ajustar as configurações de Wi-Fi.
 4. A tela de configuração de Wi-Fi exibirá todas as funcionalidades atuais do Mob Settings, permitindo gerenciar conexões de Wi-Fi diretamente.
 
-<figure><img src="../../../../../../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (230) (2).png" alt=""><figcaption></figcaption></figure>
 
-Essas funcionalidades permitem que os administradores tenham um controle centralizado e eficiente sobre as principais configurações dos dispositivos, simplificando o processo de gerenciamento e melhorando a usabilidade e segurança dos dispositivos móveis na organização.&#x20;
+Essas funcionalidades permitem que os administradores tenham um controle centralizado e eficiente sobre as principais configurações dos dispositivos, simplificando o processo de gerenciamento e melhorando a usabilidade e segurança dos dispositivos móveis na organização.

@@ -9,6 +9,6 @@ Essas mudanças são essenciais para aumentar a **segurança do acesso** e prote
 
 Mais informações na seções: [Primeiro Acesso e Vínculo ao Enterprise ](../../portal/acesso-ao-portal/primeiro-acesso-e-vinculo-ao-enterprise.md), [Recuperação de Senha](../../portal/acesso-ao-portal/recuperacao-de-senha.md) e [Gerenciar Usuários Administradores.](../../portal/usuarios/gerenciar-usuarios-administradores.md)
 
-<figure><img src="../../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (266) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)

@@ -12,6 +12,6 @@ Essa nova visualização facilita a análise e o gerenciamento do uso de dados p
 
 Mais informações na seção [Dashboard](../../portal/dashboard.md).
 
-<figure><img src="../../../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (268) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)

@@ -4,6 +4,6 @@ Agora é possível vincular políticas a grupos, administradores de empresa pode
 
 Mais informações na seção [Cadastrar Nova Política](../../portal/configuracoes/gerenciar-politicas/cadastrar-nova-politica.md).
 
-<figure><img src="../../../.gitbook/assets/image (295).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (295) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)

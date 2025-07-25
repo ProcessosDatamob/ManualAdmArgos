@@ -4,11 +4,11 @@
 
 Ao clicar nos três pontinhos "**...**" à direita na listagem dos dispositivos, são exibidas aparecem as opções de consulta e configurações do dispositivo, como ilustrado na imagem abaixo:
 
-<figure><img src="../../../../.gitbook/assets/image (255).png" alt="" width="188"><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (255) (1).png" alt="" width="188"><figcaption></figcaption></figure>
 
 As opções disponíveis variam de acordo com o Modo de Gerenciamento da política na qual o dispositivo estiver vinculado e estão em destaque na imagem a seguir:
 
-<table><thead><tr><th width="272.28506787330315">Modo de Gerenciamento</th><th>Opções disponíveis</th></tr></thead><tbody><tr><td><strong>Android</strong></td><td>Alterar Política<br>Ativar/ Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Gerar Nova Senha do Dispositivo<br>Remover Dispositivo (WIPE)<br>Gerenciar Informações<br>Acesso Remoto</td></tr><tr><td><strong>Android Block SIM</strong></td><td><p>Alterar Política<br>Ativar/Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo</p><p>Gerar Nova Senha do Bloqueio de Tela<br>Remover Bloqueio de Tela</p><p>Remover Bloqueio de Chip<br>Remover Dispositivo (WIPE)<br>Gerenciar </p></td></tr><tr><td><strong>Android Work Profile</strong></td><td>Alterar Política<br>Remover Dispositivo (WIPE)<br>Gerenciar </td></tr><tr><td><strong>Windows</strong></td><td>Remover Dispositivo<br>Controle Remoto<br>Gerenciar</td></tr><tr><td><strong>Linux</strong></td><td>Remover Dispositivo<br>Controle Remoto<br>Gerenciar</td></tr></tbody></table>
+<table><thead><tr><th width="272.28506787330315">Modo de Gerenciamento</th><th>Opções disponíveis</th></tr></thead><tbody><tr><td><strong>Android</strong></td><td>Alterar Política<br>Ativar/ Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo<br>Gerar Nova Senha do Dispositivo<br>Remover Dispositivo (WIPE)<br>Gerenciar Informações<br>Acesso Remoto</td></tr><tr><td><strong>Android Block SIM</strong></td><td><p>Alterar Política<br>Ativar/Desativar Dispositivo<br>Desligar Tela<br>Reiniciar Dispositivo</p><p>Gerar Nova Senha do Bloqueio de Tela<br>Remover Bloqueio de Tela</p><p>Remover Bloqueio de Chip<br>Remover Dispositivo (WIPE)<br>Gerenciar</p></td></tr><tr><td><strong>Android Work Profile</strong></td><td>Alterar Política<br>Remover Dispositivo (WIPE)<br>Gerenciar</td></tr><tr><td><strong>Windows</strong></td><td>Remover Dispositivo<br>Controle Remoto<br>Gerenciar</td></tr><tr><td><strong>Linux</strong></td><td>Remover Dispositivo<br>Controle Remoto<br>Gerenciar</td></tr></tbody></table>
 
 As opções que estão em destaque na figura são detalhadas nas próximas subseções:
 
@@ -50,11 +50,11 @@ Esta opção permite ao administrador configurar a senha do bloqueio de tela do 
 O dispositivo deve estar registrado em uma política com Block SIM ativo e o aplicativo Block SIM deve estar instalado e ativado no dispositivo.
 
 1. Na Lista de Dispositivos, clique nos três pontinhos "...".
-2. Clique na opção “Gerar Nova Senha do Bloqueio de Tela".&#x20;
+2. Clique na opção “Gerar Nova Senha do Bloqueio de Tela".
 
 <figure><img src="../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="153"><figcaption></figcaption></figure>
 
-3. Preencha e confirme a nova senha do Bloqueio de Tela, utilizando letras, números e símbolos.&#x20;
+3. Preencha e confirme a nova senha do Bloqueio de Tela, utilizando letras, números e símbolos.
 
 <figure><img src="../../../../.gitbook/assets/image (2) (1) (1).png" alt="" width="489"><figcaption></figcaption></figure>
 
@@ -66,9 +66,9 @@ Quando a senha for alterada o Block SIM receberá a nova senha, ativará o bloqu
 {% hint style="info" %}
 **Limitações com o Block SIM**
 
-Quando o dispositivo estiver configurado em uma política com o Block SIM ativo, as chamadas recebidas não poderão ser atendidas sem desbloquear a tela primeiro.&#x20;
+Quando o dispositivo estiver configurado em uma política com o Block SIM ativo, as chamadas recebidas não poderão ser atendidas sem desbloquear a tela primeiro.
 
-#### **Orientação**
+**Orientação**
 
 Caso o atendimento de ligações seja necessário mesmo com a tela bloqueada:
 
@@ -109,17 +109,15 @@ Ao selecionar a opção "Não pedir credenciais de usuário na inicialização d
 
 ### **Remover Bloqueio de Chip**
 
-Esta opção permite que o administrador envie um comando para remover o bloqueio de chip (SIM) de um dispositivo, liberando o acesso do usuário ao dispositivo.&#x20;
+Esta opção permite que o administrador envie um comando para remover o bloqueio de chip (SIM) de um dispositivo, liberando o acesso do usuário ao dispositivo.
 
-Na tela "Lista de Dispositivos", selecione a política “Android - Block SIM” e a opção "Remover Bloqueio de Chip", o sistema exibirá uma mensagem de confirmação para o envio da remoção do bloqueio de chip, permitindo confirmar ou cancelar. Após enviar o comando de remoção, o dispositivo receberá um push com o comando, o Argos+  captura o comando e envia para o Block SIM. O usuário do dispositivo, precisa clicar no push ou abrir o aplicativo Block SIM para realizar a remoção do bloqueio<mark style="color:blue;">.</mark>
+Na tela "Lista de Dispositivos", selecione a política “Android - Block SIM” e a opção "Remover Bloqueio de Chip", o sistema exibirá uma mensagem de confirmação para o envio da remoção do bloqueio de chip, permitindo confirmar ou cancelar. Após enviar o comando de remoção, o dispositivo receberá um push com o comando, o Argos+ captura o comando e envia para o Block SIM. O usuário do dispositivo, precisa clicar no push ou abrir o aplicativo Block SIM para realizar a remoção do bloqueio<mark style="color:blue;">.</mark>
 
-<figure><img src="../../../../.gitbook/assets/image (279).png" alt="" width="375"><figcaption></figcaption></figure>
-
-
+<figure><img src="../../../../.gitbook/assets/image (279) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 ### Reinicio de Bloqueio de CHIP
 
-A funcionalidade de "Reinício de Bloqueio de CHIP" permite que, após a remoção do bloqueio do CHIP SIM em um dispositivo, o administrador possa bloquear o CHIP novamente.&#x20;
+A funcionalidade de "Reinício de Bloqueio de CHIP" permite que, após a remoção do bloqueio do CHIP SIM em um dispositivo, o administrador possa bloquear o CHIP novamente.
 
 Isso possibilita que, após a remoção do bloqueio, o administrador possa trocar o CHIP do dispositivo e aplicar um novo bloqueio, garantindo a flexibilidade de gestão e segurança dos dispositivos gerenciados.
 
@@ -158,13 +156,13 @@ Ao enviar o comando de remoção de um dispositivo que esta ativado em uma polí
 
 <figure><img src="../../../../.gitbook/assets/Tela Remover Dispositivo - WIPE - Block SIM.png" alt=""><figcaption></figcaption></figure>
 
-Será exibida a mensagem:  _Este dispositivo pode estar com o CHIP SIM bloqueado._
+Será exibida a mensagem: _Este dispositivo pode estar com o CHIP SIM bloqueado._
 
 _Deseja enviar um comando de remoção do "Bloqueio do CHIP”?_
 
-Ao clicar na opção SIM , o comando de remoção do bloqueio de CHIP é enviado e é exibida a mensagem: _Comando enviado com sucesso! Aguarde para tentar remover o dispositivo novamente._&#x20;
+Ao clicar na opção SIM , o comando de remoção do bloqueio de CHIP é enviado e é exibida a mensagem: _Comando enviado com sucesso! Aguarde para tentar remover o dispositivo novamente._
 
-Então o sistema aguarda a confirmação antes de permitir a remoção do dispositivo.&#x20;
+Então o sistema aguarda a confirmação antes de permitir a remoção do dispositivo.
 
 {% hint style="info" %}
 O usuário do dispositivo, precisa clicar no push ou abrir o aplicativo Block SIM para realizar a remoção do bloqueio.
@@ -172,11 +170,11 @@ O usuário do dispositivo, precisa clicar no push ou abrir o aplicativo Block SI
 
 Caso o administrador optar por não enviar o comando, será exibida a seguinte mensagem: _Ao remover este dispositivo, o uso dos dados móveis do CHIP SIM do usuário poderá ficar bloqueado!_
 
-_Você deseja mesmo remover este dispositivo? Essa ação não poderá ser desfeita._&#x20;
+_Você deseja mesmo remover este dispositivo? Essa ação não poderá ser desfeita._
 
 <figure><img src="../../../../.gitbook/assets/Tela Remover Dispositivo - WIPE - Caminha NÃO Block SIM.png" alt=""><figcaption></figcaption></figure>
 
-Então após optar por enviar o comando de desbloqueio do chip e o portal já tiver recebido a confirmação da remoção do Bloqueio do CHIP no dispositivo, então  o sistema exibirá a seguinte mensagem:
+Então após optar por enviar o comando de desbloqueio do chip e o portal já tiver recebido a confirmação da remoção do Bloqueio do CHIP no dispositivo, então o sistema exibirá a seguinte mensagem:
 
 _Você deseja mesmo remover este dispositivo? Essa ação não pode ser desfeita_
 
@@ -190,8 +188,8 @@ Dessa forma, essa funcionalidade ajuda a evitar problemas de bloqueio de CHIP qu
 
 O recurso de Acesso Remoto permite que os administradores gerenciem dispositivos Windows e Linux diretamente pelo portal. Essa funcionalidade possibilita o controle remoto do dispositivo, incluindo acesso à área de trabalho, terminal e diretórios.
 
-1. Acesse a Lista de Dispositivos no portal.&#x20;
-2. Clique nos três pontinhos "..." de um dispositivo Windows ou Linux.&#x20;
+1. Acesse a Lista de Dispositivos no portal.
+2. Clique nos três pontinhos "..." de um dispositivo Windows ou Linux.
 3. Selecione a opção Acesso Remoto. Ao selecionar Acesso Remoto, o sistema permitirá:
    * Acessar a Área de Trabalho: Controle remoto completo do dispositivo.
    * Acessar o Terminal de Prompt: Execução de comandos diretamente no terminal.
@@ -214,11 +212,11 @@ Com isso, os administradores podem utilizar o Remote View para acessar e control
 1. Clique em Acesso Remoto.
 2. Clique em Acessar Endereço.
 
-<figure><img src="../../../../.gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (341) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Você será redirecionado para uma página, onde poderá acessar remotamente o dispositivo selecionado, clicando em "Conectar".
 
-<figure><img src="../../../../.gitbook/assets/image (342).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (342) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **Gerenciar**
 
@@ -229,11 +227,11 @@ Ao clicar na opção **Gerenciar**, será exibida a tela **Gerenciar Dispositivo
 1. Nesta tela estão agrupadas os Comandos e Ações do dispositivo que já detalhamos anteriormente, de acordo com o Modo de Gerenciamento ou Sistema Operacional. O comportamento de cada funcionalidade , será igual na tela "Lista de Dispositivos"
 2. Serão exibidas as opções de Voltar e Atualizar, sendo que ao clicar sobre Atualizar, serão atualizadas as informações e será exibida a data de atualização das informações ao passar o mouse sobre o botão atualizar.
 3. As abas com opções para edição e informações do dispositivo são exibidas de forma personalizada, de acordo com o tipo de dispositivo gerenciado. Isso permite que apenas informações relevantes sejam apresentadas para cada sistema operacional. As abas disponíveis podem incluir:\
-   \- [Informações](opcoes-de-gerenciamento-de-dispositivos.md#informacoes) \
-   \- [Aplicativos](opcoes-de-gerenciamento-de-dispositivos.md#aplicativos) \
-   \- [Bateria](opcoes-de-gerenciamento-de-dispositivos.md#bateria) \
-   \- [Armazenamento Livre](opcoes-de-gerenciamento-de-dispositivos.md#armazenamento-livre) \
-   \- [Geolocalização ](opcoes-de-gerenciamento-de-dispositivos.md#geolocalizacao) \
+   \- [Informações](opcoes-de-gerenciamento-de-dispositivos.md#informacoes)\
+   \- [Aplicativos](opcoes-de-gerenciamento-de-dispositivos.md#aplicativos)\
+   \- [Bateria](opcoes-de-gerenciamento-de-dispositivos.md#bateria)\
+   \- [Armazenamento Livre](opcoes-de-gerenciamento-de-dispositivos.md#armazenamento-livre)\
+   \- [Geolocalização](opcoes-de-gerenciamento-de-dispositivos.md#geolocalizacao)\
    \- [Não Conformidades](opcoes-de-gerenciamento-de-dispositivos.md#nao-conformidades)
 
 Abaixo segue a explicação de cada uma delas:
@@ -242,17 +240,17 @@ Abaixo segue a explicação de cada uma delas:
 
 Ao abrir a tela Gerenciar Dispositivo , a primeira aba "**Informações**" vira Pré selecionada, nesta aba, é possível editar dados do dispositivo: Usuário, Identificação, selecionar um Grupo, Departamento, Telefone do Usuário e selecionar uma Localidade.
 
-<figure><img src="../../../../.gitbook/assets/image (299).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (299) (1).png" alt=""><figcaption></figcaption></figure>
 
 Além de poder editar os dados, são exibidas mais abaixo listas com Detalhes, Instalação, Hardware, Permissões, Conectividade e SIM, relacionados ao dispositivo gerenciado, as informações são trazidas de acordo com o modo de gestão selecionado.
 
-<figure><img src="../../../../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (236) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (275).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (275) (2).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (238) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (315) (1).png" alt=""><figcaption></figcaption></figure>
 
 As seções estão detalhadas na página de [Informações do Dispositivo](informacoes-do-dispositivo.md): "Detalhes", "Instalação", "Hardware", "Permissões", "Conectividade", "SIM" e "Localidade".
 
@@ -261,7 +259,7 @@ As seções estão detalhadas na página de [Informações do Dispositivo](infor
 
 É possível acessar rapidamente a tela de edição de uma política no dispositivo clicando no nome da política, que funciona como um link.
 
-![](<../../../../.gitbook/assets/image (245).png>)
+<img src="../../../../.gitbook/assets/image (245) (1).png" alt="" data-size="original">
 {% endhint %}
 
 #### **Aplicativos**
@@ -274,13 +272,13 @@ Na aba "**Aplicativos**", é possível acessar a lista de todos os aplicativos i
 
 Na aba "**Bateria**", é possível selecionar uma data para visualizar as informações desejadas. Ao escolher a data, o sistema buscará e exibirá os dados da bateria em formato de gráfico.
 
-<figure><img src="../../../../.gitbook/assets/image (242).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (242) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Armazenamento Livre**
 
 Na aba "**Armazenamento Livre**" é possível visualizar a memória livre no armazenamento interno do dispositivo ao selecionar uma data para visualizar as informações desejadas. Ao escolher a data, o sistema buscará e exibirá os dados de armazenamento em formato de gráfico.
 
-<figure><img src="../../../../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (243) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Geolocalização
 
@@ -303,11 +301,11 @@ Para visualizar as localizações geográficas de um dispositivo, siga os passos
 7. Clique no marcador para visualizar as informações da localização.
 8. Utilize os recursos do mapa para otimizar a visualização.
 
-<figure><img src="../../../../.gitbook/assets/image (244).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (244) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Não Conformidades
 
-Nesta aba, serão listadas todas as não conformidades do dispositivo com informações detalhadas da Configuração, Motivo da Não Conformidade e Detalhe da Não Conformidade.&#x20;
+Nesta aba, serão listadas todas as não conformidades do dispositivo com informações detalhadas da Configuração, Motivo da Não Conformidade e Detalhe da Não Conformidade.
 
 {% hint style="info" %}
 **OBSERVAÇÃO**
@@ -317,7 +315,6 @@ A aba "Não Conformidades" ficará desabilitada se o dispositivo não possuir ne
 
 E em cada item de não conformidade listado será exibida a informação de Nome do Pacote, Caminho do Campo, Valor Atual, Motivo da Falha na Instalação, Contexto de Wi-Fi e Contexto de senha da política.
 
-<figure><img src="../../../../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (252) (1).png" alt=""><figcaption></figcaption></figure>
 
 É possível "Exportar" e "Copiar", permitindo exportar as informações do relatório para um arquivo Excel ou copiar as informações para uma área de transferência.
-

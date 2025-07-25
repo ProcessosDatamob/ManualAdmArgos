@@ -12,6 +12,6 @@ Para visualizar este relatório, siga os passos descritos nesta seção.
 3. Para ordenar as informações exibidas, clique nas setas ao lado do título da informação que desejar (URL ou Palavra-chave, Usuário, Licença ou Data);
 4. Para exportar o relatório dos dispositivos, clique no botão "Excel", o sistema exibirá no relatório apenas as informações das colunas exibidas na tela;
 5. Para copiar as informações dos dispositivos, clique no botão "Copiar", o sistema copiará para a área de transferência apenas as informações das colunas exibidas na tela;
-6. Clique no ícone de filtro para selecionar as colunas que ficarão visíveis, utilize o campo de pesquisa para pesquisar as colunas por texto e realizar o filtro, e depois clique em "Salvar" para definir a configuração como padrão da tela para o usuário logado.&#x20;
+6. Clique no ícone de filtro para selecionar as colunas que ficarão visíveis, utilize o campo de pesquisa para pesquisar as colunas por texto e realizar o filtro, e depois clique em "Salvar" para definir a configuração como padrão da tela para o usuário logado.
 
-<figure><img src="../../../.gitbook/assets/image (312).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (312) (1).png" alt=""><figcaption></figcaption></figure>

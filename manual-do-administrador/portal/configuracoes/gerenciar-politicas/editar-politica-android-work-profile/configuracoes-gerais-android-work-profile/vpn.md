@@ -12,4 +12,4 @@ Configurações disponíveis:
   * Bloqueia todo o tráfego de rede no Perfil de Trabalho quando a VPN configurada não estiver conectada.
   * Essa configuração só estará habilitada quando pelo menos um aplicativo de VPN estiver selecionado.
 
-<figure><img src="../../../../../../../.gitbook/assets/image (356).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (356) (1).png" alt=""><figcaption></figcaption></figure>

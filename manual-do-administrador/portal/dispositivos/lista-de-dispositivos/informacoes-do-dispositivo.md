@@ -2,27 +2,25 @@
 
 Na tela de "**Dispositivos**" dentro de "**Lista de Dispositivos**" é possível ter acesso as informações do dispositivo, clicando no botão de **Mais informações**:
 
-<figure><img src="../../../../.gitbook/assets/image (247).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (247) (1).png" alt=""><figcaption></figcaption></figure>
 
-Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso as Informações do dispositivo, o portal trará as informações exibidas **de acordo com o tipo de dispositivo gerenciado**, garantindo uma visão detalhada e relevante para cada sistema operacional.&#x20;
+Após clicar no ícone acima, será exibida a seguinte tela, onde teremos acesso as Informações do dispositivo, o portal trará as informações exibidas **de acordo com o tipo de dispositivo gerenciado**, garantindo uma visão detalhada e relevante para cada sistema operacional.
 
 <figure><img src="../../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-A data que aparece em **Última Atualização** no canto superior direto a tela de Informações do dispositivo, é a data de atualização do dispositivo no Google, ou seja, se refere a comunicação da AMAPI  com o portal. Os dados que são atualizados são:
+A data que aparece em **Última Atualização** no canto superior direto a tela de Informações do dispositivo, é a data de atualização do dispositivo no Google, ou seja, se refere a comunicação da AMAPI com o portal. Os dados que são atualizados são:
 
 * Detalhes
 * Instalação
 * Relatório de Não conformidade
 {% endhint %}
 
-
-
 <figure><img src="../../../../.gitbook/assets/image (276).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (240).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (240) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (314) (1).png" alt=""><figcaption></figcaption></figure>
 
 Abaixo detalharemos as informações que contém em cada um dos campos das imagens acima:
 
@@ -41,7 +39,7 @@ Abaixo detalharemos as informações que contém em cada um dos campos das image
 * **Fabricante** - nome do fabricante do dispositivo;
 * **Sistema Operacional -** sistema operacional do dispositivo;
 * **Versão do Android** - versão do Android do dispositivo;
-* **Senha de Acesso Temporário** - Esta senha temporária, é gerada ao ativar a Configuração ["Acesso Temporário ao Dispositivo"](../../configuracoes/gerenciar-politicas/editar-politica-android/modo-quiosque.md) no Modo Quiosque. A senha deverá ser fornecida ao usuário do dispositivo e será atualizada no portal a cada 5 minutos,  com opção de copiar e exibição do tempo restante até a senha expirar. Sendo assim, caso foi definido o tempo de 10 minutos para o usuários acessar o dispositivo, caso ultrapasse esses 10 minutos, ele não conseguirá utilizar a mesma senha, pois ela já terá atualizado. No dispositivo, com a senha em mãos, o usuário deverá acessar as **Configurações Iniciais**, clicar na opção **Acesso Temporário** e digitar a senha no campo **"Código"**.
+* **Senha de Acesso Temporário** - Esta senha temporária, é gerada ao ativar a Configuração ["Acesso Temporário ao Dispositivo"](../../configuracoes/gerenciar-politicas/editar-politica-android/modo-quiosque.md) no Modo Quiosque. A senha deverá ser fornecida ao usuário do dispositivo e será atualizada no portal a cada 5 minutos, com opção de copiar e exibição do tempo restante até a senha expirar. Sendo assim, caso foi definido o tempo de 10 minutos para o usuários acessar o dispositivo, caso ultrapasse esses 10 minutos, ele não conseguirá utilizar a mesma senha, pois ela já terá atualizado. No dispositivo, com a senha em mãos, o usuário deverá acessar as **Configurações Iniciais**, clicar na opção **Acesso Temporário** e digitar a senha no campo **"Código"**.
 
 <figure><img src="../../../../.gitbook/assets/image (196).png" alt=""><figcaption></figcaption></figure>
 
@@ -55,7 +53,7 @@ Abaixo detalharemos as informações que contém em cada um dos campos das image
 * **Nome da Política no Dispositivo -** nome da política atribuída no dispositivo;
 * **Versão da política Aplicada -** versão da política;
 * **Data de sincronização da Política -** exibirá a data da sincronização da política;
-* **Em conformidade -** é a aderência do dispositivo a todas as configurações de políticas atribuídas a ele. Se alguma configuração não foi aplicada, o valor desta opção será "Não".&#x20;
+* **Em conformidade -** é a aderência do dispositivo a todas as configurações de políticas atribuídas a ele. Se alguma configuração não foi aplicada, o valor desta opção será "Não".
 * **Data da Última Comunicação -** exibirá a data em que o dispositivo se comunicou a última vez com o portal. Estes dados, serão exatamente o que estiver no dispositivo na hora da última comunicação.
 
 {% hint style="info" %}
@@ -86,11 +84,11 @@ Os dados que são atualizados no portal quando a **Data da Última Comunicação
 
 ### Permissões
 
-* **Acesso ao Dados de Uso -**  Os status podem ser sim ou não, caso o usuário não ative esta permissão, o aplicativo não irá capturar as consumos de dados e tempo de uso dos aplicativos.
+* **Acesso ao Dados de Uso -** Os status podem ser sim ou não, caso o usuário não ative esta permissão, o aplicativo não irá capturar as consumos de dados e tempo de uso dos aplicativos.
 * **Ignorar Otimização de Bateria -** Os status podem ser sim ou não, caso o usuário não ative esta permissão, o aplicativo poderá ser afetado pelas configurações de otimização de bateria, parar de capturar as localizações do dispositivos e parar de enviar as informações para o Portal.
 * **Escrita de Configurações do Sistema -** Os status podem ser sim ou não, caso o usuário não ative esta permissão, o aplicativo Kiosk Launcher Manage**r** não permitirá que o usuário alterar algumas configurações do sistema quando estiver no modo Quiosque.
 * **Leitura de SMS -** Os status podem ser sim ou não, caso o usuário não ative esta permissão, o aplicativo não irá capturar as informações dos SMS enviados.
-* **Agendar Alarmes** - Os status podem ser sim ou não, caso o usuário não ative esta permissão, o aplicativo não executará as seguintes funcionalidades: notificação de mensagens e documentos recebidos, instalação remota de aplicativos, registro de geolocalização do dispositivo, remoção de bloqueio de CHIP.&#x20;
+* **Agendar Alarmes** - Os status podem ser sim ou não, caso o usuário não ative esta permissão, o aplicativo não executará as seguintes funcionalidades: notificação de mensagens e documentos recebidos, instalação remota de aplicativos, registro de geolocalização do dispositivo, remoção de bloqueio de CHIP.
 * **Instalação de Apps de Fontes Desconhecidas -** essa permissão é opcional e pode ser ativada durante a configuração inicial. Se o usuário optar por não ativá-la, o aplicativo não poderá realizar a instalação de aplicativos de forma remota.
 * **Sobreposição de Tela -** esta permissão também é opcional durante a ativação. Se não for ativada, o aplicativo não poderá exibir mensagens de confirmação ao realizar a instalação de aplicativos remotamente.
 

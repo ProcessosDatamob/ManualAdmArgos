@@ -8,6 +8,6 @@ Importante: as informações de consumo de WiFi não estarão disponíveis em ve
 
 Mais informações na seção [Informações dos Aplicativos](../../portal/dispositivos/informacoes-dos-aplicativos.md).
 
-<figure><img src="../../../.gitbook/assets/image (273).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (273) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)

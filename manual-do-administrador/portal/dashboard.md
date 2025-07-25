@@ -4,12 +4,12 @@ Esta tela do sistema tem como objetivo possibilitar ao usuário a visualização
 
 A tela de Dashboard pode ser considerada a “**Tela Inicial**” do sistema, pois é exibida assim que acessa o Portal, mas também pode ser acessada clicando no menu “**Dashboard**”. Em um primeiro acesso, os indicadores de usuários, dispositivos e consumos não terão ainda informações, e estarão zerados.
 
-<figure><img src="../../.gitbook/assets/image (284).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (284) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Ao passar o mouse sobre o ícone de informações ao lado de cada gráfico, você pode visualizar uma descrição detalhada que explica os dados apresentados, facilitando o entendimento do conteúdo exibido e o contexto do gráfico.
 
-![](<../../.gitbook/assets/Captura de tela 2024-09-13 135732.png>)
+<img src="../../.gitbook/assets/Captura de tela 2024-09-13 135732 (1).png" alt="" data-size="original">
 {% endhint %}
 
 Ao acessar a tela, todas as informações serão exibidas separadas por seções. Cada seção corresponde a um dado diferente, coletado do dispositivo e todas as informações são exibidas de acordo com as opções selecionadas no filtro (Empresa, Grupo ou Usuário).
@@ -34,14 +34,14 @@ Clique no filtro “**Usuário**” digite e selecione o usuário, para exibir a
 
 No canto superior direito da tela, temos alguns ícones que tem as seguintes funcionalidades:
 
-* **Notificações** - No ícone ![](https://lh7-us.googleusercontent.com/LIqOOPLli_-KQv0gbnkeBAgAG1_EOWziv1kRkMmMtO2dOIvA17vDOpWbmtTw5_2RUg1D-mUt1PWNvciaKyYAHysUPk47UBQ8yIufI8DmrX523Zqn_ntcDKa0ff0KqkWZeeaDLHoJF9MB762IkIm6vw)o administrador pode ver as notificações do portal, por exemplo, ao solicitar a geração de um relatório.&#x20;
+* **Notificações** - No ícone ![](https://lh7-us.googleusercontent.com/LIqOOPLli_-KQv0gbnkeBAgAG1_EOWziv1kRkMmMtO2dOIvA17vDOpWbmtTw5_2RUg1D-mUt1PWNvciaKyYAHysUPk47UBQ8yIufI8DmrX523Zqn_ntcDKa0ff0KqkWZeeaDLHoJF9MB762IkIm6vw)o administrador pode ver as notificações do portal, por exemplo, ao solicitar a geração de um relatório.
 * **Admin** - No ícone ![](https://lh7-us.googleusercontent.com/XnN5TtWJIzJYNZfcb_18o7Mzx_RrJYRxyodSpfkBQuPCce64vPyFVeN6g6umpqRYxKpCZ_v8JGiU3iuMYa4vOmakPCagWJmIJFLK3dsOj3f7Ta1mH0KwNpxCTIGDJ5xs1IUicW1Ncuv2XJcBMyJvGg) exibe a opção para que o administrador possa sair do portal e também exibe a versão atual da solução o número da versão.
 
 ### **Barra de Status**
 
 A barra de status do Dashboard mostra a situação atual de todos os usuários e licenças da empresa.
 
-<figure><img src="../../.gitbook/assets/image (285).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (285) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Total de Usuários**
 
@@ -51,7 +51,7 @@ Este indicador exibe o número total de usuários de dispositivos que utilizam o
 
 Este indicador exibe o número total de licenças disponíveis no **Argos+**.
 
-<figure><img src="../../.gitbook/assets/image (286).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (286) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Licenças não instaladas no portal**
 
@@ -59,13 +59,13 @@ Este indicador exibe o número total de licenças que não possuem dispositivo r
 
 Ao clicar nesse indicador, o sistema exibirá a tela de "**Licenças Contratadas**". Para saber como utilizar essa tela, leia a seção [“**Licenças Contratadas**”](dashboard.md#total-de-licencas).
 
-<figure><img src="../../.gitbook/assets/image (287).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (287) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Dispositivos**
 
 Este indicador exibe o número total de dispositivos que estão ativos no sistema e os dispositivos sem comunicação. Além disso, possibilita ao administrador ter a visibilidade dos dispositivos que estão em Modo Quiosque.
 
-<figure><img src="../../.gitbook/assets/image (288).png" alt="" width="240"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (288) (1).png" alt="" width="240"><figcaption></figcaption></figure>
 
 * **Total -** Esses dispositivos são considerados “**Ativos**” ao instalar e ativar o aplicativo **Argos+.**\
   Ao clicar em "**Total**” o indicador exibirá a tela “**Lista de Dispositivos**” contendo o relatório com as principais informações dos dispositivos ativos.
@@ -104,7 +104,7 @@ O gráfico exibirá:
 * **Porcentagem do consumo de dados móveis locais** em relação ao total de dados (móveis + Wi-Fi).
 * **Porcentagem do consumo de dados via Wi-Fi** em relação ao total de dados (móveis + Wi-Fi)<mark style="color:blue;">.</mark>
 
-<figure><img src="../../.gitbook/assets/image (289).png" alt="" width="230"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (289) (1).png" alt="" width="230"><figcaption></figcaption></figure>
 
 **Legenda Exibida:**
 
@@ -120,7 +120,7 @@ O gráfico exibirá:
 * **Porcentagem de dados móveis em roaming** (móveis + roaming + Wi-Fi).
 * **Porcentagem de Wi-Fi** (móveis + roaming + Wi-Fi).
 
-<figure><img src="../../.gitbook/assets/image (290).png" alt="" width="233"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (290) (1).png" alt="" width="233"><figcaption></figcaption></figure>
 
 **Legenda Exibida:**
 
@@ -147,7 +147,7 @@ Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as in
 
 Isso oferece aos usuários uma visão mais detalhada e específica do consumo de dados, permitindo uma análise mais precisa e segmentada, tanto em redes móveis quanto em WiFi.
 
-<figure><img src="../../.gitbook/assets/image (291).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (291) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Consumo de Dados por Usuário**
 
@@ -157,7 +157,7 @@ O valor percentual de cada um dos 5 usuários é calculado em relação à soma 
 
 Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as informações de consumos da empresa. Para saber como utilizar essa tela, leia a seção [Consumos](empresas/consumo-da-empresa.md) deste manual.
 
-<figure><img src="../../.gitbook/assets/image (292).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (292) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### **Tempo de Uso por Aplicativo**
 
@@ -167,18 +167,18 @@ O valor percentual de cada um dos 5 aplicativos é calculado em relação à som
 
 Ao clicar no botão “Ver lista completa” o sistema exibirá a tela com as informações de todos os aplicativos.
 
-<figure><img src="../../.gitbook/assets/image (293).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (293) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Inventário de Dispositivos
 
 Este indicador mostra a percentagem dos 5 fabricantes de dispositivos ativos. O valor percentual de cada um dos cinco fabricantes é calculado em relação à soma total de todos os dispositivos ativos.
 
-### Sites mais visitados&#x20;
+### Sites mais visitados
 
 Este indicador mostra a percentagem dos 5 locais mais visitados nos dispositivos durante o ciclo. O valor percentual de cada um dos 5 sítios é calculado em relação à soma total de todos os acessos aos sítios durante o ciclo.
 
 {% hint style="warning" %}
-**ATENÇÃO**&#x20;
+**ATENÇÃO**
 
 Os sites visitados são obtidos pelo navegador web padrão do sistema **Argos+**. Este navegador é chamado Security Browser e precisa estar instalado e configurado nos dispositivos. Para mais informações sobre administração e configuração do navegador, visite a seção "Security Browser".
 {% endhint %}
@@ -197,15 +197,15 @@ Para realizar a análise individual dos usuários de dispositivos, clique em "**
 
 ### **Localização dos Dispositivos**
 
-O mapa exibe as últimas localizações registradas dos dispositivos, com base nos dados enviados durante o uso. Para que as localizações sejam exibidas corretamente:  o dispositivo deve estar conectado à internet, deve haver sinal de GPS e a configuração de "Modo de Localização" deve estar "Ativa" em Localização na política aplicada ao dispositivo.
+O mapa exibe as últimas localizações registradas dos dispositivos, com base nos dados enviados durante o uso. Para que as localizações sejam exibidas corretamente: o dispositivo deve estar conectado à internet, deve haver sinal de GPS e a configuração de "Modo de Localização" deve estar "Ativa" em Localização na política aplicada ao dispositivo.
 
-Utilize a opção filtrar as localizações por período, utilizando os campos “Data inicial” e “Data final”. O sistema só libera a busca após o preenchimento das duas datas.&#x20;
+Utilize a opção filtrar as localizações por período, utilizando os campos “Data inicial” e “Data final”. O sistema só libera a busca após o preenchimento das duas datas.
 
 Ao clicar em “Exibir localizações”, o mapa mostra os pontos registrados dentro do intervalo selecionado, mantendo todas as funcionalidades de visualização e marcadores já existentes.
 
-<figure><img src="../../.gitbook/assets/image (346).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (346) (1).png" alt=""><figcaption></figcaption></figure>
 
-Caso o sistema não carregar as localizações no mapa, clique no botão "Exibir localizações”,  então elas serão exibidas conforme tela abaixo:
+Caso o sistema não carregar as localizações no mapa, clique no botão "Exibir localizações”, então elas serão exibidas conforme tela abaixo:
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="281"><figcaption></figcaption></figure>
 

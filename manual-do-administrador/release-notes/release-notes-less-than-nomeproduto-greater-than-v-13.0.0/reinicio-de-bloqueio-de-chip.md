@@ -4,6 +4,6 @@ Agora não será mais necessário resetar o dispositivo para bloquear novamente 
 
 Mais informações na seção [Opções de gerenciamento de dispositivos](../../portal/dispositivos/lista-de-dispositivos/opcoes-de-gerenciamento-de-dispositivos.md).
 
-<figure><img src="../../../.gitbook/assets/image (280).png" alt="" width="204"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (280) (1).png" alt="" width="204"><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)

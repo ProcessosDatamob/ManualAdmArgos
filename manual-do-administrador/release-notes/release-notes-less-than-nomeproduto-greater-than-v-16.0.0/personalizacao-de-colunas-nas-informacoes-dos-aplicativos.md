@@ -4,6 +4,6 @@ Agora, a tela "Informações dos Aplicativos" permite customizar quais colunas s
 
 Mais informações na seção [Informações dos Aplicativos](../../portal/dispositivos/informacoes-dos-aplicativos.md).
 
-<figure><img src="../../../.gitbook/assets/image (311).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (311) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](../release-notes-less-than-nomeproduto-greater-than-v-16.0.0.md)

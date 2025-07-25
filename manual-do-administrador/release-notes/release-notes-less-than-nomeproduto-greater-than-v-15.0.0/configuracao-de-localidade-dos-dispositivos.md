@@ -4,6 +4,6 @@ Agora, o sistema permite configurar e gerenciar a localidade dos dispositivos di
 
 Mais informações na seção [Lista de dispositivos](../../portal/dispositivos/lista-de-dispositivos/) e [Opções de Gerenciamento de Dispositivos](../../portal/dispositivos/lista-de-dispositivos/opcoes-de-gerenciamento-de-dispositivos.md).
 
-<figure><img src="../../../.gitbook/assets/image (301).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (301) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)

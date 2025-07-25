@@ -11,6 +11,6 @@ Na tela de configuração, o usuário poderá:
 
 Mais informações na seção [Mob Settings](../../portal/configuracoes/gerenciar-politicas/editar-politica-android/aplicativos/mob-settings.md).
 
-<figure><img src="../../../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (228) (2).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)

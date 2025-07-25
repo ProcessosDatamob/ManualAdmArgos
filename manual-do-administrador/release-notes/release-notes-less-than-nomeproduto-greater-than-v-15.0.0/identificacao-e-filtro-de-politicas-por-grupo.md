@@ -4,6 +4,6 @@ Agora, o sistema permite identificar e filtrar políticas por grupos, melhorando
 
 Mais informações na seção [Gerenciar Políticas](../../portal/configuracoes/gerenciar-politicas/).
 
-<figure><img src="../../../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (296) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)

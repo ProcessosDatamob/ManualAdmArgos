@@ -4,11 +4,11 @@ A configuração **Agente Linux** permite aos administradores realizar o registr
 
 1. Nos três pontinhos "..." de uma política Windows, clique na opção **"Agente de Registro"**.
 
-<figure><img src="../../../../.gitbook/assets/image (336).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (336) (1).png" alt=""><figcaption></figcaption></figure>
 
-A seguinte tela será exibida.&#x20;
+A seguinte tela será exibida.
 
-<figure><img src="../../../../.gitbook/assets/image (334).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (334) (1).png" alt=""><figcaption></figcaption></figure>
 
 2. Selecione o tipo de agente de registro desejado:\
    \- **Linux**: Permite baixar o agente executável padrão para Linux.\
@@ -31,7 +31,7 @@ Ao optar por **"Instalador Binário Linux"**, o administrador terá acesso a con
   * **Plano de fundo apenas**: O agente opera exclusivamente em segundo plano.
   * **Apenas interativo**: O agente é executado com interface interativa apenas.
 
-<figure><img src="../../../../.gitbook/assets/image (335).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (335) (1).png" alt=""><figcaption></figcaption></figure>
 
 Com base nas seleções realizadas, o sistema permite baixar o agente Linux compatível, otimizando a instalação conforme os requisitos específicos do ambiente e do dispositivo.
 

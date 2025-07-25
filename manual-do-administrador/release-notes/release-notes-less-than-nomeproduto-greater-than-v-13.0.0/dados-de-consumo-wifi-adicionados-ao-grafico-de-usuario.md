@@ -4,6 +4,6 @@ Uma nova funcionalidade foi implementada no **Dashboard** do portal, permitindo 
 
 Mais informações na seção [Dashboard](../../portal/dashboard.md).
 
-<figure><img src="../../../.gitbook/assets/image (271).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (271) (1).png" alt=""><figcaption></figcaption></figure>
 
 [**Voltar ao menu inicial**](./)
