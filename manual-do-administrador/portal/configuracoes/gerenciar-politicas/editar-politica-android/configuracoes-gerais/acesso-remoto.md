@@ -4,7 +4,7 @@ O Acesso Remoto permite ao administrador configurar o acesso remoto aos disposit
 
 Estando na aba "Configurações" da tela "Editar Políticas", ative a opção "Acesso Remoto" para que o sistema crie automaticamente um grupo Android associado à política. O sistema também armazenará as informações necessárias para o registro do agente e enviará as configurações diretamente ao aplicativo de Acesso Remoto.
 
-<figure><img src="../../../../../.gitbook/assets/image (339).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (339).png" alt=""><figcaption></figcaption></figure>
 
 #### **Acessando Dispositivo Android via** Acesso Remoto
 

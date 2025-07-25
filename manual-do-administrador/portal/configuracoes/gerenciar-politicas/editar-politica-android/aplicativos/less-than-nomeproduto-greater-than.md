@@ -6,11 +6,11 @@ Para o **\<NomeProduto>**, foi criada dentro das Configurações Gerenciadas as 
 
 Sendo assim, para acessar as “Permissões Opcionais",  clique nos três pontinhos "...", localizados no final da linha e clique na opção "**Configurações Gerenciadas**" do **\<NomeProduto>**.
 
-<figure><img src="../../../../../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (220).png" alt=""><figcaption></figcaption></figure>
 
 Ao expandir as "Permissões Opcionais" serão exibidas várias opções e será possível ativar e desativar cada uma das configurações.&#x20;
 
-<figure><img src="../../../../../.gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
 
 As "Permissões Opcionais" incluem os seguintes ajustes:
 

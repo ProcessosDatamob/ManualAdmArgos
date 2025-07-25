@@ -17,35 +17,35 @@ Para realizar a inclusão do aplicativo na lista de Aplicativos Gerenciados da e
 1. Utilize o campo de pesquisa para buscar "**Security Browser**".
 2. Selecione o aplicativo "**Security Browser**".
 
-![](<../../../../../.gitbook/assets/0 (15).png>)
+![](<../../../../../../.gitbook/assets/0 (15).png>)
 
 3. Abrirá a tela com mais informações do aplicativo. Clique no botão "**Selecionar**", conforme em destaque na próxima imagem.
 
-<figure><img src="../../../../../.gitbook/assets/image (41).png" alt="" width="449"><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (41).png" alt="" width="449"><figcaption></figcaption></figure>
 
 4. Clique no botão confirmar para efetivar a inclusão.
 
-![](<../../../../../.gitbook/assets/2 (10).png>)
+![](<../../../../../../.gitbook/assets/2 (10).png>)
 
 5. O aplicativo **Security Browser** aparecerá na lista de "**Aplicativos Gerenciados**", conforme pode ser visualizado na tela a seguir.
 
-![](<../../../../../.gitbook/assets/3 (6).png>)
+![](<../../../../../../.gitbook/assets/3 (6).png>)
 
 6. Acesse a tela "**Gerenciar Políticas**" no menu "**Configurações**".
 7. Clique no botão "**Nova Política**", para criar uma política para incluir o Security Browser.
 8. Ou edite uma política existente caso já tenha uma política criada. Para isso acesse os "..." no final da linha da política e escolha "**Editar Política**".
 
-![](<../../../../../.gitbook/assets/4 (4).png>)
+![](<../../../../../../.gitbook/assets/4 (4).png>)
 
 9. Na tela "**Editar Política**" selecione a guia "**Aplicativos**".
 10. Clique no botão "**Adicionar Aplicativos**''.
 
-<figure><img src="../../../../../.gitbook/assets/image (42).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (42).png" alt="" width="563"><figcaption></figcaption></figure>
 
 11. Marque o checkbox ao final da linha onde está o aplicativo **Security Browser**
 12. Clique no botão "**Adicionar selecionados**".
 
-![](<../../../../../.gitbook/assets/6 (2).png>)
+![](<../../../../../../.gitbook/assets/6 (2).png>)
 
 Após a inclusão do aplicativo na política, as configurações de bloqueios podem ser definidas. A próxima subseção mostra como realizar as configurações do Security Browser.
 
@@ -55,11 +55,11 @@ Após a inclusão do aplicativo na política, as configurações de bloqueios po
 2. Escolha o "**Tipo de instalação**" do Security Browser como "**Instalação Forçada**" ou "**Pré-instalado**".
 3. Clique em "**Configurações Gerenciadas**" para abrir a tela de configurações gerenciadas do Security Browser.
 
-<figure><img src="../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="179"><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="179"><figcaption></figcaption></figure>
 
 Ao clicar em Configurações Gerenciadas a seguinte tela será exibida:
 
-<figure><img src="../../../../../.gitbook/assets/mnlll.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/mnlll.png" alt=""><figcaption></figcaption></figure>
 
 As Configurações Gerenciadas para o Security Browser são:&#x20;
 

@@ -9,7 +9,7 @@ Na tela de configuração, o usuário poderá:
 * Ativar e desativar a fixação da orientação atual da tela.
 * Selecionar o tempo de espera até o desligamento automático da tela do dispositivo, entre uma das seguintes opções: 15 segundos, 30 segundos, 1 minuto, 2 minutos, 5 minutos, 10 minutos, 30 minutos.
 
-Mais informações na seção [Mob Settings](../../portal/configuracoes/editar-politica/aplicativos/mob-settings.md).
+Mais informações na seção [Mob Settings](../../portal/configuracoes/gerenciar-politicas/editar-politica-android/aplicativos/mob-settings.md).
 
 <figure><img src="../../../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
 

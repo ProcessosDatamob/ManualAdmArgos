@@ -12,7 +12,7 @@ Quando uma política de segurança de senha é aplicada a um dispositivo, ele de
 * Este alerta serve para notificar o usuário de que a senha precisa ser alterada para uma que esteja em conformidade com a política de segurança.
 * O usuário tem um prazo de 24 horas para fazer essa alteração.
 
-<figure><img src="../../../../../.gitbook/assets/23.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/23.png" alt="" width="375"><figcaption></figcaption></figure>
 
 * Se após 24 horas a senha ainda não tiver sido alterada para atender às exigências da política, o dispositivo será bloqueado e formatado em 48 horas.
 * Essa medida é uma exigência do Google para garantir que os dispositivos mantenham um nível mínimo de segurança. A senha do dispositivo deve ser, no mínimo, igual ou mais segura do que a definida pela política.

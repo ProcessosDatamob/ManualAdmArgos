@@ -4,7 +4,7 @@
 
 Agora, administradores podem acessar remotamente a tela de dispositivos Android diretamente pelo portal. Após instalar o app Remote View, ele é configurado automaticamente e conectado ao servidor, garantindo uma experiência simples e ágil. O usuário do dispositivo pode autorizar conexões solicitadas pelo portal, e, ao aceitar, a transmissão da tela é iniciada. Essa funcionalidade facilita o suporte técnico de forma prática e eficiente.
 
-Mais informações na seção [Acesso Remoto](../../portal/configuracoes/editar-politica/configuracoes-gerais/acesso-remoto.md).
+Mais informações na seção [Acesso Remoto](../../portal/configuracoes/gerenciar-politicas/editar-politica-android/configuracoes-gerais/acesso-remoto.md).
 
 #### Configuração de Remote View em Políticas Android
 

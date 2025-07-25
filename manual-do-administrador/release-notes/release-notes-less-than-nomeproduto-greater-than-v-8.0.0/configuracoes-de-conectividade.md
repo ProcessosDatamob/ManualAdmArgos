@@ -18,6 +18,6 @@ Na tela de configurações de políticas, "Editar Políticas" e guia "Configura�
 
 <figure><img src="../../../.gitbook/assets/image (175).png" alt=""><figcaption></figcaption></figure>
 
-Mais informações na seção [Configurações Gerais - Android e Android Block SIM](../../portal/configuracoes/editar-politica/configuracoes-gerais/).
+Mais informações na seção [Configurações Gerais - Android e Android Block SIM](../../portal/configuracoes/gerenciar-politicas/editar-politica-android/configuracoes-gerais/).
 
 [**Voltar ao menu inicial.**](./)
