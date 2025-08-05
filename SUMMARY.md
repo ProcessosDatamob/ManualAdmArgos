@@ -100,7 +100,7 @@
   * [Release Notes Argos+ V 20.6.0](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.3.0/README.md)
     * [Envio de E-mail de Boas-Vindas ao Reativar Empresa no Portal](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.3.0/envio-de-e-mail-de-boas-vindas-ao-reativar-empresa-no-portal.md)
     * [Correção de Falha de Sincronização de Dispositivo com o Portal](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.3.0/correcao-de-falha-de-sincronizacao-de-dispositivo-com-o-portal.md)
-  * [Hotfix V20.4.0](manual-do-administrador/release-notes/hotfix-v20.4.0.md)
+  * [Hotfix V20.3.0](manual-do-administrador/release-notes/hotfix-v20.4.0.md)
   * [Release Notes Argos+ V 20.3.0](<manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.3.0/README (1).md>)
     * [Desativação De Customização Do Quiosque](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.3.0/Desativação-De-Customização-Do-Quiosque.md)
     * [Cadastro De Grupos Por IMEI Em Lote](manual-do-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-20.3.0/Cadastro-De-Grupos-Por-Imei-Em-Lote.md)

@@ -2,7 +2,7 @@
 
 #### Correção no carregamento do papel de parede no modo quiosque
 
-Corrigido o problema que impedia o carregamento do papel de parede na política SEDUC-SP com modo quiosque ativo; agora, o wallpaper definido pelo administrador é exibido corretamente nos dispositivos.
+Corrigido o problema que impedia o carregamento do papel de parede com modo quiosque ativo; agora, o wallpaper definido pelo administrador é exibido corretamente nos dispositivos.
 
 #### Correção na exibição dos gráficos “Consumos nos ciclos” e “Total de usuários nos ciclos”
 
